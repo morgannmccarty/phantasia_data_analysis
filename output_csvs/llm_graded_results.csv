@@ -1,0 +1,21 @@
+,Model,overall_score,n_graded
+0,Gemini 2.5 Pro Multiple Context (2025-07-21),114.31428571428573,52
+1,OpenAI o3 Multiple Context (2025-07-21),160.35238095238097,57
+2,OpenAI ChatGPT-4o Single Context (2025-07-25),104.90000000000003,55
+3,GPT 4.1 Single Context (2025-07-21),114.96190476190479,55
+4,Gemini 2.0 Flash Multiple Context (2025-07-21),105.7190476190476,58
+5,OpenAI o4-mini Single Context (2025-07-21),130.94285714285718,55
+6,GPT 4.1 Single Context w/ Images (2025-07-21),105.54285714285714,57
+7,OpenAI ChatGPT-4o Multiple Context (2025-07-25),116.6047619047619,58
+8,OpenAI o3 Pro Multiple Context (2025-07-21),163.84761904761905,50
+9,GPT 4.1 Multiple Context (2025-07-21),107.23809523809524,59
+10,GPT 4.1 Multiple Context w/ Images (2025-07-21),106.2,56
+11,OpenAI o3 Multiple Context w/ Images (2025-07-14),138.48571428571427,53
+12,Gemini 2.0 Flash Single Context (2025-07-21),106.69047619047619,57
+13,OpenAI o4-mini Multiple Context (2025-07-21),151.61904761904765,56
+14,OpenAI o3 Pro Single Context (2025-07-21),174.02857142857147,57
+15,OpenAI o4-mini Multiple Context (2025-07-14),140.44285714285712,56
+16,OpenAI o4-mini Single Context (2025-07-14),124.88571428571426,56
+17,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),68.6904761904762,36
+18,OpenAI o3 Single Context (2025-07-21),167.63333333333333,57
+19,Gemini 2.5 Pro Single Context (2025-07-21),129.22380952380954,59
