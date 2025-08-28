@@ -1,0 +1,1381 @@
+,ResponseId,block,block_num,repeat_index,qid,label,score,raw
+0,R_5PAMRt4s9LlEvnx,b1,1,1,1,door knob,1,Not at all
+1,R_5PAMRt4s9LlEvnx,b1,1,2,2,ladder,5,Completely
+2,R_5PAMRt4s9LlEvnx,b1,1,3,3,stacked H's,1,Not at all
+3,R_5PAMRt4s9LlEvnx,b1,1,4,4,tower,3,Moderately
+4,R_5PAMRt4s9LlEvnx,b1,1,5,5,train track,5,Completely
+5,R_5PAMRt4s9LlEvnx,b1,1,6,6,two squares,2,A little
+6,R_5PAMRt4s9LlEvnx,b2,2,1,7,comb,1,Not at all
+7,R_5PAMRt4s9LlEvnx,b2,2,2,8,H,1,Not at all
+8,R_5PAMRt4s9LlEvnx,b2,2,3,9,hash,1,Not at all
+9,R_5PAMRt4s9LlEvnx,b2,2,4,10,ladder,5,Completely
+10,R_5PAMRt4s9LlEvnx,b2,2,5,11,number 10,1,Not at all
+11,R_5PAMRt4s9LlEvnx,b2,2,6,12,sideways H,1,Not at all
+12,R_5PAMRt4s9LlEvnx,b2,2,7,13,stairs,3,Moderately
+13,R_5PAMRt4s9LlEvnx,b2,2,8,14,train tracks,5,Completely
+14,R_5PAMRt4s9LlEvnx,b2,2,9,15,two attached triangles,1,Not at all
+15,R_5PAMRt4s9LlEvnx,b2,2,10,16,two boxes,2,A little
+16,R_5PAMRt4s9LlEvnx,b2,2,11,17,zibracrossing,5,Completely
+17,R_5PAMRt4s9LlEvnx,b3,3,1,18,ballet shoes,2,A little
+18,R_5PAMRt4s9LlEvnx,b3,3,2,19,barbell,1,Not at all
+19,R_5PAMRt4s9LlEvnx,b3,3,3,20,bd,1,Not at all
+20,R_5PAMRt4s9LlEvnx,b3,3,4,21,bed,3,Moderately
+21,R_5PAMRt4s9LlEvnx,b3,3,5,22,bra,3,Moderately
+22,R_5PAMRt4s9LlEvnx,b3,3,6,23,broom,1,Not at all
+23,R_5PAMRt4s9LlEvnx,b3,3,7,24,butterfly,1,Not at all
+24,R_5PAMRt4s9LlEvnx,b3,3,8,25,cherry,3,Moderately
+25,R_5PAMRt4s9LlEvnx,b3,3,9,26,Circles,1,Not at all
+26,R_5PAMRt4s9LlEvnx,b3,3,10,27,cup,1,Not at all
+27,R_5PAMRt4s9LlEvnx,b3,3,11,28,doorway,1,Not at all
+28,R_5PAMRt4s9LlEvnx,b3,3,12,29,dried,1,Not at all
+29,R_5PAMRt4s9LlEvnx,b3,3,13,30,dumbbell,1,Not at all
+30,R_5PAMRt4s9LlEvnx,b3,3,14,31,eye glasses,4,A lot
+31,R_5PAMRt4s9LlEvnx,b3,3,15,32,fancy binoculars,4,A lot
+32,R_5PAMRt4s9LlEvnx,b3,3,16,33,female torso,3,Moderately
+33,R_5PAMRt4s9LlEvnx,b3,3,17,34,glasses,5,Completely
+34,R_5PAMRt4s9LlEvnx,b3,3,18,35,hook,1,Not at all
+35,R_5PAMRt4s9LlEvnx,b3,3,19,36,key,1,Not at all
+36,R_5PAMRt4s9LlEvnx,b3,3,20,37,poll,1,Not at all
+37,R_5PAMRt4s9LlEvnx,b3,3,21,38,pulley,1,Not at all
+38,R_5PAMRt4s9LlEvnx,b3,3,22,39,spade,1,Not at all
+39,R_5PAMRt4s9LlEvnx,b3,3,23,40,spectacles,5,Completely
+40,R_5PAMRt4s9LlEvnx,b3,3,24,41,umbrella,1,Not at all
+41,R_5PAMRt4s9LlEvnx,b3,3,25,42,wine glass,1,Not at all
+42,R_5PAMRt4s9LlEvnx,b4,4,1,43,ant,1,Not at all
+43,R_5PAMRt4s9LlEvnx,b4,4,2,44,bed,3,Moderately
+44,R_5PAMRt4s9LlEvnx,b4,4,3,45,belly button,2,A little
+45,R_5PAMRt4s9LlEvnx,b4,4,4,46,bra,4,A lot
+46,R_5PAMRt4s9LlEvnx,b4,4,5,47,butterfly,1,Not at all
+47,R_5PAMRt4s9LlEvnx,b4,4,6,48,cherries,3,Moderately
+48,R_5PAMRt4s9LlEvnx,b4,4,7,49,dumbbell,1,Not at all
+49,R_5PAMRt4s9LlEvnx,b4,4,8,50,eyeglasses,4,A lot
+50,R_5PAMRt4s9LlEvnx,b4,4,9,51,glasses,4,A lot
+51,R_5PAMRt4s9LlEvnx,b4,4,10,52,goal posts,1,Not at all
+52,R_5PAMRt4s9LlEvnx,b4,4,11,53,goggles,4,A lot
+53,R_5PAMRt4s9LlEvnx,b4,4,12,54,heart,1,Not at all
+54,R_5PAMRt4s9LlEvnx,b4,4,13,55,hummer,1,Not at all
+55,R_5PAMRt4s9LlEvnx,b4,4,14,56,music notes,1,Not at all
+56,R_5PAMRt4s9LlEvnx,b4,4,15,57,owl,5,Completely
+57,R_5PAMRt4s9LlEvnx,b4,4,16,58,pulley,1,Not at all
+58,R_5PAMRt4s9LlEvnx,b4,4,17,59,spectacles,4,A lot
+59,R_5PAMRt4s9LlEvnx,b4,4,18,60,stingray,1,Not at all
+60,R_5PAMRt4s9LlEvnx,b4,4,19,61,tongs,1,Not at all
+61,R_5PAMRt4s9LlEvnx,b4,4,20,62,two ds,1,Not at all
+62,R_5PAMRt4s9LlEvnx,b5,5,1,63,bd,1,Not at all
+63,R_5PAMRt4s9LlEvnx,b5,5,2,64,bed,3,Moderately
+64,R_5PAMRt4s9LlEvnx,b5,5,3,65,belly button,2,A little
+65,R_5PAMRt4s9LlEvnx,b5,5,4,66,bra,4,A lot
+66,R_5PAMRt4s9LlEvnx,b5,5,5,67,butterfly,1,Not at all
+67,R_5PAMRt4s9LlEvnx,b5,5,6,68,chair,1,Not at all
+68,R_5PAMRt4s9LlEvnx,b5,5,7,69,cherry,3,Moderately
+69,R_5PAMRt4s9LlEvnx,b5,5,8,70,db,1,Not at all
+70,R_5PAMRt4s9LlEvnx,b5,5,9,71,dumbbell,1,Not at all
+71,R_5PAMRt4s9LlEvnx,b5,5,10,72,glasses,4,A lot
+72,R_5PAMRt4s9LlEvnx,b5,5,11,73,handcuffs,2,A little
+73,R_5PAMRt4s9LlEvnx,b5,5,12,74,joined letters,1,Not at all
+74,R_5PAMRt4s9LlEvnx,b5,5,13,75,key,1,Not at all
+75,R_5PAMRt4s9LlEvnx,b5,5,14,76,letter D,1,Not at all
+76,R_5PAMRt4s9LlEvnx,b5,5,15,77,minor note,1,Not at all
+77,R_5PAMRt4s9LlEvnx,b5,5,16,78,pulley,1,Not at all
+78,R_5PAMRt4s9LlEvnx,b5,5,17,79,scissors,1,Not at all
+79,R_5PAMRt4s9LlEvnx,b5,5,18,80,tongs,1,Not at all
+80,R_5PAMRt4s9LlEvnx,b5,5,19,81,two chairs,1,Not at all
+81,R_5PAMRt4s9LlEvnx,b5,5,20,82,two lungs,2,A little
+82,R_5PAMRt4s9LlEvnx,b5,5,21,83,vase,1,Not at all
+83,R_5PAMRt4s9LlEvnx,b5,5,22,84,woman,2,A little
+84,R_5PAMRt4s9LlEvnx,b6,6,1,85,ant,2,A little
+85,R_5PAMRt4s9LlEvnx,b6,6,2,86,barbell,1,Not at all
+86,R_5PAMRt4s9LlEvnx,b6,6,3,87,batman mask,5,Completely
+87,R_5PAMRt4s9LlEvnx,b6,6,4,88,bed,1,Not at all
+88,R_5PAMRt4s9LlEvnx,b6,6,5,89,binoculars,3,Moderately
+89,R_5PAMRt4s9LlEvnx,b6,6,6,90,bra,4,A lot
+90,R_5PAMRt4s9LlEvnx,b6,6,7,91,circle,1,Not at all
+91,R_5PAMRt4s9LlEvnx,b6,6,8,92,controller,2,A little
+92,R_5PAMRt4s9LlEvnx,b6,6,9,93,glasses,5,Completely
+93,R_5PAMRt4s9LlEvnx,b6,6,10,94,goal post,1,Not at all
+94,R_5PAMRt4s9LlEvnx,b6,6,11,95,goggles,4,A lot
+95,R_5PAMRt4s9LlEvnx,b6,6,12,96,handcuffs,2,A little
+96,R_5PAMRt4s9LlEvnx,b6,6,13,97,hourglass,1,Not at all
+97,R_5PAMRt4s9LlEvnx,b6,6,14,98,house,1,Not at all
+98,R_5PAMRt4s9LlEvnx,b6,6,15,99,infinity sign,1,Not at all
+99,R_5PAMRt4s9LlEvnx,b6,6,16,100,insect head,4,A lot
+100,R_5PAMRt4s9LlEvnx,b6,6,17,101,owl,3,Moderately
+101,R_5PAMRt4s9LlEvnx,b6,6,18,102,percentage sign,1,Not at all
+102,R_5PAMRt4s9LlEvnx,b6,6,19,103,shades,4,A lot
+103,R_5PAMRt4s9LlEvnx,b6,6,20,104,snail,5,Completely
+104,R_5PAMRt4s9LlEvnx,b6,6,21,105,snowman,1,Not at all
+105,R_5PAMRt4s9LlEvnx,b6,6,22,106,spetacle,4,A lot
+106,R_5PAMRt4s9LlEvnx,b7,7,1,107,arrow,4,A lot
+107,R_5PAMRt4s9LlEvnx,b7,7,2,108,hourglass,1,Not at all
+108,R_5PAMRt4s9LlEvnx,b7,7,3,109,railroad track,2,A little
+109,R_5PAMRt4s9LlEvnx,b7,7,4,110,rocket exhaust,5,Completely
+110,R_5PAMRt4s9LlEvnx,b7,7,5,111,skewered chevron,1,Not at all
+111,R_5PAMRt4s9LlEvnx,b7,7,6,112,spear,3,Moderately
+112,R_5PAMRt4s9LlEvnx,b7,7,7,113,spire,2,A little
+113,R_5PAMRt4s9LlEvnx,b7,7,8,114,star,1,Not at all
+114,R_5PAMRt4s9LlEvnx,b7,7,9,115,stick figure,1,Not at all
+115,R_5PAMRt4s9LlEvnx,b7,7,10,116,tent,4,A lot
+116,R_5PAMRt4s9LlEvnx,b7,7,11,117,tetrahedron,1,Not at all
+117,R_5PAMRt4s9LlEvnx,b7,7,12,118,tree,5,Completely
+118,R_5PAMRt4s9LlEvnx,b7,7,13,119,umbrella,1,Not at all
+119,R_5PAMRt4s9LlEvnx,b7,7,14,120,wine glass,1,Not at all
+120,R_5PAMRt4s9LlEvnx,b8,8,1,121,abstract glyph,1,Not at all
+121,R_5PAMRt4s9LlEvnx,b8,8,2,122,bow tie,1,Not at all
+122,R_5PAMRt4s9LlEvnx,b8,8,3,123,bread,1,Not at all
+123,R_5PAMRt4s9LlEvnx,b8,8,4,124,butterfly,5,Completely
+124,R_5PAMRt4s9LlEvnx,b8,8,5,125,caduceus staff,1,Not at all
+125,R_5PAMRt4s9LlEvnx,b8,8,6,126,circle,1,Not at all
+126,R_5PAMRt4s9LlEvnx,b8,8,7,127,coat rack,1,Not at all
+127,R_5PAMRt4s9LlEvnx,b8,8,8,128,diamond,1,Not at all
+128,R_5PAMRt4s9LlEvnx,b8,8,9,129,flower,1,Not at all
+129,R_5PAMRt4s9LlEvnx,b8,8,10,130,hourglass,1,Not at all
+130,R_5PAMRt4s9LlEvnx,b8,8,11,131,winged sceptor,1,Not at all
+131,R_5PAMRt4s9LlEvnx,b9,9,1,132,ant,1,Not at all
+132,R_5PAMRt4s9LlEvnx,b9,9,2,133,bag,2,A little
+133,R_5PAMRt4s9LlEvnx,b9,9,3,134,butterfly,5,Completely
+134,R_5PAMRt4s9LlEvnx,b9,9,4,135,Mountain,1,Not at all
+135,R_5PAMRt4s9LlEvnx,b9,9,5,136,heart,1,Not at all
+136,R_5PAMRt4s9LlEvnx,b9,9,6,137,cat ears,1,Not at all
+137,R_5PAMRt4s9LlEvnx,b9,9,7,138,stylized emblem,1,Not at all
+138,R_5PAMRt4s9LlEvnx,b9,9,8,139,coat rack,1,Not at all
+139,R_5PAMRt4s9LlEvnx,b9,9,9,140,candlestick,1,Not at all
+140,R_5PAMRt4s9LlEvnx,b9,9,10,141,clover,1,Not at all
+141,R_5PAMRt4s9LlEvnx,b9,9,11,142,owl,1,Not at all
+142,R_5PAMRt4s9LlEvnx,b10,10,1,143,barcode,1,Not at all
+143,R_5PAMRt4s9LlEvnx,b10,10,2,144,Broken ladder,1,Not at all
+144,R_5PAMRt4s9LlEvnx,b10,10,3,145,Comb,5,Completely
+145,R_5PAMRt4s9LlEvnx,b10,10,4,146,cyrillic letter,1,Not at all
+146,R_5PAMRt4s9LlEvnx,b10,10,5,147,fork,4,A lot
+147,R_5PAMRt4s9LlEvnx,b10,10,6,148,Forklift Icon,1,Not at all
+148,R_5PAMRt4s9LlEvnx,b10,10,7,149,Greek Pi,1,Not at all
+149,R_5PAMRt4s9LlEvnx,b10,10,8,150,horse barn,1,Not at all
+150,R_5PAMRt4s9LlEvnx,b10,10,9,151,kanji,1,Not at all
+151,R_5PAMRt4s9LlEvnx,b10,10,10,152,key,3,Moderately
+152,R_5PAMRt4s9LlEvnx,b10,10,11,153,letter A,1,Not at all
+153,R_5PAMRt4s9LlEvnx,b10,10,12,154,Numeral Three,1,Not at all
+154,R_5PAMRt4s9LlEvnx,b10,10,13,155,pitchfork,5,Completely
+155,R_5PAMRt4s9LlEvnx,b10,10,14,156,Rake,5,Completely
+156,R_5PAMRt4s9LlEvnx,b10,10,15,157,Sideways E,1,Not at all
+157,R_5PAMRt4s9LlEvnx,b10,10,16,158,square,1,Not at all
+158,R_5PAMRt4s9LlEvnx,b10,10,17,159,Tree,2,A little
+159,R_5PAMRt4s9LlEvnx,b10,10,18,160,Trident,5,Completely
+160,R_5PAMRt4s9LlEvnx,b10,10,19,161,two triangles,1,Not at all
+161,R_5PAMRt4s9LlEvnx,b11,11,1,162,Basket,1,Not at all
+162,R_5PAMRt4s9LlEvnx,b11,11,2,163,broom,2,A little
+163,R_5PAMRt4s9LlEvnx,b11,11,3,164,brush,4,A lot
+164,R_5PAMRt4s9LlEvnx,b11,11,4,165,buck teeth,1,Not at all
+165,R_5PAMRt4s9LlEvnx,b11,11,5,166,bug,1,Not at all
+166,R_5PAMRt4s9LlEvnx,b11,11,6,167,Candelabra,3,Moderately
+167,R_5PAMRt4s9LlEvnx,b11,11,7,168,comb,5,Completely
+168,R_5PAMRt4s9LlEvnx,b11,11,8,169,cubes,1,Not at all
+169,R_5PAMRt4s9LlEvnx,b11,11,9,170,dining chair,1,Not at all
+170,R_5PAMRt4s9LlEvnx,b11,11,10,171,door key,1,Not at all
+171,R_5PAMRt4s9LlEvnx,b11,11,11,172,fork,4,A lot
+172,R_5PAMRt4s9LlEvnx,b11,11,12,173,goal post,3,Moderately
+173,R_5PAMRt4s9LlEvnx,b11,11,13,174,harmer,1,Not at all
+174,R_5PAMRt4s9LlEvnx,b11,11,14,175,interval graph,1,Not at all
+175,R_5PAMRt4s9LlEvnx,b11,11,15,176,milking stool,1,Not at all
+176,R_5PAMRt4s9LlEvnx,b11,11,16,177,pitchfork,5,Completely
+177,R_5PAMRt4s9LlEvnx,b11,11,17,178,rake,4,A lot
+178,R_5PAMRt4s9LlEvnx,b11,11,18,179,stairs,1,Not at all
+179,R_5PAMRt4s9LlEvnx,b11,11,19,180,table,1,Not at all
+180,R_5PAMRt4s9LlEvnx,b11,11,20,181,trident,5,Completely
+181,R_5PAMRt4s9LlEvnx,b11,11,21,182,two squares,1,Not at all
+182,R_5PAMRt4s9LlEvnx,b12,12,1,183,bridge,1,Not at all
+183,R_5PAMRt4s9LlEvnx,b12,12,2,184,buoy,1,Not at all
+184,R_5PAMRt4s9LlEvnx,b12,12,3,185,Butter Churner,1,Not at all
+185,R_5PAMRt4s9LlEvnx,b12,12,4,186,chalice,5,Completely
+186,R_5PAMRt4s9LlEvnx,b12,12,5,187,church bell,3,Moderately
+187,R_5PAMRt4s9LlEvnx,b12,12,6,188,circle,1,Not at all
+188,R_5PAMRt4s9LlEvnx,b12,12,7,189,cup,5,Completely
+189,R_5PAMRt4s9LlEvnx,b12,12,8,190,desk,2,A little
+190,R_5PAMRt4s9LlEvnx,b12,12,9,191,downward umbrella,2,A little
+191,R_5PAMRt4s9LlEvnx,b12,12,10,192,drinking fountain,2,A little
+192,R_5PAMRt4s9LlEvnx,b12,12,11,193,goblet,5,Completely
+193,R_5PAMRt4s9LlEvnx,b12,12,12,194,House,1,Not at all
+194,R_5PAMRt4s9LlEvnx,b12,12,13,195,lamp,4,A lot
+195,R_5PAMRt4s9LlEvnx,b12,12,14,196,magnifying glass,2,A little
+196,R_5PAMRt4s9LlEvnx,b12,12,15,197,mushroom,3,Moderately
+197,R_5PAMRt4s9LlEvnx,b12,12,16,198,person,1,Not at all
+198,R_5PAMRt4s9LlEvnx,b12,12,17,199,question mark,1,Not at all
+199,R_5PAMRt4s9LlEvnx,b12,12,18,200,semicircle,1,Not at all
+200,R_5PAMRt4s9LlEvnx,b12,12,19,201,shovel,4,A lot
+201,R_5PAMRt4s9LlEvnx,b12,12,20,202,skeleton key,1,Not at all
+202,R_5PAMRt4s9LlEvnx,b12,12,21,203,swimming,1,Not at all
+203,R_5PAMRt4s9LlEvnx,b12,12,22,204,Umbrella,2,A little
+204,R_5PAMRt4s9LlEvnx,b12,12,23,205,wine glass,5,Completely
+205,R_5PAMRt4s9LlEvnx,b13,13,1,206,anchor,3,Moderately
+206,R_5PAMRt4s9LlEvnx,b13,13,2,207,c clamp,1,Not at all
+207,R_5PAMRt4s9LlEvnx,b13,13,3,208,chalice,5,Completely
+208,R_5PAMRt4s9LlEvnx,b13,13,4,209,church,1,Not at all
+209,R_5PAMRt4s9LlEvnx,b13,13,5,210,cup,5,Completely
+210,R_5PAMRt4s9LlEvnx,b13,13,6,211,door hinge,1,Not at all
+211,R_5PAMRt4s9LlEvnx,b13,13,7,212,dustpan,4,A lot
+212,R_5PAMRt4s9LlEvnx,b13,13,8,213,goblet,5,Completely
+213,R_5PAMRt4s9LlEvnx,b13,13,9,214,Half circle,1,Not at all
+214,R_5PAMRt4s9LlEvnx,b13,13,10,215,hammer,1,Not at all
+215,R_5PAMRt4s9LlEvnx,b13,13,11,216,keyhole,3,Moderately
+216,R_5PAMRt4s9LlEvnx,b13,13,12,217,letter T,1,Not at all
+217,R_5PAMRt4s9LlEvnx,b13,13,13,218,magnifying glass,2,A little
+218,R_5PAMRt4s9LlEvnx,b13,13,14,219,martini glass,3,Moderately
+219,R_5PAMRt4s9LlEvnx,b13,13,15,220,monogram,1,Not at all
+220,R_5PAMRt4s9LlEvnx,b13,13,16,221,mortar & pestle,1,Not at all
+221,R_5PAMRt4s9LlEvnx,b13,13,17,222,Mushroom,3,Moderately
+222,R_5PAMRt4s9LlEvnx,b13,13,18,223,pentgon,1,Not at all
+223,R_5PAMRt4s9LlEvnx,b13,13,19,224,Scale,3,Moderately
+224,R_5PAMRt4s9LlEvnx,b13,13,20,225,shovel,4,A lot
+225,R_5PAMRt4s9LlEvnx,b13,13,21,226,sign,1,Not at all
+226,R_5PAMRt4s9LlEvnx,b13,13,22,227,skeleton key,1,Not at all
+227,R_5PAMRt4s9LlEvnx,b13,13,23,228,stapler,1,Not at all
+228,R_5PAMRt4s9LlEvnx,b13,13,24,229,tear drop,1,Not at all
+229,R_5PAMRt4s9LlEvnx,b13,13,25,230,toilet,1,Not at all
+230,R_5PAMRt4s9LlEvnx,b13,13,26,231,umbrella,2,A little
+231,R_5PAMRt4s9LlEvnx,b13,13,27,232,upended umbrella,3,Moderately
+232,R_5PAMRt4s9LlEvnx,b13,13,28,233,window,1,Not at all
+233,R_5PAMRt4s9LlEvnx,b13,13,29,234,wine glass,5,Completely
+234,R_5PAMRt4s9LlEvnx,b14,14,1,235,alien,1,Not at all
+235,R_5PAMRt4s9LlEvnx,b14,14,2,236,baby carriage,1,Not at all
+236,R_5PAMRt4s9LlEvnx,b14,14,3,237,bear face,1,Not at all
+237,R_5PAMRt4s9LlEvnx,b14,14,4,238,butterfly,1,Not at all
+238,R_5PAMRt4s9LlEvnx,b14,14,5,239,car,1,Not at all
+239,R_5PAMRt4s9LlEvnx,b14,14,6,240,crab claw,1,Not at all
+240,R_5PAMRt4s9LlEvnx,b14,14,7,241,dior,1,Not at all
+241,R_5PAMRt4s9LlEvnx,b14,14,8,242,elephant head,1,Not at all
+242,R_5PAMRt4s9LlEvnx,b14,14,9,243,eyes,1,Not at all
+243,R_5PAMRt4s9LlEvnx,b14,14,10,244,face,1,Not at all
+244,R_5PAMRt4s9LlEvnx,b14,14,11,245,Flower,1,Not at all
+245,R_5PAMRt4s9LlEvnx,b14,14,12,246,half circle,1,Not at all
+246,R_5PAMRt4s9LlEvnx,b14,14,13,247,headphones,5,Completely
+247,R_5PAMRt4s9LlEvnx,b14,14,14,248,horseshoe,2,A little
+248,R_5PAMRt4s9LlEvnx,b14,14,15,249,Huge circle,1,Not at all
+249,R_5PAMRt4s9LlEvnx,b14,14,16,250,mushroom,1,Not at all
+250,R_5PAMRt4s9LlEvnx,b14,14,17,251,Music Note,1,Not at all
+251,R_5PAMRt4s9LlEvnx,b14,14,18,252,oval,1,Not at all
+252,R_5PAMRt4s9LlEvnx,b14,14,19,253,owl,1,Not at all
+253,R_5PAMRt4s9LlEvnx,b14,14,20,254,owl face,1,Not at all
+254,R_5PAMRt4s9LlEvnx,b14,14,21,255,semi-circle,1,Not at all
+255,R_5PAMRt4s9LlEvnx,b14,14,22,256,sunglasses,1,Not at all
+256,R_5PAMRt4s9LlEvnx,b14,14,23,257,tent,1,Not at all
+257,R_5PAMRt4s9LlEvnx,b14,14,24,258,toilet,1,Not at all
+258,R_5PAMRt4s9LlEvnx,b15,15,1,259,arrow,2,A little
+259,R_5PAMRt4s9LlEvnx,b15,15,2,260,bucket,1,Not at all
+260,R_5PAMRt4s9LlEvnx,b15,15,3,261,cat,1,Not at all
+261,R_5PAMRt4s9LlEvnx,b15,15,4,262,diamond,1,Not at all
+262,R_5PAMRt4s9LlEvnx,b15,15,5,263,flag,1,Not at all
+263,R_5PAMRt4s9LlEvnx,b15,15,6,264,honeycomb,2,A little
+264,R_5PAMRt4s9LlEvnx,b15,15,7,265,house,4,A lot
+265,R_5PAMRt4s9LlEvnx,b15,15,8,266,hut,4,A lot
+266,R_5PAMRt4s9LlEvnx,b15,15,9,267,kite,1,Not at all
+267,R_5PAMRt4s9LlEvnx,b15,15,10,268,pentagon,3,Moderately
+268,R_5PAMRt4s9LlEvnx,b15,15,11,269,plant pot,1,Not at all
+269,R_5PAMRt4s9LlEvnx,b15,15,12,270,shield,3,Moderately
+270,R_5PAMRt4s9LlEvnx,b15,15,13,271,square,1,Not at all
+271,R_5PAMRt4s9LlEvnx,b15,15,14,272,square,1,Not at all
+272,R_5PAMRt4s9LlEvnx,b15,15,15,273,trapezium,1,Not at all
+273,R_5PAMRt4s9LlEvnx,b16,16,1,274,Cone,4,A lot
+274,R_5PAMRt4s9LlEvnx,b16,16,2,275,cube,1,Not at all
+275,R_5PAMRt4s9LlEvnx,b16,16,3,276,diamond,1,Not at all
+276,R_5PAMRt4s9LlEvnx,b16,16,4,277,download icon,1,Not at all
+277,R_5PAMRt4s9LlEvnx,b16,16,5,278,fish hook,1,Not at all
+278,R_5PAMRt4s9LlEvnx,b16,16,6,279,guitar pick,3,Moderately
+279,R_5PAMRt4s9LlEvnx,b16,16,7,280,heart,1,Not at all
+280,R_5PAMRt4s9LlEvnx,b16,16,8,281,hourglass,1,Not at all
+281,R_5PAMRt4s9LlEvnx,b16,16,9,282,house,1,Not at all
+282,R_5PAMRt4s9LlEvnx,b16,16,10,283,ice cream,5,Completely
+283,R_5PAMRt4s9LlEvnx,b16,16,11,284,Icecream cone,5,Completely
+284,R_5PAMRt4s9LlEvnx,b16,16,12,285,lightbulb,1,Not at all
+285,R_5PAMRt4s9LlEvnx,b16,16,13,286,magnifying glass,1,Not at all
+286,R_5PAMRt4s9LlEvnx,b16,16,14,287,paper airplane,1,Not at all
+287,R_5PAMRt4s9LlEvnx,b16,16,15,288,pizza slice,3,Moderately
+288,R_5PAMRt4s9LlEvnx,b16,16,16,289,shelf bracket,2,A little
+289,R_5PAMRt4s9LlEvnx,b16,16,17,290,shield,3,Moderately
+290,R_5PAMRt4s9LlEvnx,b16,16,18,291,sno-cone,5,Completely
+291,R_5PAMRt4s9LlEvnx,b16,16,19,292,Trapezoid,1,Not at all
+292,R_5PAMRt4s9LlEvnx,b16,16,20,293,Triangular diamond,1,Not at all
+293,R_5PAMRt4s9LlEvnx,b16,16,21,294,trophy,2,A little
+294,R_5PAMRt4s9LlEvnx,b16,16,22,295,Volcano,1,Not at all
+295,R_5PAMRt4s9LlEvnx,b16,16,23,296,whale tail,2,A little
+296,R_5PAMRt4s9LlEvnx,b17,17,1,297,Abstract Eyeball,3,Moderately
+297,R_5PAMRt4s9LlEvnx,b17,17,2,298,Ballon,3,Moderately
+298,R_5PAMRt4s9LlEvnx,b17,17,3,299,bridge,1,Not at all
+299,R_5PAMRt4s9LlEvnx,b17,17,4,300,chalice,1,Not at all
+300,R_5PAMRt4s9LlEvnx,b17,17,5,301,chalice,1,Not at all
+301,R_5PAMRt4s9LlEvnx,b17,17,6,302,cone,5,Completely
+302,R_5PAMRt4s9LlEvnx,b17,17,7,303,cupcake,1,Not at all
+303,R_5PAMRt4s9LlEvnx,b17,17,8,304,flower,2,A little
+304,R_5PAMRt4s9LlEvnx,b17,17,9,305,funnel,3,Moderately
+305,R_5PAMRt4s9LlEvnx,b17,17,10,306,glass,1,Not at all
+306,R_5PAMRt4s9LlEvnx,b17,17,11,307,goblet,1,Not at all
+307,R_5PAMRt4s9LlEvnx,b17,17,12,308,guitar pick,3,Moderately
+308,R_5PAMRt4s9LlEvnx,b17,17,13,309,Head,1,Not at all
+309,R_5PAMRt4s9LlEvnx,b17,17,14,310,heart,1,Not at all
+310,R_5PAMRt4s9LlEvnx,b17,17,15,311,hot air balloon,3,Moderately
+311,R_5PAMRt4s9LlEvnx,b17,17,16,312,house roof,1,Not at all
+312,R_5PAMRt4s9LlEvnx,b17,17,17,313,ice cream,5,Completely
+313,R_5PAMRt4s9LlEvnx,b17,17,18,314,icecream cone,5,Completely
+314,R_5PAMRt4s9LlEvnx,b17,17,19,315,lantern,3,Moderately
+315,R_5PAMRt4s9LlEvnx,b17,17,20,316,necklace,2,A little
+316,R_5PAMRt4s9LlEvnx,b17,17,21,317,parachute,3,Moderately
+317,R_5PAMRt4s9LlEvnx,b17,17,22,318,Paris,1,Not at all
+318,R_5PAMRt4s9LlEvnx,b17,17,23,319,shelf bracket,2,A little
+319,R_5PAMRt4s9LlEvnx,b17,17,24,320,shield,4,A lot
+320,R_5PAMRt4s9LlEvnx,b17,17,25,321,slingshot frame,3,Moderately
+321,R_5PAMRt4s9LlEvnx,b17,17,26,322,snowcone,5,Completely
+322,R_5PAMRt4s9LlEvnx,b17,17,27,323,Spade,2,A little
+323,R_5PAMRt4s9LlEvnx,b17,17,28,324,tulip,2,A little
+324,R_5PAMRt4s9LlEvnx,b17,17,29,325,wine glass,1,Not at all
+325,R_5PAMRt4s9LlEvnx,b17,17,30,326,wishbone,1,Not at all
+326,R_5PAMRt4s9LlEvnx,b18,18,1,327,butterfly,1,Not at all
+327,R_5PAMRt4s9LlEvnx,b18,18,2,328,Catapult,1,Not at all
+328,R_5PAMRt4s9LlEvnx,b18,18,3,329,cone,4,A lot
+329,R_5PAMRt4s9LlEvnx,b18,18,4,330,drop hook,1,Not at all
+330,R_5PAMRt4s9LlEvnx,b18,18,5,331,face,1,Not at all
+331,R_5PAMRt4s9LlEvnx,b18,18,6,332,flag,1,Not at all
+332,R_5PAMRt4s9LlEvnx,b18,18,7,333,flower,1,Not at all
+333,R_5PAMRt4s9LlEvnx,b18,18,8,334,guitar pick,3,Moderately
+334,R_5PAMRt4s9LlEvnx,b18,18,9,335,harp,1,Not at all
+335,R_5PAMRt4s9LlEvnx,b18,18,10,336,heart,1,Not at all
+336,R_5PAMRt4s9LlEvnx,b18,18,11,337,ice cream,3,Moderately
+337,R_5PAMRt4s9LlEvnx,b18,18,12,338,icecream cone,5,Completely
+338,R_5PAMRt4s9LlEvnx,b18,18,13,339,Incomplete heart,2,A little
+339,R_5PAMRt4s9LlEvnx,b18,18,14,340,keyhole,2,A little
+340,R_5PAMRt4s9LlEvnx,b18,18,15,341,magnifying glass,2,A little
+341,R_5PAMRt4s9LlEvnx,b18,18,16,342,Martini,1,Not at all
+342,R_5PAMRt4s9LlEvnx,b18,18,17,343,medal,3,Moderately
+343,R_5PAMRt4s9LlEvnx,b18,18,18,344,music symbol,1,Not at all
+344,R_5PAMRt4s9LlEvnx,b18,18,19,345,parabola,1,Not at all
+345,R_5PAMRt4s9LlEvnx,b18,18,20,346,Pencil,2,A little
+346,R_5PAMRt4s9LlEvnx,b18,18,21,347,Pie,2,A little
+347,R_5PAMRt4s9LlEvnx,b18,18,22,348,revolver,1,Not at all
+348,R_5PAMRt4s9LlEvnx,b18,18,23,349,sailboat,1,Not at all
+349,R_5PAMRt4s9LlEvnx,b18,18,24,350,shield,3,Moderately
+350,R_5PAMRt4s9LlEvnx,b18,18,25,351,speech bubble,1,Not at all
+351,R_5PAMRt4s9LlEvnx,b18,18,26,352,Speed Bump,1,Not at all
+352,R_5PAMRt4s9LlEvnx,b18,18,27,353,trophy,2,A little
+353,R_5PAMRt4s9LlEvnx,b18,18,28,354,van,1,Not at all
+354,R_5PAMRt4s9LlEvnx,b18,18,29,355,water glass,1,Not at all
+355,R_5PAMRt4s9LlEvnx,b19,19,1,356,bee,2,A little
+356,R_5PAMRt4s9LlEvnx,b19,19,2,357,butterfly,1,Not at all
+357,R_5PAMRt4s9LlEvnx,b19,19,3,358,cat,2,A little
+358,R_5PAMRt4s9LlEvnx,b19,19,4,359,chess,1,Not at all
+359,R_5PAMRt4s9LlEvnx,b19,19,5,360,circle,1,Not at all
+360,R_5PAMRt4s9LlEvnx,b19,19,6,361,coffee cup,1,Not at all
+361,R_5PAMRt4s9LlEvnx,b19,19,7,362,computer mouse,5,Completely
+362,R_5PAMRt4s9LlEvnx,b19,19,8,363,dollar sign,1,Not at all
+363,R_5PAMRt4s9LlEvnx,b19,19,9,364,faucet,1,Not at all
+364,R_5PAMRt4s9LlEvnx,b19,19,10,365,fruit,1,Not at all
+365,R_5PAMRt4s9LlEvnx,b19,19,11,366,globe,1,Not at all
+366,R_5PAMRt4s9LlEvnx,b19,19,12,367,hanger,1,Not at all
+367,R_5PAMRt4s9LlEvnx,b19,19,13,368,jellyfish,1,Not at all
+368,R_5PAMRt4s9LlEvnx,b19,19,14,369,key,1,Not at all
+369,R_5PAMRt4s9LlEvnx,b19,19,15,370,Kite,1,Not at all
+370,R_5PAMRt4s9LlEvnx,b19,19,16,371,mechanical arm,1,Not at all
+371,R_5PAMRt4s9LlEvnx,b19,19,17,372,music note,1,Not at all
+372,R_5PAMRt4s9LlEvnx,b19,19,18,373,oval,1,Not at all
+373,R_5PAMRt4s9LlEvnx,b19,19,19,374,purse,1,Not at all
+374,R_5PAMRt4s9LlEvnx,b19,19,20,375,s-hook,1,Not at all
+375,R_5PAMRt4s9LlEvnx,b19,19,21,376,scissors,1,Not at all
+376,R_5PAMRt4s9LlEvnx,b19,19,22,377,Sd,1,Not at all
+377,R_5PAMRt4s9LlEvnx,b19,19,23,378,Sphere,1,Not at all
+378,R_5PAMRt4s9LlEvnx,b19,19,24,379,start line,1,Not at all
+379,R_5PAMRt4s9LlEvnx,b19,19,25,380,Steam,1,Not at all
+380,R_5PAMRt4s9LlEvnx,b19,19,26,381,tape dispenser,1,Not at all
+381,R_5PAMRt4s9LlEvnx,b19,19,27,382,teapot,1,Not at all
+382,R_5PAMRt4s9LlEvnx,b19,19,28,383,teapot,1,Not at all
+383,R_5PAMRt4s9LlEvnx,b19,19,29,384,USB connector,4,A lot
+384,R_5PAMRt4s9LlEvnx,b19,19,30,385,USD symbol,1,Not at all
+385,R_5PAMRt4s9LlEvnx,b19,19,31,386,wang jangle,1,Not at all
+386,R_5PAMRt4s9LlEvnx,b19,19,32,387,ying yang,1,Not at all
+387,R_5PAMRt4s9LlEvnx,b20,20,1,388,Ant,1,Not at all
+388,R_5PAMRt4s9LlEvnx,b20,20,2,389,balloon animal,1,Not at all
+389,R_5PAMRt4s9LlEvnx,b20,20,3,390,bird,1,Not at all
+390,R_5PAMRt4s9LlEvnx,b20,20,4,391,Boat,1,Not at all
+391,R_5PAMRt4s9LlEvnx,b20,20,5,392,Bun,2,A little
+392,R_5PAMRt4s9LlEvnx,b20,20,6,393,crystal ball,5,Completely
+393,R_5PAMRt4s9LlEvnx,b20,20,7,394,eight,1,Not at all
+394,R_5PAMRt4s9LlEvnx,b20,20,8,395,flower pot,1,Not at all
+395,R_5PAMRt4s9LlEvnx,b20,20,9,396,glasses,1,Not at all
+396,R_5PAMRt4s9LlEvnx,b20,20,10,397,golf ball,2,A little
+397,R_5PAMRt4s9LlEvnx,b20,20,11,398,hanger,3,Moderately
+398,R_5PAMRt4s9LlEvnx,b20,20,12,399,hill,1,Not at all
+399,R_5PAMRt4s9LlEvnx,b20,20,13,400,hot air balloon,2,A little
+400,R_5PAMRt4s9LlEvnx,b20,20,14,401,Hourglass,1,Not at all
+401,R_5PAMRt4s9LlEvnx,b20,20,15,402,Human Profile,3,Moderately
+402,R_5PAMRt4s9LlEvnx,b20,20,16,403,ice cream,2,A little
+403,R_5PAMRt4s9LlEvnx,b20,20,17,404,keyhold,2,A little
+404,R_5PAMRt4s9LlEvnx,b20,20,18,405,lightbulb,2,A little
+405,R_5PAMRt4s9LlEvnx,b20,20,19,406,magnifying glass,2,A little
+406,R_5PAMRt4s9LlEvnx,b20,20,20,407,padlock,2,A little
+407,R_5PAMRt4s9LlEvnx,b20,20,21,408,pedestal,3,Moderately
+408,R_5PAMRt4s9LlEvnx,b20,20,22,409,person,4,A lot
+409,R_5PAMRt4s9LlEvnx,b20,20,23,410,propeller hat,1,Not at all
+410,R_5PAMRt4s9LlEvnx,b20,20,24,411,pulley,1,Not at all
+411,R_5PAMRt4s9LlEvnx,b20,20,25,412,ring,2,A little
+412,R_5PAMRt4s9LlEvnx,b20,20,26,413,Snowglobe,5,Completely
+413,R_5PAMRt4s9LlEvnx,b20,20,27,414,snowman,3,Moderately
+414,R_5PAMRt4s9LlEvnx,b20,20,28,415,speech bubble,2,A little
+415,R_5PAMRt4s9LlEvnx,b20,20,29,416,Sunrise,1,Not at all
+416,R_5PAMRt4s9LlEvnx,b20,20,30,417,Trophy,2,A little
+417,R_5PAMRt4s9LlEvnx,b20,20,31,418,Vessel,1,Not at all
+418,R_5PAMRt4s9LlEvnx,b20,20,32,419,woman,2,A little
+419,R_5PAMRt4s9LlEvnx,b21,21,1,420,beanie,1,Not at all
+420,R_5PAMRt4s9LlEvnx,b21,21,2,421,Boat,1,Not at all
+421,R_5PAMRt4s9LlEvnx,b21,21,3,422,Bulb,2,A little
+422,R_5PAMRt4s9LlEvnx,b21,21,4,423,Capital B,1,Not at all
+423,R_5PAMRt4s9LlEvnx,b21,21,5,424,circles,1,Not at all
+424,R_5PAMRt4s9LlEvnx,b21,21,6,425,Crane,1,Not at all
+425,R_5PAMRt4s9LlEvnx,b21,21,7,426,cup,1,Not at all
+426,R_5PAMRt4s9LlEvnx,b21,21,8,427,Ear,1,Not at all
+427,R_5PAMRt4s9LlEvnx,b21,21,9,428,head and shoulders,4,A lot
+428,R_5PAMRt4s9LlEvnx,b21,21,10,429,house,1,Not at all
+429,R_5PAMRt4s9LlEvnx,b21,21,11,430,Infinity symbol,1,Not at all
+430,R_5PAMRt4s9LlEvnx,b21,21,12,431,person,4,A lot
+431,R_5PAMRt4s9LlEvnx,b21,21,13,432,person's torso,4,A lot
+432,R_5PAMRt4s9LlEvnx,b21,21,14,433,pictogram,1,Not at all
+433,R_5PAMRt4s9LlEvnx,b21,21,15,434,pool,1,Not at all
+434,R_5PAMRt4s9LlEvnx,b21,21,16,435,statue,3,Moderately
+435,R_5PAMRt4s9LlEvnx,b21,21,17,436,lollipop stand,2,A little
+436,R_5PAMRt4s9LlEvnx,b21,21,18,437,woman,3,Moderately
+437,R_5PAMRt4s9LlEvnx,b21,21,19,438,headphones,1,Not at all
+438,R_5PAMRt4s9LlEvnx,b21,21,20,439,keyhole,2,A little
+439,R_5PAMRt4s9LlEvnx,b21,21,21,440,snowman,3,Moderately
+440,R_5PAMRt4s9LlEvnx,b21,21,22,441,hot air balloon,3,Moderately
+441,R_5PAMRt4s9LlEvnx,b21,21,23,442,crystal ball,5,Completely
+442,R_5PAMRt4s9LlEvnx,b21,21,24,443,coffee mug,1,Not at all
+443,R_5PAMRt4s9LlEvnx,b21,21,25,444,power button,1,Not at all
+444,R_5PAMRt4s9LlEvnx,b21,21,26,445,magnifying glass,1,Not at all
+445,R_5PAMRt4s9LlEvnx,b21,21,27,446,bowler hat,2,A little
+446,R_5PAMRt4s9LlEvnx,b21,21,28,447,treble clef,1,Not at all
+447,R_5PAMRt4s9LlEvnx,b21,21,29,448,guitar silhouette,1,Not at all
+448,R_5PAMRt4s9LlEvnx,b21,21,30,449,music note,1,Not at all
+449,R_5PAMRt4s9LlEvnx,b22,22,1,450,Angle,1,Not at all
+450,R_5PAMRt4s9LlEvnx,b22,22,2,451,Audio Symbol,1,Not at all
+451,R_5PAMRt4s9LlEvnx,b22,22,3,452,Boat,2,A little
+452,R_5PAMRt4s9LlEvnx,b22,22,4,453,closed eye,3,Moderately
+453,R_5PAMRt4s9LlEvnx,b22,22,5,454,cone,2,A little
+454,R_5PAMRt4s9LlEvnx,b22,22,6,455,dart,3,Moderately
+455,R_5PAMRt4s9LlEvnx,b22,22,7,456,duck,4,A lot
+456,R_5PAMRt4s9LlEvnx,b22,22,8,457,duck beak,4,A lot
+457,R_5PAMRt4s9LlEvnx,b22,22,9,458,face,1,Not at all
+458,R_5PAMRt4s9LlEvnx,b22,22,10,459,fish,4,A lot
+459,R_5PAMRt4s9LlEvnx,b22,22,11,460,Flag,1,Not at all
+460,R_5PAMRt4s9LlEvnx,b22,22,12,461,goggles,1,Not at all
+461,R_5PAMRt4s9LlEvnx,b22,22,13,462,heart,1,Not at all
+462,R_5PAMRt4s9LlEvnx,b22,22,14,463,horn,3,Moderately
+463,R_5PAMRt4s9LlEvnx,b22,22,15,464,Icecream cone,1,Not at all
+464,R_5PAMRt4s9LlEvnx,b22,22,16,465,keyhole,3,Moderately
+465,R_5PAMRt4s9LlEvnx,b22,22,17,466,lowercase a,1,Not at all
+466,R_5PAMRt4s9LlEvnx,b22,22,18,467,magnifying glass,2,A little
+467,R_5PAMRt4s9LlEvnx,b22,22,19,468,Math symbol,1,Not at all
+468,R_5PAMRt4s9LlEvnx,b22,22,20,469,padlock,1,Not at all
+469,R_5PAMRt4s9LlEvnx,b22,22,21,470,padlock,1,Not at all
+470,R_5PAMRt4s9LlEvnx,b22,22,22,471,ping pong,1,Not at all
+471,R_5PAMRt4s9LlEvnx,b22,22,23,472,play button,1,Not at all
+472,R_5PAMRt4s9LlEvnx,b22,22,24,473,power button,1,Not at all
+473,R_5PAMRt4s9LlEvnx,b22,22,25,474,rectangle,1,Not at all
+474,R_5PAMRt4s9LlEvnx,b22,22,26,475,rewind button,1,Not at all
+475,R_5PAMRt4s9LlEvnx,b22,22,27,476,speaker sign,1,Not at all
+476,R_5PAMRt4s9LlEvnx,b22,22,28,477,speech bubble,1,Not at all
+477,R_5PAMRt4s9LlEvnx,b22,22,29,478,stick figure,1,Not at all
+478,R_5PAMRt4s9LlEvnx,b22,22,30,479,triangle circle,1,Not at all
+479,R_5PAMRt4s9LlEvnx,b23,23,1,480,anchor,1,Not at all
+480,R_5PAMRt4s9LlEvnx,b23,23,2,481,ball string,1,Not at all
+481,R_5PAMRt4s9LlEvnx,b23,23,3,482,balloon,4,A lot
+482,R_5PAMRt4s9LlEvnx,b23,23,4,483,brain,3,Moderately
+483,R_5PAMRt4s9LlEvnx,b23,23,5,484,caduceus,3,Moderately
+484,R_5PAMRt4s9LlEvnx,b23,23,6,485,circle,1,Not at all
+485,R_5PAMRt4s9LlEvnx,b23,23,7,486,dollar sign,1,Not at all
+486,R_5PAMRt4s9LlEvnx,b23,23,8,487,flower,4,A lot
+487,R_5PAMRt4s9LlEvnx,b23,23,9,488,head and shoulders,1,Not at all
+488,R_5PAMRt4s9LlEvnx,b23,23,10,489,keyhole,2,A little
+489,R_5PAMRt4s9LlEvnx,b23,23,11,490,Kite,1,Not at all
+490,R_5PAMRt4s9LlEvnx,b23,23,12,491,Lollipop,5,Completely
+491,R_5PAMRt4s9LlEvnx,b23,23,13,492,magnifying glass,3,Moderately
+492,R_5PAMRt4s9LlEvnx,b23,23,14,493,microphone,4,A lot
+493,R_5PAMRt4s9LlEvnx,b23,23,15,494,Pool,1,Not at all
+494,R_5PAMRt4s9LlEvnx,b23,23,16,495,sculpture,1,Not at all
+495,R_5PAMRt4s9LlEvnx,b23,23,17,496,staff,3,Moderately
+496,R_5PAMRt4s9LlEvnx,b23,23,18,497,Stop sign,1,Not at all
+497,R_5PAMRt4s9LlEvnx,b23,23,19,498,streetlamp,3,Moderately
+498,R_5PAMRt4s9LlEvnx,b23,23,20,499,superman logo,2,A little
+499,R_5PAMRt4s9LlEvnx,b23,23,21,500,traffic stop,3,Moderately
+500,R_5PAMRt4s9LlEvnx,b23,23,22,501,weathervane,3,Moderately
+501,R_5PAMRt4s9LlEvnx,b23,23,23,502,Yinyang Medallion,3,Moderately
+502,R_5PAMRt4s9LlEvnx,b24,24,1,503,anchor,2,A little
+503,R_5PAMRt4s9LlEvnx,b24,24,2,504,axe,1,Not at all
+504,R_5PAMRt4s9LlEvnx,b24,24,3,505,Baketball hoop,2,A little
+505,R_5PAMRt4s9LlEvnx,b24,24,4,506,chair,5,Completely
+506,R_5PAMRt4s9LlEvnx,b24,24,5,507,coat hook,3,Moderately
+507,R_5PAMRt4s9LlEvnx,b24,24,6,508,comb,2,A little
+508,R_5PAMRt4s9LlEvnx,b24,24,7,509,comb,3,Moderately
+509,R_5PAMRt4s9LlEvnx,b24,24,8,510,crutch,2,A little
+510,R_5PAMRt4s9LlEvnx,b24,24,9,511,flag,2,A little
+511,R_5PAMRt4s9LlEvnx,b24,24,10,512,goal post,2,A little
+512,R_5PAMRt4s9LlEvnx,b24,24,11,513,gun barrel,1,Not at all
+513,R_5PAMRt4s9LlEvnx,b24,24,12,514,hammer,2,A little
+514,R_5PAMRt4s9LlEvnx,b24,24,13,515,Horse,1,Not at all
+515,R_5PAMRt4s9LlEvnx,b24,24,14,516,inverted chair,1,Not at all
+516,R_5PAMRt4s9LlEvnx,b24,24,15,517,lamp post,1,Not at all
+517,R_5PAMRt4s9LlEvnx,b24,24,16,518,letter H,4,A lot
+518,R_5PAMRt4s9LlEvnx,b24,24,17,519,letter N,1,Not at all
+519,R_5PAMRt4s9LlEvnx,b24,24,18,520,lowercase h,5,Completely
+520,R_5PAMRt4s9LlEvnx,b24,24,19,521,pickaxe,1,Not at all
+521,R_5PAMRt4s9LlEvnx,b24,24,20,522,Pie symbol,1,Not at all
+522,R_5PAMRt4s9LlEvnx,b24,24,21,523,pipe fitting,2,A little
+523,R_5PAMRt4s9LlEvnx,b24,24,22,524,plus sign,1,Not at all
+524,R_5PAMRt4s9LlEvnx,b24,24,23,525,rake,2,A little
+525,R_5PAMRt4s9LlEvnx,b24,24,24,526,rectangle,1,Not at all
+526,R_5PAMRt4s9LlEvnx,b24,24,25,527,robot claw,2,A little
+527,R_5PAMRt4s9LlEvnx,b24,24,26,528,Square,1,Not at all
+528,R_5PAMRt4s9LlEvnx,b24,24,27,529,Straight line,1,Not at all
+529,R_5PAMRt4s9LlEvnx,b24,24,28,530,Thread holder,1,Not at all
+530,R_5PAMRt4s9LlEvnx,b24,24,29,531,trident,1,Not at all
+531,R_5PAMRt4s9LlEvnx,b24,24,30,532,tuning fork,3,Moderately
+532,R_5PAMRt4s9LlEvnx,b24,24,31,533,windmill,1,Not at all
+533,R_5PAMRt4s9LlEvnx,b24,24,32,534,wrentch,3,Moderately
+534,R_5PAMRt4s9LlEvnx,b25,25,1,535,backwards L,1,Not at all
+535,R_5PAMRt4s9LlEvnx,b25,25,2,536,bed,4,A lot
+536,R_5PAMRt4s9LlEvnx,b25,25,3,537,broken hurdle,3,Moderately
+537,R_5PAMRt4s9LlEvnx,b25,25,4,538,chair,5,Completely
+538,R_5PAMRt4s9LlEvnx,b25,25,5,539,chair,5,Completely
+539,R_5PAMRt4s9LlEvnx,b25,25,6,540,crane,2,A little
+540,R_5PAMRt4s9LlEvnx,b25,25,7,541,Fallen tree,1,Not at all
+541,R_5PAMRt4s9LlEvnx,b25,25,8,542,flagpole,1,Not at all
+542,R_5PAMRt4s9LlEvnx,b25,25,9,543,hammer,2,A little
+543,R_5PAMRt4s9LlEvnx,b25,25,10,544,key,1,Not at all
+544,R_5PAMRt4s9LlEvnx,b25,25,11,545,lamp,1,Not at all
+545,R_5PAMRt4s9LlEvnx,b25,25,12,546,letter C,1,Not at all
+546,R_5PAMRt4s9LlEvnx,b25,25,13,547,letter F,1,Not at all
+547,R_5PAMRt4s9LlEvnx,b25,25,14,548,letter J,3,Moderately
+548,R_5PAMRt4s9LlEvnx,b25,25,15,549,letter T,1,Not at all
+549,R_5PAMRt4s9LlEvnx,b25,25,16,550,Lower H,5,Completely
+550,R_5PAMRt4s9LlEvnx,b25,25,17,551,lowercase h,5,Completely
+551,R_5PAMRt4s9LlEvnx,b25,25,18,552,number 4,2,A little
+552,R_5PAMRt4s9LlEvnx,b25,25,19,553,number 7,1,Not at all
+553,R_5PAMRt4s9LlEvnx,b25,25,20,554,open box,1,Not at all
+554,R_5PAMRt4s9LlEvnx,b25,25,21,555,pickaxe,1,Not at all
+555,R_5PAMRt4s9LlEvnx,b25,25,22,556,pole,1,Not at all
+556,R_5PAMRt4s9LlEvnx,b25,25,23,557,stick,1,Not at all
+557,R_5PAMRt4s9LlEvnx,b25,25,24,558,table,3,Moderately
+558,R_5PAMRt4s9LlEvnx,b25,25,25,559,triangle,1,Not at all
+559,R_5PAMRt4s9LlEvnx,b25,25,26,560,wrench,2,A little
+560,R_5PAMRt4s9LlEvnx,b26,26,1,561,arrow,3,Moderately
+561,R_5PAMRt4s9LlEvnx,b26,26,2,562,arrow,3,Moderately
+562,R_5PAMRt4s9LlEvnx,b26,26,3,563,arrowhead,2,A little
+563,R_5PAMRt4s9LlEvnx,b26,26,4,564,baseball pendant,1,Not at all
+564,R_5PAMRt4s9LlEvnx,b26,26,5,565,carat stem,2,A little
+565,R_5PAMRt4s9LlEvnx,b26,26,6,566,check mark,1,Not at all
+566,R_5PAMRt4s9LlEvnx,b26,26,7,567,Cone,1,Not at all
+567,R_5PAMRt4s9LlEvnx,b26,26,8,568,flag,5,Completely
+568,R_5PAMRt4s9LlEvnx,b26,26,9,569,flag pole,5,Completely
+569,R_5PAMRt4s9LlEvnx,b26,26,10,570,letter K,1,Not at all
+570,R_5PAMRt4s9LlEvnx,b26,26,11,571,letter P,1,Not at all
+571,R_5PAMRt4s9LlEvnx,b26,26,12,572,lightning bolt,1,Not at all
+572,R_5PAMRt4s9LlEvnx,b26,26,13,573,pickaxe,2,A little
+573,R_5PAMRt4s9LlEvnx,b26,26,14,574,sailboat,1,Not at all
+574,R_5PAMRt4s9LlEvnx,b26,26,15,575,triangle,1,Not at all
+575,R_5PAMRt4s9LlEvnx,b27,27,1,576,2 squares,1,Not at all
+576,R_5PAMRt4s9LlEvnx,b27,27,2,577,barcode,1,Not at all
+577,R_5PAMRt4s9LlEvnx,b27,27,3,578,bed,1,Not at all
+578,R_5PAMRt4s9LlEvnx,b27,27,4,579,belt buckle,3,Moderately
+579,R_5PAMRt4s9LlEvnx,b27,27,5,580,book,3,Moderately
+580,R_5PAMRt4s9LlEvnx,b27,27,6,581,bookshelf,2,A little
+581,R_5PAMRt4s9LlEvnx,b27,27,7,582,Box,2,A little
+582,R_5PAMRt4s9LlEvnx,b27,27,8,583,candy bar,3,Moderately
+583,R_5PAMRt4s9LlEvnx,b27,27,9,584,coconut,1,Not at all
+584,R_5PAMRt4s9LlEvnx,b27,27,10,585,Cubes,1,Not at all
+585,R_5PAMRt4s9LlEvnx,b27,27,11,586,door,5,Completely
+586,R_5PAMRt4s9LlEvnx,b27,27,12,587,door,5,Completely
+587,R_5PAMRt4s9LlEvnx,b27,27,13,588,euro symbol,1,Not at all
+588,R_5PAMRt4s9LlEvnx,b27,27,14,589,fork,1,Not at all
+589,R_5PAMRt4s9LlEvnx,b27,27,15,590,gate latch,3,Moderately
+590,R_5PAMRt4s9LlEvnx,b27,27,16,591,goal post,1,Not at all
+591,R_5PAMRt4s9LlEvnx,b27,27,17,592,handle,1,Not at all
+592,R_5PAMRt4s9LlEvnx,b27,27,18,593,ladder,1,Not at all
+593,R_5PAMRt4s9LlEvnx,b27,27,19,594,letter W,1,Not at all
+594,R_5PAMRt4s9LlEvnx,b27,27,20,595,parallel lines,1,Not at all
+595,R_5PAMRt4s9LlEvnx,b27,27,21,596,parking lot,3,Moderately
+596,R_5PAMRt4s9LlEvnx,b27,27,22,597,plug,2,A little
+597,R_5PAMRt4s9LlEvnx,b27,27,23,598,rail tracks,1,Not at all
+598,R_5PAMRt4s9LlEvnx,b27,27,24,599,rectangle,1,Not at all
+599,R_5PAMRt4s9LlEvnx,b27,27,25,600,Ruler,1,Not at all
+600,R_5PAMRt4s9LlEvnx,b27,27,26,601,Square,1,Not at all
+601,R_5PAMRt4s9LlEvnx,b27,27,27,602,staple remover,1,Not at all
+602,R_5PAMRt4s9LlEvnx,b27,27,28,603,table chair,1,Not at all
+603,R_5PAMRt4s9LlEvnx,b28,28,1,604,bucket,1,Not at all
+604,R_5PAMRt4s9LlEvnx,b28,28,2,605,cherries,3,Moderately
+605,R_5PAMRt4s9LlEvnx,b28,28,3,606,circle,1,Not at all
+606,R_5PAMRt4s9LlEvnx,b28,28,4,607,cylinder,1,Not at all
+607,R_5PAMRt4s9LlEvnx,b28,28,5,608,eyeglasses,5,Completely
+608,R_5PAMRt4s9LlEvnx,b28,28,6,609,eyes,3,Moderately
+609,R_5PAMRt4s9LlEvnx,b28,28,7,610,face,2,A little
+610,R_5PAMRt4s9LlEvnx,b28,28,8,611,glasses,5,Completely
+611,R_5PAMRt4s9LlEvnx,b28,28,9,612,handcuffs,3,Moderately
+612,R_5PAMRt4s9LlEvnx,b28,28,10,613,hydrogen peroxide,1,Not at all
+613,R_5PAMRt4s9LlEvnx,b28,28,11,614,insect head,3,Moderately
+614,R_5PAMRt4s9LlEvnx,b28,28,12,615,Lollipops,1,Not at all
+615,R_5PAMRt4s9LlEvnx,b28,28,13,616,owl,4,A lot
+616,R_5PAMRt4s9LlEvnx,b28,28,14,617,plus sign,1,Not at all
+617,R_5PAMRt4s9LlEvnx,b28,28,15,618,ribbon,1,Not at all
+618,R_5PAMRt4s9LlEvnx,b28,28,16,619,sunglasses,4,A lot
+619,R_5PAMRt4s9LlEvnx,b29,29,1,620,Anchor,3,Moderately
+620,R_5PAMRt4s9LlEvnx,b29,29,2,621,arch,1,Not at all
+621,R_5PAMRt4s9LlEvnx,b29,29,3,622,basket,3,Moderately
+622,R_5PAMRt4s9LlEvnx,b29,29,4,623,beach umbrella,1,Not at all
+623,R_5PAMRt4s9LlEvnx,b29,29,5,624,bed,1,Not at all
+624,R_5PAMRt4s9LlEvnx,b29,29,6,625,boat,1,Not at all
+625,R_5PAMRt4s9LlEvnx,b29,29,7,626,bow and arrow,1,Not at all
+626,R_5PAMRt4s9LlEvnx,b29,29,8,627,chair,1,Not at all
+627,R_5PAMRt4s9LlEvnx,b29,29,9,628,chalice,1,Not at all
+628,R_5PAMRt4s9LlEvnx,b29,29,10,629,crane,1,Not at all
+629,R_5PAMRt4s9LlEvnx,b29,29,11,630,door hinge,1,Not at all
+630,R_5PAMRt4s9LlEvnx,b29,29,12,631,Fish,3,Moderately
+631,R_5PAMRt4s9LlEvnx,b29,29,13,632,goal post,1,Not at all
+632,R_5PAMRt4s9LlEvnx,b29,29,14,633,hanger,2,A little
+633,R_5PAMRt4s9LlEvnx,b29,29,15,634,hospital sign,1,Not at all
+634,R_5PAMRt4s9LlEvnx,b29,29,16,635,House,1,Not at all
+635,R_5PAMRt4s9LlEvnx,b29,29,17,636,keyhold,1,Not at all
+636,R_5PAMRt4s9LlEvnx,b29,29,18,637,ladder,1,Not at all
+637,R_5PAMRt4s9LlEvnx,b29,29,19,638,lamp,1,Not at all
+638,R_5PAMRt4s9LlEvnx,b29,29,20,639,potted plant,3,Moderately
+639,R_5PAMRt4s9LlEvnx,b29,29,21,640,power button,1,Not at all
+640,R_5PAMRt4s9LlEvnx,b29,29,22,641,road,1,Not at all
+641,R_5PAMRt4s9LlEvnx,b29,29,23,642,shovel,5,Completely
+642,R_5PAMRt4s9LlEvnx,b29,29,24,643,spade,5,Completely
+643,R_5PAMRt4s9LlEvnx,b29,29,25,644,stool,2,A little
+644,R_5PAMRt4s9LlEvnx,b29,29,26,645,top,3,Moderately
+645,R_5PAMRt4s9LlEvnx,b29,29,27,646,trident,1,Not at all
+646,R_5PAMRt4s9LlEvnx,b30,30,1,647,anchor,1,Not at all
+647,R_5PAMRt4s9LlEvnx,b30,30,2,648,arrow,1,Not at all
+648,R_5PAMRt4s9LlEvnx,b30,30,3,649,barrier gate,1,Not at all
+649,R_5PAMRt4s9LlEvnx,b30,30,4,650,basket,1,Not at all
+650,R_5PAMRt4s9LlEvnx,b30,30,5,651,bed,1,Not at all
+651,R_5PAMRt4s9LlEvnx,b30,30,6,652,bench,1,Not at all
+652,R_5PAMRt4s9LlEvnx,b30,30,7,653,Boat,1,Not at all
+653,R_5PAMRt4s9LlEvnx,b30,30,8,654,bow and arrow,1,Not at all
+654,R_5PAMRt4s9LlEvnx,b30,30,9,655,box,1,Not at all
+655,R_5PAMRt4s9LlEvnx,b30,30,10,656,bridge,1,Not at all
+656,R_5PAMRt4s9LlEvnx,b30,30,11,657,c-clamp,1,Not at all
+657,R_5PAMRt4s9LlEvnx,b30,30,12,658,chair,1,Not at all
+658,R_5PAMRt4s9LlEvnx,b30,30,13,659,cross,1,Not at all
+659,R_5PAMRt4s9LlEvnx,b30,30,14,660,door key,1,Not at all
+660,R_5PAMRt4s9LlEvnx,b30,30,15,661,Drill,2,A little
+661,R_5PAMRt4s9LlEvnx,b30,30,16,662,fish,3,Moderately
+662,R_5PAMRt4s9LlEvnx,b30,30,17,663,fish bone,4,A lot
+663,R_5PAMRt4s9LlEvnx,b30,30,18,664,fish skeleton,4,A lot
+664,R_5PAMRt4s9LlEvnx,b30,30,19,665,goal post,1,Not at all
+665,R_5PAMRt4s9LlEvnx,b30,30,20,666,helicopter,1,Not at all
+666,R_5PAMRt4s9LlEvnx,b30,30,21,667,hinge,1,Not at all
+667,R_5PAMRt4s9LlEvnx,b30,30,22,668,key,1,Not at all
+668,R_5PAMRt4s9LlEvnx,b30,30,23,669,letters id,1,Not at all
+669,R_5PAMRt4s9LlEvnx,b30,30,24,670,person,1,Not at all
+670,R_5PAMRt4s9LlEvnx,b30,30,25,671,plug,2,A little
+671,R_5PAMRt4s9LlEvnx,b30,30,26,672,prison bars,1,Not at all
+672,R_5PAMRt4s9LlEvnx,b30,30,27,673,shovel,2,A little
+673,R_5PAMRt4s9LlEvnx,b30,30,28,674,train,1,Not at all
+674,R_5PAMRt4s9LlEvnx,b30,30,29,675,train car,1,Not at all
+675,R_5PAMRt4s9LlEvnx,b30,30,30,676,wheelchair,1,Not at all
+676,R_5PAMRt4s9LlEvnx,b30,30,31,677,window,1,Not at all
+677,R_5PAMRt4s9LlEvnx,b30,30,32,678,wing ding,1,Not at all
+678,R_5PAMRt4s9LlEvnx,b31,31,1,679,anchor,1,Not at all
+679,R_5PAMRt4s9LlEvnx,b31,31,2,680,arrow,1,Not at all
+680,R_5PAMRt4s9LlEvnx,b31,31,3,681,bird,1,Not at all
+681,R_5PAMRt4s9LlEvnx,b31,31,4,682,birthday hat,1,Not at all
+682,R_5PAMRt4s9LlEvnx,b31,31,5,683,Circle,1,Not at all
+683,R_5PAMRt4s9LlEvnx,b31,31,6,684,female symbol,1,Not at all
+684,R_5PAMRt4s9LlEvnx,b31,31,7,685,fish,1,Not at all
+685,R_5PAMRt4s9LlEvnx,b31,31,8,686,flower,1,Not at all
+686,R_5PAMRt4s9LlEvnx,b31,31,9,687,lollipop,3,Moderately
+687,R_5PAMRt4s9LlEvnx,b31,31,10,688,magnifying glass,2,A little
+688,R_5PAMRt4s9LlEvnx,b31,31,11,689,person,2,A little
+689,R_5PAMRt4s9LlEvnx,b31,31,12,690,Rocket ship,2,A little
+690,R_5PAMRt4s9LlEvnx,b31,31,13,691,snowman,2,A little
+691,R_5PAMRt4s9LlEvnx,b31,31,14,692,speaker,1,Not at all
+692,R_5PAMRt4s9LlEvnx,b31,31,15,693,stick figure,3,Moderately
+693,R_5PAMRt4s9LlEvnx,b31,31,16,694,stick person,3,Moderately
+694,R_5PAMRt4s9LlEvnx,b31,31,17,695,Sun Horizon,1,Not at all
+695,R_5PAMRt4s9LlEvnx,b31,31,18,696,tripod,1,Not at all
+696,R_5PAMRt4s9LlEvnx,b31,31,19,697,tuning fork,1,Not at all
+697,R_5PAMRt4s9LlEvnx,b31,31,20,698,umbrella,1,Not at all
+698,R_5PAMRt4s9LlEvnx,b32,32,1,699,anchor,2,A little
+699,R_5PAMRt4s9LlEvnx,b32,32,2,700,chalice,5,Completely
+700,R_5PAMRt4s9LlEvnx,b32,32,3,701,Champagne glass,4,A lot
+701,R_5PAMRt4s9LlEvnx,b32,32,4,702,chandelier,2,A little
+702,R_5PAMRt4s9LlEvnx,b32,32,5,703,church bell,2,A little
+703,R_5PAMRt4s9LlEvnx,b32,32,6,704,coat hook,3,Moderately
+704,R_5PAMRt4s9LlEvnx,b32,32,7,705,door knocker,3,Moderately
+705,R_5PAMRt4s9LlEvnx,b32,32,8,706,Fraction Symbol,1,Not at all
+706,R_5PAMRt4s9LlEvnx,b32,32,9,707,Glass,5,Completely
+707,R_5PAMRt4s9LlEvnx,b32,32,10,708,goblet,5,Completely
+708,R_5PAMRt4s9LlEvnx,b32,32,11,709,Hammer,1,Not at all
+709,R_5PAMRt4s9LlEvnx,b32,32,12,710,hammerhead hark,1,Not at all
+710,R_5PAMRt4s9LlEvnx,b32,32,13,711,keyhold,2,A little
+711,R_5PAMRt4s9LlEvnx,b32,32,14,712,lamp,4,A lot
+712,R_5PAMRt4s9LlEvnx,b32,32,15,713,lollipop,2,A little
+713,R_5PAMRt4s9LlEvnx,b32,32,16,714,martini glass,3,Moderately
+714,R_5PAMRt4s9LlEvnx,b32,32,17,715,mushroom,3,Moderately
+715,R_5PAMRt4s9LlEvnx,b32,32,18,716,nine,1,Not at all
+716,R_5PAMRt4s9LlEvnx,b32,32,19,717,scarecrow,1,Not at all
+717,R_5PAMRt4s9LlEvnx,b32,32,20,718,spatula,3,Moderately
+718,R_5PAMRt4s9LlEvnx,b32,32,21,719,stick figure,1,Not at all
+719,R_5PAMRt4s9LlEvnx,b32,32,22,720,table,3,Moderately
+720,R_5PAMRt4s9LlEvnx,b32,32,23,721,teeball,1,Not at all
+721,R_5PAMRt4s9LlEvnx,b32,32,24,722,tree,3,Moderately
+722,R_5PAMRt4s9LlEvnx,b32,32,25,723,umbrella,2,A little
+723,R_5PAMRt4s9LlEvnx,b32,32,26,724,wine glass,5,Completely
+724,R_5PAMRt4s9LlEvnx,b33,33,1,725,anchor,2,A little
+725,R_5PAMRt4s9LlEvnx,b33,33,2,726,Antenna,2,A little
+726,R_5PAMRt4s9LlEvnx,b33,33,3,727,bell,4,A lot
+727,R_5PAMRt4s9LlEvnx,b33,33,4,728,car,1,Not at all
+728,R_5PAMRt4s9LlEvnx,b33,33,5,729,church steeple,2,A little
+729,R_5PAMRt4s9LlEvnx,b33,33,6,730,cupcake,1,Not at all
+730,R_5PAMRt4s9LlEvnx,b33,33,7,731,dustpan,5,Completely
+731,R_5PAMRt4s9LlEvnx,b33,33,8,732,eye,1,Not at all
+732,R_5PAMRt4s9LlEvnx,b33,33,9,733,golf club,2,A little
+733,R_5PAMRt4s9LlEvnx,b33,33,10,734,hanging lamp,5,Completely
+734,R_5PAMRt4s9LlEvnx,b33,33,11,735,key,1,Not at all
+735,R_5PAMRt4s9LlEvnx,b33,33,12,736,keyhole,3,Moderately
+736,R_5PAMRt4s9LlEvnx,b33,33,13,737,lamp,3,Moderately
+737,R_5PAMRt4s9LlEvnx,b33,33,14,738,lollipop,1,Not at all
+738,R_5PAMRt4s9LlEvnx,b33,33,15,739,magnifying glass,2,A little
+739,R_5PAMRt4s9LlEvnx,b33,33,16,740,mop,3,Moderately
+740,R_5PAMRt4s9LlEvnx,b33,33,17,741,mushroom,1,Not at all
+741,R_5PAMRt4s9LlEvnx,b33,33,18,742,pan cover,4,A lot
+742,R_5PAMRt4s9LlEvnx,b33,33,19,743,planted sapling,3,Moderately
+743,R_5PAMRt4s9LlEvnx,b33,33,20,744,plunger,5,Completely
+744,R_5PAMRt4s9LlEvnx,b33,33,21,745,pot lid,5,Completely
+745,R_5PAMRt4s9LlEvnx,b33,33,22,746,power button,2,A little
+746,R_5PAMRt4s9LlEvnx,b33,33,23,747,semicircle,1,Not at all
+747,R_5PAMRt4s9LlEvnx,b33,33,24,748,shovel,4,A lot
+748,R_5PAMRt4s9LlEvnx,b33,33,25,749,spade,3,Moderately
+749,R_5PAMRt4s9LlEvnx,b33,33,26,750,Stake,1,Not at all
+750,R_5PAMRt4s9LlEvnx,b33,33,27,751,Stick,1,Not at all
+751,R_5PAMRt4s9LlEvnx,b33,33,28,752,tank turret,3,Moderately
+752,R_5PAMRt4s9LlEvnx,b33,33,29,753,Triangle,1,Not at all
+753,R_5PAMRt4s9LlEvnx,b33,33,30,754,umbrella,2,A little
+754,R_5PAMRt4s9LlEvnx,b34,34,1,755,Binoculars,2,A little
+755,R_5PAMRt4s9LlEvnx,b34,34,2,756,bird,1,Not at all
+756,R_5PAMRt4s9LlEvnx,b34,34,3,757,bow,5,Completely
+757,R_5PAMRt4s9LlEvnx,b34,34,4,758,bow tie,5,Completely
+758,R_5PAMRt4s9LlEvnx,b34,34,5,759,butterfly,3,Moderately
+759,R_5PAMRt4s9LlEvnx,b34,34,6,760,camcorder,2,A little
+760,R_5PAMRt4s9LlEvnx,b34,34,7,761,diving mask,2,A little
+761,R_5PAMRt4s9LlEvnx,b34,34,8,762,face,2,A little
+762,R_5PAMRt4s9LlEvnx,b34,34,9,763,glasses on nose,2,A little
+763,R_5PAMRt4s9LlEvnx,b34,34,10,764,heart,1,Not at all
+764,R_5PAMRt4s9LlEvnx,b34,34,11,765,hourglass,1,Not at all
+765,R_5PAMRt4s9LlEvnx,b34,34,12,766,ice cream,1,Not at all
+766,R_5PAMRt4s9LlEvnx,b34,34,13,767,Infinity pyramid,3,Moderately
+767,R_5PAMRt4s9LlEvnx,b34,34,14,768,infinity symbol,1,Not at all
+768,R_5PAMRt4s9LlEvnx,b34,34,15,769,man,1,Not at all
+769,R_5PAMRt4s9LlEvnx,b34,34,16,770,movie projector,4,A lot
+770,R_5PAMRt4s9LlEvnx,b34,34,17,771,Owl face,2,A little
+771,R_5PAMRt4s9LlEvnx,b34,34,18,772,scissors,5,Completely
+772,R_5PAMRt4s9LlEvnx,b34,34,19,773,spade,1,Not at all
+773,R_5PAMRt4s9LlEvnx,b34,34,20,774,Volcano,3,Moderately
+774,R_5PAMRt4s9LlEvnx,b35,35,1,775,balloon pair,4,A lot
+775,R_5PAMRt4s9LlEvnx,b35,35,2,776,beak,4,A lot
+776,R_5PAMRt4s9LlEvnx,b35,35,3,777,berry,3,Moderately
+777,R_5PAMRt4s9LlEvnx,b35,35,4,778,bicycle,2,A little
+778,R_5PAMRt4s9LlEvnx,b35,35,5,779,bow,5,Completely
+779,R_5PAMRt4s9LlEvnx,b35,35,6,780,bow tie,5,Completely
+780,R_5PAMRt4s9LlEvnx,b35,35,7,781,cat face,2,A little
+781,R_5PAMRt4s9LlEvnx,b35,35,8,782,cherries,3,Moderately
+782,R_5PAMRt4s9LlEvnx,b35,35,9,783,cloudy mountain,1,Not at all
+783,R_5PAMRt4s9LlEvnx,b35,35,10,784,cone,1,Not at all
+784,R_5PAMRt4s9LlEvnx,b35,35,11,785,eyes nose,2,A little
+785,R_5PAMRt4s9LlEvnx,b35,35,12,786,face,2,A little
+786,R_5PAMRt4s9LlEvnx,b35,35,13,787,film camera,5,Completely
+787,R_5PAMRt4s9LlEvnx,b35,35,14,788,glasses,2,A little
+788,R_5PAMRt4s9LlEvnx,b35,35,15,789,goggles,4,A lot
+789,R_5PAMRt4s9LlEvnx,b35,35,16,790,heart,2,A little
+790,R_5PAMRt4s9LlEvnx,b35,35,17,791,nose/eyes,2,A little
+791,R_5PAMRt4s9LlEvnx,b35,35,18,792,owl face,2,A little
+792,R_5PAMRt4s9LlEvnx,b35,35,19,793,party hat,3,Moderately
+793,R_5PAMRt4s9LlEvnx,b35,35,20,794,scissors,5,Completely
+794,R_5PAMRt4s9LlEvnx,b35,35,21,795,spade,1,Not at all
+795,R_5PAMRt4s9LlEvnx,b35,35,22,796,tree,1,Not at all
+796,R_5PAMRt4s9LlEvnx,b36,36,1,797,anchor,3,Moderately
+797,R_5PAMRt4s9LlEvnx,b36,36,2,798,arrow,2,A little
+798,R_5PAMRt4s9LlEvnx,b36,36,3,799,Bird feet.,5,Completely
+799,R_5PAMRt4s9LlEvnx,b36,36,4,800,broadcast tower,5,Completely
+800,R_5PAMRt4s9LlEvnx,b36,36,5,801,crane,1,Not at all
+801,R_5PAMRt4s9LlEvnx,b36,36,6,802,dowsing rod,2,A little
+802,R_5PAMRt4s9LlEvnx,b36,36,7,803,fishing rod,2,A little
+803,R_5PAMRt4s9LlEvnx,b36,36,8,804,fork,3,Moderately
+804,R_5PAMRt4s9LlEvnx,b36,36,9,805,Inverted peace symbol,1,Not at all
+805,R_5PAMRt4s9LlEvnx,b36,36,10,806,letter M,1,Not at all
+806,R_5PAMRt4s9LlEvnx,b36,36,11,807,location marker,2,A little
+807,R_5PAMRt4s9LlEvnx,b36,36,12,808,peace sign,1,Not at all
+808,R_5PAMRt4s9LlEvnx,b36,36,13,809,pitchfork,2,A little
+809,R_5PAMRt4s9LlEvnx,b36,36,14,810,rake,3,Moderately
+810,R_5PAMRt4s9LlEvnx,b36,36,15,811,rake,4,A lot
+811,R_5PAMRt4s9LlEvnx,b36,36,16,812,roof shape,3,Moderately
+812,R_5PAMRt4s9LlEvnx,b36,36,17,813,slingshot handle,3,Moderately
+813,R_5PAMRt4s9LlEvnx,b36,36,18,814,spearhead,3,Moderately
+814,R_5PAMRt4s9LlEvnx,b36,36,19,815,Teepee,5,Completely
+815,R_5PAMRt4s9LlEvnx,b36,36,20,816,tree branch,3,Moderately
+816,R_5PAMRt4s9LlEvnx,b36,36,21,817,tree diagram,3,Moderately
+817,R_5PAMRt4s9LlEvnx,b36,36,22,818,triangle,1,Not at all
+818,R_5PAMRt4s9LlEvnx,b36,36,23,819,tripod,4,A lot
+819,R_5PAMRt4s9LlEvnx,b36,36,24,820,tuning fork,4,A lot
+820,R_5PAMRt4s9LlEvnx,b36,36,25,821,volcano,3,Moderately
+821,R_5PAMRt4s9LlEvnx,b37,37,1,822,anchor,1,Not at all
+822,R_5PAMRt4s9LlEvnx,b37,37,2,823,angel,1,Not at all
+823,R_5PAMRt4s9LlEvnx,b37,37,3,824,animal,1,Not at all
+824,R_5PAMRt4s9LlEvnx,b37,37,4,825,balloons,5,Completely
+825,R_5PAMRt4s9LlEvnx,b37,37,5,826,bow tie,1,Not at all
+826,R_5PAMRt4s9LlEvnx,b37,37,6,827,boy,1,Not at all
+827,R_5PAMRt4s9LlEvnx,b37,37,7,828,bubble pipe,1,Not at all
+828,R_5PAMRt4s9LlEvnx,b37,37,8,829,butterfly,1,Not at all
+829,R_5PAMRt4s9LlEvnx,b37,37,9,830,Cherries,2,A little
+830,R_5PAMRt4s9LlEvnx,b37,37,10,831,circled triangle,1,Not at all
+831,R_5PAMRt4s9LlEvnx,b37,37,11,832,clover,5,Completely
+832,R_5PAMRt4s9LlEvnx,b37,37,12,833,club suit,5,Completely
+833,R_5PAMRt4s9LlEvnx,b37,37,13,834,cup and ball,1,Not at all
+834,R_5PAMRt4s9LlEvnx,b37,37,14,835,dragonfly,1,Not at all
+835,R_5PAMRt4s9LlEvnx,b37,37,15,836,dumbbell,1,Not at all
+836,R_5PAMRt4s9LlEvnx,b37,37,16,837,eyeglasses,1,Not at all
+837,R_5PAMRt4s9LlEvnx,b37,37,17,838,flower,5,Completely
+838,R_5PAMRt4s9LlEvnx,b37,37,18,839,flower,5,Completely
+839,R_5PAMRt4s9LlEvnx,b37,37,19,840,flower,5,Completely
+840,R_5PAMRt4s9LlEvnx,b37,37,20,841,flower bud,4,A lot
+841,R_5PAMRt4s9LlEvnx,b37,37,21,842,glasses,1,Not at all
+842,R_5PAMRt4s9LlEvnx,b37,37,22,843,Hammer,1,Not at all
+843,R_5PAMRt4s9LlEvnx,b37,37,23,844,information icon,1,Not at all
+844,R_5PAMRt4s9LlEvnx,b37,37,24,845,key,1,Not at all
+845,R_5PAMRt4s9LlEvnx,b37,37,25,846,magnifying glass,1,Not at all
+846,R_5PAMRt4s9LlEvnx,b37,37,26,847,person,1,Not at all
+847,R_5PAMRt4s9LlEvnx,b37,37,27,848,Race track,1,Not at all
+848,R_5PAMRt4s9LlEvnx,b37,37,28,849,snow man,1,Not at all
+849,R_5PAMRt4s9LlEvnx,b37,37,29,850,stick figure,2,A little
+850,R_5PAMRt4s9LlEvnx,b37,37,30,851,Tree,5,Completely
+851,R_5PAMRt4s9LlEvnx,b37,37,31,852,weightlifter,1,Not at all
+852,R_5PAMRt4s9LlEvnx,b38,38,1,853,butterfly,1,Not at all
+853,R_5PAMRt4s9LlEvnx,b38,38,2,854,clubs symbol,2,A little
+854,R_5PAMRt4s9LlEvnx,b38,38,3,855,cone,4,A lot
+855,R_5PAMRt4s9LlEvnx,b38,38,4,856,face,1,Not at all
+856,R_5PAMRt4s9LlEvnx,b38,38,5,857,flower bouquet,4,A lot
+857,R_5PAMRt4s9LlEvnx,b38,38,6,858,fruit basket,3,Moderately
+858,R_5PAMRt4s9LlEvnx,b38,38,7,859,fruit bowl,3,Moderately
+859,R_5PAMRt4s9LlEvnx,b38,38,8,860,gift bow,1,Not at all
+860,R_5PAMRt4s9LlEvnx,b38,38,9,861,ice cream,5,Completely
+861,R_5PAMRt4s9LlEvnx,b38,38,10,862,ice cream cone,5,Completely
+862,R_5PAMRt4s9LlEvnx,b38,38,11,863,Mickey Mouse,1,Not at all
+863,R_5PAMRt4s9LlEvnx,b38,38,12,864,owl,1,Not at all
+864,R_5PAMRt4s9LlEvnx,b38,38,13,865,shamrock,2,A little
+865,R_5PAMRt4s9LlEvnx,b38,38,14,866,smiley face,1,Not at all
+866,R_5PAMRt4s9LlEvnx,b38,38,15,867,snowman,1,Not at all
+867,R_5PAMRt4s9LlEvnx,b38,38,16,868,Venn diagram,1,Not at all
+868,R_5PAMRt4s9LlEvnx,b39,39,1,869,abstract person,1,Not at all
+869,R_5PAMRt4s9LlEvnx,b39,39,2,870,balloons,4,A lot
+870,R_5PAMRt4s9LlEvnx,b39,39,3,871,bee,1,Not at all
+871,R_5PAMRt4s9LlEvnx,b39,39,4,872,bow tie,1,Not at all
+872,R_5PAMRt4s9LlEvnx,b39,39,5,873,bucket,1,Not at all
+873,R_5PAMRt4s9LlEvnx,b39,39,6,874,butterfly,1,Not at all
+874,R_5PAMRt4s9LlEvnx,b39,39,7,875,clubs suit,3,Moderately
+875,R_5PAMRt4s9LlEvnx,b39,39,8,876,dragon fly,1,Not at all
+876,R_5PAMRt4s9LlEvnx,b39,39,9,877,flower,5,Completely
+877,R_5PAMRt4s9LlEvnx,b39,39,10,878,football player,1,Not at all
+878,R_5PAMRt4s9LlEvnx,b39,39,11,879,gift bow,2,A little
+879,R_5PAMRt4s9LlEvnx,b39,39,12,880,glasses,1,Not at all
+880,R_5PAMRt4s9LlEvnx,b39,39,13,881,glasses and nose,2,A little
+881,R_5PAMRt4s9LlEvnx,b39,39,14,882,Hourglass,1,Not at all
+882,R_5PAMRt4s9LlEvnx,b39,39,15,883,ice cream,5,Completely
+883,R_5PAMRt4s9LlEvnx,b39,39,16,884,Ice cream cone,5,Completely
+884,R_5PAMRt4s9LlEvnx,b39,39,17,885,infinity symbol,1,Not at all
+885,R_5PAMRt4s9LlEvnx,b39,39,18,886,love knot,1,Not at all
+886,R_5PAMRt4s9LlEvnx,b39,39,19,887,owl,2,A little
+887,R_5PAMRt4s9LlEvnx,b39,39,20,888,person's torso,1,Not at all
+888,R_5PAMRt4s9LlEvnx,b39,39,21,889,pulley,1,Not at all
+889,R_5PAMRt4s9LlEvnx,b39,39,22,890,scissors,1,Not at all
+890,R_5PAMRt4s9LlEvnx,b39,39,23,891,small circles,1,Not at all
+891,R_5PAMRt4s9LlEvnx,b39,39,24,892,snowman,1,Not at all
+892,R_5PAMRt4s9LlEvnx,b39,39,25,893,stick figure,1,Not at all
+893,R_5PAMRt4s9LlEvnx,b40,40,1,894,balcony,1,Not at all
+894,R_5PAMRt4s9LlEvnx,b40,40,2,895,bar clamp,1,Not at all
+895,R_5PAMRt4s9LlEvnx,b40,40,3,896,bed,1,Not at all
+896,R_5PAMRt4s9LlEvnx,b40,40,4,897,box ear,1,Not at all
+897,R_5PAMRt4s9LlEvnx,b40,40,5,898,bucket,3,Moderately
+898,R_5PAMRt4s9LlEvnx,b40,40,6,899,Clock,1,Not at all
+899,R_5PAMRt4s9LlEvnx,b40,40,7,900,coffee cup,5,Completely
+900,R_5PAMRt4s9LlEvnx,b40,40,8,901,coffee mug,5,Completely
+901,R_5PAMRt4s9LlEvnx,b40,40,9,902,cup,5,Completely
+902,R_5PAMRt4s9LlEvnx,b40,40,10,903,dog,1,Not at all
+903,R_5PAMRt4s9LlEvnx,b40,40,11,904,ear,1,Not at all
+904,R_5PAMRt4s9LlEvnx,b40,40,12,905,flagpole,1,Not at all
+905,R_5PAMRt4s9LlEvnx,b40,40,13,906,goal post,1,Not at all
+906,R_5PAMRt4s9LlEvnx,b40,40,14,907,House,1,Not at all
+907,R_5PAMRt4s9LlEvnx,b40,40,15,908,key,1,Not at all
+908,R_5PAMRt4s9LlEvnx,b40,40,16,909,keyhole,1,Not at all
+909,R_5PAMRt4s9LlEvnx,b40,40,17,910,letter B,1,Not at all
+910,R_5PAMRt4s9LlEvnx,b40,40,18,911,letter R,1,Not at all
+911,R_5PAMRt4s9LlEvnx,b40,40,19,912,Lighter,3,Moderately
+912,R_5PAMRt4s9LlEvnx,b40,40,20,913,mug,5,Completely
+913,R_5PAMRt4s9LlEvnx,b40,40,21,914,padlock,2,A little
+914,R_5PAMRt4s9LlEvnx,b40,40,22,915,PC,1,Not at all
+915,R_5PAMRt4s9LlEvnx,b40,40,23,916,pitcher,4,A lot
+916,R_5PAMRt4s9LlEvnx,b40,40,24,917,point right,1,Not at all
+917,R_5PAMRt4s9LlEvnx,b40,40,25,918,pouch,1,Not at all
+918,R_5PAMRt4s9LlEvnx,b40,40,26,919,Race track,1,Not at all
+919,R_5PAMRt4s9LlEvnx,b40,40,27,920,sideways lock,2,A little
+920,R_5PAMRt4s9LlEvnx,b40,40,28,921,Toilet,1,Not at all
+921,R_5PAMRt4s9LlEvnx,b40,40,29,922,traffic light,1,Not at all
+922,R_5PAMRt4s9LlEvnx,b40,40,30,923,tuning fork,1,Not at all
+923,R_5PAMRt4s9LlEvnx,b41,41,1,924,boat,1,Not at all
+924,R_5PAMRt4s9LlEvnx,b41,41,2,925,chair,1,Not at all
+925,R_5PAMRt4s9LlEvnx,b41,41,3,926,coffee cup,5,Completely
+926,R_5PAMRt4s9LlEvnx,b41,41,4,927,coffee mug,5,Completely
+927,R_5PAMRt4s9LlEvnx,b41,41,5,928,cup,5,Completely
+928,R_5PAMRt4s9LlEvnx,b41,41,6,929,directional marker right,1,Not at all
+929,R_5PAMRt4s9LlEvnx,b41,41,7,930,dog,1,Not at all
+930,R_5PAMRt4s9LlEvnx,b41,41,8,931,door,2,A little
+931,R_5PAMRt4s9LlEvnx,b41,41,9,932,flag pole,1,Not at all
+932,R_5PAMRt4s9LlEvnx,b41,41,10,933,gate,2,A little
+933,R_5PAMRt4s9LlEvnx,b41,41,11,934,gift box,2,A little
+934,R_5PAMRt4s9LlEvnx,b41,41,12,935,heart,1,Not at all
+935,R_5PAMRt4s9LlEvnx,b41,41,13,936,key,1,Not at all
+936,R_5PAMRt4s9LlEvnx,b41,41,14,937,letter R,1,Not at all
+937,R_5PAMRt4s9LlEvnx,b41,41,15,938,luggage tag,1,Not at all
+938,R_5PAMRt4s9LlEvnx,b41,41,16,939,magnifying glass,1,Not at all
+939,R_5PAMRt4s9LlEvnx,b41,41,17,940,Mailbox,3,Moderately
+940,R_5PAMRt4s9LlEvnx,b41,41,18,941,mug,5,Completely
+941,R_5PAMRt4s9LlEvnx,b41,41,19,942,note,1,Not at all
+942,R_5PAMRt4s9LlEvnx,b41,41,20,943,paper clip,3,Moderately
+943,R_5PAMRt4s9LlEvnx,b41,41,21,944,paperclip holder,2,A little
+944,R_5PAMRt4s9LlEvnx,b41,41,22,945,pipe clamp,1,Not at all
+945,R_5PAMRt4s9LlEvnx,b41,41,23,946,pistol,1,Not at all
+946,R_5PAMRt4s9LlEvnx,b41,41,24,947,Point,1,Not at all
+947,R_5PAMRt4s9LlEvnx,b41,41,25,948,pregnancy,1,Not at all
+948,R_5PAMRt4s9LlEvnx,b41,41,26,949,road,1,Not at all
+949,R_5PAMRt4s9LlEvnx,b41,41,27,950,semi circle,1,Not at all
+950,R_5PAMRt4s9LlEvnx,b41,41,28,951,shopping cart,3,Moderately
+951,R_5PAMRt4s9LlEvnx,b41,41,29,952,square bulge,1,Not at all
+952,R_5PAMRt4s9LlEvnx,b41,41,30,953,staple gun,1,Not at all
+953,R_5PAMRt4s9LlEvnx,b41,41,31,954,trapezium,1,Not at all
+954,R_5PAMRt4s9LlEvnx,b41,41,32,955,turtle,3,Moderately
+955,R_5PAMRt4s9LlEvnx,b41,41,33,956,Water Pitcher,3,Moderately
+956,R_5PAMRt4s9LlEvnx,b42,42,1,957,bookshelf,3,Moderately
+957,R_5PAMRt4s9LlEvnx,b42,42,2,958,four squares,4,A lot
+958,R_5PAMRt4s9LlEvnx,b42,42,3,959,grid,5,Completely
+959,R_5PAMRt4s9LlEvnx,b42,42,4,960,hash sign,2,A little
+960,R_5PAMRt4s9LlEvnx,b42,42,5,961,hashtag,2,A little
+961,R_5PAMRt4s9LlEvnx,b42,42,6,962,ladder,1,Not at all
+962,R_5PAMRt4s9LlEvnx,b42,42,7,963,Lined square,1,Not at all
+963,R_5PAMRt4s9LlEvnx,b42,42,8,964,pound sign,2,A little
+964,R_5PAMRt4s9LlEvnx,b42,42,9,965,present,3,Moderately
+965,R_5PAMRt4s9LlEvnx,b42,42,10,966,Small Rectangles,2,A little
+966,R_5PAMRt4s9LlEvnx,b42,42,11,967,square,2,A little
+967,R_5PAMRt4s9LlEvnx,b42,42,12,968,table frame,1,Not at all
+968,R_5PAMRt4s9LlEvnx,b42,42,13,969,tic-tac-toe,2,A little
+969,R_5PAMRt4s9LlEvnx,b42,42,14,970,two boxes,1,Not at all
+970,R_5PAMRt4s9LlEvnx,b42,42,15,971,vertical rectangles,1,Not at all
+971,R_5PAMRt4s9LlEvnx,b42,42,16,972,waffle,4,A lot
+972,R_5PAMRt4s9LlEvnx,b42,42,17,973,window,5,Completely
+973,R_5PAMRt4s9LlEvnx,b43,43,1,974,Balloon,1,Not at all
+974,R_5PAMRt4s9LlEvnx,b43,43,2,975,bike handle,1,Not at all
+975,R_5PAMRt4s9LlEvnx,b43,43,3,976,cartoon bomb,2,A little
+976,R_5PAMRt4s9LlEvnx,b43,43,4,977,cat,1,Not at all
+977,R_5PAMRt4s9LlEvnx,b43,43,5,978,corkscrew,1,Not at all
+978,R_5PAMRt4s9LlEvnx,b43,43,6,979,dollar sign,1,Not at all
+979,R_5PAMRt4s9LlEvnx,b43,43,7,980,earring,1,Not at all
+980,R_5PAMRt4s9LlEvnx,b43,43,8,981,eighth note,1,Not at all
+981,R_5PAMRt4s9LlEvnx,b43,43,9,982,Hook,1,Not at all
+982,R_5PAMRt4s9LlEvnx,b43,43,10,983,hospital sign,1,Not at all
+983,R_5PAMRt4s9LlEvnx,b43,43,11,984,keyhole,1,Not at all
+984,R_5PAMRt4s9LlEvnx,b43,43,12,985,lollipop,1,Not at all
+985,R_5PAMRt4s9LlEvnx,b43,43,13,986,musical symbol,1,Not at all
+986,R_5PAMRt4s9LlEvnx,b43,43,14,987,Oval pile,1,Not at all
+987,R_5PAMRt4s9LlEvnx,b43,43,15,988,pendulum,1,Not at all
+988,R_5PAMRt4s9LlEvnx,b43,43,16,989,pie chain,1,Not at all
+989,R_5PAMRt4s9LlEvnx,b43,43,17,990,power button,1,Not at all
+990,R_5PAMRt4s9LlEvnx,b43,43,18,991,question mark,1,Not at all
+991,R_5PAMRt4s9LlEvnx,b43,43,19,992,royal scepter,1,Not at all
+992,R_5PAMRt4s9LlEvnx,b43,43,20,993,saxophone,1,Not at all
+993,R_5PAMRt4s9LlEvnx,b43,43,21,994,snake,1,Not at all
+994,R_5PAMRt4s9LlEvnx,b43,43,22,995,Snake,1,Not at all
+995,R_5PAMRt4s9LlEvnx,b43,43,23,996,snake donut,1,Not at all
+996,R_5PAMRt4s9LlEvnx,b43,43,24,997,spoon,1,Not at all
+997,R_5PAMRt4s9LlEvnx,b43,43,25,998,stethoscope,1,Not at all
+998,R_5PAMRt4s9LlEvnx,b43,43,26,999,sucker,1,Not at all
+999,R_5PAMRt4s9LlEvnx,b43,43,27,1000,Swing,1,Not at all
+1000,R_5PAMRt4s9LlEvnx,b43,43,28,1001,theta,1,Not at all
+1001,R_5PAMRt4s9LlEvnx,b43,43,29,1002,unicycle,1,Not at all
+1002,R_5PAMRt4s9LlEvnx,b43,43,30,1003,watch,1,Not at all
+1003,R_5PAMRt4s9LlEvnx,b43,43,31,1004,weather vane,1,Not at all
+1004,R_5PAMRt4s9LlEvnx,b43,43,32,1005,yo-yo,4,A lot
+1005,R_5PAMRt4s9LlEvnx,b43,43,33,1006,zooming ball,1,Not at all
+1006,R_5PAMRt4s9LlEvnx,b44,44,1,1007,apple,1,Not at all
+1007,R_5PAMRt4s9LlEvnx,b44,44,2,1008,bike,1,Not at all
+1008,R_5PAMRt4s9LlEvnx,b44,44,3,1009,Butterfly,1,Not at all
+1009,R_5PAMRt4s9LlEvnx,b44,44,4,1010,butterfly,1,Not at all
+1010,R_5PAMRt4s9LlEvnx,b44,44,5,1011,christmas ornament,2,A little
+1011,R_5PAMRt4s9LlEvnx,b44,44,6,1012,coffee cup,1,Not at all
+1012,R_5PAMRt4s9LlEvnx,b44,44,7,1013,Computer Mouse,4,A lot
+1013,R_5PAMRt4s9LlEvnx,b44,44,8,1014,dollar sign,1,Not at all
+1014,R_5PAMRt4s9LlEvnx,b44,44,9,1015,Elephant ears,5,Completely
+1015,R_5PAMRt4s9LlEvnx,b44,44,10,1016,fan,1,Not at all
+1016,R_5PAMRt4s9LlEvnx,b44,44,11,1017,hanger,1,Not at all
+1017,R_5PAMRt4s9LlEvnx,b44,44,12,1018,head,1,Not at all
+1018,R_5PAMRt4s9LlEvnx,b44,44,13,1019,heart,1,Not at all
+1019,R_5PAMRt4s9LlEvnx,b44,44,14,1020,hot soup,1,Not at all
+1020,R_5PAMRt4s9LlEvnx,b44,44,15,1021,infinity symbol,1,Not at all
+1021,R_5PAMRt4s9LlEvnx,b44,44,16,1022,ink pencil,1,Not at all
+1022,R_5PAMRt4s9LlEvnx,b44,44,17,1023,keychain,3,Moderately
+1023,R_5PAMRt4s9LlEvnx,b44,44,18,1024,ladybug,2,A little
+1024,R_5PAMRt4s9LlEvnx,b44,44,19,1025,lit match,1,Not at all
+1025,R_5PAMRt4s9LlEvnx,b44,44,20,1026,lollipop,1,Not at all
+1026,R_5PAMRt4s9LlEvnx,b44,44,21,1027,magnifying glass,1,Not at all
+1027,R_5PAMRt4s9LlEvnx,b44,44,22,1028,musical note,1,Not at all
+1028,R_5PAMRt4s9LlEvnx,b44,44,23,1029,necklace,1,Not at all
+1029,R_5PAMRt4s9LlEvnx,b44,44,24,1030,OVAL,1,Not at all
+1030,R_5PAMRt4s9LlEvnx,b44,44,25,1031,pitchfork,1,Not at all
+1031,R_5PAMRt4s9LlEvnx,b44,44,26,1032,pocketwatch,1,Not at all
+1032,R_5PAMRt4s9LlEvnx,b44,44,27,1033,pumpkin,3,Moderately
+1033,R_5PAMRt4s9LlEvnx,b44,44,28,1034,question mrk,1,Not at all
+1034,R_5PAMRt4s9LlEvnx,b44,44,29,1035,Semicircle,1,Not at all
+1035,R_5PAMRt4s9LlEvnx,b44,44,30,1036,small kite,1,Not at all
+1036,R_5PAMRt4s9LlEvnx,b44,44,31,1037,smoking pipe,2,A little
+1037,R_5PAMRt4s9LlEvnx,b44,44,32,1038,snake,1,Not at all
+1038,R_5PAMRt4s9LlEvnx,b44,44,33,1039,Stringray,4,A lot
+1039,R_5PAMRt4s9LlEvnx,b44,44,34,1040,sun glasses,1,Not at all
+1040,R_5PAMRt4s9LlEvnx,b44,44,35,1041,sunglasses,1,Not at all
+1041,R_5PAMRt4s9LlEvnx,b44,44,36,1042,swan,1,Not at all
+1042,R_5PAMRt4s9LlEvnx,b44,44,37,1043,sword,1,Not at all
+1043,R_5PAMRt4s9LlEvnx,b44,44,38,1044,tadpole,1,Not at all
+1044,R_5PAMRt4s9LlEvnx,b45,45,1,1045,balloon,2,A little
+1045,R_5PAMRt4s9LlEvnx,b45,45,2,1046,Circle,1,Not at all
+1046,R_5PAMRt4s9LlEvnx,b45,45,3,1047,clock,5,Completely
+1047,R_5PAMRt4s9LlEvnx,b45,45,4,1048,cup,1,Not at all
+1048,R_5PAMRt4s9LlEvnx,b45,45,5,1049,face,1,Not at all
+1049,R_5PAMRt4s9LlEvnx,b45,45,6,1050,fishing pole,1,Not at all
+1050,R_5PAMRt4s9LlEvnx,b45,45,7,1051,hanging target,3,Moderately
+1051,R_5PAMRt4s9LlEvnx,b45,45,8,1052,key,1,Not at all
+1052,R_5PAMRt4s9LlEvnx,b45,45,9,1053,lefty,1,Not at all
+1053,R_5PAMRt4s9LlEvnx,b45,45,10,1054,LG symbol,1,Not at all
+1054,R_5PAMRt4s9LlEvnx,b45,45,11,1055,lobby button,1,Not at all
+1055,R_5PAMRt4s9LlEvnx,b45,45,12,1056,logo,1,Not at all
+1056,R_5PAMRt4s9LlEvnx,b45,45,13,1057,lottery ball,1,Not at all
+1057,R_5PAMRt4s9LlEvnx,b45,45,14,1058,magnifying glass,1,Not at all
+1058,R_5PAMRt4s9LlEvnx,b45,45,15,1059,person,1,Not at all
+1059,R_5PAMRt4s9LlEvnx,b45,45,16,1060,power button,1,Not at all
+1060,R_5PAMRt4s9LlEvnx,b45,45,17,1061,wheelchair,1,Not at all
+1061,R_5PAMRt4s9LlEvnx,b46,46,1,1062,anchor,2,A little
+1062,R_5PAMRt4s9LlEvnx,b46,46,2,1063,arch,1,Not at all
+1063,R_5PAMRt4s9LlEvnx,b46,46,3,1064,Bride,1,Not at all
+1064,R_5PAMRt4s9LlEvnx,b46,46,4,1065,bridge,1,Not at all
+1065,R_5PAMRt4s9LlEvnx,b46,46,5,1066,butterfly,1,Not at all
+1066,R_5PAMRt4s9LlEvnx,b46,46,6,1067,chalice,1,Not at all
+1067,R_5PAMRt4s9LlEvnx,b46,46,7,1068,Chinese Character,1,Not at all
+1068,R_5PAMRt4s9LlEvnx,b46,46,8,1069,Circle,1,Not at all
+1069,R_5PAMRt4s9LlEvnx,b46,46,9,1070,circle square,1,Not at all
+1070,R_5PAMRt4s9LlEvnx,b46,46,10,1071,clover,2,A little
+1071,R_5PAMRt4s9LlEvnx,b46,46,11,1072,eight,1,Not at all
+1072,R_5PAMRt4s9LlEvnx,b46,46,12,1073,face,1,Not at all
+1073,R_5PAMRt4s9LlEvnx,b46,46,13,1074,Grenade,3,Moderately
+1074,R_5PAMRt4s9LlEvnx,b46,46,14,1075,handcuffs,1,Not at all
+1075,R_5PAMRt4s9LlEvnx,b46,46,15,1076,heart,1,Not at all
+1076,R_5PAMRt4s9LlEvnx,b46,46,16,1077,heart,2,A little
+1077,R_5PAMRt4s9LlEvnx,b46,46,17,1078,hourglass,1,Not at all
+1078,R_5PAMRt4s9LlEvnx,b46,46,18,1079,human face,2,A little
+1079,R_5PAMRt4s9LlEvnx,b46,46,19,1080,ice cream,4,A lot
+1080,R_5PAMRt4s9LlEvnx,b46,46,20,1081,lamp,3,Moderately
+1081,R_5PAMRt4s9LlEvnx,b46,46,21,1082,lightbulb,4,A lot
+1082,R_5PAMRt4s9LlEvnx,b46,46,22,1083,medal,3,Moderately
+1083,R_5PAMRt4s9LlEvnx,b46,46,23,1084,muffin,5,Completely
+1084,R_5PAMRt4s9LlEvnx,b46,46,24,1085,mushroom,3,Moderately
+1085,R_5PAMRt4s9LlEvnx,b46,46,25,1086,mustache,1,Not at all
+1086,R_5PAMRt4s9LlEvnx,b46,46,26,1087,number 3,1,Not at all
+1087,R_5PAMRt4s9LlEvnx,b46,46,27,1088,number 8,1,Not at all
+1088,R_5PAMRt4s9LlEvnx,b46,46,28,1089,pop-up toaster,1,Not at all
+1089,R_5PAMRt4s9LlEvnx,b46,46,29,1090,port,2,A little
+1090,R_5PAMRt4s9LlEvnx,b46,46,30,1091,Prize Ribbon,4,A lot
+1091,R_5PAMRt4s9LlEvnx,b46,46,31,1092,snowman,1,Not at all
+1092,R_5PAMRt4s9LlEvnx,b46,46,32,1093,spade,3,Moderately
+1093,R_5PAMRt4s9LlEvnx,b46,46,33,1094,staple remover,2,A little
+1094,R_5PAMRt4s9LlEvnx,b46,46,34,1095,treble clef,1,Not at all
+1095,R_5PAMRt4s9LlEvnx,b46,46,35,1096,tuning fork,1,Not at all
+1096,R_5PAMRt4s9LlEvnx,b46,46,36,1097,window,1,Not at all
+1097,R_5PAMRt4s9LlEvnx,b46,46,37,1098,yin yang,1,Not at all
+1098,R_5PAMRt4s9LlEvnx,b47,47,1,1099,anchor,1,Not at all
+1099,R_5PAMRt4s9LlEvnx,b47,47,2,1100,asclepius rod,1,Not at all
+1100,R_5PAMRt4s9LlEvnx,b47,47,3,1101,ball,1,Not at all
+1101,R_5PAMRt4s9LlEvnx,b47,47,4,1102,balloon,1,Not at all
+1102,R_5PAMRt4s9LlEvnx,b47,47,5,1103,bridge,1,Not at all
+1103,R_5PAMRt4s9LlEvnx,b47,47,6,1104,butterfly,1,Not at all
+1104,R_5PAMRt4s9LlEvnx,b47,47,7,1105,c clamp,1,Not at all
+1105,R_5PAMRt4s9LlEvnx,b47,47,8,1106,circular shrug,1,Not at all
+1106,R_5PAMRt4s9LlEvnx,b47,47,9,1107,computer mouse,5,Completely
+1107,R_5PAMRt4s9LlEvnx,b47,47,10,1108,cross circle,1,Not at all
+1108,R_5PAMRt4s9LlEvnx,b47,47,11,1109,Crosshair,1,Not at all
+1109,R_5PAMRt4s9LlEvnx,b47,47,12,1110,dog shape,1,Not at all
+1110,R_5PAMRt4s9LlEvnx,b47,47,13,1111,dollar sign,1,Not at all
+1111,R_5PAMRt4s9LlEvnx,b47,47,14,1112,key,1,Not at all
+1112,R_5PAMRt4s9LlEvnx,b47,47,15,1113,keychain,1,Not at all
+1113,R_5PAMRt4s9LlEvnx,b47,47,16,1114,Kite,1,Not at all
+1114,R_5PAMRt4s9LlEvnx,b47,47,17,1115,lamp,1,Not at all
+1115,R_5PAMRt4s9LlEvnx,b47,47,18,1116,mountain,1,Not at all
+1116,R_5PAMRt4s9LlEvnx,b47,47,19,1117,Mouse,5,Completely
+1117,R_5PAMRt4s9LlEvnx,b47,47,20,1118,musical clef,1,Not at all
+1118,R_5PAMRt4s9LlEvnx,b47,47,21,1119,Pill,2,A little
+1119,R_5PAMRt4s9LlEvnx,b47,47,22,1120,pulley,1,Not at all
+1120,R_5PAMRt4s9LlEvnx,b47,47,23,1121,scissors,1,Not at all
+1121,R_5PAMRt4s9LlEvnx,b47,47,24,1122,snail,1,Not at all
+1122,R_5PAMRt4s9LlEvnx,b47,47,25,1123,Square,1,Not at all
+1123,R_5PAMRt4s9LlEvnx,b47,47,26,1124,stethoscope,1,Not at all
+1124,R_5PAMRt4s9LlEvnx,b47,47,27,1125,teapot,1,Not at all
+1125,R_5PAMRt4s9LlEvnx,b47,47,28,1126,treble chef,1,Not at all
+1126,R_5PAMRt4s9LlEvnx,b47,47,29,1127,Vase,1,Not at all
+1127,R_5PAMRt4s9LlEvnx,b47,47,30,1128,Wings,1,Not at all
+1128,R_5PAMRt4s9LlEvnx,b47,47,31,1129,Yo-yo,2,A little
+1129,R_5PAMRt4s9LlEvnx,b48,48,1,1130,a tree,1,Not at all
+1130,R_5PAMRt4s9LlEvnx,b48,48,2,1131,anchor,2,A little
+1131,R_5PAMRt4s9LlEvnx,b48,48,3,1132,Drawn Bow,1,Not at all
+1132,R_5PAMRt4s9LlEvnx,b48,48,4,1133,flagpole,3,Moderately
+1133,R_5PAMRt4s9LlEvnx,b48,48,5,1134,goal post,3,Moderately
+1134,R_5PAMRt4s9LlEvnx,b48,48,6,1135,hammer,2,A little
+1135,R_5PAMRt4s9LlEvnx,b48,48,7,1136,I imagined a X,1,Not at all
+1136,R_5PAMRt4s9LlEvnx,b48,48,8,1137,inverted T,1,Not at all
+1137,R_5PAMRt4s9LlEvnx,b48,48,9,1138,knife,1,Not at all
+1138,R_5PAMRt4s9LlEvnx,b48,48,10,1139,lamp,2,A little
+1139,R_5PAMRt4s9LlEvnx,b48,48,11,1140,letter E,1,Not at all
+1140,R_5PAMRt4s9LlEvnx,b48,48,12,1141,letter T,5,Completely
+1141,R_5PAMRt4s9LlEvnx,b48,48,13,1142,letter x,1,Not at all
+1142,R_5PAMRt4s9LlEvnx,b48,48,14,1143,letter Y,1,Not at all
+1143,R_5PAMRt4s9LlEvnx,b48,48,15,1144,line graph,1,Not at all
+1144,R_5PAMRt4s9LlEvnx,b48,48,16,1145,pedestal table,3,Moderately
+1145,R_5PAMRt4s9LlEvnx,b48,48,17,1146,plus sign,1,Not at all
+1146,R_5PAMRt4s9LlEvnx,b48,48,18,1147,signpost,3,Moderately
+1147,R_5PAMRt4s9LlEvnx,b48,48,19,1148,square,1,Not at all
+1148,R_5PAMRt4s9LlEvnx,b48,48,20,1149,T-square,1,Not at all
+1149,R_5PAMRt4s9LlEvnx,b48,48,21,1150,table,3,Moderately
+1150,R_5PAMRt4s9LlEvnx,b48,48,22,1151,tee,3,Moderately
+1151,R_5PAMRt4s9LlEvnx,b48,48,23,1152,Tent,1,Not at all
+1152,R_5PAMRt4s9LlEvnx,b48,48,24,1153,tetris block,4,A lot
+1153,R_5PAMRt4s9LlEvnx,b48,48,25,1154,uppercase pi,1,Not at all
+1154,R_5PAMRt4s9LlEvnx,b49,49,1,1155,Antennae,1,Not at all
+1155,R_5PAMRt4s9LlEvnx,b49,49,2,1156,arrow,1,Not at all
+1156,R_5PAMRt4s9LlEvnx,b49,49,3,1157,beach,1,Not at all
+1157,R_5PAMRt4s9LlEvnx,b49,49,4,1158,bikini set,1,Not at all
+1158,R_5PAMRt4s9LlEvnx,b49,49,5,1159,Bird Beak,1,Not at all
+1159,R_5PAMRt4s9LlEvnx,b49,49,6,1160,bird head,1,Not at all
+1160,R_5PAMRt4s9LlEvnx,b49,49,7,1161,bull skull,1,Not at all
+1161,R_5PAMRt4s9LlEvnx,b49,49,8,1162,butterfly,1,Not at all
+1162,R_5PAMRt4s9LlEvnx,b49,49,9,1163,Cherries,2,A little
+1163,R_5PAMRt4s9LlEvnx,b49,49,10,1164,evil face,1,Not at all
+1164,R_5PAMRt4s9LlEvnx,b49,49,11,1165,heart,5,Completely
+1165,R_5PAMRt4s9LlEvnx,b49,49,12,1166,ice cream,3,Moderately
+1166,R_5PAMRt4s9LlEvnx,b49,49,13,1167,love,5,Completely
+1167,R_5PAMRt4s9LlEvnx,b49,49,14,1168,M triangle,1,Not at all
+1168,R_5PAMRt4s9LlEvnx,b49,49,15,1169,mountain,1,Not at all
+1169,R_5PAMRt4s9LlEvnx,b49,49,16,1170,owl,1,Not at all
+1170,R_5PAMRt4s9LlEvnx,b49,49,17,1171,pendant lights,1,Not at all
+1171,R_5PAMRt4s9LlEvnx,b49,49,18,1172,Pizza,1,Not at all
+1172,R_5PAMRt4s9LlEvnx,b49,49,19,1173,scissors,1,Not at all
+1173,R_5PAMRt4s9LlEvnx,b49,49,20,1174,Triangle,1,Not at all
+1174,R_5PAMRt4s9LlEvnx,b50,50,1,1175,anchor,1,Not at all
+1175,R_5PAMRt4s9LlEvnx,b50,50,2,1176,arrow,1,Not at all
+1176,R_5PAMRt4s9LlEvnx,b50,50,3,1177,Broom,1,Not at all
+1177,R_5PAMRt4s9LlEvnx,b50,50,4,1178,candelabra,1,Not at all
+1178,R_5PAMRt4s9LlEvnx,b50,50,5,1179,cartoon image,1,Not at all
+1179,R_5PAMRt4s9LlEvnx,b50,50,6,1180,Doll,4,A lot
+1180,R_5PAMRt4s9LlEvnx,b50,50,7,1181,Electric tower,1,Not at all
+1181,R_5PAMRt4s9LlEvnx,b50,50,8,1182,Female Logo,1,Not at all
+1182,R_5PAMRt4s9LlEvnx,b50,50,9,1183,hourglass,1,Not at all
+1183,R_5PAMRt4s9LlEvnx,b50,50,10,1184,human sketch,5,Completely
+1184,R_5PAMRt4s9LlEvnx,b50,50,11,1185,Key,1,Not at all
+1185,R_5PAMRt4s9LlEvnx,b50,50,12,1186,martini glass,1,Not at all
+1186,R_5PAMRt4s9LlEvnx,b50,50,13,1187,mirror,1,Not at all
+1187,R_5PAMRt4s9LlEvnx,b50,50,14,1188,person,5,Completely
+1188,R_5PAMRt4s9LlEvnx,b50,50,15,1189,slingshot,1,Not at all
+1189,R_5PAMRt4s9LlEvnx,b50,50,16,1190,Standing lamp,1,Not at all
+1190,R_5PAMRt4s9LlEvnx,b50,50,17,1191,stick figure,5,Completely
+1191,R_5PAMRt4s9LlEvnx,b50,50,18,1192,stick person,5,Completely
+1192,R_5PAMRt4s9LlEvnx,b50,50,19,1193,stickman,5,Completely
+1193,R_5PAMRt4s9LlEvnx,b50,50,20,1194,tree,1,Not at all
+1194,R_5PAMRt4s9LlEvnx,b50,50,21,1195,trident,1,Not at all
+1195,R_5PAMRt4s9LlEvnx,b50,50,22,1196,wine glass,1,Not at all
+1196,R_5PAMRt4s9LlEvnx,b51,51,1,1197,birdhouse,3,Moderately
+1197,R_5PAMRt4s9LlEvnx,b51,51,2,1198,crest,1,Not at all
+1198,R_5PAMRt4s9LlEvnx,b51,51,3,1199,figure,1,Not at all
+1199,R_5PAMRt4s9LlEvnx,b51,51,4,1200,headstanding man,1,Not at all
+1200,R_5PAMRt4s9LlEvnx,b51,51,5,1201,house,1,Not at all
+1201,R_5PAMRt4s9LlEvnx,b51,51,6,1202,key,1,Not at all
+1202,R_5PAMRt4s9LlEvnx,b51,51,7,1203,keyhole,1,Not at all
+1203,R_5PAMRt4s9LlEvnx,b51,51,8,1204,medal,1,Not at all
+1204,R_5PAMRt4s9LlEvnx,b51,51,9,1205,person,1,Not at all
+1205,R_5PAMRt4s9LlEvnx,b51,51,10,1206,plant,1,Not at all
+1206,R_5PAMRt4s9LlEvnx,b51,51,11,1207,present,3,Moderately
+1207,R_5PAMRt4s9LlEvnx,b51,51,12,1208,RADIO,5,Completely
+1208,R_5PAMRt4s9LlEvnx,b51,51,13,1209,Robot,1,Not at all
+1209,R_5PAMRt4s9LlEvnx,b51,51,14,1210,robot arm,1,Not at all
+1210,R_5PAMRt4s9LlEvnx,b51,51,15,1211,Satellite dish,1,Not at all
+1211,R_5PAMRt4s9LlEvnx,b51,51,16,1212,Square,1,Not at all
+1212,R_5PAMRt4s9LlEvnx,b51,51,17,1213,television,5,Completely
+1213,R_5PAMRt4s9LlEvnx,b51,51,18,1214,transistor radio,4,A lot
+1214,R_5PAMRt4s9LlEvnx,b51,51,19,1215,TV,5,Completely
+1215,R_5PAMRt4s9LlEvnx,b51,51,20,1216,upside-down person,1,Not at all
+1216,R_5PAMRt4s9LlEvnx,b51,51,21,1217,weight balance,1,Not at all
+1217,R_5PAMRt4s9LlEvnx,b51,51,22,1218,wheelbarrow,1,Not at all
+1218,R_5PAMRt4s9LlEvnx,b52,52,1,1219,comb,2,A little
+1219,R_5PAMRt4s9LlEvnx,b52,52,2,1220,Cross,1,Not at all
+1220,R_5PAMRt4s9LlEvnx,b52,52,3,1221,crosshair,1,Not at all
+1221,R_5PAMRt4s9LlEvnx,b52,52,4,1222,flagpole,3,Moderately
+1222,R_5PAMRt4s9LlEvnx,b52,52,5,1223,forklift,1,Not at all
+1223,R_5PAMRt4s9LlEvnx,b52,52,6,1224,letter E,1,Not at all
+1224,R_5PAMRt4s9LlEvnx,b52,52,7,1225,letter F,5,Completely
+1225,R_5PAMRt4s9LlEvnx,b52,52,8,1226,letter T,1,Not at all
+1226,R_5PAMRt4s9LlEvnx,b52,52,9,1227,line,1,Not at all
+1227,R_5PAMRt4s9LlEvnx,b52,52,10,1228,lowercase r,1,Not at all
+1228,R_5PAMRt4s9LlEvnx,b52,52,11,1229,pattern,1,Not at all
+1229,R_5PAMRt4s9LlEvnx,b52,52,12,1230,picket fence,1,Not at all
+1230,R_5PAMRt4s9LlEvnx,b52,52,13,1231,plus sign,1,Not at all
+1231,R_5PAMRt4s9LlEvnx,b52,52,14,1232,signpost,2,A little
+1232,R_5PAMRt4s9LlEvnx,b52,52,15,1233,Square rotated,1,Not at all
+1233,R_5PAMRt4s9LlEvnx,b52,52,16,1234,star,1,Not at all
+1234,R_5PAMRt4s9LlEvnx,b52,52,17,1235,step stool,1,Not at all
+1235,R_5PAMRt4s9LlEvnx,b52,52,18,1236,Sword,1,Not at all
+1236,R_5PAMRt4s9LlEvnx,b52,52,19,1237,toothbrush,1,Not at all
+1237,R_5PAMRt4s9LlEvnx,b52,52,20,1238,triangle,1,Not at all
+1238,R_5PAMRt4s9LlEvnx,b53,53,1,1239,Abstract umbrella,1,Not at all
+1239,R_5PAMRt4s9LlEvnx,b53,53,2,1240,aircraft,1,Not at all
+1240,R_5PAMRt4s9LlEvnx,b53,53,3,1241,arrow,1,Not at all
+1241,R_5PAMRt4s9LlEvnx,b53,53,4,1242,bell,1,Not at all
+1242,R_5PAMRt4s9LlEvnx,b53,53,5,1243,Boat,5,Completely
+1243,R_5PAMRt4s9LlEvnx,b53,53,6,1244,desk lamp,1,Not at all
+1244,R_5PAMRt4s9LlEvnx,b53,53,7,1245,flag bracket,1,Not at all
+1245,R_5PAMRt4s9LlEvnx,b53,53,8,1246,golf club,1,Not at all
+1246,R_5PAMRt4s9LlEvnx,b53,53,9,1247,Key,1,Not at all
+1247,R_5PAMRt4s9LlEvnx,b53,53,10,1248,keyhole,1,Not at all
+1248,R_5PAMRt4s9LlEvnx,b53,53,11,1249,lightening bolt,1,Not at all
+1249,R_5PAMRt4s9LlEvnx,b53,53,12,1250,microscope,1,Not at all
+1250,R_5PAMRt4s9LlEvnx,b53,53,13,1251,musical note,1,Not at all
+1251,R_5PAMRt4s9LlEvnx,b53,53,14,1252,number 6,1,Not at all
+1252,R_5PAMRt4s9LlEvnx,b53,53,15,1253,pitching wedge,1,Not at all
+1253,R_5PAMRt4s9LlEvnx,b53,53,16,1254,sailboat,5,Completely
+1254,R_5PAMRt4s9LlEvnx,b53,53,17,1255,spade,1,Not at all
+1255,R_5PAMRt4s9LlEvnx,b53,53,18,1256,swing set,1,Not at all
+1256,R_5PAMRt4s9LlEvnx,b53,53,19,1257,tulip,1,Not at all
+1257,R_5PAMRt4s9LlEvnx,b53,53,20,1258,turtle,1,Not at all
+1258,R_5PAMRt4s9LlEvnx,b53,53,21,1259,wall sconce,1,Not at all
+1259,R_5PAMRt4s9LlEvnx,b54,54,1,1260,Ant,1,Not at all
+1260,R_5PAMRt4s9LlEvnx,b54,54,2,1261,Basketball hoop,1,Not at all
+1261,R_5PAMRt4s9LlEvnx,b54,54,3,1262,bottle opener,2,A little
+1262,R_5PAMRt4s9LlEvnx,b54,54,4,1263,Brush,1,Not at all
+1263,R_5PAMRt4s9LlEvnx,b54,54,5,1264,butterfly,1,Not at all
+1264,R_5PAMRt4s9LlEvnx,b54,54,6,1265,coat hook,2,A little
+1265,R_5PAMRt4s9LlEvnx,b54,54,7,1266,concave,1,Not at all
+1266,R_5PAMRt4s9LlEvnx,b54,54,8,1267,dumbbell,1,Not at all
+1267,R_5PAMRt4s9LlEvnx,b54,54,9,1268,flag,1,Not at all
+1268,R_5PAMRt4s9LlEvnx,b54,54,10,1269,gas pump,1,Not at all
+1269,R_5PAMRt4s9LlEvnx,b54,54,11,1270,golf club,1,Not at all
+1270,R_5PAMRt4s9LlEvnx,b54,54,12,1271,key,3,Moderately
+1271,R_5PAMRt4s9LlEvnx,b54,54,13,1272,key,2,A little
+1272,R_5PAMRt4s9LlEvnx,b54,54,14,1273,music clef,3,Moderately
+1273,R_5PAMRt4s9LlEvnx,b54,54,15,1274,music note,4,A lot
+1274,R_5PAMRt4s9LlEvnx,b54,54,16,1275,music note,5,Completely
+1275,R_5PAMRt4s9LlEvnx,b54,54,17,1276,paperclip,2,A little
+1276,R_5PAMRt4s9LlEvnx,b54,54,18,1277,smoking pipe,1,Not at all
+1277,R_5PAMRt4s9LlEvnx,b54,54,19,1278,wrench,1,Not at all
+1278,R_5PAMRt4s9LlEvnx,b55,55,1,1279,anchor,2,A little
+1279,R_5PAMRt4s9LlEvnx,b55,55,2,1280,arm,1,Not at all
+1280,R_5PAMRt4s9LlEvnx,b55,55,3,1281,arrow,2,A little
+1281,R_5PAMRt4s9LlEvnx,b55,55,4,1282,arrowhead,1,Not at all
+1282,R_5PAMRt4s9LlEvnx,b55,55,5,1283,Cat snout,3,Moderately
+1283,R_5PAMRt4s9LlEvnx,b55,55,6,1284,coat rack,2,A little
+1284,R_5PAMRt4s9LlEvnx,b55,55,7,1285,flagpole,3,Moderately
+1285,R_5PAMRt4s9LlEvnx,b55,55,8,1286,glass,4,A lot
+1286,R_5PAMRt4s9LlEvnx,b55,55,9,1287,martini glass,5,Completely
+1287,R_5PAMRt4s9LlEvnx,b55,55,10,1288,peace sign,1,Not at all
+1288,R_5PAMRt4s9LlEvnx,b55,55,11,1289,shovel,4,A lot
+1289,R_5PAMRt4s9LlEvnx,b55,55,12,1290,spade,3,Moderately
+1290,R_5PAMRt4s9LlEvnx,b55,55,13,1291,stand,2,A little
+1291,R_5PAMRt4s9LlEvnx,b55,55,14,1292,Tree,2,A little
+1292,R_5PAMRt4s9LlEvnx,b55,55,15,1293,Tulip,4,A lot
+1293,R_5PAMRt4s9LlEvnx,b55,55,16,1294,wine glass,4,A lot
+1294,R_5PAMRt4s9LlEvnx,b55,55,17,1295,yield sign,5,Completely
+1295,R_5PAMRt4s9LlEvnx,b56,56,1,1296,arm,1,Not at all
+1296,R_5PAMRt4s9LlEvnx,b56,56,2,1297,arrow,1,Not at all
+1297,R_5PAMRt4s9LlEvnx,b56,56,3,1298,balloon,1,Not at all
+1298,R_5PAMRt4s9LlEvnx,b56,56,4,1299,beats symbol,1,Not at all
+1299,R_5PAMRt4s9LlEvnx,b56,56,5,1300,checkmark,1,Not at all
+1300,R_5PAMRt4s9LlEvnx,b56,56,6,1301,circle,1,Not at all
+1301,R_5PAMRt4s9LlEvnx,b56,56,7,1302,clock,5,Completely
+1302,R_5PAMRt4s9LlEvnx,b56,56,8,1303,diagram,2,A little
+1303,R_5PAMRt4s9LlEvnx,b56,56,9,1304,down arrow,1,Not at all
+1304,R_5PAMRt4s9LlEvnx,b56,56,10,1305,eye,1,Not at all
+1305,R_5PAMRt4s9LlEvnx,b56,56,11,1306,eyeball,1,Not at all
+1306,R_5PAMRt4s9LlEvnx,b56,56,12,1307,Large circle,1,Not at all
+1307,R_5PAMRt4s9LlEvnx,b56,56,13,1308,peace sign,1,Not at all
+1308,R_5PAMRt4s9LlEvnx,b56,56,14,1309,pie chart,5,Completely
+1309,R_5PAMRt4s9LlEvnx,b56,56,15,1310,Potato,1,Not at all
+1310,R_5PAMRt4s9LlEvnx,b56,56,16,1311,power button,1,Not at all
+1311,R_5PAMRt4s9LlEvnx,b56,56,17,1312,registered trademark,1,Not at all
+1312,R_5PAMRt4s9LlEvnx,b56,56,18,1313,sign,1,Not at all
+1313,R_5PAMRt4s9LlEvnx,b56,56,19,1314,sliced pie,5,Completely
+1314,R_5PAMRt4s9LlEvnx,b56,56,20,1315,tabacco pipe,1,Not at all
+1315,R_5PAMRt4s9LlEvnx,b56,56,21,1316,verified icon,2,A little
+1316,R_5PAMRt4s9LlEvnx,b57,57,1,1317,bow tie,2,A little
+1317,R_5PAMRt4s9LlEvnx,b57,57,2,1318,concave quadrilateral,1,Not at all
+1318,R_5PAMRt4s9LlEvnx,b57,57,3,1319,cross brace,2,A little
+1319,R_5PAMRt4s9LlEvnx,b57,57,4,1320,Electric symbol,1,Not at all
+1320,R_5PAMRt4s9LlEvnx,b57,57,5,1321,hashtag,1,Not at all
+1321,R_5PAMRt4s9LlEvnx,b57,57,6,1322,heavy lift,3,Moderately
+1322,R_5PAMRt4s9LlEvnx,b57,57,7,1323,hourglass,5,Completely
+1323,R_5PAMRt4s9LlEvnx,b57,57,8,1324,kite,3,Moderately
+1324,R_5PAMRt4s9LlEvnx,b57,57,9,1325,not equal,1,Not at all
+1325,R_5PAMRt4s9LlEvnx,b57,57,10,1326,railroad crossing,1,Not at all
+1326,R_5PAMRt4s9LlEvnx,b57,57,11,1327,scissors,1,Not at all
+1327,R_5PAMRt4s9LlEvnx,b57,57,12,1328,Small Peaks,1,Not at all
+1328,R_5PAMRt4s9LlEvnx,b57,57,13,1329,Spring,4,A lot
+1329,R_5PAMRt4s9LlEvnx,b57,57,14,1330,stacked triangles,1,Not at all
+1330,R_5PAMRt4s9LlEvnx,b57,57,15,1331,table,3,Moderately
+1331,R_5PAMRt4s9LlEvnx,b57,57,16,1332,tape dispenser,1,Not at all
+1332,R_5PAMRt4s9LlEvnx,b57,57,17,1333,tie,2,A little
+1333,R_5PAMRt4s9LlEvnx,b57,57,18,1334,truss bridge,2,A little
+1334,R_5PAMRt4s9LlEvnx,b57,57,19,1335,windmill,1,Not at all
+1335,R_5PAMRt4s9LlEvnx,b57,57,20,1336,window,2,A little
+1336,R_5PAMRt4s9LlEvnx,b57,57,21,1337,zipper,1,Not at all
+1337,R_5PAMRt4s9LlEvnx,b57,57,22,1338,Zorro symbol,1,Not at all
+1338,R_5PAMRt4s9LlEvnx,b58,58,1,1339,anchor,3,Moderately
+1339,R_5PAMRt4s9LlEvnx,b58,58,2,1340,elephant trunk,2,A little
+1340,R_5PAMRt4s9LlEvnx,b58,58,3,1341,fishing hook,3,Moderately
+1341,R_5PAMRt4s9LlEvnx,b58,58,4,1342,hanging scale,2,A little
+1342,R_5PAMRt4s9LlEvnx,b58,58,5,1343,letter G,1,Not at all
+1343,R_5PAMRt4s9LlEvnx,b58,58,6,1344,Motor Boat,1,Not at all
+1344,R_5PAMRt4s9LlEvnx,b58,58,7,1345,musical clef,2,A little
+1345,R_5PAMRt4s9LlEvnx,b58,58,8,1346,pipe wrench,1,Not at all
+1346,R_5PAMRt4s9LlEvnx,b58,58,9,1347,Radius,1,Not at all
+1347,R_5PAMRt4s9LlEvnx,b58,58,10,1348,Song,1,Not at all
+1348,R_5PAMRt4s9LlEvnx,b58,58,11,1349,umbrella,5,Completely
+1349,R_5PAMRt4s9LlEvnx,b59,59,1,1350,Angle,1,Not at all
+1350,R_5PAMRt4s9LlEvnx,b59,59,2,1351,arrow,4,A lot
+1351,R_5PAMRt4s9LlEvnx,b59,59,3,1352,arrowhead,2,A little
+1352,R_5PAMRt4s9LlEvnx,b59,59,4,1353,beach umbrella,4,A lot
+1353,R_5PAMRt4s9LlEvnx,b59,59,5,1354,bird feeder,3,Moderately
+1354,R_5PAMRt4s9LlEvnx,b59,59,6,1355,bridge,1,Not at all
+1355,R_5PAMRt4s9LlEvnx,b59,59,7,1356,campfire,2,A little
+1356,R_5PAMRt4s9LlEvnx,b59,59,8,1357,canopy,4,A lot
+1357,R_5PAMRt4s9LlEvnx,b59,59,9,1358,chimney,1,Not at all
+1358,R_5PAMRt4s9LlEvnx,b59,59,10,1359,gymnastics apparatus,3,Moderately
+1359,R_5PAMRt4s9LlEvnx,b59,59,11,1360,hat,1,Not at all
+1360,R_5PAMRt4s9LlEvnx,b59,59,12,1361,house,1,Not at all
+1361,R_5PAMRt4s9LlEvnx,b59,59,13,1362,rhombus,1,Not at all
+1362,R_5PAMRt4s9LlEvnx,b59,59,14,1363,rocket,2,A little
+1363,R_5PAMRt4s9LlEvnx,b59,59,15,1364,sailboat,1,Not at all
+1364,R_5PAMRt4s9LlEvnx,b59,59,16,1365,ship sail,2,A little
+1365,R_5PAMRt4s9LlEvnx,b59,59,17,1366,tree,4,A lot
+1366,R_5PAMRt4s9LlEvnx,b59,59,18,1367,tripod,1,Not at all
+1367,R_5PAMRt4s9LlEvnx,b59,59,19,1368,vortex,1,Not at all
+1368,R_5PAMRt4s9LlEvnx,b60,60,1,1369,box cone,1,Not at all
+1369,R_5PAMRt4s9LlEvnx,b60,60,2,1370,cake,3,Moderately
+1370,R_5PAMRt4s9LlEvnx,b60,60,3,1371,cube,1,Not at all
+1371,R_5PAMRt4s9LlEvnx,b60,60,4,1372,diamond,1,Not at all
+1372,R_5PAMRt4s9LlEvnx,b60,60,5,1373,envelope,3,Moderately
+1373,R_5PAMRt4s9LlEvnx,b60,60,6,1374,house,5,Completely
+1374,R_5PAMRt4s9LlEvnx,b60,60,7,1375,hut,4,A lot
+1375,R_5PAMRt4s9LlEvnx,b60,60,8,1376,party hat,1,Not at all
+1376,R_5PAMRt4s9LlEvnx,b60,60,9,1377,roof,3,Moderately
+1377,R_5PAMRt4s9LlEvnx,b60,60,10,1378,television,1,Not at all
+1378,R_5PAMRt4s9LlEvnx,b60,60,11,1379,trapezium,1,Not at all
+1379,R_5PAMRt4s9LlEvnx,b60,60,12,1380,TV,1,Not at all
