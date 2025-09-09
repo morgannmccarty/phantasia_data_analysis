@@ -226,6 +226,88 @@ openai_non_o3_family_novel_max_score <- o4_mini_novel_max_score +
   gpt4_1_images_novel_max_score
 ```
 
+```{r collapse_mc_sc}
+o3_collapsed_sc <- llm_data_finke[llm_data_finke$Model == "OpenAI o3 Single Context (2025-07-21)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI o3 Single Context (2025-07-21)", "overall_score"]
+o3_collapsed_sc_max <- (llm_data_finke[llm_data_finke$Model == "OpenAI o3 Single Context (2025-07-21)", "n_total"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI o3 Single Context (2025-07-21)", "n_total"]) * 5
+
+o3_collapsed_mc <- llm_data_finke[llm_data_finke$Model == "OpenAI o3 Multiple Context (2025-07-21)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI o3 Multiple Context (2025-07-21)", "overall_score"]
+o3_collapsed_mc_max <- (llm_data_finke[llm_data_finke$Model == "OpenAI o3 Multiple Context (2025-07-21)", "n_total"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI o3 Multiple Context (2025-07-21)", "n_total"]) * 5
+
+
+o3_pro_collapsed_sc <- llm_data_finke[llm_data_finke$Model == "OpenAI o3 Pro Single Context (2025-07-21)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI o3 Pro Single Context (2025-07-21)", "overall_score"]
+o3_pro_collapsed_sc_max <- (llm_data_finke[llm_data_finke$Model == "OpenAI o3 Pro Single Context (2025-07-21)", "n_total"] +
+    llm_data_novel[llm_data_novel$Model == "OpenAI o3 Pro Single Context (2025-07-21)", "n_total"]) * 5
+
+o3_pro_collapsed_mc <- llm_data_finke[llm_data_finke$Model == "OpenAI o3 Pro Multiple Context (2025-07-21)", "overall_score"] +
+    llm_data_novel[llm_data_novel$Model == "OpenAI o3 Pro Multiple Context (2025-07-21)", "overall_score"]
+o3_pro_collapsed_mc_max <- (llm_data_finke[llm_data_finke$Model == "OpenAI o3 Pro Multiple Context (2025-07-21)", "n_total"] +
+    llm_data_novel[llm_data_novel$Model == "OpenAI o3 Pro Multiple Context (2025-07-21)", "n_total"]) * 5
+
+
+other_openAI_collapsed_sc <- llm_data_finke[llm_data_finke$Model == "OpenAI o4-mini Single Context (2025-07-14)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI o4-mini Single Context (2025-07-14)", "overall_score"] +
+  llm_data_finke[llm_data_finke$Model == "OpenAI o4-mini Single Context (2025-07-21)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI o4-mini Single Context (2025-07-21)", "overall_score"] +
+  llm_data_finke[llm_data_finke$Model == "OpenAI ChatGPT-4o Single Context (2025-07-25)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI ChatGPT-4o Single Context (2025-07-25)", "overall_score"] +
+  llm_data_finke[llm_data_finke$Model == "GPT 4.1 Single Context (2025-07-21)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "GPT 4.1 Single Context (2025-07-21)", "overall_score"]
+other_openAI_collapsed_sc_max <- (llm_data_finke[llm_data_finke$Model == "OpenAI o4-mini Single Context (2025-07-14)", "n_total"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI o4-mini Single Context (2025-07-14)", "n_total"] +
+  llm_data_finke[llm_data_finke$Model == "OpenAI o4-mini Single Context (2025-07-21)", "n_total"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI o4-mini Single Context (2025-07-21)", "n_total"] +
+  llm_data_finke[llm_data_finke$Model == "OpenAI ChatGPT-4o Single Context (2025-07-25)", "n_total"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI ChatGPT-4o Single Context (2025-07-25)", "n_total"] +
+  llm_data_finke[llm_data_finke$Model == "GPT 4.1 Single Context (2025-07-21)", "n_total"] +
+  llm_data_novel[llm_data_novel$Model == "GPT 4.1 Single Context (2025-07-21)", "n_total"]) * 5
+
+other_openAI_collapsed_mc <- llm_data_finke[llm_data_finke$Model == "OpenAI o4-mini Multiple Context (2025-07-14)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI o4-mini Multiple Context (2025-07-14)", "overall_score"] +
+  llm_data_finke[llm_data_finke$Model == "OpenAI o4-mini Multiple Context (2025-07-21)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI o4-mini Multiple Context (2025-07-21)", "overall_score"] +
+  llm_data_finke[llm_data_finke$Model == "OpenAI ChatGPT-4o Multiple Context (2025-07-25)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "OpenAI ChatGPT-4o Multiple Context (2025-07-25)", "overall_score"] +
+  llm_data_finke[llm_data_finke$Model == "GPT 4.1 Multiple Context (2025-07-21)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "GPT 4.1 Multiple Context (2025-07-21)", "overall_score"]
+other_openAI_collapsed_mc_max <- (llm_data_finke[llm_data_finke$Model == "OpenAI o4-mini Multiple Context (2025-07-14)", "n_total"] +
+    llm_data_novel[llm_data_novel$Model == "OpenAI o4-mini Multiple Context (2025-07-14)", "n_total"] +
+    llm_data_finke[llm_data_finke$Model == "OpenAI o4-mini Multiple Context (2025-07-21)", "n_total"] +
+    llm_data_novel[llm_data_novel$Model == "OpenAI o4-mini Multiple Context (2025-07-21)", "n_total"] +
+    llm_data_finke[llm_data_finke$Model == "OpenAI ChatGPT-4o Multiple Context (2025-07-25)", "n_total"] +
+    llm_data_novel[llm_data_novel$Model == "OpenAI ChatGPT-4o Multiple Context (2025-07-25)", "n_total"] +
+    llm_data_finke[llm_data_finke$Model == "GPT 4.1 Multiple Context (2025-07-21)", "n_total"] +
+    llm_data_novel[llm_data_novel$Model == "GPT 4.1 Multiple Context (2025-07-21)", "n_total"]) * 5
+
+
+gemini_collapsed_sc <- llm_data_finke[llm_data_finke$Model == "Gemini 2.5 Pro Single Context (2025-07-21)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "Gemini 2.5 Pro Single Context (2025-07-21)", "overall_score"] +
+  llm_data_finke[llm_data_finke$Model == "Gemini 2.0 Flash Single Context (2025-07-21)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "Gemini 2.0 Flash Single Context (2025-07-21)", "overall_score"]
+gemini_collapsed_sc_max <- (llm_data_finke[llm_data_finke$Model == "Gemini 2.5 Pro Single Context (2025-07-21)", "n_total"] +
+  llm_data_novel[llm_data_novel$Model == "Gemini 2.5 Pro Single Context (2025-07-21)", "n_total"] +
+  llm_data_finke[llm_data_finke$Model == "Gemini 2.0 Flash Single Context (2025-07-21)", "n_total"] +
+  llm_data_novel[llm_data_novel$Model == "Gemini 2.0 Flash Single Context (2025-07-21)", "n_total"]) * 5
+
+gemini_collapsed_mc <- llm_data_finke[llm_data_finke$Model == "Gemini 2.5 Pro Multiple Context (2025-07-21)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "Gemini 2.5 Pro Multiple Context (2025-07-21)", "overall_score"] +
+  llm_data_finke[llm_data_finke$Model == "Gemini 2.0 Flash Multiple Context (2025-07-21)", "overall_score"] +
+  llm_data_novel[llm_data_novel$Model == "Gemini 2.0 Flash Multiple Context (2025-07-21)", "overall_score"]
+gemini_collapsed_mc_max <- (llm_data_finke[llm_data_finke$Model == "Gemini 2.5 Pro Multiple Context (2025-07-21)", "n_total"] +
+    llm_data_novel[llm_data_novel$Model == "Gemini 2.5 Pro Multiple Context (2025-07-21)", "n_total"] +
+    llm_data_finke[llm_data_finke$Model == "Gemini 2.0 Flash Multiple Context (2025-07-21)", "n_total"] +
+    llm_data_novel[llm_data_novel$Model == "Gemini 2.0 Flash Multiple Context (2025-07-21)", "n_total"]) * 5
+
+total_collapsed_mc <- o3_collapsed_mc + o3_pro_collapsed_mc + other_openAI_collapsed_mc + gemini_collapsed_mc
+total_collapsed_mc_max <- o3_collapsed_mc_max + o3_pro_collapsed_mc_max + other_openAI_collapsed_mc_max + gemini_collapsed_mc_max
+total_collapsed_sc <- o3_collapsed_sc + o3_pro_collapsed_sc + other_openAI_collapsed_sc + gemini_collapsed_sc
+total_collapsed_sc_max <- o3_collapsed_sc_max + o3_pro_collapsed_sc_max + other_openAI_collapsed_sc_max + gemini_collapsed_sc_max
+```
+
 ```{r collapse_total}
 ## Collapsed Data (Finke + 48 Novel)
 humans_total_score <- humans_finke_score + humans_novel_score
@@ -439,50 +521,232 @@ test_all_combinations <- function(data, task_name) {
 }
 ```
 
-## Comparison: o3 Family Single Context vs Multiple Context
+## Comparison: o3 Single Context vs Multiple Context
 
 ```{r o3_single_vs_multiple, echo = FALSE}
 # Perform proportion test between o3 single context and multiple context
-o3_single_vs_multiple <- prop.test(x = c(o3_finke_score, o3_images_finke_score),
-                                  n = c(o3_finke_max_score, o3_images_finke_max_score),
-                                  alternative = "two.sided",
-                                  conf.level = 0.95,
-                                  correct = TRUE)
+o3_sc_vs_mc <- prop.test(x = c(o3_collapsed_sc, o3_collapsed_mc),
+                          n = c(o3_collapsed_sc_max, o3_collapsed_mc_max),
+                          alternative = "two.sided",
+                          conf.level = 0.95,
+                          correct = TRUE)
 # Display results
-cat("\n\nComparison: o3 Family Single Context vs Multiple Context (Finke Tasks)\n")
-cat(paste(rep("=", 70), collapse = ""), "\n")
-cat("o3 Single Context: ", o3_finke_score, "/", o3_finke_max_score,
-    " (", round(o3_finke_score / o3_finke_max_score, 3), ")\n", sep = "")
-cat("o3 Multiple Context: ", o3_images_finke_score, "/", o3_images_finke_max_score,
-    " (", round(o3_images_finke_score / o3_images_finke_max_score, 3), ")\n", sep = "")
-cat("Difference: ", round(o3_finke_score / o3_finke_max_score - o3_images_finke_score / o3_images_finke_max_score, 3), "\n")
-cat("Chi-squared: ", round(o3_single_vs_multiple$statistic, 3), "\n")
-cat("P-value: ", format(o3_single_vs_multiple$p.value, scientific = FALSE, digits = 4), "\n")
-cat("95% CI: [", round(o3_single_vs_multiple$conf.int[1], 3), ", ",
-    round(o3_single_vs_multiple$conf.int[2], 3), "]\n")
-cat("Significant: ", ifelse(o3_single_vs_multiple$p.value < 0.05, "YES (p < 0.05)", "NO"), "\n")
+cat("\n\nComparison: o3 Family Single Context vs Multiple Context\n")
+cat(paste(rep("=", 50), collapse = ""), "\n")
+cat("o3 Single Context: ", o3_collapsed_sc, "/", o3_collapsed_sc_max,
+    " (", round(o3_collapsed_sc / o3_collapsed_sc_max, 3), ")\n", sep = "")
+cat("o3 Multiple Context: ", o3_collapsed_mc, "/", o3_collapsed_mc_max,
+    " (", round(o3_collapsed_mc / o3_collapsed_mc_max, 3), ")\n", sep = "")
+cat("Difference: ", round(o3_collapsed_sc / o3_collapsed_sc_max - o3_collapsed_mc / o3_collapsed_mc_max, 3), "\n")
+cat("Chi-squared: ", round(o3_sc_vs_mc$statistic, 3), "\n")
+cat("P-value: ", format(o3_sc_vs_mc$p.value, scientific = FALSE, digits = 4), "\n")
+cat("95% CI: [", round(o3_sc_vs_mc$conf.int[1], 3), ", ",
+    round(o3_sc_vs_mc$conf.int[2], 3), "]\n")
+cat("Significant: ", ifelse(o3_sc_vs_mc$p.value < 0.05, "YES (p < 0.05)", "NO"), "\n")
 # Create a formatted summary similar to other comparisons
 cat("\n\nDetailed Comparison: o3 Single Context vs Multiple Context\n")
 cat(paste(rep("-", 40), collapse = ""), "\n")
-cat("Proportions: ", round(o3_finke_score / o3_finke_max_score, 3), " vs ",
-    round(o3_images_finke_score / o3_images_finke_max_score, 3), "\n")
-cat("Difference: ", round(o3_finke_score / o3_finke_max_score - o3_images_finke_score / o3_images_finke_max_score, 3), "\n")
-cat("Chi-squared: ", round(o3_single_vs_multiple$statistic, 3), "\n")
-cat("Degrees of freedom: ", o3_single_vs_multiple$parameter, "\n")
-cat("P-value: ", format(o3_single_vs_multiple$p.value, scientific = FALSE, digits = 4), "\n")
-cat("95% CI: [", round(o3_single_vs_multiple$conf.int[1], 3), ", ",
-    round(o3_single_vs_multiple$conf.int[2], 3), "]\n")
-cat("Significant: ", ifelse(o3_single_vs_multiple$p.value < 0.05, "YES (p < 0.05)", "NO"), "\n")
+cat("Proportions: ", round(o3_collapsed_sc / o3_collapsed_sc_max, 3), " vs ",
+    round(o3_collapsed_mc / o3_collapsed_mc_max, 3), "\n")
+cat("Difference: ", round(o3_collapsed_sc / o3_collapsed_sc_max - o3_collapsed_mc / o3_collapsed_mc_max, 3), "\n")
+cat("Chi-squared: ", round(o3_sc_vs_mc$statistic, 3), "\n")
+cat("Degrees of freedom: ", o3_sc_vs_mc$parameter, "\n")
+cat("P-value: ", format(o3_sc_vs_mc$p.value, scientific = FALSE, digits = 4), "\n")
+cat("95% CI: [", round(o3_sc_vs_mc$conf.int[1], 3), ", ",
+    round(o3_sc_vs_mc$conf.int[2], 3), "]\n")
+cat("Significant: ", ifelse(o3_sc_vs_mc$p.value < 0.05, "YES (p < 0.05)", "NO"), "\n")
 # Create summary table
-o3_single_vs_multiple_summary <- data.frame(
+o3_sc_vs_mc_summary <- data.frame(
   comparison = "o3 Single Context vs Multiple Context",
-  diff = round(o3_finke_score / o3_finke_max_score - o3_images_finke_score / o3_images_finke_max_score, 3),
-  p_value = round(o3_single_vs_multiple$p.value, 4),
-  significant = o3_single_vs_multiple$p.value < 0.05
+  diff = round(o3_collapsed_sc / o3_collapsed_sc_max - o3_collapsed_mc / o3_collapsed_mc_max, 3),
+  p_value = round(o3_sc_vs_mc$p.value, 4),
+  significant = o3_sc_vs_mc$p.value < 0.05
 )
 cat("\n\nSummary Table - o3 Single vs Multiple Context:\n")
-print(kable(o3_single_vs_multiple_summary, format = "simple"))
+
+print(kable(o3_sc_vs_mc_summary, format = "simple"))
 ```
+
+## Comparison: o3 Pro Single Context vs Multiple Context
+
+```{r o3_pro_single_vs_multiple, echo = FALSE}
+# Perform proportion test between o3 pro single context and multiple context
+o3_pro_sc_vs_mc <- prop.test(x = c(o3_pro_collapsed_sc, o3_pro_collapsed_mc),
+                          n = c(o3_pro_collapsed_sc_max, o3_pro_collapsed_mc_max),
+                          alternative = "two.sided",
+                          conf.level = 0.95,
+                          correct = TRUE)
+# Display results
+cat("\n\nComparison: o3 Pro Family Single Context vs Multiple Context\n")
+cat(paste(rep("=", 50), collapse = ""), "\n")
+cat("o3 Pro Single Context: ", o3_pro_collapsed_sc, "/", o3_pro_collapsed_sc_max,
+    " (", round(o3_pro_collapsed_sc / o3_pro_collapsed_sc_max, 3), ")\n", sep = "")
+cat("o3 Pro Multiple Context: ", o3_pro_collapsed_mc, "/", o3_pro_collapsed_mc_max,
+    " (", round(o3_pro_collapsed_mc / o3_pro_collapsed_mc_max, 3), ")\n", sep = "")
+cat("Difference: ", round(o3_pro_collapsed_sc / o3_pro_collapsed_sc_max - o3_pro_collapsed_mc / o3_pro_collapsed_mc_max, 3), "\n")
+cat("Chi-squared: ", round(o3_pro_sc_vs_mc$statistic, 3), "\n")
+cat("P-value: ", format(o3_pro_sc_vs_mc$p.value, scientific = FALSE, digits = 4), "\n")
+cat("95% CI: [", round(o3_pro_sc_vs_mc$conf.int[1], 3), ", ",
+    round(o3_pro_sc_vs_mc$conf.int[2], 3), "]\n")
+cat("Significant: ", ifelse(o3_pro_sc_vs_mc$p.value < 0.05, "YES (p < 0.05)", "NO"), "\n")
+# Create a formatted summary similar to other comparisons
+cat("\n\nDetailed Comparison: o3 Pro Single Context vs Multiple Context\n")
+cat(paste(rep("-", 40), collapse = ""), "\n")
+cat("Proportions: ", round(o3_pro_collapsed_sc / o3_pro_collapsed_sc_max, 3), " vs ",
+    round(o3_pro_collapsed_mc / o3_pro_collapsed_mc_max, 3), "\n")
+cat("Difference: ", round(o3_pro_collapsed_sc / o3_pro_collapsed_sc_max - o3_pro_collapsed_mc / o3_pro_collapsed_mc_max, 3), "\n")
+cat("Chi-squared: ", round(o3_pro_sc_vs_mc$statistic, 3), "\n")
+cat("Degrees of freedom: ", o3_pro_sc_vs_mc$parameter, "\n")
+cat("P-value: ", format(o3_pro_sc_vs_mc$p.value, scientific = FALSE, digits = 4), "\n")
+cat("95% CI: [", round(o3_pro_sc_vs_mc$conf.int[1], 3), ", ",
+    round(o3_pro_sc_vs_mc$conf.int[2], 3), "]\n")
+cat("Significant: ", ifelse(o3_pro_sc_vs_mc$p.value < 0.05, "YES (p < 0.05)", "NO"), "\n")
+# Create summary table
+o3_pro_sc_vs_mc_summary <- data.frame(
+  comparison = "o3 Pro Single Context vs Multiple Context",
+  diff = round(o3_pro_collapsed_sc / o3_pro_collapsed_sc_max - o3_pro_collapsed_mc / o3_pro_collapsed_mc_max, 3),
+  p_value = round(o3_pro_sc_vs_mc$p.value, 4),
+  significant = o3_pro_sc_vs_mc$p.value < 0.05
+)
+cat("\n\nSummary Table - o3 Pro Single vs Multiple Context:\n")
+print(kable(o3_pro_sc_vs_mc_summary, format = "simple"))
+```
+
+## Comparison: Other OpenAI Single Context vs Multiple Context
+
+```{r other_openAI_single_vs_multiple, echo = FALSE}
+# Perform proportion test between other OpenAI single context and multiple context
+other_openAI_sc_vs_mc <- prop.test(x = c(other_openAI_collapsed_sc, other_openAI_collapsed_mc),
+                                   n = c(other_openAI_collapsed_sc_max, other_openAI_collapsed_mc_max),
+                                   alternative = "two.sided",
+                                   conf.level = 0.95,
+                                   correct = TRUE)
+# Display results
+cat("\n\nComparison: Other OpenAI Family Single Context vs Multiple Context\n")
+cat(paste(rep("=", 50), collapse = ""), "\n")
+cat("Other OpenAI Single Context: ", other_openAI_collapsed_sc, "/", other_openAI_collapsed_sc_max,
+    " (", round(other_openAI_collapsed_sc / other_openAI_collapsed_sc_max, 3), ")\n", sep = "")
+cat("Other OpenAI Multiple Context: ", other_openAI_collapsed_mc, "/", other_openAI_collapsed_mc_max,
+    " (", round(other_openAI_collapsed_mc / other_openAI_collapsed_mc_max, 3), ")\n", sep = "")
+cat("Difference: ", round(other_openAI_collapsed_sc / other_openAI_collapsed_sc_max - other_openAI_collapsed_mc / other_openAI_collapsed_mc_max, 3), "\n")
+cat("Chi-squared: ", round(other_openAI_sc_vs_mc$statistic, 3), "\n")
+cat("P-value: ", format(other_openAI_sc_vs_mc$p.value, scientific = FALSE, digits = 4), "\n")
+cat("95% CI: [", round(other_openAI_sc_vs_mc$conf.int[1], 3), ", ",
+    round(other_openAI_sc_vs_mc$conf.int[2], 3), "]\n")
+cat("Significant: ", ifelse(other_openAI_sc_vs_mc$p.value < 0.05, "YES (p < 0.05)", "NO"), "\n")
+# Create a formatted summary similar to other comparisons
+cat("\n\nDetailed Comparison: Other OpenAI Single Context vs Multiple Context\n")
+cat(paste(rep("-", 40), collapse = ""), "\n")
+cat("Proportions: ", round(other_openAI_collapsed_sc / other_openAI_collapsed_sc_max, 3), " vs ",
+    round(other_openAI_collapsed_mc / other_openAI_collapsed_mc_max, 3), "\n")
+cat("Difference: ", round(other_openAI_collapsed_sc / other_openAI_collapsed_sc_max - other_openAI_collapsed_mc / other_openAI_collapsed_mc_max, 3), "\n")
+cat("Chi-squared: ", round(other_openAI_sc_vs_mc$statistic, 3), "\n")
+cat("Degrees of freedom: ", other_openAI_sc_vs_mc$parameter, "\n")
+cat("P-value: ", format(other_openAI_sc_vs_mc$p.value, scientific = FALSE, digits = 4), "\n")
+cat("95% CI: [", round(other_openAI_sc_vs_mc$conf.int[1], 3), ", ",
+    round(other_openAI_sc_vs_mc$conf.int[2], 3), "]\n")
+cat("Significant: ", ifelse(other_openAI_sc_vs_mc$p.value < 0.05, "YES (p < 0.05)", "NO"), "\n")
+# Create summary table
+other_openAI_sc_vs_mc_summary <- data.frame(
+  comparison = "Other OpenAI Single Context vs Multiple Context",
+  diff = round(other_openAI_collapsed_sc / other_openAI_collapsed_sc_max - other_openAI_collapsed_mc / other_openAI_collapsed_mc_max, 3),
+  p_value = round(other_openAI_sc_vs_mc$p.value, 4),
+  significant = other_openAI_sc_vs_mc$p.value < 0.05
+)
+cat("\n\nSummary Table - Other OpenAI Single vs Multiple Context:\n")
+print(kable(other_openAI_sc_vs_mc_summary, format = "simple"))
+```
+
+## Comparison: Gemini Single Context vs. Multiple Context
+```{r gemini_sc_vs_mc, echo = FALSE}
+# Perform proportion test between Gemini single context and multiple context
+gemini_sc_vs_mc <- prop.test(x = c(gemini_collapsed_sc, gemini_collapsed_mc),
+                             n = c(gemini_collapsed_sc_max, gemini_collapsed_mc_max),
+                             alternative = "two.sided",
+                             conf.level = 0.95,
+                             correct = TRUE)
+# Display results
+cat("\n\nComparison: Gemini Family Single Context vs Multiple Context\n")
+cat(paste(rep("=", 50), collapse = ""), "\n")
+cat("Gemini Single Context: ", gemini_collapsed_sc, "/", gemini_collapsed_sc_max,
+    " (", round(gemini_collapsed_sc / gemini_collapsed_sc_max, 3), ")\n", sep = "")
+cat("Gemini Multiple Context: ", gemini_collapsed_mc, "/", gemini_collapsed_mc_max,
+    " (", round(gemini_collapsed_mc / gemini_collapsed_mc_max, 3), ")\n", sep = "")
+cat("Difference: ", round(gemini_collapsed_sc / gemini_collapsed_sc_max - gemini_collapsed_mc / gemini_collapsed_mc_max, 3), "\n")
+cat("Chi-squared: ", round(gemini_sc_vs_mc$statistic, 3), "\n")
+cat("P-value: ", format(gemini_sc_vs_mc$p.value, scientific = FALSE, digits = 4), "\n")
+cat("95% CI: [", round(gemini_sc_vs_mc$conf.int[1], 3), ", ",
+    round(gemini_sc_vs_mc$conf.int[2], 3), "]\n")
+cat("Significant: ", ifelse(gemini_sc_vs_mc$p.value < 0.05, "YES (p < 0.05)", "NO"), "\n")
+# Create a formatted summary similar to other comparisons
+cat("\n\nDetailed Comparison: Gemini Single Context vs Multiple Context\n")
+cat(paste(rep("-", 40), collapse = ""), "\n")
+cat("Proportions: ", round(gemini_collapsed_sc / gemini_collapsed_sc_max, 3), " vs ",
+    round(gemini_collapsed_mc / gemini_collapsed_mc_max, 3), "\n")
+cat("Difference: ", round(gemini_collapsed_sc / gemini_collapsed_sc_max - gemini_collapsed_mc / gemini_collapsed_mc_max, 3), "\n")
+cat("Chi-squared: ", round(gemini_sc_vs_mc$statistic, 3), "\n")
+cat("Degrees of freedom: ", gemini_sc_vs_mc$parameter, "\n")
+cat("P-value: ", format(gemini_sc_vs_mc$p.value, scientific = FALSE, digits = 4), "\n")
+cat("95% CI: [", round(gemini_sc_vs_mc$conf.int[1], 3), ", ",
+    round(gemini_sc_vs_mc$conf.int[2], 3), "]\n")
+cat("Significant: ", ifelse(gemini_sc_vs_mc$p.value < 0.05, "YES (p < 0.05)", "NO"), "\n")
+# Create summary table
+gemini_sc_vs_mc_summary <- data.frame(
+  comparison = "Gemini Single Context vs Multiple Context",
+  diff = round(gemini_collapsed_sc / gemini_collapsed_sc_max - gemini_collapsed_mc / gemini_collapsed_mc_max, 3),
+  p_value = round(gemini_sc_vs_mc$p.value, 4),
+  significant = gemini_sc_vs_mc$p.value < 0.05
+)
+cat("\n\nSummary Table - Gemini Single vs Multiple Context:\n")
+print(kable(gemini_sc_vs_mc_summary, format = "simple"))
+```
+
+## Comparison: Total Single Context vs Multiple Context
+
+```{r total_sc_vs_mc, echo = FALSE}
+# Perform proportion test between total single context and multiple context
+total_sc_vs_mc <- prop.test(x = c(total_collapsed_sc, total_collapsed_mc),
+                            n = c(total_collapsed_sc_max, total_collapsed_mc_max),
+                            alternative = "two.sided",
+                            conf.level = 0.95,
+                            correct = TRUE)
+# Display results
+cat("\n\nComparison: Total Single Context vs Multiple Context\n")
+cat(paste(rep("=", 50), collapse = ""), "\n")
+cat("Total Single Context: ", total_collapsed_sc, "/", total_collapsed_sc_max,
+    " (", round(total_collapsed_sc / total_collapsed_sc_max, 3), ")\n", sep = "")
+cat("Total Multiple Context: ", total_collapsed_mc, "/", total_collapsed_mc_max,
+    " (", round(total_collapsed_mc / total_collapsed_mc_max, 3), ")\n", sep = "")
+cat("Difference: ", round(total_collapsed_sc / total_collapsed_sc_max - total_collapsed_mc / total_collapsed_mc_max, 3), "\n")
+cat("Chi-squared: ", round(total_sc_vs_mc$statistic, 3), "\n")
+cat("P-value: ", format(total_sc_vs_mc$p.value, scientific = FALSE, digits = 4), "\n")
+cat("95% CI: [", round(total_sc_vs_mc$conf.int[1], 3), ", ",
+    round(total_sc_vs_mc$conf.int[2], 3), "]\n")
+cat("Significant: ", ifelse(total_sc_vs_mc$p.value < 0.05, "YES (p < 0.05)", "NO"), "\n")
+# Create a formatted summary similar to other comparisons
+cat("\n\nDetailed Comparison: Total Single Context vs Multiple Context\n")
+cat(paste(rep("-", 40), collapse = ""), "\n")
+cat("Proportions: ", round(total_collapsed_sc / total_collapsed_sc_max, 3), " vs ",
+    round(total_collapsed_mc / total_collapsed_mc_max, 3), "\n")
+cat("Difference: ", round(total_collapsed_sc / total_collapsed_sc_max - total_collapsed_mc / total_collapsed_mc_max, 3), "\n")
+cat("Chi-squared: ", round(total_sc_vs_mc$statistic, 3), "\n")
+cat("Degrees of freedom: ", total_sc_vs_mc$parameter, "\n")
+cat("P-value: ", format(total_sc_vs_mc$p.value, scientific = FALSE, digits = 4), "\n")
+cat("95% CI: [", round(total_sc_vs_mc$conf.int[1], 3), ", ",
+    round(total_sc_vs_mc$conf.int[2], 3), "]\n")
+cat("Significant: ", ifelse(total_sc_vs_mc$p.value < 0.05, "YES (p < 0.05)", "NO"), "\n")
+# Create summary table
+total_sc_vs_mc_summary <- data.frame(
+  comparison = "Total Single Context vs Multiple Context",
+  diff = round(total_collapsed_sc / total_collapsed_sc_max - total_collapsed_mc / total_collapsed_mc_max, 3),
+  p_value = round(total_sc_vs_mc$p.value, 4),
+  significant = total_sc_vs_mc$p.value < 0.05
+)
+cat("\n\nSummary Table - Total Single vs Multiple Context:\n")
+print(kable(total_sc_vs_mc_summary, format = "simple"))
+```
+
+
 
 ## Comparison: Current Human Finke vs Original Finke
 
