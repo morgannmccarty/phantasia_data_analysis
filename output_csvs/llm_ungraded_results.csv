@@ -1,102 +1,99 @@
 ,Model,label,raw
 0,Gemini 2.5 Pro Multiple Context (2025-07-21),letter z.,Letter Z.
-1,Gemini 2.5 Pro Multiple Context (2025-07-21),planted sword.,Planted sword.
+1,Gemini 2.5 Pro Multiple Context (2025-07-21),planted sword,Planted sword
 2,Gemini 2.5 Pro Multiple Context (2025-07-21),shelf bracket,Shelf bracket
-3,Gemini 2.5 Pro Multiple Context (2025-07-21),birdhouse.,Birdhouse.
-4,Gemini 2.5 Pro Multiple Context (2025-07-21),winged scepter,Winged Scepter
-5,Gemini 2.5 Pro Multiple Context (2025-07-21),cyrillic letter.,Cyrillic letter.
-6,Gemini 2.5 Pro Multiple Context (2025-07-21),keyhold,keyhold
-7,Gemini 2.5 Pro Multiple Context (2025-07-21),magnifying glass.,Magnifying glass.
-8,OpenAI o3 Multiple Context (2025-07-21),keyhole,Keyhole
-9,OpenAI o3 Multiple Context (2025-07-21),owl,owl
-10,OpenAI o3 Multiple Context (2025-07-21),owl,Owl
-11,OpenAI ChatGPT-4o Single Context (2025-07-25),location marker,Location marker
-12,OpenAI ChatGPT-4o Single Context (2025-07-25),signpost,Signpost
-13,OpenAI ChatGPT-4o Single Context (2025-07-25),window frame,Window frame
-14,OpenAI ChatGPT-4o Single Context (2025-07-25),keyhole emblem,Keyhole emblem
-15,OpenAI ChatGPT-4o Single Context (2025-07-25),butterfly,Butterfly
-16,GPT 4.1 Single Context (2025-07-21),right angle,Right angle
-17,GPT 4.1 Single Context (2025-07-21),table lamp,Table lamp
-18,GPT 4.1 Single Context (2025-07-21),balloon,balloon
-19,GPT 4.1 Single Context (2025-07-21),butterfly,Butterfly
-20,GPT 4.1 Single Context (2025-07-21),treble clef,Treble clef
-21,Gemini 2.0 Flash Multiple Context (2025-07-21),partial logo.,Partial logo.
-22,Gemini 2.0 Flash Multiple Context (2025-07-21),hanging target.,Hanging target.
-23,OpenAI o4-mini Single Context (2025-07-21),"i see a vertical stem topped by a horizontal bar at its midpoint, forming a classic capital “t.”","I see a vertical stem topped by a horizontal bar at its midpoint, forming a classic capital “T.”"
-24,OpenAI o4-mini Single Context (2025-07-21),"i see a vertical stem on the left with a smooth semicircular curve attached to its right, forming the bowl of the letter d.","I see a vertical stem on the left with a smooth semicircular curve attached to its right, forming the bowl of the letter D."
-25,OpenAI o4-mini Single Context (2025-07-21),goggles,Goggles
-26,OpenAI o4-mini Single Context (2025-07-21),balloon,Balloon
-27,OpenAI o4-mini Single Context (2025-07-21),glasses,Glasses
-28,GPT 4.1 Single Context w/ Images (2025-07-21),pushpin icon,Pushpin icon
-29,GPT 4.1 Single Context w/ Images (2025-07-21),railing fence,Railing fence
-30,GPT 4.1 Single Context w/ Images (2025-07-21),rail bridge,Rail bridge
-31,OpenAI ChatGPT-4o Multiple Context (2025-07-25),steering wheel,Steering wheel
-32,OpenAI ChatGPT-4o Multiple Context (2025-07-25),speech balloon,Speech balloon
-33,OpenAI o3 Pro Multiple Context (2025-07-21),scissor jack,Scissor jack
-34,OpenAI o3 Pro Multiple Context (2025-07-21),lowercase r,lowercase r
-35,OpenAI o3 Pro Multiple Context (2025-07-21),keyhole,Keyhole
-36,OpenAI o3 Pro Multiple Context (2025-07-21),signpost,Signpost
-37,OpenAI o3 Pro Multiple Context (2025-07-21),binoculars,Binoculars
+3,Gemini 2.5 Pro Multiple Context (2025-07-21),winged scepter,Winged Scepter
+4,Gemini 2.5 Pro Multiple Context (2025-07-21),cyrillic letter.,Cyrillic letter.
+5,OpenAI o3 Multiple Context (2025-07-21),keyhole,keyhole
+6,OpenAI o3 Multiple Context (2025-07-21),owl,owl
+7,OpenAI o3 Multiple Context (2025-07-21),owl,Owl
+8,OpenAI ChatGPT-4o Single Context (2025-07-25),location marker,Location marker
+9,OpenAI ChatGPT-4o Single Context (2025-07-25),signpost,Signpost
+10,OpenAI ChatGPT-4o Single Context (2025-07-25),window frame,Window frame
+11,OpenAI ChatGPT-4o Single Context (2025-07-25),keyhole,keyhole
+12,OpenAI ChatGPT-4o Single Context (2025-07-25),keyhole,Keyhole
+13,OpenAI ChatGPT-4o Single Context (2025-07-25),keyhole,Keyhole
+14,OpenAI ChatGPT-4o Single Context (2025-07-25),butterfly,Butterfly
+15,GPT 4.1 Single Context (2025-07-21),right angle,Right angle
+16,GPT 4.1 Single Context (2025-07-21),balloon,balloon
+17,GPT 4.1 Single Context (2025-07-21),butterfly,Butterfly
+18,GPT 4.1 Single Context (2025-07-21),treble clef,Treble clef
+19,Gemini 2.0 Flash Multiple Context (2025-07-21),partial logo.,Partial logo.
+20,Gemini 2.0 Flash Multiple Context (2025-07-21),target,target
+21,OpenAI o4-mini Single Context (2025-07-21),letter t,Letter T
+22,OpenAI o4-mini Single Context (2025-07-21),"i see a vertical stem on the left with a smooth semicircular curve attached to its right, forming the bowl of the letter d.","I see a vertical stem on the left with a smooth semicircular curve attached to its right, forming the bowl of the letter D."
+23,OpenAI o4-mini Single Context (2025-07-21),goggles,Goggles
+24,OpenAI o4-mini Single Context (2025-07-21),balloon,Balloon
+25,OpenAI o4-mini Single Context (2025-07-21),glasses,Glasses
+26,GPT 4.1 Single Context w/ Images (2025-07-21),pushpin,pushpin
+27,GPT 4.1 Single Context w/ Images (2025-07-21),fence,fence
+28,GPT 4.1 Single Context w/ Images (2025-07-21),fence,fence
+29,GPT 4.1 Single Context w/ Images (2025-07-21),rail bridge,Rail bridge
+30,OpenAI ChatGPT-4o Multiple Context (2025-07-25),steering wheel,Steering wheel
+31,OpenAI ChatGPT-4o Multiple Context (2025-07-25),speech balloon,Speech balloon
+32,OpenAI o3 Pro Multiple Context (2025-07-21),scissor jack,Scissor jack
+33,OpenAI o3 Pro Multiple Context (2025-07-21),lowercase r,lowercase r
+34,OpenAI o3 Pro Multiple Context (2025-07-21),keyhole,Keyhole
+35,OpenAI o3 Pro Multiple Context (2025-07-21),signpost,Signpost
+36,OpenAI o3 Pro Multiple Context (2025-07-21),binoculars,Binoculars
+37,OpenAI o3 Pro Multiple Context (2025-07-21),owl,Owl
 38,OpenAI o3 Pro Multiple Context (2025-07-21),owl,Owl
-39,OpenAI o3 Pro Multiple Context (2025-07-21),owl,Owl
-40,OpenAI o3 Pro Multiple Context (2025-07-21),trident,Trident
-41,OpenAI o3 Pro Multiple Context (2025-07-21),power symbol,Power symbol
-42,OpenAI o3 Pro Multiple Context (2025-07-21),treble clef,Treble clef
-43,GPT 4.1 Multiple Context (2025-07-21),ribbon award,Ribbon award
-44,GPT 4.1 Multiple Context w/ Images (2025-07-21),broken letter,Broken letter
-45,GPT 4.1 Multiple Context w/ Images (2025-07-21),table lamp,Table lamp
-46,GPT 4.1 Multiple Context w/ Images (2025-07-21),bridge support,Bridge support
-47,GPT 4.1 Multiple Context w/ Images (2025-07-21),lo monogram,LO monogram
-48,OpenAI o3 Multiple Context w/ Images (2025-07-14),capital z,Capital Z
-49,OpenAI o3 Multiple Context w/ Images (2025-07-14),letter k,letter k
-50,OpenAI o3 Multiple Context w/ Images (2025-07-14),scd logo,SCD Logo
-51,OpenAI o3 Multiple Context w/ Images (2025-07-14),keyhole,Keyhole
-52,OpenAI o3 Multiple Context w/ Images (2025-07-14),binoculars,Binoculars
-53,OpenAI o3 Multiple Context w/ Images (2025-07-14),hd icon,HD icon
-54,OpenAI o3 Multiple Context w/ Images (2025-07-14),glasses,glasses
-55,Gemini 2.0 Flash Single Context (2025-07-21),picket fence,Picket fence
-56,Gemini 2.0 Flash Single Context (2025-07-21),heart shape,Heart shape
-57,Gemini 2.0 Flash Single Context (2025-07-21),hastag,hastag
-58,OpenAI o4-mini Multiple Context (2025-07-21),scissor jack,Scissor jack
-59,OpenAI o4-mini Multiple Context (2025-07-21),funnel,Funnel
-60,OpenAI o4-mini Multiple Context (2025-07-21),signpost,Signpost
-61,OpenAI o4-mini Multiple Context (2025-07-21),glasses,Glasses
-62,OpenAI o3 Pro Single Context (2025-07-21),road sign,road sign
-63,OpenAI o3 Pro Single Context (2025-07-21),bra,bra
-64,OpenAI o3 Pro Single Context (2025-07-21),question mark,question mark
-65,OpenAI o4-mini Multiple Context (2025-07-14),road sign,Road sign
-66,OpenAI o4-mini Multiple Context (2025-07-14),golf club,Golf club
-67,OpenAI o4-mini Multiple Context (2025-07-14),coat hook,Coat hook
-68,OpenAI o4-mini Multiple Context (2025-07-14),owl,Owl
-69,OpenAI o4-mini Single Context (2025-07-14),tobacco pipe,Tobacco pipe
-70,OpenAI o4-mini Single Context (2025-07-14),"you now have the digit “8”: two identical loops stacked vertically, touching at exactly one point.","You now have the digit “8”: two identical loops stacked vertically, touching at exactly one point."
-71,OpenAI o4-mini Single Context (2025-07-14),"you now have a capital “e”: a single vertical stroke on the left with three equal-length horizontal strokes extending to the right at the top, middle, and bottom.","You now have a capital “E”: a single vertical stroke on the left with three equal-length horizontal strokes extending to the right at the top, middle, and bottom."
-72,OpenAI o4-mini Single Context (2025-07-14),stick figure,Stick figure
-73,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized monogram,Stylized monogram
-74,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),tilted letter.,Tilted letter.
-75,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initial.,Stylized initial.
-76,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized number,Stylized number
-77,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo,Abstract logo
-78,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
-79,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
-80,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),bow tie,Bow tie
-81,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter,Stylized letter
-82,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initials,Stylized initials
-83,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo.,Abstract logo.
-84,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter.,Stylized letter.
-85,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),rotated letter.,Rotated letter.
-86,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter,Stylized letter
-87,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
-88,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initials,Stylized initials
-89,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),"backwards ""f"" and ""p""","Backwards ""F"" and ""P"""
-90,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initial.,Stylized initial.
-91,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter.,Stylized letter.
-92,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),computer mouse,Computer mouse
-93,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized logo,Stylized logo
-94,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),overlapping letters,Overlapping letters
-95,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),overlapping fives.,Overlapping fives.
-96,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo.,Abstract logo.
-97,OpenAI o3 Single Context (2025-07-21),handcuffs,handcuffs
-98,OpenAI o3 Single Context (2025-07-21),signpost,signpost
-99,OpenAI o3 Single Context (2025-07-21),trident,trident
-100,Gemini 2.5 Pro Single Context (2025-07-21),butterfly,Butterfly
+39,OpenAI o3 Pro Multiple Context (2025-07-21),trident,Trident
+40,OpenAI o3 Pro Multiple Context (2025-07-21),power symbol,Power symbol
+41,OpenAI o3 Pro Multiple Context (2025-07-21),treble clef,Treble clef
+42,GPT 4.1 Multiple Context (2025-07-21),ribbon award,Ribbon award
+43,GPT 4.1 Multiple Context w/ Images (2025-07-21),broken letter,Broken letter
+44,GPT 4.1 Multiple Context w/ Images (2025-07-21),bridge support,Bridge support
+45,GPT 4.1 Multiple Context w/ Images (2025-07-21),lo monogram,LO monogram
+46,OpenAI o3 Multiple Context w/ Images (2025-07-14),capital z,Capital Z
+47,OpenAI o3 Multiple Context w/ Images (2025-07-14),letter k,letter k
+48,OpenAI o3 Multiple Context w/ Images (2025-07-14),scd logo,SCD Logo
+49,OpenAI o3 Multiple Context w/ Images (2025-07-14),keyhole,Keyhole
+50,OpenAI o3 Multiple Context w/ Images (2025-07-14),binoculars,Binoculars
+51,OpenAI o3 Multiple Context w/ Images (2025-07-14),hd icon,HD icon
+52,OpenAI o3 Multiple Context w/ Images (2025-07-14),glasses,glasses
+53,Gemini 2.0 Flash Single Context (2025-07-21),fence,fence
+54,Gemini 2.0 Flash Single Context (2025-07-21),heart,heart
+55,OpenAI o4-mini Multiple Context (2025-07-21),scissor jack,Scissor jack
+56,OpenAI o4-mini Multiple Context (2025-07-21),funnel,Funnel
+57,OpenAI o4-mini Multiple Context (2025-07-21),signpost,Signpost
+58,OpenAI o4-mini Multiple Context (2025-07-21),glasses,Glasses
+59,OpenAI o3 Pro Single Context (2025-07-21),road sign,road sign
+60,OpenAI o3 Pro Single Context (2025-07-21),bra,bra
+61,OpenAI o3 Pro Single Context (2025-07-21),question mark,question mark
+62,OpenAI o4-mini Multiple Context (2025-07-14),road sign,Road sign
+63,OpenAI o4-mini Multiple Context (2025-07-14),golf club,Golf club
+64,OpenAI o4-mini Multiple Context (2025-07-14),coat hook,Coat hook
+65,OpenAI o4-mini Multiple Context (2025-07-14),owl,Owl
+66,OpenAI o4-mini Single Context (2025-07-14),tobacco pipe,Tobacco pipe
+67,OpenAI o4-mini Single Context (2025-07-14),"you now have the digit “8”: two identical loops stacked vertically, touching at exactly one point.","You now have the digit “8”: two identical loops stacked vertically, touching at exactly one point."
+68,OpenAI o4-mini Single Context (2025-07-14),"you now have a capital “e”: a single vertical stroke on the left with three equal-length horizontal strokes extending to the right at the top, middle, and bottom.","You now have a capital “E”: a single vertical stroke on the left with three equal-length horizontal strokes extending to the right at the top, middle, and bottom."
+69,OpenAI o4-mini Single Context (2025-07-14),stick figure,Stick figure
+70,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized monogram,Stylized monogram
+71,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),tilted letter.,Tilted letter.
+72,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initial.,Stylized initial.
+73,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized number,Stylized number
+74,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo,Abstract logo
+75,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
+76,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
+77,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),bow tie,Bow tie
+78,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter,Stylized letter
+79,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initials,Stylized initials
+80,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo.,Abstract logo.
+81,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter.,Stylized letter.
+82,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),rotated letter.,Rotated letter.
+83,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter,Stylized letter
+84,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
+85,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initials,Stylized initials
+86,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),"backwards ""f"" and ""p""","Backwards ""F"" and ""P"""
+87,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initial.,Stylized initial.
+88,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter.,Stylized letter.
+89,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),computer mouse,Computer mouse
+90,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized logo,Stylized logo
+91,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),overlapping letters,Overlapping letters
+92,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),overlapping fives.,Overlapping fives.
+93,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo.,Abstract logo.
+94,OpenAI o3 Single Context (2025-07-21),handcuffs,handcuffs
+95,OpenAI o3 Single Context (2025-07-21),signpost,signpost
+96,OpenAI o3 Single Context (2025-07-21),trident,trident
+97,Gemini 2.5 Pro Single Context (2025-07-21),butterfly,Butterfly
