@@ -1,99 +1,184 @@
 ,Model,label,raw
-0,Gemini 2.5 Pro Multiple Context (2025-07-21),letter z.,Letter Z.
-1,Gemini 2.5 Pro Multiple Context (2025-07-21),planted sword,Planted sword
+0,Gemini 2.5 Pro Multiple Context (2025-07-21),winged scepter,Winged Scepter
+1,Gemini 2.5 Pro Multiple Context (2025-07-21),cyrillic letter.,Cyrillic letter.
 2,Gemini 2.5 Pro Multiple Context (2025-07-21),shelf bracket,Shelf bracket
-3,Gemini 2.5 Pro Multiple Context (2025-07-21),winged scepter,Winged Scepter
-4,Gemini 2.5 Pro Multiple Context (2025-07-21),cyrillic letter.,Cyrillic letter.
+3,Gemini 2.5 Pro Multiple Context (2025-07-21),planted sword,Planted sword
+4,Gemini 2.5 Pro Multiple Context (2025-07-21),letter z.,Letter Z.
 5,OpenAI o3 Multiple Context (2025-07-21),keyhole,keyhole
 6,OpenAI o3 Multiple Context (2025-07-21),owl,owl
 7,OpenAI o3 Multiple Context (2025-07-21),owl,Owl
-8,OpenAI ChatGPT-4o Single Context (2025-07-25),location marker,Location marker
-9,OpenAI ChatGPT-4o Single Context (2025-07-25),signpost,Signpost
-10,OpenAI ChatGPT-4o Single Context (2025-07-25),window frame,Window frame
-11,OpenAI ChatGPT-4o Single Context (2025-07-25),keyhole,keyhole
+8,OpenAI ChatGPT-4o Single Context (2025-07-25),signpost,Signpost
+9,OpenAI ChatGPT-4o Single Context (2025-07-25),window frame,Window frame
+10,OpenAI ChatGPT-4o Single Context (2025-07-25),keyhole,keyhole
+11,OpenAI ChatGPT-4o Single Context (2025-07-25),keyhole,Keyhole
 12,OpenAI ChatGPT-4o Single Context (2025-07-25),keyhole,Keyhole
-13,OpenAI ChatGPT-4o Single Context (2025-07-25),keyhole,Keyhole
-14,OpenAI ChatGPT-4o Single Context (2025-07-25),butterfly,Butterfly
-15,GPT 4.1 Single Context (2025-07-21),right angle,Right angle
-16,GPT 4.1 Single Context (2025-07-21),balloon,balloon
-17,GPT 4.1 Single Context (2025-07-21),butterfly,Butterfly
-18,GPT 4.1 Single Context (2025-07-21),treble clef,Treble clef
-19,Gemini 2.0 Flash Multiple Context (2025-07-21),partial logo.,Partial logo.
-20,Gemini 2.0 Flash Multiple Context (2025-07-21),target,target
-21,OpenAI o4-mini Single Context (2025-07-21),letter t,Letter T
-22,OpenAI o4-mini Single Context (2025-07-21),"i see a vertical stem on the left with a smooth semicircular curve attached to its right, forming the bowl of the letter d.","I see a vertical stem on the left with a smooth semicircular curve attached to its right, forming the bowl of the letter D."
-23,OpenAI o4-mini Single Context (2025-07-21),goggles,Goggles
-24,OpenAI o4-mini Single Context (2025-07-21),balloon,Balloon
-25,OpenAI o4-mini Single Context (2025-07-21),glasses,Glasses
-26,GPT 4.1 Single Context w/ Images (2025-07-21),pushpin,pushpin
+13,OpenAI ChatGPT-4o Single Context (2025-07-25),butterfly,Butterfly
+14,OpenAI ChatGPT-4o Single Context (2025-07-25),location marker,Location marker
+15,GPT 4.1 Single Context (2025-07-21),balloon,balloon
+16,GPT 4.1 Single Context (2025-07-21),butterfly,Butterfly
+17,GPT 4.1 Single Context (2025-07-21),treble clef,Treble clef
+18,GPT 4.1 Single Context (2025-07-21),right angle,Right angle
+19,Gemini 2.0 Flash Multiple Context (2025-07-21),target,target
+20,Gemini 2.0 Flash Multiple Context (2025-07-21),partial logo.,Partial logo.
+21,OpenAI o4-mini Single Context (2025-07-21),"i see a vertical stem on the left with a smooth semicircular curve attached to its right, forming the bowl of the letter d.","I see a vertical stem on the left with a smooth semicircular curve attached to its right, forming the bowl of the letter D."
+22,OpenAI o4-mini Single Context (2025-07-21),goggles,Goggles
+23,OpenAI o4-mini Single Context (2025-07-21),balloon,Balloon
+24,OpenAI o4-mini Single Context (2025-07-21),glasses,Glasses
+25,OpenAI o4-mini Single Context (2025-07-21),letter t,Letter T
+26,GPT 4.1 Single Context w/ Images (2025-07-21),fence,fence
 27,GPT 4.1 Single Context w/ Images (2025-07-21),fence,fence
-28,GPT 4.1 Single Context w/ Images (2025-07-21),fence,fence
-29,GPT 4.1 Single Context w/ Images (2025-07-21),rail bridge,Rail bridge
+28,GPT 4.1 Single Context w/ Images (2025-07-21),rail bridge,Rail bridge
+29,GPT 4.1 Single Context w/ Images (2025-07-21),pushpin,pushpin
 30,OpenAI ChatGPT-4o Multiple Context (2025-07-25),steering wheel,Steering wheel
 31,OpenAI ChatGPT-4o Multiple Context (2025-07-25),speech balloon,Speech balloon
-32,OpenAI o3 Pro Multiple Context (2025-07-21),scissor jack,Scissor jack
-33,OpenAI o3 Pro Multiple Context (2025-07-21),lowercase r,lowercase r
-34,OpenAI o3 Pro Multiple Context (2025-07-21),keyhole,Keyhole
-35,OpenAI o3 Pro Multiple Context (2025-07-21),signpost,Signpost
-36,OpenAI o3 Pro Multiple Context (2025-07-21),binoculars,Binoculars
-37,OpenAI o3 Pro Multiple Context (2025-07-21),owl,Owl
-38,OpenAI o3 Pro Multiple Context (2025-07-21),owl,Owl
-39,OpenAI o3 Pro Multiple Context (2025-07-21),trident,Trident
-40,OpenAI o3 Pro Multiple Context (2025-07-21),power symbol,Power symbol
-41,OpenAI o3 Pro Multiple Context (2025-07-21),treble clef,Treble clef
+32,OpenAI o3 Pro Multiple Context (2025-07-21),keyhole,Keyhole
+33,OpenAI o3 Pro Multiple Context (2025-07-21),signpost,Signpost
+34,OpenAI o3 Pro Multiple Context (2025-07-21),binoculars,Binoculars
+35,OpenAI o3 Pro Multiple Context (2025-07-21),owl,Owl
+36,OpenAI o3 Pro Multiple Context (2025-07-21),owl,Owl
+37,OpenAI o3 Pro Multiple Context (2025-07-21),trident,Trident
+38,OpenAI o3 Pro Multiple Context (2025-07-21),power symbol,Power symbol
+39,OpenAI o3 Pro Multiple Context (2025-07-21),treble clef,Treble clef
+40,OpenAI o3 Pro Multiple Context (2025-07-21),lowercase r,lowercase r
+41,OpenAI o3 Pro Multiple Context (2025-07-21),scissor jack,Scissor jack
 42,GPT 4.1 Multiple Context (2025-07-21),ribbon award,Ribbon award
-43,GPT 4.1 Multiple Context w/ Images (2025-07-21),broken letter,Broken letter
-44,GPT 4.1 Multiple Context w/ Images (2025-07-21),bridge support,Bridge support
-45,GPT 4.1 Multiple Context w/ Images (2025-07-21),lo monogram,LO monogram
-46,OpenAI o3 Multiple Context w/ Images (2025-07-14),capital z,Capital Z
-47,OpenAI o3 Multiple Context w/ Images (2025-07-14),letter k,letter k
-48,OpenAI o3 Multiple Context w/ Images (2025-07-14),scd logo,SCD Logo
-49,OpenAI o3 Multiple Context w/ Images (2025-07-14),keyhole,Keyhole
-50,OpenAI o3 Multiple Context w/ Images (2025-07-14),binoculars,Binoculars
-51,OpenAI o3 Multiple Context w/ Images (2025-07-14),hd icon,HD icon
-52,OpenAI o3 Multiple Context w/ Images (2025-07-14),glasses,glasses
+43,GPT 4.1 Multiple Context w/ Images (2025-07-21),bridge support,Bridge support
+44,GPT 4.1 Multiple Context w/ Images (2025-07-21),lo monogram,LO monogram
+45,GPT 4.1 Multiple Context w/ Images (2025-07-21),broken letter,Broken letter
+46,OpenAI o3 Multiple Context w/ Images (2025-07-14),scd logo,SCD Logo
+47,OpenAI o3 Multiple Context w/ Images (2025-07-14),keyhole,Keyhole
+48,OpenAI o3 Multiple Context w/ Images (2025-07-14),binoculars,Binoculars
+49,OpenAI o3 Multiple Context w/ Images (2025-07-14),hd icon,HD icon
+50,OpenAI o3 Multiple Context w/ Images (2025-07-14),glasses,glasses
+51,OpenAI o3 Multiple Context w/ Images (2025-07-14),letter k,letter k
+52,OpenAI o3 Multiple Context w/ Images (2025-07-14),capital z,Capital Z
 53,Gemini 2.0 Flash Single Context (2025-07-21),fence,fence
 54,Gemini 2.0 Flash Single Context (2025-07-21),heart,heart
-55,OpenAI o4-mini Multiple Context (2025-07-21),scissor jack,Scissor jack
-56,OpenAI o4-mini Multiple Context (2025-07-21),funnel,Funnel
-57,OpenAI o4-mini Multiple Context (2025-07-21),signpost,Signpost
-58,OpenAI o4-mini Multiple Context (2025-07-21),glasses,Glasses
-59,OpenAI o3 Pro Single Context (2025-07-21),road sign,road sign
-60,OpenAI o3 Pro Single Context (2025-07-21),bra,bra
-61,OpenAI o3 Pro Single Context (2025-07-21),question mark,question mark
-62,OpenAI o4-mini Multiple Context (2025-07-14),road sign,Road sign
-63,OpenAI o4-mini Multiple Context (2025-07-14),golf club,Golf club
-64,OpenAI o4-mini Multiple Context (2025-07-14),coat hook,Coat hook
-65,OpenAI o4-mini Multiple Context (2025-07-14),owl,Owl
-66,OpenAI o4-mini Single Context (2025-07-14),tobacco pipe,Tobacco pipe
-67,OpenAI o4-mini Single Context (2025-07-14),"you now have the digit “8”: two identical loops stacked vertically, touching at exactly one point.","You now have the digit “8”: two identical loops stacked vertically, touching at exactly one point."
-68,OpenAI o4-mini Single Context (2025-07-14),"you now have a capital “e”: a single vertical stroke on the left with three equal-length horizontal strokes extending to the right at the top, middle, and bottom.","You now have a capital “E”: a single vertical stroke on the left with three equal-length horizontal strokes extending to the right at the top, middle, and bottom."
-69,OpenAI o4-mini Single Context (2025-07-14),stick figure,Stick figure
-70,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized monogram,Stylized monogram
-71,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),tilted letter.,Tilted letter.
-72,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initial.,Stylized initial.
-73,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized number,Stylized number
-74,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo,Abstract logo
-75,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
-76,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
-77,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),bow tie,Bow tie
+55,OpenAI o4-mini Multiple Context (2025-07-21),funnel,Funnel
+56,OpenAI o4-mini Multiple Context (2025-07-21),signpost,Signpost
+57,OpenAI o4-mini Multiple Context (2025-07-21),glasses,Glasses
+58,OpenAI o4-mini Multiple Context (2025-07-21),scissor jack,Scissor jack
+59,OpenAI o3 Pro Single Context (2025-07-21),bra,bra
+60,OpenAI o3 Pro Single Context (2025-07-21),question mark,question mark
+61,OpenAI o3 Pro Single Context (2025-07-21),road sign,road sign
+62,OpenAI o4-mini Multiple Context (2025-07-14),coat hook,Coat hook
+63,OpenAI o4-mini Multiple Context (2025-07-14),owl,Owl
+64,OpenAI o4-mini Multiple Context (2025-07-14),golf club,Golf club
+65,OpenAI o4-mini Multiple Context (2025-07-14),road sign,Road sign
+66,OpenAI o4-mini Single Context (2025-07-14),"you now have the digit “8”: two identical loops stacked vertically, touching at exactly one point.","You now have the digit “8”: two identical loops stacked vertically, touching at exactly one point."
+67,OpenAI o4-mini Single Context (2025-07-14),"you now have a capital “e”: a single vertical stroke on the left with three equal-length horizontal strokes extending to the right at the top, middle, and bottom.","You now have a capital “E”: a single vertical stroke on the left with three equal-length horizontal strokes extending to the right at the top, middle, and bottom."
+68,OpenAI o4-mini Single Context (2025-07-14),stick figure,Stick figure
+69,OpenAI o4-mini Single Context (2025-07-14),tobacco pipe,Tobacco pipe
+70,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
+71,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
+72,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),bow tie,Bow tie
+73,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter,Stylized letter
+74,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initials,Stylized initials
+75,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo.,Abstract logo.
+76,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter.,Stylized letter.
+77,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),rotated letter.,Rotated letter.
 78,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter,Stylized letter
-79,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initials,Stylized initials
-80,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo.,Abstract logo.
-81,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter.,Stylized letter.
-82,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),rotated letter.,Rotated letter.
-83,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter,Stylized letter
-84,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
-85,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initials,Stylized initials
-86,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),"backwards ""f"" and ""p""","Backwards ""F"" and ""P"""
-87,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initial.,Stylized initial.
-88,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter.,Stylized letter.
-89,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),computer mouse,Computer mouse
-90,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized logo,Stylized logo
-91,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),overlapping letters,Overlapping letters
-92,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),overlapping fives.,Overlapping fives.
-93,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo.,Abstract logo.
+79,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
+80,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initials,Stylized initials
+81,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),"backwards ""f"" and ""p""","Backwards ""F"" and ""P"""
+82,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initial.,Stylized initial.
+83,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter.,Stylized letter.
+84,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),computer mouse,Computer mouse
+85,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized logo,Stylized logo
+86,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),overlapping letters,Overlapping letters
+87,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),overlapping fives.,Overlapping fives.
+88,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo.,Abstract logo.
+89,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo,Abstract logo
+90,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized number,Stylized number
+91,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initial.,Stylized initial.
+92,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),tilted letter.,Tilted letter.
+93,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized monogram,Stylized monogram
 94,OpenAI o3 Single Context (2025-07-21),handcuffs,handcuffs
 95,OpenAI o3 Single Context (2025-07-21),signpost,signpost
 96,OpenAI o3 Single Context (2025-07-21),trident,trident
 97,Gemini 2.5 Pro Single Context (2025-07-21),butterfly,Butterfly
+98,Claude Sonnet 4 Single Context (2025-09-11),eyeglasses,Eyeglasses
+99,Claude Sonnet 4 Single Context (2025-09-11),butterfly,Butterfly
+100,Claude Sonnet 4 Single Context (2025-09-11),cheerleader,Cheerleader
+101,Claude Sonnet 4 Single Context (2025-09-11),cactus,Cactus
+102,Claude Sonnet 4 Single Context (2025-09-11),hammer,Hammer
+103,Claude Sonnet 4 Single Context (2025-09-11),table,Table
+104,Claude Sonnet 4 Single Context (2025-09-11),bell,Bell
+105,Claude Sonnet 4 Single Context (2025-09-11),bell,Bell
+106,Claude Sonnet 4 Single Context (2025-09-11),key,Key
+107,Claude Sonnet 4 Single Context (2025-09-11),mushroom,Mushroom
+108,Claude Sonnet 4 Single Context (2025-09-11),mushroom,Mushroom
+109,Claude Sonnet 4 Single Context (2025-09-11),ice cream,Ice cream
+110,Claude Sonnet 4 Single Context (2025-09-11),bucket,Bucket
+111,Claude Sonnet 4 Single Context (2025-09-11),shelf bracket,Shelf bracket
+112,Claude Sonnet 4 Single Context (2025-09-11),picture frame,Picture frame
+113,Claude Sonnet 4 Single Context (2025-09-11),butterfly,Butterfly
+114,Claude Sonnet 4 Single Context (2025-09-11),table,Table
+115,Claude Sonnet 4 Single Context (2025-09-11),comb,Comb
+116,Claude Sonnet 4 Single Context (2025-09-11),bell,Bell
+117,Claude Sonnet 4 Single Context (2025-09-11),hammer,Hammer
+118,Claude Sonnet 4 Single Context (2025-09-11),butterfly,Butterfly
+119,Claude Sonnet 4 Single Context (2025-09-11),telephone pole,Telephone pole
+120,Claude Sonnet 4 Single Context (2025-09-11),owl face,Owl face
+121,Claude Sonnet 4 Single Context (2025-09-11),owl face,Owl face
+122,Claude Sonnet 4 Single Context (2025-09-11),musical note,Musical note
+123,Claude Sonnet 4 Single Context (2025-09-11),golf club,Golf club
+124,Claude Sonnet 4 Single Context (2025-09-11),handlebars,Handlebars
+125,Claude Sonnet 4 Single Context (2025-09-11),sad face,Sad face
+126,Claude Sonnet 4 Single Context (2025-09-11),coat rack,Coat rack
+127,Claude Sonnet 4 Single Context (2025-09-11),hammer,Hammer
+128,Claude Sonnet 4 Single Context (2025-09-11),hockey stick,Hockey stick
+129,Claude Sonnet 4 Multiple Context (2025-09-11),sideways ladder,Sideways ladder
+130,Claude Sonnet 4 Multiple Context (2025-09-11),handlebar mustache,Handlebar mustache
+131,Claude Sonnet 4 Multiple Context (2025-09-11),figure eight,Figure eight
+132,Claude Sonnet 4 Multiple Context (2025-09-11),eyeglasses,Eyeglasses
+133,Claude Sonnet 4 Multiple Context (2025-09-11),eyeglasses,Eyeglasses
+134,Claude Sonnet 4 Multiple Context (2025-09-11),arrow shaft,Arrow shaft
+135,Claude Sonnet 4 Multiple Context (2025-09-11),ship anchor,Ship anchor
+136,Claude Sonnet 4 Multiple Context (2025-09-11),ship anchor,Ship anchor
+137,Claude Sonnet 4 Multiple Context (2025-09-11),horseshoe magnet,Horseshoe magnet
+138,Claude Sonnet 4 Multiple Context (2025-09-11),yield sign,Yield sign
+139,Claude Sonnet 4 Multiple Context (2025-09-11),bell,bell
+140,Claude Sonnet 4 Multiple Context (2025-09-11),umbrella,Umbrella
+141,Claude Sonnet 4 Multiple Context (2025-09-11),key,key
+142,Claude Sonnet 4 Multiple Context (2025-09-11),staple,Staple
+143,Claude Sonnet 4 Multiple Context (2025-09-11),boot heel,Boot heel
+144,Claude Sonnet 4 Multiple Context (2025-09-11),stick figure,Stick figure
+145,Claude Sonnet 4 Multiple Context (2025-09-11),backwards f,Backwards F
+146,Claude Sonnet 4 Multiple Context (2025-09-11),bicycle handlebars,Bicycle handlebars
+147,Claude Sonnet 4 Multiple Context (2025-09-11),magnifying glass,Magnifying glass
+148,Claude Sonnet 4 Multiple Context (2025-09-11),comb,comb
+149,Claude Sonnet 4 Multiple Context (2025-09-11),horseshoe magnet,Horseshoe magnet
+150,Claude Sonnet 4 Multiple Context (2025-09-11),side chair,Side chair
+151,Claude Sonnet 4 Multiple Context (2025-09-11),key,Key
+152,Claude Sonnet 4 Multiple Context (2025-09-11),cross,Cross
+153,Claude Sonnet 4 Multiple Context (2025-09-11),bikini top,Bikini top
+154,Claude Sonnet 4 Multiple Context (2025-09-11),stick figure,Stick figure
+155,Claude Sonnet 4 Multiple Context (2025-09-11),hanging lamp,Hanging lamp
+156,Claude Sonnet 4 Multiple Context (2025-09-11),downward arrow,Downward arrow
+157,Claude Sonnet 4 Multiple Context (2025-09-11),flag pole,Flag pole
+158,Claude Opus 4.1 Multiple Context (2025-09-11),bunny ears,Bunny ears
+159,Claude Opus 4.1 Multiple Context (2025-09-11),butterfly wings,Butterfly wings
+160,Claude Opus 4.1 Multiple Context (2025-09-11),eyeglasses,Eyeglasses
+161,Claude Opus 4.1 Multiple Context (2025-09-11),christmas tree,Christmas tree
+162,Claude Opus 4.1 Multiple Context (2025-09-11),human figure,Human figure
+163,Claude Opus 4.1 Multiple Context (2025-09-11),skul,Skul
+164,Claude Opus 4.1 Multiple Context (2025-09-11),umbrella,Umbrella
+165,Claude Opus 4.1 Multiple Context (2025-09-11),southeast direction,Southeast direction
+166,Claude Opus 4.1 Multiple Context (2025-09-11),letter b,Letter B
+167,Claude Opus 4.1 Multiple Context (2025-09-11),ice cream,Ice cream
+168,Claude Opus 4.1 Multiple Context (2025-09-11),tuning fork,Tuning fork
+169,Claude Opus 4.1 Multiple Context (2025-09-11),letter f,Letter F
+170,Claude Opus 4.1 Multiple Context (2025-09-11),battery symbol,Battery symbol
+171,Claude Opus 4.1 Multiple Context (2025-09-11),letter b,Letter B
+172,Claude Opus 4.1 Multiple Context (2025-09-11),bikini top,Bikini top
+173,Claude Opus 4.1 Multiple Context (2025-09-11),downward arrow,Downward arrow
+174,Claude Opus 4.1 Multiple Context (2025-09-11),table frame,Table frame
+175,Claude Opus 4.1 Multiple Context (2025-09-11),padlock,padlock
+176,Claude Opus 4.1 Multiple Context (2025-09-11),apple stem,Apple stem
+177,Claude Opus 4.1 Multiple Context (2025-09-11),stick figure,Stick figure
+178,Claude Opus 4.1 Multiple Context (2025-09-11),spade symbol,Spade symbol
+179,Claude Opus 4.1 Multiple Context (2025-09-11),cross,Cross
+180,Claude Opus 4.1 Multiple Context (2025-09-11),stick figure,Stick figure
+181,Claude Opus 4.1 Multiple Context (2025-09-11),downward arrow,Downward arrow
+182,Claude Opus 4.1 Multiple Context (2025-09-11),upward arrow,Upward arrow
