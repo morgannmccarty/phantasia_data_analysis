@@ -1196,3 +1196,40 @@
 1194,Claude Opus 4.1 Multiple Context (2025-09-11),clock,Clock,4.666666666666667,5.0,4.833333333333334,4.0,5.0,5.0,4.0,5.0,5.0,,5.0
 1195,Claude Opus 4.1 Multiple Context (2025-09-11),hourglass,Hourglass,3.8333333333333335,5.0,4.416666666666667,5.0,4.0,5.0,4.0,1.0,4.0,,5.0
 1196,Claude Opus 4.1 Multiple Context (2025-09-11),umbrella,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1197,GPT-5 Multiple Context - High Reasoning (2025-09-11),ladder,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1198,GPT-5 Multiple Context - High Reasoning (2025-09-11),ladder,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
+1199,GPT-5 Multiple Context - High Reasoning (2025-09-11),glasses,glasses,2.8333333333333335,5.0,3.916666666666667,2.0,2.0,4.0,2.0,5.0,2.0,,5.0
+1200,GPT-5 Multiple Context - High Reasoning (2025-09-11),bra,Bra,3.3333333333333335,4.0,3.666666666666667,5.0,5.0,3.0,2.0,3.0,2.0,,4.0
+1201,GPT-5 Multiple Context - High Reasoning (2025-09-11),butterfly,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
+1202,GPT-5 Multiple Context - High Reasoning (2025-09-11),butterfly,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
+1203,GPT-5 Multiple Context - High Reasoning (2025-09-11),comb,comb,1.2,5.0,3.1,1.0,1.0,1.0,2.0,1.0,,,5.0
+1204,GPT-5 Multiple Context - High Reasoning (2025-09-11),rake,Rake,3.5714285714285716,4.0,3.7857142857142856,2.0,4.0,5.0,2.0,2.0,5.0,5.0,4.0
+1205,GPT-5 Multiple Context - High Reasoning (2025-09-11),wine glass,Wine glass,4.833333333333333,5.0,4.916666666666666,5.0,4.0,5.0,5.0,5.0,5.0,,5.0
+1206,GPT-5 Multiple Context - High Reasoning (2025-09-11),wine glass,Wine glass,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1207,GPT-5 Multiple Context - High Reasoning (2025-09-11),headphones,Headphones,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
+1208,GPT-5 Multiple Context - High Reasoning (2025-09-11),house,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
+1209,GPT-5 Multiple Context - High Reasoning (2025-09-11),house,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
+1210,GPT-5 Multiple Context - High Reasoning (2025-09-11),shield,Shield,1.3333333333333333,3.0,2.1666666666666665,1.0,2.0,1.0,1.0,1.0,2.0,,3.0
+1211,GPT-5 Multiple Context - High Reasoning (2025-09-11),parachute,Parachute,2.8,3.0,2.9,4.0,3.0,3.0,3.0,1.0,,,3.0
+1212,GPT-5 Multiple Context - High Reasoning (2025-09-11),magnifying glass,Magnifying glass,2.5714285714285716,3.0,2.7857142857142856,1.0,3.0,2.0,4.0,1.0,3.0,4.0,3.0
+1213,GPT-5 Multiple Context - High Reasoning (2025-09-11),chair,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
+1214,GPT-5 Multiple Context - High Reasoning (2025-09-11),stick figure,Stick figure,3.4285714285714284,3.0,3.2142857142857144,3.0,1.0,5.0,4.0,3.0,5.0,3.0,3.0
+1215,GPT-5 Multiple Context - High Reasoning (2025-09-11),wine glass,Wine glass,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,5.0
+1216,GPT-5 Multiple Context - High Reasoning (2025-09-11),owl face,owl face,2.142857142857143,2.0,2.071428571428571,2.0,2.0,4.0,3.0,1.0,2.0,1.0,2.0
+1217,GPT-5 Multiple Context - High Reasoning (2025-09-11),angel,Angel,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,1.0,2.0,1.0,2.0,,1.0
+1218,GPT-5 Multiple Context - High Reasoning (2025-09-11),clubs symbol,clubs symbol,1.8333333333333333,2.0,1.9166666666666665,2.0,3.0,1.0,1.0,3.0,1.0,,2.0
+1219,GPT-5 Multiple Context - High Reasoning (2025-09-11),coffee cup,Coffee cup,3.6666666666666665,5.0,4.333333333333333,1.0,4.0,4.0,4.0,4.0,5.0,,5.0
+1220,GPT-5 Multiple Context - High Reasoning (2025-09-11),window,window,4.833333333333333,5.0,4.916666666666666,5.0,5.0,4.0,5.0,5.0,5.0,,5.0
+1221,GPT-5 Multiple Context - High Reasoning (2025-09-11),power button,Power button,2.8333333333333335,1.0,1.9166666666666667,4.0,3.0,2.0,3.0,2.0,3.0,,1.0
+1222,GPT-5 Multiple Context - High Reasoning (2025-09-11),clock,clock,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
+1223,GPT-5 Multiple Context - High Reasoning (2025-09-11),yin yang,Yin yang,1.2,1.0,1.1,2.0,1.0,1.0,1.0,1.0,,,1.0
+1224,GPT-5 Multiple Context - High Reasoning (2025-09-11),stethoscope,Stethoscope,2.1666666666666665,1.0,1.5833333333333333,1.0,1.0,4.0,2.0,2.0,3.0,,1.0
+1225,GPT-5 Multiple Context - High Reasoning (2025-09-11),t-square,T-square,4.0,1.0,2.5,2.0,5.0,4.0,4.0,5.0,,,1.0
+1226,GPT-5 Multiple Context - High Reasoning (2025-09-11),heart,Heart,4.333333333333333,5.0,4.666666666666666,3.0,5.0,5.0,4.0,5.0,4.0,,5.0
+1227,GPT-5 Multiple Context - High Reasoning (2025-09-11),stick figure,Stick figure,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,5.0,5.0,4.0,,5.0
+1228,GPT-5 Multiple Context - High Reasoning (2025-09-11),house,House,1.2,1.0,1.1,2.0,1.0,1.0,1.0,1.0,,,1.0
+1229,GPT-5 Multiple Context - High Reasoning (2025-09-11),key,Key,2.6666666666666665,2.0,2.333333333333333,2.0,3.0,2.0,2.0,3.0,4.0,,2.0
+1230,GPT-5 Multiple Context - High Reasoning (2025-09-11),martini glass,martini glass,4.2,5.0,4.6,5.0,4.0,5.0,5.0,2.0,,,5.0
+1231,GPT-5 Multiple Context - High Reasoning (2025-09-11),clock,clock,4.666666666666667,5.0,4.833333333333334,4.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1232,GPT-5 Multiple Context - High Reasoning (2025-09-11),hourglass,Hourglass,3.8333333333333335,5.0,4.416666666666667,5.0,4.0,5.0,4.0,1.0,4.0,,5.0
+1233,GPT-5 Multiple Context - High Reasoning (2025-09-11),umbrella,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
