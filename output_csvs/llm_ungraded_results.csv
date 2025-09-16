@@ -1,207 +1,685 @@
 ,Model,label,raw
-0,Gemini 2.5 Pro Multiple Context (2025-07-21),winged scepter,Winged Scepter
-1,Gemini 2.5 Pro Multiple Context (2025-07-21),cyrillic letter.,Cyrillic letter.
-2,Gemini 2.5 Pro Multiple Context (2025-07-21),shelf bracket,Shelf bracket
-3,Gemini 2.5 Pro Multiple Context (2025-07-21),planted sword,Planted sword
-4,Gemini 2.5 Pro Multiple Context (2025-07-21),letter z.,Letter Z.
-5,OpenAI o3 Multiple Context (2025-07-21),keyhole,keyhole
-6,OpenAI o3 Multiple Context (2025-07-21),owl,owl
-7,OpenAI o3 Multiple Context (2025-07-21),owl,Owl
-8,OpenAI ChatGPT-4o Single Context (2025-07-25),signpost,Signpost
-9,OpenAI ChatGPT-4o Single Context (2025-07-25),window frame,Window frame
-10,OpenAI ChatGPT-4o Single Context (2025-07-25),keyhole,keyhole
-11,OpenAI ChatGPT-4o Single Context (2025-07-25),keyhole,Keyhole
-12,OpenAI ChatGPT-4o Single Context (2025-07-25),keyhole,Keyhole
-13,OpenAI ChatGPT-4o Single Context (2025-07-25),butterfly,Butterfly
-14,OpenAI ChatGPT-4o Single Context (2025-07-25),location marker,Location marker
-15,GPT 4.1 Single Context (2025-07-21),balloon,balloon
-16,GPT 4.1 Single Context (2025-07-21),butterfly,Butterfly
-17,GPT 4.1 Single Context (2025-07-21),treble clef,Treble clef
-18,GPT 4.1 Single Context (2025-07-21),right angle,Right angle
-19,Gemini 2.0 Flash Multiple Context (2025-07-21),target,target
-20,Gemini 2.0 Flash Multiple Context (2025-07-21),partial logo.,Partial logo.
-21,OpenAI o4-mini Single Context (2025-07-21),"i see a vertical stem on the left with a smooth semicircular curve attached to its right, forming the bowl of the letter d.","I see a vertical stem on the left with a smooth semicircular curve attached to its right, forming the bowl of the letter D."
-22,OpenAI o4-mini Single Context (2025-07-21),goggles,Goggles
-23,OpenAI o4-mini Single Context (2025-07-21),balloon,Balloon
-24,OpenAI o4-mini Single Context (2025-07-21),glasses,Glasses
-25,OpenAI o4-mini Single Context (2025-07-21),letter t,Letter T
-26,GPT 4.1 Single Context w/ Images (2025-07-21),fence,fence
-27,GPT 4.1 Single Context w/ Images (2025-07-21),fence,fence
-28,GPT 4.1 Single Context w/ Images (2025-07-21),rail bridge,Rail bridge
-29,GPT 4.1 Single Context w/ Images (2025-07-21),pushpin,pushpin
-30,OpenAI ChatGPT-4o Multiple Context (2025-07-25),steering wheel,Steering wheel
-31,OpenAI ChatGPT-4o Multiple Context (2025-07-25),speech balloon,Speech balloon
-32,OpenAI o3 Pro Multiple Context (2025-07-21),keyhole,Keyhole
-33,OpenAI o3 Pro Multiple Context (2025-07-21),signpost,Signpost
-34,OpenAI o3 Pro Multiple Context (2025-07-21),binoculars,Binoculars
-35,OpenAI o3 Pro Multiple Context (2025-07-21),owl,Owl
-36,OpenAI o3 Pro Multiple Context (2025-07-21),owl,Owl
-37,OpenAI o3 Pro Multiple Context (2025-07-21),trident,Trident
-38,OpenAI o3 Pro Multiple Context (2025-07-21),power symbol,Power symbol
-39,OpenAI o3 Pro Multiple Context (2025-07-21),treble clef,Treble clef
-40,OpenAI o3 Pro Multiple Context (2025-07-21),lowercase r,lowercase r
-41,OpenAI o3 Pro Multiple Context (2025-07-21),scissor jack,Scissor jack
-42,GPT 4.1 Multiple Context (2025-07-21),ribbon award,Ribbon award
-43,GPT 4.1 Multiple Context w/ Images (2025-07-21),bridge support,Bridge support
-44,GPT 4.1 Multiple Context w/ Images (2025-07-21),lo monogram,LO monogram
-45,GPT 4.1 Multiple Context w/ Images (2025-07-21),broken letter,Broken letter
-46,OpenAI o3 Multiple Context w/ Images (2025-07-14),scd logo,SCD Logo
-47,OpenAI o3 Multiple Context w/ Images (2025-07-14),keyhole,Keyhole
-48,OpenAI o3 Multiple Context w/ Images (2025-07-14),binoculars,Binoculars
-49,OpenAI o3 Multiple Context w/ Images (2025-07-14),hd icon,HD icon
-50,OpenAI o3 Multiple Context w/ Images (2025-07-14),glasses,glasses
-51,OpenAI o3 Multiple Context w/ Images (2025-07-14),letter k,letter k
-52,OpenAI o3 Multiple Context w/ Images (2025-07-14),capital z,Capital Z
-53,Gemini 2.0 Flash Single Context (2025-07-21),fence,fence
-54,Gemini 2.0 Flash Single Context (2025-07-21),heart,heart
-55,OpenAI o4-mini Multiple Context (2025-07-21),funnel,Funnel
-56,OpenAI o4-mini Multiple Context (2025-07-21),signpost,Signpost
-57,OpenAI o4-mini Multiple Context (2025-07-21),glasses,Glasses
-58,OpenAI o4-mini Multiple Context (2025-07-21),scissor jack,Scissor jack
-59,OpenAI o3 Pro Single Context (2025-07-21),bra,bra
-60,OpenAI o3 Pro Single Context (2025-07-21),question mark,question mark
-61,OpenAI o3 Pro Single Context (2025-07-21),road sign,road sign
-62,OpenAI o4-mini Multiple Context (2025-07-14),coat hook,Coat hook
-63,OpenAI o4-mini Multiple Context (2025-07-14),owl,Owl
-64,OpenAI o4-mini Multiple Context (2025-07-14),golf club,Golf club
-65,OpenAI o4-mini Multiple Context (2025-07-14),road sign,Road sign
-66,OpenAI o4-mini Single Context (2025-07-14),"you now have the digit “8”: two identical loops stacked vertically, touching at exactly one point.","You now have the digit “8”: two identical loops stacked vertically, touching at exactly one point."
-67,OpenAI o4-mini Single Context (2025-07-14),"you now have a capital “e”: a single vertical stroke on the left with three equal-length horizontal strokes extending to the right at the top, middle, and bottom.","You now have a capital “E”: a single vertical stroke on the left with three equal-length horizontal strokes extending to the right at the top, middle, and bottom."
-68,OpenAI o4-mini Single Context (2025-07-14),stick figure,Stick figure
-69,OpenAI o4-mini Single Context (2025-07-14),tobacco pipe,Tobacco pipe
-70,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
-71,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
-72,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),bow tie,Bow tie
-73,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter,Stylized letter
-74,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initials,Stylized initials
-75,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo.,Abstract logo.
-76,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter.,Stylized letter.
-77,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),rotated letter.,Rotated letter.
-78,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter,Stylized letter
-79,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stacked letters,Stacked letters
-80,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initials,Stylized initials
-81,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),"backwards ""f"" and ""p""","Backwards ""F"" and ""P"""
-82,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initial.,Stylized initial.
-83,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized letter.,Stylized letter.
-84,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),computer mouse,Computer mouse
-85,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized logo,Stylized logo
-86,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),overlapping letters,Overlapping letters
-87,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),overlapping fives.,Overlapping fives.
-88,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo.,Abstract logo.
-89,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),abstract logo,Abstract logo
-90,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized number,Stylized number
-91,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized initial.,Stylized initial.
-92,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),tilted letter.,Tilted letter.
-93,Gemini 2.0 Flash Image Generation Multiple Context (2025-07-25),stylized monogram,Stylized monogram
-94,OpenAI o3 Single Context (2025-07-21),handcuffs,handcuffs
-95,OpenAI o3 Single Context (2025-07-21),signpost,signpost
-96,OpenAI o3 Single Context (2025-07-21),trident,trident
-97,Gemini 2.5 Pro Single Context (2025-07-21),butterfly,Butterfly
-98,Claude Sonnet 4 Single Context (2025-09-11),eyeglasses,Eyeglasses
-99,Claude Sonnet 4 Single Context (2025-09-11),butterfly,Butterfly
-100,Claude Sonnet 4 Single Context (2025-09-11),cheerleader,Cheerleader
-101,Claude Sonnet 4 Single Context (2025-09-11),cactus,Cactus
-102,Claude Sonnet 4 Single Context (2025-09-11),hammer,Hammer
-103,Claude Sonnet 4 Single Context (2025-09-11),table,Table
-104,Claude Sonnet 4 Single Context (2025-09-11),bell,Bell
-105,Claude Sonnet 4 Single Context (2025-09-11),bell,Bell
-106,Claude Sonnet 4 Single Context (2025-09-11),key,Key
-107,Claude Sonnet 4 Single Context (2025-09-11),mushroom,Mushroom
-108,Claude Sonnet 4 Single Context (2025-09-11),mushroom,Mushroom
-109,Claude Sonnet 4 Single Context (2025-09-11),ice cream,Ice cream
-110,Claude Sonnet 4 Single Context (2025-09-11),bucket,Bucket
-111,Claude Sonnet 4 Single Context (2025-09-11),shelf bracket,Shelf bracket
-112,Claude Sonnet 4 Single Context (2025-09-11),picture frame,Picture frame
-113,Claude Sonnet 4 Single Context (2025-09-11),butterfly,Butterfly
-114,Claude Sonnet 4 Single Context (2025-09-11),table,Table
-115,Claude Sonnet 4 Single Context (2025-09-11),comb,Comb
-116,Claude Sonnet 4 Single Context (2025-09-11),bell,Bell
-117,Claude Sonnet 4 Single Context (2025-09-11),hammer,Hammer
-118,Claude Sonnet 4 Single Context (2025-09-11),butterfly,Butterfly
-119,Claude Sonnet 4 Single Context (2025-09-11),telephone pole,Telephone pole
-120,Claude Sonnet 4 Single Context (2025-09-11),owl face,Owl face
-121,Claude Sonnet 4 Single Context (2025-09-11),owl face,Owl face
-122,Claude Sonnet 4 Single Context (2025-09-11),musical note,Musical note
-123,Claude Sonnet 4 Single Context (2025-09-11),golf club,Golf club
-124,Claude Sonnet 4 Single Context (2025-09-11),handlebars,Handlebars
-125,Claude Sonnet 4 Single Context (2025-09-11),sad face,Sad face
-126,Claude Sonnet 4 Single Context (2025-09-11),coat rack,Coat rack
-127,Claude Sonnet 4 Single Context (2025-09-11),hammer,Hammer
-128,Claude Sonnet 4 Single Context (2025-09-11),hockey stick,Hockey stick
-129,Claude Sonnet 4 Multiple Context (2025-09-11),sideways ladder,Sideways ladder
-130,Claude Sonnet 4 Multiple Context (2025-09-11),handlebar mustache,Handlebar mustache
-131,Claude Sonnet 4 Multiple Context (2025-09-11),figure eight,Figure eight
-132,Claude Sonnet 4 Multiple Context (2025-09-11),eyeglasses,Eyeglasses
-133,Claude Sonnet 4 Multiple Context (2025-09-11),eyeglasses,Eyeglasses
-134,Claude Sonnet 4 Multiple Context (2025-09-11),arrow shaft,Arrow shaft
-135,Claude Sonnet 4 Multiple Context (2025-09-11),ship anchor,Ship anchor
-136,Claude Sonnet 4 Multiple Context (2025-09-11),ship anchor,Ship anchor
-137,Claude Sonnet 4 Multiple Context (2025-09-11),horseshoe magnet,Horseshoe magnet
-138,Claude Sonnet 4 Multiple Context (2025-09-11),yield sign,Yield sign
-139,Claude Sonnet 4 Multiple Context (2025-09-11),bell,bell
-140,Claude Sonnet 4 Multiple Context (2025-09-11),umbrella,Umbrella
-141,Claude Sonnet 4 Multiple Context (2025-09-11),key,key
-142,Claude Sonnet 4 Multiple Context (2025-09-11),staple,Staple
-143,Claude Sonnet 4 Multiple Context (2025-09-11),boot heel,Boot heel
-144,Claude Sonnet 4 Multiple Context (2025-09-11),stick figure,Stick figure
-145,Claude Sonnet 4 Multiple Context (2025-09-11),backwards f,Backwards F
-146,Claude Sonnet 4 Multiple Context (2025-09-11),bicycle handlebars,Bicycle handlebars
-147,Claude Sonnet 4 Multiple Context (2025-09-11),magnifying glass,Magnifying glass
-148,Claude Sonnet 4 Multiple Context (2025-09-11),comb,comb
-149,Claude Sonnet 4 Multiple Context (2025-09-11),horseshoe magnet,Horseshoe magnet
-150,Claude Sonnet 4 Multiple Context (2025-09-11),side chair,Side chair
-151,Claude Sonnet 4 Multiple Context (2025-09-11),key,Key
-152,Claude Sonnet 4 Multiple Context (2025-09-11),cross,Cross
-153,Claude Sonnet 4 Multiple Context (2025-09-11),bikini top,Bikini top
-154,Claude Sonnet 4 Multiple Context (2025-09-11),stick figure,Stick figure
-155,Claude Sonnet 4 Multiple Context (2025-09-11),hanging lamp,Hanging lamp
-156,Claude Sonnet 4 Multiple Context (2025-09-11),downward arrow,Downward arrow
-157,Claude Sonnet 4 Multiple Context (2025-09-11),flag pole,Flag pole
-158,Claude Opus 4.1 Multiple Context (2025-09-11),bunny ears,Bunny ears
-159,Claude Opus 4.1 Multiple Context (2025-09-11),butterfly wings,Butterfly wings
-160,Claude Opus 4.1 Multiple Context (2025-09-11),eyeglasses,Eyeglasses
-161,Claude Opus 4.1 Multiple Context (2025-09-11),christmas tree,Christmas tree
-162,Claude Opus 4.1 Multiple Context (2025-09-11),human figure,Human figure
-163,Claude Opus 4.1 Multiple Context (2025-09-11),skul,Skul
-164,Claude Opus 4.1 Multiple Context (2025-09-11),umbrella,Umbrella
-165,Claude Opus 4.1 Multiple Context (2025-09-11),southeast direction,Southeast direction
-166,Claude Opus 4.1 Multiple Context (2025-09-11),letter b,Letter B
-167,Claude Opus 4.1 Multiple Context (2025-09-11),ice cream,Ice cream
-168,Claude Opus 4.1 Multiple Context (2025-09-11),tuning fork,Tuning fork
-169,Claude Opus 4.1 Multiple Context (2025-09-11),letter f,Letter F
-170,Claude Opus 4.1 Multiple Context (2025-09-11),battery symbol,Battery symbol
-171,Claude Opus 4.1 Multiple Context (2025-09-11),letter b,Letter B
-172,Claude Opus 4.1 Multiple Context (2025-09-11),bikini top,Bikini top
-173,Claude Opus 4.1 Multiple Context (2025-09-11),downward arrow,Downward arrow
-174,Claude Opus 4.1 Multiple Context (2025-09-11),table frame,Table frame
-175,Claude Opus 4.1 Multiple Context (2025-09-11),padlock,padlock
-176,Claude Opus 4.1 Multiple Context (2025-09-11),apple stem,Apple stem
-177,Claude Opus 4.1 Multiple Context (2025-09-11),stick figure,Stick figure
-178,Claude Opus 4.1 Multiple Context (2025-09-11),spade symbol,Spade symbol
-179,Claude Opus 4.1 Multiple Context (2025-09-11),cross,Cross
-180,Claude Opus 4.1 Multiple Context (2025-09-11),stick figure,Stick figure
-181,Claude Opus 4.1 Multiple Context (2025-09-11),downward arrow,Downward arrow
-182,Claude Opus 4.1 Multiple Context (2025-09-11),upward arrow,Upward arrow
-183,GPT-5 Multiple Context - High Reasoning (2025-09-11),binoculars,binoculars
-184,GPT-5 Multiple Context - High Reasoning (2025-09-11),goggles,Goggles
-185,GPT-5 Multiple Context - High Reasoning (2025-09-11),christmas tree,Christmas tree
-186,GPT-5 Multiple Context - High Reasoning (2025-09-11),map pin,Map pin
-187,GPT-5 Multiple Context - High Reasoning (2025-09-11),smoking face,smoking face
-188,GPT-5 Multiple Context - High Reasoning (2025-09-11),keyhole,Keyhole
-189,GPT-5 Multiple Context - High Reasoning (2025-09-11),american football,American football
-190,GPT-5 Multiple Context - High Reasoning (2025-09-11),record player,Record player
-191,GPT-5 Multiple Context - High Reasoning (2025-09-11),jib crane,Jib crane
-192,GPT-5 Multiple Context - High Reasoning (2025-09-11),pennant flag,pennant flag
-193,GPT-5 Multiple Context - High Reasoning (2025-09-11),broken ladder,Broken ladder
-194,GPT-5 Multiple Context - High Reasoning (2025-09-11),headphones,Headphones
-195,GPT-5 Multiple Context - High Reasoning (2025-09-11),c note,C note
-196,GPT-5 Multiple Context - High Reasoning (2025-09-11),grand piano,Grand piano
-197,GPT-5 Multiple Context - High Reasoning (2025-09-11),toilet plunger,Toilet plunger
-198,GPT-5 Multiple Context - High Reasoning (2025-09-11),owl,Owl
-199,GPT-5 Multiple Context - High Reasoning (2025-09-11),peace symbol,Peace symbol
-200,GPT-5 Multiple Context - High Reasoning (2025-09-11),club symbol,club symbol
-201,GPT-5 Multiple Context - High Reasoning (2025-09-11),pipe,Pipe
-202,GPT-5 Multiple Context - High Reasoning (2025-09-11),stethoscope,Stethoscope
-203,GPT-5 Multiple Context - High Reasoning (2025-09-11),capital f,Capital F
-204,GPT-5 Multiple Context - High Reasoning (2025-09-11),golf hole,golf hole
-205,GPT-5 Multiple Context - High Reasoning (2025-09-11),pine tree,Pine tree
+0,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),bunny ears,Bunny ears
+1,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),butterfly wings,Butterfly wings
+2,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),eyeglasses,Eyeglasses
+3,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),christmas tree,Christmas tree
+4,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),human figure,Human figure
+5,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),skull,Skull
+6,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),umbrella,Umbrella
+7,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),southeast direction,Southeast direction
+8,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),letter b,Letter B
+9,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),ice cream,Ice cream
+10,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),tuning fork,Tuning fork
+11,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),letter f,Letter F
+12,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),battery symbol,Battery symbol
+13,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),letter b,Letter B
+14,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),bikini top,Bikini top
+15,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),downward arrow,Downward arrow
+16,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),table frame,Table frame
+17,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),padlock,padlock
+18,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),window pane,window pane
+19,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),apple stem,Apple stem
+20,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),stick figure,Stick figure
+21,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),spade symbol,Spade symbol
+22,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),cross,Cross
+23,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),stick figure,Stick figure
+24,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),downward arrow,Downward arrow
+25,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),upward arrow,Upward arrow
+26,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),sideways ladder,Sideways ladder
+27,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),handlebar mustache,Handlebar mustache
+28,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),figure eight,Figure eight
+29,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),eyeglasses,Eyeglasses
+30,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),eyeglasses,Eyeglasses
+31,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),arrow shaft,Arrow shaft
+32,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),ship anchor,Ship anchor
+33,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),ship anchor,Ship anchor
+34,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),horseshoe magnet,Horseshoe magnet
+35,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),yield sign,Yield sign
+36,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),church bell,church bell
+37,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),umbrella,Umbrella
+38,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),key,key
+39,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),staple,Staple
+40,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),boot heel,Boot heel
+41,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),stick figure,Stick figure
+42,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),backwards f,Backwards F
+43,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),bicycle handlebars,Bicycle handlebars
+44,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),magnifying glass,Magnifying glass
+45,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),comb,comb
+46,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),horseshoe magnet,Horseshoe magnet
+47,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),side chair,Side chair
+48,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),window pane,window pane
+49,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),key,Key
+50,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),cross,Cross
+51,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),bikini top,Bikini top
+52,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),stick figure,Stick figure
+53,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),hanging lamp,Hanging lamp
+54,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),downward arrow,Downward arrow
+55,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),flag pole,Flag pole
+56,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),eyeglasses,Eyeglasses
+57,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),butterfly,Butterfly
+58,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),cheerleader,Cheerleader
+59,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),cactus,Cactus
+60,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),hammer,Hammer
+61,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),table,Table
+62,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),bell,Bell
+63,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),bell,Bell
+64,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),key,Key
+65,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),mushroom,Mushroom
+66,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),mushroom,Mushroom
+67,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),ice cream,Ice cream
+68,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),bucket,Bucket
+69,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),shelf bracket,Shelf bracket
+70,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),picture frame,Picture frame
+71,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),butterfly,Butterfly
+72,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),table,Table
+73,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),comb,Comb
+74,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),bell,Bell
+75,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),hammer,Hammer
+76,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),butterfly,Butterfly
+77,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),telephone pole,Telephone pole
+78,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),owl face,Owl face
+79,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),owl face,Owl face
+80,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),musical note,Musical note
+81,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),golf club,Golf club
+82,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),handlebars,Handlebars
+83,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),sad face,Sad face
+84,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),coat rack,Coat rack
+85,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),hammer,Hammer
+86,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),hockey stick,Hockey stick
+87,DeepMind: Gemini 2.0 Flash - Multiple Context (2025-07-21),ladder rungs,Ladder rungs
+88,DeepMind: Gemini 2.0 Flash - Multiple Context (2025-07-21),pregnant woman,Pregnant woman
+89,DeepMind: Gemini 2.0 Flash - Multiple Context (2025-07-21),broken comb,broken comb
+90,DeepMind: Gemini 2.0 Flash - Multiple Context (2025-07-21),lying person,lying person
+91,DeepMind: Gemini 2.0 Flash - Multiple Context (2025-07-21),toilet seat,toilet seat
+92,DeepMind: Gemini 2.0 Flash - Multiple Context (2025-07-21),hammerhead shark,Hammerhead shark
+93,DeepMind: Gemini 2.0 Flash - Multiple Context (2025-07-21),snowman face,Snowman face
+94,DeepMind: Gemini 2.0 Flash - Multiple Context (2025-07-21),heart arrow,heart arrow
+95,DeepMind: Gemini 2.0 Flash - Multiple Context (2025-07-21),partial logo.,Partial logo.
+96,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),ladder rungs,Ladder rungs
+97,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),fence,fence
+98,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),heart,heart
+99,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),comb teeth,comb teeth
+100,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),mushroom cloud,mushroom cloud
+101,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),butterfly wings,butterfly wings
+102,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),pregnant woman,pregnant woman
+103,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),ice cream,ice cream
+104,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),hammer head,hammer head
+105,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),snowman face,Snowman face
+106,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),snake charmer,snake charmer
+107,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),swan neck,swan neck
+108,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),christmas tree,christmas tree
+109,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),balloon string,balloon string
+110,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),windmill blades,windmill blades
+111,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stacked letters,Stacked letters
+112,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stacked letters,Stacked letters
+113,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),bow tie,Bow tie
+114,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),rotated table,rotated table
+115,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stylized letter,Stylized letter
+116,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stylized initials,Stylized initials
+117,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),pennant flag,Pennant flag
+118,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),hanging lantern,hanging lantern
+119,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),abstract logo.,Abstract logo.
+120,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),sideways headphones,sideways headphones
+121,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stylized letter.,Stylized letter.
+122,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),rotated letter.,Rotated letter.
+123,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stylized letter,Stylized letter
+124,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stacked letters,Stacked letters
+125,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stylized initials,Stylized initials
+126,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),upside-down table,upside-down table
+127,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),"backwards ""f"" and ""p""","Backwards ""F"" and ""P"""
+128,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stylized initial.,Stylized initial.
+129,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stylized letter.,Stylized letter.
+130,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),computer mouse,Computer mouse
+131,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stylized logo,Stylized logo
+132,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),overlapping letters,Overlapping letters
+133,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),overlapping fives,Overlapping fives
+134,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),abstract logo,Abstract logo
+135,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),inverted trident,inverted trident
+136,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),abstract logo,Abstract logo
+137,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),inverted t,inverted T
+138,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stylized number,Stylized number
+139,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stylized initial,Stylized initial
+140,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),road sign,road sign
+141,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),partial clock,partial clock
+142,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),tilted letter,Tilted letter
+143,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),stylized monogram,Stylized monogram
+144,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),three-rung ladder,Three-rung ladder
+145,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),winged scepter,Winged Scepter
+146,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),arched window,arched window
+147,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),cut diamond,cut diamond
+148,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),wireframe cube,wireframe cube
+149,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),skeleton key,skeleton key
+150,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),person icon,person icon
+151,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),door handle,door handle
+152,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),skeleton key,skeleton key
+153,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),window pane,window pane
+154,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),sitting person,sitting person
+155,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),anchor chalice,anchor chalice
+156,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),sledge hammer,sledge hammer
+157,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),broken heart,broken heart
+158,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),shelf bracket,Shelf bracket
+159,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),skeleton key,skeleton key
+160,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),planted sword,Planted sword
+161,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),letter z,Letter Z
+162,DeepMind: Gemini 2.5 Pro - Single Context - Dynamic Thinking (2025-07-21),eyeglasses,eyeglasses
+163,DeepMind: Gemini 2.5 Pro - Single Context - Dynamic Thinking (2025-07-21),fletched arrow,Fletched arrow
+164,DeepMind: Gemini 2.5 Pro - Single Context - Dynamic Thinking (2025-07-21),skeleton key,Skeleton key
+165,DeepMind: Gemini 2.5 Pro - Single Context - Dynamic Thinking (2025-07-21),butterfly,Butterfly
+166,DeepMind: Gemini 2.5 Pro - Single Context - Dynamic Thinking (2025-07-21),spade symbol,Spade symbol
+167,DeepMind: Gemini 2.5 Pro - Single Context - Dynamic Thinking (2025-07-21),up arrow,up arrow
+168,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),ladder structure,ladder structure
+169,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),butterfly wings,butterfly wings
+170,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),owl eyes,owl eyes
+171,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),steering wheel,Steering wheel
+172,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),speech balloon,Speech balloon
+173,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),padlock keyhole,Padlock keyhole
+174,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),pipe wrench,pipe wrench
+175,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),arrow sign,Arrow sign
+176,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),mushroom anchor,Mushroom anchor
+177,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),butterfly mask,Butterfly mask
+178,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),slingshot frame,Slingshot frame
+179,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),bowtie person,Bowtie person
+180,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),owl face,Owl face
+181,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),flagpole sign,Flagpole sign
+182,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),snake eye,Snake eye
+183,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),butterfly wings,Butterfly wings
+184,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),flagpole sign,Flagpole sign
+185,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),owl face,Owl face
+186,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),upside-down tree,Upside-down tree
+187,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),flagpole signpost,Flagpole signpost
+188,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),broken arrow,Broken arrow
+189,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),campfire tripod,Campfire tripod
+190,OpenAI: ChatGPT-4o - Single Context (2025-07-25),butterfly wings,butterfly wings
+191,OpenAI: ChatGPT-4o - Single Context (2025-07-25),butterfly cradle,Butterfly cradle
+192,OpenAI: ChatGPT-4o - Single Context (2025-07-25),signpost,Signpost
+193,OpenAI: ChatGPT-4o - Single Context (2025-07-25),window frame,Window frame
+194,OpenAI: ChatGPT-4o - Single Context (2025-07-25),keyhole,keyhole
+195,OpenAI: ChatGPT-4o - Single Context (2025-07-25),keyhole,Keyhole
+196,OpenAI: ChatGPT-4o - Single Context (2025-07-25),keyhole,Keyhole
+197,OpenAI: ChatGPT-4o - Single Context (2025-07-25),butterfly,Butterfly
+198,OpenAI: ChatGPT-4o - Single Context (2025-07-25),window frame,Window frame
+199,OpenAI: ChatGPT-4o - Single Context (2025-07-25),treble clef,Treble clef
+200,OpenAI: ChatGPT-4o - Single Context (2025-07-25),location marker,Location marker
+201,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),ladder rungs,ladder rungs
+202,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),eyeglasses,eyeglasses
+203,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),owl face,owl face
+204,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),table fork,table fork
+205,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),horseshoe magnet,horseshoe magnet
+206,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),ribbon award,Ribbon award
+207,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),arrow sign,arrow sign
+208,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),owl face,owl face
+209,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),saxophone key,saxophone key
+210,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),table lamp,table lamp
+211,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),flagpole sign,flagpole sign
+212,OpenAI: GPT 4.1 - Single Context (2025-07-21),playing spade,playing spade
+213,OpenAI: GPT 4.1 - Single Context (2025-07-21),butterfly wings,butterfly wings
+214,OpenAI: GPT 4.1 - Single Context (2025-07-21),fir tree,fir tree
+215,OpenAI: GPT 4.1 - Single Context (2025-07-21),table lamp,table lamp
+216,OpenAI: GPT 4.1 - Single Context (2025-07-21),mushroom cloud,Mushroom cloud
+217,OpenAI: GPT 4.1 - Single Context (2025-07-21),standing microphone,Standing microphone
+218,OpenAI: GPT 4.1 - Single Context (2025-07-21),flag sign,flag sign
+219,OpenAI: GPT 4.1 - Single Context (2025-07-21),flagpole arrow,Flagpole arrow
+220,OpenAI: GPT 4.1 - Single Context (2025-07-21),church window,Church window
+221,OpenAI: GPT 4.1 - Single Context (2025-07-21),balloon,balloon
+222,OpenAI: GPT 4.1 - Single Context (2025-07-21),butterfly,Butterfly
+223,OpenAI: GPT 4.1 - Single Context (2025-07-21),peace symbol,Peace symbol
+224,OpenAI: GPT 4.1 - Single Context (2025-07-21),flag sign,Flag sign
+225,OpenAI: GPT 4.1 - Single Context (2025-07-21),lollipop swirl,Lollipop swirl
+226,OpenAI: GPT 4.1 - Single Context (2025-07-21),playing spade,Playing spade
+227,OpenAI: GPT 4.1 - Single Context (2025-07-21),treble clef,Treble clef
+228,OpenAI: GPT 4.1 - Single Context (2025-07-21),right angle,Right angle
+229,OpenAI: GPT 4.1 - Single Context (2025-07-21),candelabra stand,candelabra stand
+230,OpenAI: GPT 4.1 - Single Context (2025-07-21),arrowhead ladder,Arrowhead ladder
+231,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),butterfly wings,Butterfly wings
+232,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),butterfly head,Butterfly head
+233,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),fork and knife,Fork and knife
+234,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),table lamp,Table lamp
+235,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),pentagon house,Pentagon house
+236,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),pipe wrench,Pipe wrench
+237,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),flagpole signpost,Flagpole signpost
+238,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),bridge support,Bridge support
+239,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),umbrella handle,Umbrella handle
+240,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),lo monogram,LO monogram
+241,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),arrow key,Arrow key
+242,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),broken letter,Broken letter
+243,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),fence,fence
+244,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),eyeglasses,eyeglasses
+245,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),butterfly antennae,Butterfly antennae
+246,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),desk lamp,Desk lamp
+247,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),trophy cup,Trophy cup
+248,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),cup trophy,Cup trophy
+249,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),rail bridge,Rail bridge
+250,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),mushroom stem,Mushroom stem
+251,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),heart glasses,Heart glasses
+252,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),slingshot pole,Slingshot pole
+253,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),snowman face,Snowman face
+254,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),snowman sideways,Snowman sideways
+255,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),hash symbol,Hash symbol
+256,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),musical note,Musical note
+257,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),flagpole sign,Flagpole sign
+258,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),uppercase f,Uppercase F
+259,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),flag stand,Flag stand
+260,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),pushpin,pushpin
+261,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),umbrella handle,Umbrella handle
+262,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),bridge arch,Bridge arch
+263,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),binoculars,binoculars
+264,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),goggles,Goggles
+265,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),christmas tree,Christmas tree
+266,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),map pin,Map pin
+267,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),smoking face,smoking face
+268,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),keyhole,Keyhole
+269,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),american football,American football
+270,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),record player,Record player
+271,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),jib crane,Jib crane
+272,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),pennant flag,pennant flag
+273,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),broken ladder,Broken ladder
+274,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),headphones,Headphones
+275,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),c note,C note
+276,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),grand piano,Grand piano
+277,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),toilet plunger,Toilet plunger
+278,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),owl,Owl
+279,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),peace symbol,Peace symbol
+280,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),club symbol,club symbol
+281,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),pipe,Pipe
+282,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),window pane,window pane
+283,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),stethoscope,Stethoscope
+284,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),capital f,Capital F
+285,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),golf hole,golf hole
+286,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),pine tree,Pine tree
+287,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),butterfly wings,Butterfly wings
+288,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),goggles,Goggles
+289,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),butterfly,Butterfly
+290,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),pine tree,pine tree
+291,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),table lamp,Table lamp
+292,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),ice-cream cone,Ice-cream cone
+293,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),clothesline,Clothesline
+294,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),hand mirror,Hand mirror
+295,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),pennant,pennant
+296,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),binoculars,Binoculars
+297,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),hand,Hand
+298,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),service bell,Service bell
+299,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),stylized person,Stylized person
+300,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),3x3 grid,3x3 grid
+301,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),power button,Power button
+302,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),egyptian eye,Egyptian eye
+303,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),capital f,Capital F
+304,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),circled r,Circled R
+305,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),greek temple,Greek temple
+306,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),eyeglasses,eyeglasses
+307,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),headphones,Headphones
+308,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),christmas tree,Christmas tree
+309,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),ufo,UFO
+310,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),teardrop,Teardrop
+311,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),manta ray,Manta ray
+312,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),padlock key,Padlock key
+313,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),teapot lid,Teapot lid
+314,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),overturned cup,Overturned cup
+315,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),capital k,Capital K
+316,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),window,Window
+317,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),binoculars,Binoculars
+318,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),exclamation mark,Exclamation mark
+319,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),comb,Comb
+320,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),martini glass,Martini glass
+321,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),bell clapper,Bell clapper
+322,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),eyeglasses,Eyeglasses
+323,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),snowman,Snowman
+324,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),padlock hasp,Padlock hasp
+325,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),3x3 grid,3x3 grid
+326,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),power button,Power button
+327,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),seated person,Seated person
+328,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),capital t,Capital T
+329,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),spade,Spade
+330,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),capital f,capital F
+331,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),snow globe,Snow globe
+332,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),magnifying glass,magnifying glass
+333,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),compass needle,compass needle
+334,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),triangular signpost,Triangular signpost
+335,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),two cherries,Two cherries
+336,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),eyeglasses,eyeglasses
+337,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),eyeglasses,Eyeglasses
+338,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),christmas tree,Christmas tree
+339,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),inverted comb,Inverted comb
+340,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),table lamp,Table lamp
+341,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),map pin,Map pin
+342,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),flying saucer,Flying saucer
+343,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),map pin,map pin
+344,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),sled,Sled
+345,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),user icon,User icon
+346,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),american football,American football
+347,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),pac‑man,Pac‑Man
+348,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),less-than sign,Less-than sign
+349,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),picture frame,Picture frame
+350,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),binoculars,Binoculars
+351,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),clock,Clock
+352,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),table lamp,Table lamp
+353,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),toilet plunger,Toilet plunger
+354,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),owl,owl
+355,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),peace symbol,Peace symbol
+356,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),club suit,Club suit
+357,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),power button,Power button
+358,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),seated person,Seated person
+359,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),eye,Eye
+360,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),snake eye,Snake eye
+361,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),capital t,Capital T
+362,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),running man,Running man
+363,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),capital f,Capital F
+364,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),teapot,Teapot
+365,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),pound sign,pound sign
+366,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),circled r,circled r
+367,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),scissor jack,Scissor jack
+368,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),sword,Sword
+369,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),ladder stack,Ladder stack
+370,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),eiffel tower,Eiffel Tower
+371,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),heart,heart
+372,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),butterfly wings,Butterfly wings
+373,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),barbell weight,Barbell weight
+374,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),eyeglasses with antennas,Eyeglasses with antennas
+375,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),double spear,Double spear
+376,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),butterfly bow,butterfly bow
+377,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),fork and trident,Fork and trident
+378,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),stapler silhouette,Stapler silhouette
+379,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),mushroom cap,Mushroom cap
+380,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),mushroom cap,Mushroom cap
+381,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),trumpet mouthpiece,Trumpet mouthpiece
+382,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),cd slot,CD slot
+383,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),coffee cup,Coffee cup
+384,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),stethoscope silhouette,Stethoscope silhouette
+385,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),block h,Block H
+386,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),anchor symbol,Anchor symbol
+387,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),shopping cart,Shopping cart
+388,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),barbell weight,Barbell weight
+389,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),stethoscope silhouette,Stethoscope silhouette
+390,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),trident fork,Trident fork
+391,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),mushroom cap,Mushroom cap
+392,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),umbrella handle,Umbrella handle
+393,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),forked staff,Forked staff
+394,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),barbell lollipop,barbell lollipop
+395,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),owl face,owl face
+396,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),ouroboros symbol,Ouroboros symbol
+397,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),shopping cart,Shopping cart
+398,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),parking sign,Parking sign
+399,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),saxophone key,Saxophone key
+400,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),treble clef,Treble clef
+401,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),t-junction,T-junction
+402,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),butterfly knife,butterfly knife
+403,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),flag emblem,Flag emblem
+404,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),flagpole bracket,Flagpole bracket
+405,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),flag key,Flag key
+406,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),anchor spear,Anchor spear
+407,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),kite emblem,Kite emblem
+408,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),umbrella hook,Umbrella hook
+409,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),trophy cup,Trophy cup
+410,OpenAI: o3 - Multiple Context - High Reasoning (2025-07-21),christmas tree,christmas tree
+411,OpenAI: o3 - Multiple Context - High Reasoning (2025-07-21),keyhole,keyhole
+412,OpenAI: o3 - Multiple Context - High Reasoning (2025-07-21),table lamp,Table lamp
+413,OpenAI: o3 - Multiple Context - High Reasoning (2025-07-21),owl,owl
+414,OpenAI: o3 - Multiple Context - High Reasoning (2025-07-21),owl,Owl
+415,OpenAI: o3 - Multiple Context - High Reasoning (2025-07-21),club suit,Club suit
+416,OpenAI: o3 - Multiple Context - High Reasoning (2025-07-21),club suit,Club suit
+417,OpenAI: o3 - Multiple Context - High Reasoning (2025-07-21),skeleton key,Skeleton key
+418,OpenAI: o3 - Multiple Context - High Reasoning (2025-07-21),capital f,Capital F
+419,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),eyeglasses,Eyeglasses
+420,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),binoculars,Binoculars
+421,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),eyeglasses,Eyeglasses
+422,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),asclepius rod,Asclepius rod
+423,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),play icon,Play icon
+424,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),periscope,Periscope
+425,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),picture frame,Picture frame
+426,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),plunger,Plunger
+427,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),park bench,park bench
+428,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),push pin,Push pin
+429,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),capitol dome,Capitol dome
+430,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),owl,Owl
+431,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),spade symbol,Spade symbol
+432,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),club symbol,Club symbol
+433,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),tic-tac-toe board,Tic-tac-toe board
+434,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),soup bowl,Soup bowl
+435,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),snail shell,Snail shell
+436,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),capital f,Capital F
+437,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),anchor,Anchor
+438,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),skeleton key,Skeleton key
+439,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),registered symbol,Registered symbol
+440,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),eyeglasses,Eyeglasses
+441,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),infinity symbol,Infinity symbol
+442,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),eyeglasses,Eyeglasses
+443,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),christmas tree,Christmas tree
+444,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),dinner fork,Dinner fork
+445,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),pig snout,Pig snout
+446,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),hexagon,Hexagon
+447,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),teardrop,Teardrop
+448,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),martini glass,Martini glass
+449,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),map pin,Map pin
+450,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),smash ball,Smash Ball
+451,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),lollipop,Lollipop
+452,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),theta symbol,Theta symbol
+453,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),slingshot,Slingshot
+454,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),door frame,Door frame
+455,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),g-clamp,G-clamp
+456,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),bitcoin symbol,Bitcoin symbol
+457,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),thumbtack,Thumbtack
+458,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),spiked helmet,Spiked helmet
+459,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),spade symbol,Spade symbol
+460,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),utility pole,Utility pole
+461,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),info icon,Info icon
+462,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),club suit,club suit
+463,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),club suit,club suit
+464,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),power button,Power button
+465,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),garden hoe,Garden hoe
+466,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),tripod camera,tripod camera
+467,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),capital f,capital F
+468,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),mushroom,Mushroom
+469,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),treble clef,Treble clef
+470,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),barn door,Barn door
+471,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),pine tree,Pine tree
+472,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),eyeglasses,Eyeglasses
+473,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),butterfly,Butterfly
+474,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),christmas tree,Christmas tree
+475,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),picket fence,picket fence
+476,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),greek phi,Greek phi
+477,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),hexagon,Hexagon
+478,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),wine glass,Wine glass
+479,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),wheelchair,Wheelchair
+480,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),light bulb,Light bulb
+481,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),door frame,Door frame
+482,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),goggles,Goggles
+483,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),mushroom,Mushroom
+484,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),grand piano,Grand piano
+485,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),club suit,club suit
+486,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),hash symbol,hash symbol
+487,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),handgun,Handgun
+488,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),spade symbol,Spade symbol
+489,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),radio tower,Radio tower
+490,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),claw hammer,Claw hammer
+491,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),capital f,Capital F
+492,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),skeleton key,Skeleton key
+493,OpenAI: o3 - Single Context - High Reasoning (2025-07-21),handcuffs,handcuffs
+494,OpenAI: o3 - Single Context - High Reasoning (2025-07-21),eyeglasses,eyeglasses
+495,OpenAI: o3 - Single Context - High Reasoning (2025-07-21),hot coffee,hot coffee
+496,OpenAI: o3 - Single Context - High Reasoning (2025-07-21),signpost,signpost
+497,OpenAI: o3 - Single Context - High Reasoning (2025-07-21),bowbow,bowbow
+498,OpenAI: o3 - Single Context - High Reasoning (2025-07-21),trident,trident
+499,OpenAI: o3 - Single Context - High Reasoning (2025-07-21),club,club
+500,OpenAI: o3 - Single Context - High Reasoning (2025-07-21),club,club
+501,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),eyeglasses,Eyeglasses
+502,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),pine tree,Pine tree
+503,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),square bucket,Square bucket
+504,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),keyhole,Keyhole
+505,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),signpost,Signpost
+506,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),door frame,Door frame
+507,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),binoculars,Binoculars
+508,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),toilet plunger,Toilet plunger
+509,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),owl,Owl
+510,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),owl,Owl
+511,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),trident,Trident
+512,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),club symbol,club symbol
+513,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),club symbol,club symbol
+514,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),power symbol,Power symbol
+515,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),treble clef,Treble clef
+516,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),capital f,Capital F
+517,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),skeleton key,Skeleton key
+518,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),lowercase r,lowercase r
+519,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),scissor jack,Scissor jack
+520,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),christmas tree,Christmas tree
+521,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),spectacles,spectacles
+522,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),pine tree,pine tree
+523,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),bra,bra
+524,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),club,club
+525,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),club,club
+526,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),question mark,question mark
+527,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),ice-cream cone,ice-cream cone
+528,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),road sign,road sign
+529,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),eyeglasses,Eyeglasses
+530,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),eyeglasses,Eyeglasses
+531,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),pine tree,Pine tree
+532,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),hair comb,Hair comb
+533,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),horseshoe magnet,Horseshoe magnet
+534,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),scd logo,SCD Logo
+535,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),keyhole,Keyhole
+536,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),door frame,Door frame
+537,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),binoculars,Binoculars
+538,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),hd icon,HD icon
+539,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),eyeglasses,Eyeglasses
+540,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),owl face,Owl face
+541,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),treble clef,Treble clef
+542,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),down arrow,Down arrow
+543,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),letter k,letter k
+544,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),capital z,Capital Z
+545,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),eyeglasses,Eyeglasses
+546,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),butterfly,Butterfly
+547,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),pine tree,Pine tree
+548,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),table,Table
+549,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),padlock,Padlock
+550,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),snail,snail
+551,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),arrow,Arrow
+552,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),axe,Axe
+553,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),window,Window
+554,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),binoculars,Binoculars
+555,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),wine glass,Wine glass
+556,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),hd monogram,HD monogram
+557,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),owl,owl
+558,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),ep,EP
+559,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),padlock,Padlock
+560,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),treble clef,Treble clef
+561,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),anchor,Anchor
+562,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),skeleton key,Skeleton key
+563,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),circled k,Circled K
+564,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),eyeglasses,Eyeglasses
+565,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),binoculars,Binoculars
+566,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),eyeglasses,Eyeglasses
+567,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),christmas tree,Christmas tree
+568,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),hair comb,Hair comb
+569,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),anchor,Anchor
+570,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),euro symbol,Euro symbol
+571,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),stick figure,Stick figure
+572,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),padlock,Padlock
+573,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),arrow,Arrow
+574,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),coat hanger,Coat hanger
+575,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),window frame,Window frame
+576,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),bra,Bra
+577,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),fence,Fence
+578,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),spoon,Spoon
+579,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),glasses,Glasses
+580,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),owl,Owl
+581,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),trident,Trident
+582,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),clover,Clover
+583,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),ep,EP
+584,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),parking sign,Parking sign
+585,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),corner bracket,Corner bracket
+586,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),pistol,Pistol
+587,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),lowercase f,lowercase f
+588,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),circled k,Circled k
+589,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),letter z,Letter Z
+590,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),up arrow,Up arrow
+591,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),eyeglasses,Eyeglasses
+592,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),christmas tree,Christmas tree
+593,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),table lamp,Table lamp
+594,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),bookmark,Bookmark
+595,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),slingshot,Slingshot
+596,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),wine glass,Wine glass
+597,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),database,Database
+598,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),toilet,Toilet
+599,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),padlock,Padlock
+600,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),door frame,Door frame
+601,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),hd monogram,HD monogram
+602,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),claw hammer,Claw hammer
+603,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),owl,Owl
+604,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),owl,Owl
+605,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),club symbol,Club symbol
+606,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),ep,EP
+607,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),flag,Flag
+608,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),power symbol,Power symbol
+609,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),figure eight,Figure eight
+610,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),glasses,Glasses
+611,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),capital f,Capital F
+612,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),half k,Half k
+613,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),letter z,Letter Z
+614,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),up arrow,Up arrow
+615,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),binoculars,Binoculars
+616,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),pine tree,Pine tree
+617,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),location pin,Location pin
+618,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),currency symbol,Currency symbol
+619,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),keyhole,Keyhole
+620,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),hard drive,Hard drive
+621,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),hd monogram,HD monogram
+622,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),owl,Owl
+623,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),clover,Clover
+624,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),rectangle,Rectangle
+625,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),power symbol,Power symbol
+626,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),capital t,Capital T
+627,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),owl face,Owl face
+628,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),capital f,Capital F
+629,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),fishing hook,Fishing hook
+630,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),table lamp,Table lamp
+631,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),letter k,letter k
+632,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),letter z,Letter Z
+633,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),caduceus,Caduceus
+634,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),funnel,Funnel
+635,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),ice cream,Ice cream
+636,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),signpost,Signpost
+637,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),door handle,Door handle
+638,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),toilet plunger,Toilet plunger
+639,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),glasses,Glasses
+640,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),spade symbol,Spade symbol
+641,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),pulley system,Pulley system
+642,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),capital t,Capital T
+643,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),scissor jack,Scissor jack
+644,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),pine tree,Pine tree
+645,OpenAI: o4-mini - Multiple Context - Medium Reasoning (2025-07-14),arch bridge,Arch bridge
+646,OpenAI: o4-mini - Multiple Context - Medium Reasoning (2025-07-14),honeycomb cell,Honeycomb cell
+647,OpenAI: o4-mini - Multiple Context - Medium Reasoning (2025-07-14),coat hook,Coat hook
+648,OpenAI: o4-mini - Multiple Context - Medium Reasoning (2025-07-14),owl,Owl
+649,OpenAI: o4-mini - Multiple Context - Medium Reasoning (2025-07-14),skeleton key,Skeleton key
+650,OpenAI: o4-mini - Multiple Context - Medium Reasoning (2025-07-14),window frame,Window frame
+651,OpenAI: o4-mini - Multiple Context - Medium Reasoning (2025-07-14),capital f,Capital F
+652,OpenAI: o4-mini - Multiple Context - Medium Reasoning (2025-07-14),down arrow,Down arrow
+653,OpenAI: o4-mini - Multiple Context - Medium Reasoning (2025-07-14),golf club,Golf club
+654,OpenAI: o4-mini - Multiple Context - Medium Reasoning (2025-07-14),window pane,Window pane
+655,OpenAI: o4-mini - Multiple Context - Medium Reasoning (2025-07-14),road sign,Road sign
+656,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),christmas tree,Christmas tree
+657,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),four-leaf clover,Four-leaf clover
+658,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),floor lamp,Floor lamp
+659,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),arch bridge,Arch bridge
+660,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),"i see a vertical stem on the left with a smooth semicircular curve attached to its right, forming the bowl of the letter d.","I see a vertical stem on the left with a smooth semicircular curve attached to its right, forming the bowl of the letter D."
+661,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),pistol,Pistol
+662,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),street lamp,Street lamp
+663,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),goggles,Goggles
+664,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),hinge pin,Hinge pin
+665,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),balloon,Balloon
+666,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),glasses,Glasses
+667,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),skeleton key,Skeleton key
+668,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),handlebar mustache,Handlebar mustache
+669,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),capital t,Capital T
+670,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),digit 8,Digit 8
+671,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),christmas tree,Christmas tree
+672,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),pulley hook,Pulley hook
+673,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),swirl lollipop,Swirl lollipop
+674,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),tower crane,Tower crane
+675,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),capital e,Capital E
+676,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),jib crane,Jib crane
+677,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),church bell,Church bell
+678,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),window frame,Window frame
+679,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),stick figure,Stick figure
+680,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),arch bridge,Arch bridge
+681,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),boat anchor,Boat anchor
+682,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),combination wrench,Combination wrench
+683,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),tobacco pipe,Tobacco pipe
