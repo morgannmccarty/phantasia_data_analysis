@@ -296,7 +296,7 @@
 294,R_5PAMRt4s9LlEvnx,b16,16,22,295,Volcano,1,Not at all
 295,R_5PAMRt4s9LlEvnx,b16,16,23,296,whale tail,2,A little
 296,R_5PAMRt4s9LlEvnx,b17,17,1,297,Abstract Eyeball,3,Moderately
-297,R_5PAMRt4s9LlEvnx,b17,17,2,298,Ballon,3,Moderately
+297,R_5PAMRt4s9LlEvnx,b17,17,2,298,Balloon,3,Moderately
 298,R_5PAMRt4s9LlEvnx,b17,17,3,299,bridge,1,Not at all
 299,R_5PAMRt4s9LlEvnx,b17,17,4,300,chalice,1,Not at all
 300,R_5PAMRt4s9LlEvnx,b17,17,5,301,chalice,1,Not at all
@@ -402,7 +402,7 @@
 400,R_5PAMRt4s9LlEvnx,b20,20,14,401,Hourglass,1,Not at all
 401,R_5PAMRt4s9LlEvnx,b20,20,15,402,Human Profile,3,Moderately
 402,R_5PAMRt4s9LlEvnx,b20,20,16,403,ice cream,2,A little
-403,R_5PAMRt4s9LlEvnx,b20,20,17,404,keyhold,2,A little
+403,R_5PAMRt4s9LlEvnx,b20,20,17,404,keyhole,2,A little
 404,R_5PAMRt4s9LlEvnx,b20,20,18,405,lightbulb,2,A little
 405,R_5PAMRt4s9LlEvnx,b20,20,19,406,magnifying glass,2,A little
 406,R_5PAMRt4s9LlEvnx,b20,20,20,407,padlock,2,A little
@@ -634,7 +634,7 @@
 632,R_5PAMRt4s9LlEvnx,b29,29,14,633,hanger,2,A little
 633,R_5PAMRt4s9LlEvnx,b29,29,15,634,hospital sign,1,Not at all
 634,R_5PAMRt4s9LlEvnx,b29,29,16,635,House,1,Not at all
-635,R_5PAMRt4s9LlEvnx,b29,29,17,636,keyhold,1,Not at all
+635,R_5PAMRt4s9LlEvnx,b29,29,17,636,keyhole,1,Not at all
 636,R_5PAMRt4s9LlEvnx,b29,29,18,637,ladder,1,Not at all
 637,R_5PAMRt4s9LlEvnx,b29,29,19,638,lamp,1,Not at all
 638,R_5PAMRt4s9LlEvnx,b29,29,20,639,potted plant,3,Moderately
@@ -708,8 +708,8 @@
 706,R_5PAMRt4s9LlEvnx,b32,32,9,707,Glass,5,Completely
 707,R_5PAMRt4s9LlEvnx,b32,32,10,708,goblet,5,Completely
 708,R_5PAMRt4s9LlEvnx,b32,32,11,709,Hammer,1,Not at all
-709,R_5PAMRt4s9LlEvnx,b32,32,12,710,hammerhead hark,1,Not at all
-710,R_5PAMRt4s9LlEvnx,b32,32,13,711,keyhold,2,A little
+709,R_5PAMRt4s9LlEvnx,b32,32,12,710,hammerhead shark,1,Not at all
+710,R_5PAMRt4s9LlEvnx,b32,32,13,711,keyhole,2,A little
 711,R_5PAMRt4s9LlEvnx,b32,32,14,712,lamp,4,A lot
 712,R_5PAMRt4s9LlEvnx,b32,32,15,713,lollipop,2,A little
 713,R_5PAMRt4s9LlEvnx,b32,32,16,714,martini glass,3,Moderately
@@ -797,7 +797,7 @@
 795,R_5PAMRt4s9LlEvnx,b35,35,22,796,tree,1,Not at all
 796,R_5PAMRt4s9LlEvnx,b36,36,1,797,anchor,3,Moderately
 797,R_5PAMRt4s9LlEvnx,b36,36,2,798,arrow,2,A little
-798,R_5PAMRt4s9LlEvnx,b36,36,3,799,Bird feet.,5,Completely
+798,R_5PAMRt4s9LlEvnx,b36,36,3,799,Bird feet,5,Completely
 799,R_5PAMRt4s9LlEvnx,b36,36,4,800,broadcast tower,5,Completely
 800,R_5PAMRt4s9LlEvnx,b36,36,5,801,crane,1,Not at all
 801,R_5PAMRt4s9LlEvnx,b36,36,6,802,dowsing rod,2,A little
@@ -1124,7 +1124,7 @@
 1122,R_5PAMRt4s9LlEvnx,b47,47,25,1123,Square,1,Not at all
 1123,R_5PAMRt4s9LlEvnx,b47,47,26,1124,stethoscope,1,Not at all
 1124,R_5PAMRt4s9LlEvnx,b47,47,27,1125,teapot,1,Not at all
-1125,R_5PAMRt4s9LlEvnx,b47,47,28,1126,treble chef,1,Not at all
+1125,R_5PAMRt4s9LlEvnx,b47,47,28,1126,treble clef,1,Not at all
 1126,R_5PAMRt4s9LlEvnx,b47,47,29,1127,Vase,1,Not at all
 1127,R_5PAMRt4s9LlEvnx,b47,47,30,1128,Wings,1,Not at all
 1128,R_5PAMRt4s9LlEvnx,b47,47,31,1129,Yo-yo,2,A little
@@ -1379,3 +1379,514 @@
 1377,R_5PAMRt4s9LlEvnx,b60,60,10,1378,television,1,Not at all
 1378,R_5PAMRt4s9LlEvnx,b60,60,11,1379,trapezium,1,Not at all
 1379,R_5PAMRt4s9LlEvnx,b60,60,12,1380,TV,1,Not at all
+1380,R_7EYGvtUpelTVayC,b1,1,1,1381,ladder stack,3,Moderately
+1381,R_7EYGvtUpelTVayC,b1,1,2,1382,ladder rungs,4,A lot
+1382,R_7EYGvtUpelTVayC,b1,1,3,1383,ladder structure,4,A lot
+1383,R_7EYGvtUpelTVayC,b2,2,1,1384,fence,1,Not at all
+1384,R_7EYGvtUpelTVayC,b2,2,2,1385,sideways ladder,2,A little
+1385,R_7EYGvtUpelTVayC,b2,2,3,1386,Eiffel tower,1,Not at all
+1386,R_7EYGvtUpelTVayC,b2,2,4,1387,ladder rungs,4,A lot
+1387,R_7EYGvtUpelTVayC,b2,2,5,1388,three-rung ladder,5,Completely
+1388,R_7EYGvtUpelTVayC,b3,3,1,1389,heart,2,A little
+1389,R_7EYGvtUpelTVayC,b3,3,2,1390,handcuffs,2,A little
+1390,R_7EYGvtUpelTVayC,b3,3,3,1391,Handlebar mustache,1,Not at all
+1391,R_7EYGvtUpelTVayC,b3,3,4,1392,Bunny ears,2,A little
+1392,R_7EYGvtUpelTVayC,b3,3,5,1393,two cherries,2,A little
+1393,R_7EYGvtUpelTVayC,b3,3,6,1394,butterfly wings,2,A little
+1394,R_7EYGvtUpelTVayC,b3,3,7,1395,playing spade,1,Not at all
+1395,R_7EYGvtUpelTVayC,b3,3,8,1396,Eyeglasses,5,Completely
+1396,R_7EYGvtUpelTVayC,b3,3,9,1397,cherries,2,A little
+1397,R_7EYGvtUpelTVayC,b4,4,1,1398,Figure eight,1,Not at all
+1398,R_7EYGvtUpelTVayC,b4,4,2,1399,binoculars,5,Completely
+1399,R_7EYGvtUpelTVayC,b4,4,3,1400,infinity symbol,1,Not at all
+1400,R_7EYGvtUpelTVayC,b4,4,4,1401,butterfly wings,2,A little
+1401,R_7EYGvtUpelTVayC,b4,4,5,1402,owl eyes,5,Completely
+1402,R_7EYGvtUpelTVayC,b4,4,6,1403,eyeglass,3,Moderately
+1403,R_7EYGvtUpelTVayC,b4,4,7,1404,TIE fighter,4,A lot
+1404,R_7EYGvtUpelTVayC,b5,5,1,1405,eyeglasses,5,Completely
+1405,R_7EYGvtUpelTVayC,b5,5,2,1406,butterfly wings,2,A little
+1406,R_7EYGvtUpelTVayC,b5,5,3,1407,goggles,5,Completely
+1407,R_7EYGvtUpelTVayC,b5,5,4,1408,binoculars,5,Completely
+1408,R_7EYGvtUpelTVayC,b5,5,5,1409,barbell weight,1,Not at all
+1409,R_7EYGvtUpelTVayC,b5,5,6,1410,pregnant woman,1,Not at all
+1410,R_7EYGvtUpelTVayC,b5,5,7,1411,spectacles,5,Completely
+1411,R_7EYGvtUpelTVayC,b6,6,1,1412,steering wheel,1,Not at all
+1412,R_7EYGvtUpelTVayC,b6,6,2,1413,bow tie,4,A lot
+1413,R_7EYGvtUpelTVayC,b6,6,3,1414,butterfly,1,Not at all
+1414,R_7EYGvtUpelTVayC,b6,6,4,1415,eyeglasses,5,Completely
+1415,R_7EYGvtUpelTVayC,b6,6,5,1416,headphones,4,A lot
+1416,R_7EYGvtUpelTVayC,b6,6,6,1417,eyeglasses with antennas,1,Not at all
+1417,R_7EYGvtUpelTVayC,b6,6,7,1418,fallen hourglass,2,A little
+1418,R_7EYGvtUpelTVayC,b7,7,1,1419,Arrow shaft,3,Moderately
+1419,R_7EYGvtUpelTVayC,b7,7,2,1420,christmas tree,4,A lot
+1420,R_7EYGvtUpelTVayC,b7,7,3,1421,double spear,5,Completely
+1421,R_7EYGvtUpelTVayC,b7,7,4,1422,pine tree,5,Completely
+1422,R_7EYGvtUpelTVayC,b7,7,5,1423,fletched arrow,4,A lot
+1423,R_7EYGvtUpelTVayC,b7,7,6,1424,pair of arrows,2,A little
+1424,R_7EYGvtUpelTVayC,b7,7,7,1425,up arrow,3,Moderately
+1425,R_7EYGvtUpelTVayC,b7,7,8,1426,wow,1,Not at all
+1426,R_7EYGvtUpelTVayC,b8,8,1,1427,winged scepter,2,A little
+1427,R_7EYGvtUpelTVayC,b8,8,2,1428,cheerleader,1,Not at all
+1428,R_7EYGvtUpelTVayC,b8,8,3,1429,Ship anchor,1,Not at all
+1429,R_7EYGvtUpelTVayC,b8,8,4,1430,human figure,1,Not at all
+1430,R_7EYGvtUpelTVayC,b8,8,5,1431,butterfly head,3,Moderately
+1431,R_7EYGvtUpelTVayC,b8,8,6,1432,caduceus,2,A little
+1432,R_7EYGvtUpelTVayC,b8,8,7,1433,Digit 8,1,Not at all
+1433,R_7EYGvtUpelTVayC,b8,8,8,1434,long diamond,1,Not at all
+1434,R_7EYGvtUpelTVayC,b9,9,1,1435,cactus,2,A little
+1435,R_7EYGvtUpelTVayC,b9,9,2,1436,Ship anchor,1,Not at all
+1436,R_7EYGvtUpelTVayC,b9,9,3,1437,butterfly bow,4,A lot
+1437,R_7EYGvtUpelTVayC,b9,9,4,1438,inverted comb,1,Not at all
+1438,R_7EYGvtUpelTVayC,b9,9,5,1439,butterfly antennae,3,Moderately
+1439,R_7EYGvtUpelTVayC,b9,9,6,1440,Four-leaf clover,2,A little
+1440,R_7EYGvtUpelTVayC,b10,10,1,1441,A T with two small bars on the side,1,Not at all
+1441,R_7EYGvtUpelTVayC,b10,10,2,1442,broken comb,4,A lot
+1442,R_7EYGvtUpelTVayC,b10,10,3,1443,comb teeth,4,A lot
+1443,R_7EYGvtUpelTVayC,b10,10,4,1444,Cyrillic letter,1,Not at all
+1444,R_7EYGvtUpelTVayC,b10,10,5,1445,fir tree,1,Not at all
+1445,R_7EYGvtUpelTVayC,b10,10,6,1446,fork and knife,1,Not at all
+1446,R_7EYGvtUpelTVayC,b10,10,7,1447,Fork and trident,4,A lot
+1447,R_7EYGvtUpelTVayC,b10,10,8,1448,Hair comb,4,A lot
+1448,R_7EYGvtUpelTVayC,b10,10,9,1449,table,1,Not at all
+1449,R_7EYGvtUpelTVayC,b10,10,10,1450,two open attached triangles,1,Not at all
+1450,R_7EYGvtUpelTVayC,b11,11,1,1451,picket fence,2,A little
+1451,R_7EYGvtUpelTVayC,b11,11,2,1452,dinner fork,4,A lot
+1452,R_7EYGvtUpelTVayC,b11,11,3,1453,Stapler silhouette,1,Not at all
+1453,R_7EYGvtUpelTVayC,b11,11,4,1454,rotated table,1,Not at all
+1454,R_7EYGvtUpelTVayC,b11,11,5,1455,table fork,4,A lot
+1455,R_7EYGvtUpelTVayC,b11,11,6,1456,bug crawling,2,A little
+1456,R_7EYGvtUpelTVayC,b12,12,1,1457,hammer,1,Not at all
+1457,R_7EYGvtUpelTVayC,b12,12,2,1458,UFO,1,Not at all
+1458,R_7EYGvtUpelTVayC,b12,12,3,1459,mushroom cap,2,A little
+1459,R_7EYGvtUpelTVayC,b12,12,4,1460,table lamp,5,Completely
+1460,R_7EYGvtUpelTVayC,b12,12,5,1461,lying person,1,Not at all
+1461,R_7EYGvtUpelTVayC,b12,12,6,1462,Desk lamp,5,Completely
+1462,R_7EYGvtUpelTVayC,b12,12,7,1463,anchor,2,A little
+1463,R_7EYGvtUpelTVayC,b12,12,8,1464,arch bridge,1,Not at all
+1464,R_7EYGvtUpelTVayC,b12,12,9,1465,Floor lamp,4,A lot
+1465,R_7EYGvtUpelTVayC,b12,12,10,1466,Dried,1,Not at all
+1466,R_7EYGvtUpelTVayC,b12,12,11,1467,D on stilts,1,Not at all
+1467,R_7EYGvtUpelTVayC,b13,13,1,1468,boat,2,A little
+1468,R_7EYGvtUpelTVayC,b13,13,2,1469,bulb,1,Not at all
+1469,R_7EYGvtUpelTVayC,b13,13,3,1470,table,4,A lot
+1470,R_7EYGvtUpelTVayC,b13,13,4,1471,mushroom cap,3,Moderately
+1471,R_7EYGvtUpelTVayC,b13,13,5,1472,mushroom cloud,2,A little
+1472,R_7EYGvtUpelTVayC,b13,13,6,1473,arched window,1,Not at all
+1473,R_7EYGvtUpelTVayC,b13,13,7,1474,padlock,1,Not at all
+1474,R_7EYGvtUpelTVayC,b13,13,8,1475,table lamp,5,Completely
+1475,R_7EYGvtUpelTVayC,b14,14,1,1476,Horseshoe magnet,3,Moderately
+1476,R_7EYGvtUpelTVayC,b14,14,2,1477,Skull,1,Not at all
+1477,R_7EYGvtUpelTVayC,b14,14,3,1478,pig snout,3,Moderately
+1478,R_7EYGvtUpelTVayC,b14,14,4,1479,toilet seat,2,A little
+1479,R_7EYGvtUpelTVayC,b14,14,5,1480,butterfly cradle,1,Not at all
+1480,R_7EYGvtUpelTVayC,b14,14,6,1481,Contained Ds,1,Not at all
+1481,R_7EYGvtUpelTVayC,b15,15,1,1482,Yield sign,1,Not at all
+1482,R_7EYGvtUpelTVayC,b15,15,2,1483,Skull,1,Not at all
+1483,R_7EYGvtUpelTVayC,b15,15,3,1484,hexagon,3,Moderately
+1484,R_7EYGvtUpelTVayC,b15,15,4,1485,dog house,5,Completely
+1485,R_7EYGvtUpelTVayC,b15,15,5,1486,pennant flag,1,Not at all
+1486,R_7EYGvtUpelTVayC,b15,15,6,1487,cut diamond,2,A little
+1487,R_7EYGvtUpelTVayC,b15,15,7,1488,Pentagon house,5,Completely
+1488,R_7EYGvtUpelTVayC,b15,15,8,1489,Square bucket,1,Not at all
+1489,R_7EYGvtUpelTVayC,b15,15,9,1490,Honeycomb cell,2,A little
+1490,R_7EYGvtUpelTVayC,b15,15,10,1491,square with a diamond in the middle,1,Not at all
+1491,R_7EYGvtUpelTVayC,b15,15,11,1492,Equilateral hexagon,2,A little
+1492,R_7EYGvtUpelTVayC,b16,16,1,1493,funnel,3,Moderately
+1493,R_7EYGvtUpelTVayC,b16,16,2,1494,bell,1,Not at all
+1494,R_7EYGvtUpelTVayC,b16,16,3,1495,wine glass,1,Not at all
+1495,R_7EYGvtUpelTVayC,b16,16,4,1496,teardrop,3,Moderately
+1496,R_7EYGvtUpelTVayC,b16,16,5,1497,ice-cream cone,5,Completely
+1497,R_7EYGvtUpelTVayC,b16,16,6,1498,church bell,1,Not at all
+1498,R_7EYGvtUpelTVayC,b16,16,7,1499,Trophy cup,1,Not at all
+1499,R_7EYGvtUpelTVayC,b16,16,8,1500,bookmark,2,A little
+1500,R_7EYGvtUpelTVayC,b16,16,9,1501,location pin,4,A lot
+1501,R_7EYGvtUpelTVayC,b17,17,1,1502,bell,1,Not at all
+1502,R_7EYGvtUpelTVayC,b17,17,2,1503,umbrella,2,A little
+1503,R_7EYGvtUpelTVayC,b17,17,3,1504,manta ray,2,A little
+1504,R_7EYGvtUpelTVayC,b17,17,4,1505,flying saucer,3,Moderately
+1505,R_7EYGvtUpelTVayC,b17,17,5,1506,hanging lantern,4,A lot
+1506,R_7EYGvtUpelTVayC,b17,17,6,1507,slingshot,4,A lot
+1507,R_7EYGvtUpelTVayC,b18,18,1,1508,ship flag,1,Not at all
+1508,R_7EYGvtUpelTVayC,b18,18,2,1509,speech balloon,2,A little
+1509,R_7EYGvtUpelTVayC,b18,18,3,1510,ribbon award,3,Moderately
+1510,R_7EYGvtUpelTVayC,b18,18,4,1511,key,1,Not at all
+1511,R_7EYGvtUpelTVayC,b18,18,5,1512,Umbrella,2,A little
+1512,R_7EYGvtUpelTVayC,b18,18,6,1513,map pin,4,A lot
+1513,R_7EYGvtUpelTVayC,b18,18,7,1514,Trumpet mouthpiece,2,A little
+1514,R_7EYGvtUpelTVayC,b18,18,8,1515,butterfly wings,1,Not at all
+1515,R_7EYGvtUpelTVayC,b18,18,9,1516,Cup trophy,1,Not at all
+1516,R_7EYGvtUpelTVayC,b18,18,10,1517,Arch bridge,1,Not at all
+1517,R_7EYGvtUpelTVayC,b19,19,1,1518,southeast direction,1,Not at all
+1518,R_7EYGvtUpelTVayC,b19,19,2,1519,smoking face,2,A little
+1519,R_7EYGvtUpelTVayC,b19,19,3,1520,wheelchair,1,Not at all
+1520,R_7EYGvtUpelTVayC,b19,19,4,1521,smash ball,3,Moderately
+1521,R_7EYGvtUpelTVayC,b19,19,5,1522,asclepius rod,1,Not at all
+1522,R_7EYGvtUpelTVayC,b19,19,6,1523,padlock key,2,A little
+1523,R_7EYGvtUpelTVayC,b19,19,7,1524,CD slot,1,Not at all
+1524,R_7EYGvtUpelTVayC,b19,19,8,1525,sled,4,A lot
+1525,R_7EYGvtUpelTVayC,b19,19,9,1526,clothesline,1,Not at all
+1526,R_7EYGvtUpelTVayC,b19,19,10,1527,skeleton key,1,Not at all
+1527,R_7EYGvtUpelTVayC,b19,19,11,1528,hot coffee,1,Not at all
+1528,R_7EYGvtUpelTVayC,b19,19,12,1529,euro symbol,2,A little
+1529,R_7EYGvtUpelTVayC,b19,19,13,1530,database,1,Not at all
+1530,R_7EYGvtUpelTVayC,b19,19,14,1531,Currency symbol,2,A little
+1531,R_7EYGvtUpelTVayC,b20,20,1,1532,mushroom,2,A little
+1532,R_7EYGvtUpelTVayC,b20,20,2,1533,key,1,Not at all
+1533,R_7EYGvtUpelTVayC,b20,20,3,1534,ice cream,2,A little
+1534,R_7EYGvtUpelTVayC,b20,20,4,1535,lollipop,2,A little
+1535,R_7EYGvtUpelTVayC,b20,20,5,1536,teapot lid,4,A lot
+1536,R_7EYGvtUpelTVayC,b20,20,6,1537,user icon,5,Completely
+1537,R_7EYGvtUpelTVayC,b20,20,7,1538,person icon,5,Completely
+1538,R_7EYGvtUpelTVayC,b20,20,8,1539,stick figure,2,A little
+1539,R_7EYGvtUpelTVayC,b20,20,9,1540,toilet,5,Completely
+1540,R_7EYGvtUpelTVayC,b20,20,10,1541,pulley hook,2,A little
+1541,R_7EYGvtUpelTVayC,b21,21,1,1542,mushroom,3,Moderately
+1542,R_7EYGvtUpelTVayC,b21,21,2,1543,Letter B,1,Not at all
+1543,R_7EYGvtUpelTVayC,b21,21,3,1544,american football,1,Not at all
+1544,R_7EYGvtUpelTVayC,b21,21,4,1545,light bulb,4,A lot
+1545,R_7EYGvtUpelTVayC,b21,21,5,1546,theta symbol,1,Not at all
+1546,R_7EYGvtUpelTVayC,b21,21,6,1547,overturned cup,2,A little
+1547,R_7EYGvtUpelTVayC,b21,21,7,1548,coffee cup,1,Not at all
+1548,R_7EYGvtUpelTVayC,b21,21,8,1549,pregnant woman,3,Moderately
+1549,R_7EYGvtUpelTVayC,b21,21,9,1550,sideways headphones,1,Not at all
+1550,R_7EYGvtUpelTVayC,b21,21,10,1551,snail,1,Not at all
+1551,R_7EYGvtUpelTVayC,b21,21,11,1552,padlock,3,Moderately
+1552,R_7EYGvtUpelTVayC,b21,21,12,1553,2 circles,1,Not at all
+1553,R_7EYGvtUpelTVayC,b21,21,13,1554,ice cream,2,A little
+1554,R_7EYGvtUpelTVayC,b22,22,1,1555,ice cream,1,Not at all
+1555,R_7EYGvtUpelTVayC,b22,22,2,1556,record player,2,A little
+1556,R_7EYGvtUpelTVayC,b22,22,3,1557,play icon,2,A little
+1557,R_7EYGvtUpelTVayC,b22,22,4,1558,Pac-Man,1,Not at all
+1558,R_7EYGvtUpelTVayC,b22,22,5,1559,padlock keyhole,4,A lot
+1559,R_7EYGvtUpelTVayC,b22,22,6,1560,arrow,3,Moderately
+1560,R_7EYGvtUpelTVayC,b22,22,7,1561,cone and face,1,Not at all
+1561,R_7EYGvtUpelTVayC,b22,22,8,1562,cartoon image,1,Not at all
+1562,R_7EYGvtUpelTVayC,b23,23,1,1563,Stethoscope silhouette,1,Not at all
+1563,R_7EYGvtUpelTVayC,b23,23,2,1564,hand mirror,5,Completely
+1564,R_7EYGvtUpelTVayC,b23,23,3,1565,standing microphone,3,Moderately
+1565,R_7EYGvtUpelTVayC,b23,23,4,1566,Swirl lollipop,5,Completely
+1566,R_7EYGvtUpelTVayC,b23,23,5,1567,head on shoulders,1,Not at all
+1567,R_7EYGvtUpelTVayC,b24,24,1,1569,bucket,2,A little
+1568,R_7EYGvtUpelTVayC,b24,24,2,1570,staple,3,Moderately
+1569,R_7EYGvtUpelTVayC,b24,24,3,1571,jib crane,3,Moderately
+1570,R_7EYGvtUpelTVayC,b24,24,4,1572,periscope,3,Moderately
+1571,R_7EYGvtUpelTVayC,b24,24,5,1573,block H,5,Completely
+1572,R_7EYGvtUpelTVayC,b24,24,6,1574,pipe wrench,3,Moderately
+1573,R_7EYGvtUpelTVayC,b24,24,7,1575,Pistol,1,Not at all
+1574,R_7EYGvtUpelTVayC,b25,25,1,1576,shelf bracket,3,Moderately
+1575,R_7EYGvtUpelTVayC,b25,25,2,1577,Boot heel,1,Not at all
+1576,R_7EYGvtUpelTVayC,b25,25,3,1578,Tuning fork,4,A lot
+1577,R_7EYGvtUpelTVayC,b25,25,4,1579,hammer head,1,Not at all
+1578,R_7EYGvtUpelTVayC,b25,25,5,1580,Skeleton key,1,Not at all
+1579,R_7EYGvtUpelTVayC,b25,25,6,1581,pipe wrench,3,Moderately
+1580,R_7EYGvtUpelTVayC,b25,25,7,1582,flag sign,1,Not at all
+1581,R_7EYGvtUpelTVayC,b25,25,8,1583,Flagpole signpost,2,A little
+1582,R_7EYGvtUpelTVayC,b25,25,9,1584,Street lamp,3,Moderately
+1583,R_7EYGvtUpelTVayC,b25,25,10,1585,Tower crane,1,Not at all
+1584,R_7EYGvtUpelTVayC,b26,26,1,1586,signpost,3,Moderately
+1585,R_7EYGvtUpelTVayC,b26,26,2,1587,stick figure,1,Not at all
+1586,R_7EYGvtUpelTVayC,b26,26,3,1588,Letter F,1,Not at all
+1587,R_7EYGvtUpelTVayC,b26,26,4,1589,pennant flag,5,Completely
+1588,R_7EYGvtUpelTVayC,b26,26,5,1590,Capital K,1,Not at all
+1589,R_7EYGvtUpelTVayC,b26,26,6,1591,anchor symbol,1,Not at all
+1590,R_7EYGvtUpelTVayC,b26,26,7,1592,less-than sign,1,Not at all
+1591,R_7EYGvtUpelTVayC,b26,26,8,1593,pennant,4,A lot
+1592,R_7EYGvtUpelTVayC,b26,26,9,1594,arrow sign,3,Moderately
+1593,R_7EYGvtUpelTVayC,b26,26,10,1595,Flagpole arrow,4,A lot
+1594,R_7EYGvtUpelTVayC,b26,26,11,1596,axe,3,Moderately
+1595,R_7EYGvtUpelTVayC,b26,26,12,1597,coat hanger,1,Not at all
+1596,R_7EYGvtUpelTVayC,b26,26,13,1598,triangle attached to a straight line,3,Moderately
+1597,R_7EYGvtUpelTVayC,b27,27,1,1599,window frame,2,A little
+1598,R_7EYGvtUpelTVayC,b27,27,2,1600,picture frame,3,Moderately
+1599,R_7EYGvtUpelTVayC,b27,27,3,1601,backwards F,1,Not at all
+1600,R_7EYGvtUpelTVayC,b27,27,4,1602,battery symbol,3,Moderately
+1601,R_7EYGvtUpelTVayC,b27,27,5,1603,broken ladder,4,A lot
+1602,R_7EYGvtUpelTVayC,b27,27,6,1604,door frame,5,Completely
+1603,R_7EYGvtUpelTVayC,b27,27,7,1605,window,3,Moderately
+1604,R_7EYGvtUpelTVayC,b27,27,8,1606,shopping cart,2,A little
+1605,R_7EYGvtUpelTVayC,b27,27,9,1607,door handle,3,Moderately
+1606,R_7EYGvtUpelTVayC,b27,27,10,1608,Capital E,1,Not at all
+1607,R_7EYGvtUpelTVayC,b27,27,11,1609,2 square stacked into each other,1,Not at all
+1608,R_7EYGvtUpelTVayC,b28,28,1,1610,Goggles,5,Completely
+1609,R_7EYGvtUpelTVayC,b28,28,2,1611,Binoculars,4,A lot
+1610,R_7EYGvtUpelTVayC,b28,28,3,1612,bra,5,Completely
+1611,R_7EYGvtUpelTVayC,b28,28,4,1613,butterfly,1,Not at all
+1612,R_7EYGvtUpelTVayC,b28,28,5,1614,bicycle handlebars,3,Moderately
+1613,R_7EYGvtUpelTVayC,b28,28,6,1615,headphones,4,A lot
+1614,R_7EYGvtUpelTVayC,b28,28,7,1616,barbell weight,1,Not at all
+1615,R_7EYGvtUpelTVayC,b29,29,1,1617,coat hook,3,Moderately
+1616,R_7EYGvtUpelTVayC,b29,29,2,1618,table,2,A little
+1617,R_7EYGvtUpelTVayC,b29,29,3,1619,magnifying glass,1,Not at all
+1618,R_7EYGvtUpelTVayC,b29,29,4,1620,Letter B,1,Not at all
+1619,R_7EYGvtUpelTVayC,b29,29,5,1621,C note,1,Not at all
+1620,R_7EYGvtUpelTVayC,b29,29,6,1622,G-clamp,2,A little
+1621,R_7EYGvtUpelTVayC,b29,29,7,1623,plunger,2,A little
+1622,R_7EYGvtUpelTVayC,b29,29,8,1624,exclamation mark,1,Not at all
+1623,R_7EYGvtUpelTVayC,b29,29,9,1625,stethoscope symbol,1,Not at all
+1624,R_7EYGvtUpelTVayC,b29,29,10,1626,hand,1,Not at all
+1625,R_7EYGvtUpelTVayC,b29,29,11,1627,wine glass,1,Not at all
+1626,R_7EYGvtUpelTVayC,b29,29,12,1628,hard drive,1,Not at all
+1627,R_7EYGvtUpelTVayC,b29,29,13,1629,Jib crane,1,Not at all
+1628,R_7EYGvtUpelTVayC,b30,30,1,1630,keyhole,1,Not at all
+1629,R_7EYGvtUpelTVayC,b30,30,2,1631,Rail bridge,1,Not at all
+1630,R_7EYGvtUpelTVayC,b30,30,3,1632,Bridge support,2,A little
+1631,R_7EYGvtUpelTVayC,b30,30,4,1633,comb,2,A little
+1632,R_7EYGvtUpelTVayC,b30,30,5,1634,grand piano,4,A lot
+1633,R_7EYGvtUpelTVayC,b30,30,6,1635,bitcoin symbol,1,Not at all
+1634,R_7EYGvtUpelTVayC,b30,30,7,1636,park bench,3,Moderately
+1635,R_7EYGvtUpelTVayC,b30,30,8,1637,comb,2,A little
+1636,R_7EYGvtUpelTVayC,b30,30,9,1638,trident fork,1,Not at all
+1637,R_7EYGvtUpelTVayC,b30,30,10,1639,clock,1,Not at all
+1638,R_7EYGvtUpelTVayC,b30,30,11,1640,skeleton key,2,A little
+1639,R_7EYGvtUpelTVayC,b30,30,12,1641,Church window,1,Not at all
+1640,R_7EYGvtUpelTVayC,b30,30,13,1642,HD monogram,1,Not at all
+1641,R_7EYGvtUpelTVayC,b30,30,14,1643,HD icon,1,Not at all
+1642,R_7EYGvtUpelTVayC,b30,30,15,1644,fence,3,Moderately
+1643,R_7EYGvtUpelTVayC,b30,30,16,1645,Hinge pin,1,Not at all
+1644,R_7EYGvtUpelTVayC,b31,31,1,1646,balloon,5,Completely
+1645,R_7EYGvtUpelTVayC,b31,31,2,1647,thumbtack,4,A lot
+1646,R_7EYGvtUpelTVayC,b31,31,3,1648,push pin,4,A lot
+1647,R_7EYGvtUpelTVayC,b31,31,4,1649,martini glass,1,Not at all
+1648,R_7EYGvtUpelTVayC,b31,31,5,1650,Arrow through a cricle,1,Not at all
+1649,R_7EYGvtUpelTVayC,b32,32,1,1651,bell,4,A lot
+1650,R_7EYGvtUpelTVayC,b32,32,2,1652,mushroom cap,4,A lot
+1651,R_7EYGvtUpelTVayC,b32,32,3,1653,upside-down table,1,Not at all
+1652,R_7EYGvtUpelTVayC,b32,32,4,1654,mushroom anchor,2,A little
+1653,R_7EYGvtUpelTVayC,b32,32,5,1655,Umbrella handle,2,A little
+1654,R_7EYGvtUpelTVayC,b32,32,6,1656,claw hammer,1,Not at all
+1655,R_7EYGvtUpelTVayC,b33,33,1,1657,hammer,1,Not at all
+1656,R_7EYGvtUpelTVayC,b33,33,2,1658,horseshoe magnet,2,A little
+1657,R_7EYGvtUpelTVayC,b33,33,3,1659,toilet plunger,5,Completely
+1658,R_7EYGvtUpelTVayC,b33,33,4,1660,spiked helmet,4,A lot
+1659,R_7EYGvtUpelTVayC,b33,33,5,1661,capitol dome,5,Completely
+1660,R_7EYGvtUpelTVayC,b33,33,6,1662,bell clapper,2,A little
+1661,R_7EYGvtUpelTVayC,b33,33,7,1663,umbrella handle,3,Moderately
+1662,R_7EYGvtUpelTVayC,b33,33,8,1664,service bell,5,Completely
+1663,R_7EYGvtUpelTVayC,b33,33,9,1665,Mushroom stem,3,Moderately
+1664,R_7EYGvtUpelTVayC,b33,33,10,1666,spoon,3,Moderately
+1665,R_7EYGvtUpelTVayC,b33,33,11,1667,Church bell,3,Moderately
+1666,R_7EYGvtUpelTVayC,b33,33,12,1668,Upsidedown Umbrella,4,A lot
+1667,R_7EYGvtUpelTVayC,b34,34,1,1671,owl,1,Not at all
+1668,R_7EYGvtUpelTVayC,b34,34,2,1672,glasses,3,Moderately
+1669,R_7EYGvtUpelTVayC,b34,34,3,1673,butterfly mask,1,Not at all
+1670,R_7EYGvtUpelTVayC,b34,34,4,1674,eyeglasses,2,A little
+1671,R_7EYGvtUpelTVayC,b34,34,5,1675,bowbow,3,Moderately
+1672,R_7EYGvtUpelTVayC,b35,35,1,1676,owl,1,Not at all
+1673,R_7EYGvtUpelTVayC,b35,35,2,1677,butterfly,2,A little
+1674,R_7EYGvtUpelTVayC,b35,35,3,1678,bikini top,3,Moderately
+1675,R_7EYGvtUpelTVayC,b35,35,4,1679,spade symbol,1,Not at all
+1676,R_7EYGvtUpelTVayC,b35,35,5,1680,Heart glasses,2,A little
+1677,R_7EYGvtUpelTVayC,b36,36,1,1669,bird footprint,1,Not at all
+1678,R_7EYGvtUpelTVayC,b36,36,2,1670,chickenfoot,1,Not at all
+1679,R_7EYGvtUpelTVayC,b36,36,3,1681,Trident,3,Moderately
+1680,R_7EYGvtUpelTVayC,b36,36,4,1682,telephone pole,5,Completely
+1681,R_7EYGvtUpelTVayC,b36,36,5,1683,downward arrow,1,Not at all
+1682,R_7EYGvtUpelTVayC,b36,36,6,1684,peace symbol,2,A little
+1683,R_7EYGvtUpelTVayC,b36,36,7,1685,utility pole,5,Completely
+1684,R_7EYGvtUpelTVayC,b36,36,8,1686,forked staff,3,Moderately
+1685,R_7EYGvtUpelTVayC,b36,36,9,1687,slingshot frame,3,Moderately
+1686,R_7EYGvtUpelTVayC,b36,36,10,1688,Slingshot pole,3,Moderately
+1687,R_7EYGvtUpelTVayC,b37,37,1,1689,info icon,1,Not at all
+1688,R_7EYGvtUpelTVayC,b37,37,2,1690,snowman,1,Not at all
+1689,R_7EYGvtUpelTVayC,b37,37,3,1691,barbell lollipop,1,Not at all
+1690,R_7EYGvtUpelTVayC,b37,37,4,1692,Bowtie person,1,Not at all
+1691,R_7EYGvtUpelTVayC,b37,37,5,1693,club symbol,5,Completely
+1692,R_7EYGvtUpelTVayC,b37,37,6,1694,balloon,4,A lot
+1693,R_7EYGvtUpelTVayC,b38,38,1,1695,owl face,1,Not at all
+1694,R_7EYGvtUpelTVayC,b38,38,2,1696,club suit,3,Moderately
+1695,R_7EYGvtUpelTVayC,b38,38,3,1697,club symbol,3,Moderately
+1696,R_7EYGvtUpelTVayC,b38,38,4,1698,snowman face,3,Moderately
+1697,R_7EYGvtUpelTVayC,b38,38,5,1699,club,3,Moderately
+1698,R_7EYGvtUpelTVayC,b38,38,6,1700,clover,3,Moderately
+1699,R_7EYGvtUpelTVayC,b38,38,7,1701,triple scoop ice cream cone,5,Completely
+1700,R_7EYGvtUpelTVayC,b38,38,8,1702,ice cream scoops on a cone,5,Completely
+1701,R_7EYGvtUpelTVayC,b38,38,9,1703,Flower,4,A lot
+1702,R_7EYGvtUpelTVayC,b39,39,1,1704,owl face,2,A little
+1703,R_7EYGvtUpelTVayC,b39,39,2,1705,club symbol,3,Moderately
+1704,R_7EYGvtUpelTVayC,b39,39,3,1706,club suit,3,Moderately
+1705,R_7EYGvtUpelTVayC,b39,39,4,1707,ouroboros symbol,1,Not at all
+1706,R_7EYGvtUpelTVayC,b39,39,5,1708,stylized person,2,A little
+1707,R_7EYGvtUpelTVayC,b39,39,6,1709,Snowman sideways,1,Not at all
+1708,R_7EYGvtUpelTVayC,b39,39,7,1710,club,3,Moderately
+1709,R_7EYGvtUpelTVayC,b39,39,8,1711,pulley system,3,Moderately
+1710,R_7EYGvtUpelTVayC,b39,39,9,1712,football player with shoulder pads,5,Completely
+1711,R_7EYGvtUpelTVayC,b39,39,10,1713,ice cream scoops in a cone,5,Completely
+1712,R_7EYGvtUpelTVayC,b39,39,11,1714,ice cream cone with three scoops,5,Completely
+1713,R_7EYGvtUpelTVayC,b39,39,12,1715,stacked symbol,1,Not at all
+1714,R_7EYGvtUpelTVayC,b40,40,1,1716,side chair,2,A little
+1715,R_7EYGvtUpelTVayC,b40,40,2,1717,table frame,3,Moderately
+1716,R_7EYGvtUpelTVayC,b40,40,3,1718,shopping cart,3,Moderately
+1717,R_7EYGvtUpelTVayC,b40,40,4,1719,Flagpole sign,1,Not at all
+1718,R_7EYGvtUpelTVayC,b40,40,5,1720,EP,1,Not at all
+1719,R_7EYGvtUpelTVayC,b40,40,6,1721,rectangle,1,Not at all
+1720,R_7EYGvtUpelTVayC,b40,40,7,1722,Skeleton key,1,Not at all
+1721,R_7EYGvtUpelTVayC,b40,40,8,1723,lock standing sideways,5,Completely
+1722,R_7EYGvtUpelTVayC,b41,41,1,1724,padlock,5,Completely
+1723,R_7EYGvtUpelTVayC,b41,41,2,1725,pipe,1,Not at all
+1724,R_7EYGvtUpelTVayC,b41,41,3,1726,padlock hasp,4,A lot
+1725,R_7EYGvtUpelTVayC,b41,41,4,1727,parking sign,2,A little
+1726,R_7EYGvtUpelTVayC,b41,41,5,1728,Flag sign,1,Not at all
+1727,R_7EYGvtUpelTVayC,b41,41,6,1729,flag,1,Not at all
+1728,R_7EYGvtUpelTVayC,b41,41,7,1730,marker for going right,1,Not at all
+1729,R_7EYGvtUpelTVayC,b42,42,1,1731,3x3 grid,2,A little
+1730,R_7EYGvtUpelTVayC,b42,42,2,1732,tic-tac-toe board,3,Moderately
+1731,R_7EYGvtUpelTVayC,b42,42,3,1733,hash symbol,2,A little
+1732,R_7EYGvtUpelTVayC,b42,42,4,1734,window pane,5,Completely
+1733,R_7EYGvtUpelTVayC,b42,42,5,1735,window frame,5,Completely
+1734,R_7EYGvtUpelTVayC,b42,42,6,1736,Lined square,2,A little
+1735,R_7EYGvtUpelTVayC,b42,42,7,1737,H shape,1,Not at all
+1736,R_7EYGvtUpelTVayC,b43,43,1,1738,Power symbol,1,Not at all
+1737,R_7EYGvtUpelTVayC,b43,43,2,1739,question mark,1,Not at all
+1738,R_7EYGvtUpelTVayC,b43,43,3,1740,computer mouse,5,Completely
+1739,R_7EYGvtUpelTVayC,b43,43,4,1741,musical note,1,Not at all
+1740,R_7EYGvtUpelTVayC,b43,43,5,1742,Apple stem,4,A lot
+1741,R_7EYGvtUpelTVayC,b43,43,6,1743,snake charmer,1,Not at all
+1742,R_7EYGvtUpelTVayC,b43,43,7,1744,saxophone key,1,Not at all
+1743,R_7EYGvtUpelTVayC,b43,43,8,1745,Lollipop swirl,2,A little
+1744,R_7EYGvtUpelTVayC,b43,43,9,1746,question mark,1,Not at all
+1745,R_7EYGvtUpelTVayC,b43,43,10,1747,Treble clef,1,Not at all
+1746,R_7EYGvtUpelTVayC,b44,44,1,1748,stethoscope,2,A little
+1747,R_7EYGvtUpelTVayC,b44,44,2,1749,power button,1,Not at all
+1748,R_7EYGvtUpelTVayC,b44,44,3,1750,soup bowl,2,A little
+1749,R_7EYGvtUpelTVayC,b44,44,4,1751,saxophone key,1,Not at all
+1750,R_7EYGvtUpelTVayC,b44,44,5,1752,swan neck,1,Not at all
+1751,R_7EYGvtUpelTVayC,b44,44,6,1753,Snake eye,1,Not at all
+1752,R_7EYGvtUpelTVayC,b45,45,1,1754,target,2,A little
+1753,R_7EYGvtUpelTVayC,b45,45,2,1755,stick figure,1,Not at all
+1754,R_7EYGvtUpelTVayC,b45,45,3,1756,golf club,1,Not at all
+1755,R_7EYGvtUpelTVayC,b45,45,4,1757,seated person,1,Not at all
+1756,R_7EYGvtUpelTVayC,b45,45,5,1758,hanging target,2,A little
+1757,R_7EYGvtUpelTVayC,b45,45,6,1759,sitting person,1,Not at all
+1758,R_7EYGvtUpelTVayC,b45,45,7,1760,Skeleton key,1,Not at all
+1759,R_7EYGvtUpelTVayC,b45,45,8,1761,padlock,1,Not at all
+1760,R_7EYGvtUpelTVayC,b45,45,9,1762,power button,2,A little
+1761,R_7EYGvtUpelTVayC,b45,45,10,1763,face with a nose,2,A little
+1762,R_7EYGvtUpelTVayC,b46,46,1,1764,handlebars,2,A little
+1763,R_7EYGvtUpelTVayC,b46,46,2,1765,spade symbol,3,Moderately
+1764,R_7EYGvtUpelTVayC,b46,46,3,1766,eye,3,Moderately
+1765,R_7EYGvtUpelTVayC,b46,46,4,1767,anchor chalice,2,A little
+1766,R_7EYGvtUpelTVayC,b46,46,5,1768,Butterfly wings,1,Not at all
+1767,R_7EYGvtUpelTVayC,b46,46,6,1769,Playing spade,3,Moderately
+1768,R_7EYGvtUpelTVayC,b46,46,7,1770,Figure eight,1,Not at all
+1769,R_7EYGvtUpelTVayC,b46,46,8,1771,Handlebar mustache,1,Not at all
+1770,R_7EYGvtUpelTVayC,b47,47,1,1772,snail shell,1,Not at all
+1771,R_7EYGvtUpelTVayC,b47,47,2,1773,snake eye,1,Not at all
+1772,R_7EYGvtUpelTVayC,b47,47,3,1774,egyptian eye,1,Not at all
+1773,R_7EYGvtUpelTVayC,b47,47,4,1775,glasses,1,Not at all
+1774,R_7EYGvtUpelTVayC,b48,48,1,1776,cross,2,A little
+1775,R_7EYGvtUpelTVayC,b48,48,2,1777,handgun,1,Not at all
+1776,R_7EYGvtUpelTVayC,b48,48,3,1778,garden hoe,1,Not at all
+1777,R_7EYGvtUpelTVayC,b48,48,4,1779,capital T,5,Completely
+1778,R_7EYGvtUpelTVayC,b48,48,5,1780,T-junction,5,Completely
+1779,R_7EYGvtUpelTVayC,b48,48,6,1781,sledge hammer,3,Moderately
+1780,R_7EYGvtUpelTVayC,b48,48,7,1782,Flagpole sign,4,A lot
+1781,R_7EYGvtUpelTVayC,b48,48,8,1783,table lamp,3,Moderately
+1782,R_7EYGvtUpelTVayC,b48,48,9,1784,Right angle,1,Not at all
+1783,R_7EYGvtUpelTVayC,b48,48,10,1785,corner bracket,2,A little
+1784,R_7EYGvtUpelTVayC,b49,49,1,1786,sad face,1,Not at all
+1785,R_7EYGvtUpelTVayC,b49,49,2,1787,bikini top,4,A lot
+1786,R_7EYGvtUpelTVayC,b49,49,3,1788,spade symbol,1,Not at all
+1787,R_7EYGvtUpelTVayC,b49,49,4,1789,spade,1,Not at all
+1788,R_7EYGvtUpelTVayC,b49,49,5,1790,butterfly knife,1,Not at all
+1789,R_7EYGvtUpelTVayC,b49,49,6,1791,heart arrow,2,A little
+1790,R_7EYGvtUpelTVayC,b49,49,7,1792,broken heart,1,Not at all
+1791,R_7EYGvtUpelTVayC,b49,49,8,1793,Owl face,1,Not at all
+1792,R_7EYGvtUpelTVayC,b49,49,9,1794,Arrow key,1,Not at all
+1793,R_7EYGvtUpelTVayC,b49,49,10,1795,ice-cream cone,3,Moderately
+1794,R_7EYGvtUpelTVayC,b49,49,11,1796,evil chibi face,1,Not at all
+1795,R_7EYGvtUpelTVayC,b50,50,1,1797,radio tower,1,Not at all
+1796,R_7EYGvtUpelTVayC,b50,50,2,1798,inverted trident,1,Not at all
+1797,R_7EYGvtUpelTVayC,b50,50,3,1799,Upside-down tree,1,Not at all
+1798,R_7EYGvtUpelTVayC,b50,50,4,1800,Candelabra stand,1,Not at all
+1799,R_7EYGvtUpelTVayC,b50,50,5,1801,Boat anchor,1,Not at all
+1800,R_7EYGvtUpelTVayC,b50,50,6,1802,slingshot upside down,1,Not at all
+1801,R_7EYGvtUpelTVayC,b50,50,7,1803,stickfigure person,5,Completely
+1802,R_7EYGvtUpelTVayC,b51,51,1,1804,stick figure,1,Not at all
+1803,R_7EYGvtUpelTVayC,b51,51,2,1805,claw hammer,1,Not at all
+1804,R_7EYGvtUpelTVayC,b51,51,3,1806,tripod camera,3,Moderately
+1805,R_7EYGvtUpelTVayC,b51,51,4,1807,flag emblem,1,Not at all
+1806,R_7EYGvtUpelTVayC,b51,51,5,1808,running man,1,Not at all
+1807,R_7EYGvtUpelTVayC,b51,51,6,1809,weighing balance,1,Not at all
+1808,R_7EYGvtUpelTVayC,b52,52,1,1810,Hammer,1,Not at all
+1809,R_7EYGvtUpelTVayC,b52,52,2,1811,shelf bracket,2,A little
+1810,R_7EYGvtUpelTVayC,b52,52,3,1812,sideways T,1,Not at all
+1811,R_7EYGvtUpelTVayC,b52,52,4,1813,coat rack,3,Moderately
+1812,R_7EYGvtUpelTVayC,b52,52,5,1814,capital F,5,Completely
+1813,R_7EYGvtUpelTVayC,b52,52,6,1815,flagpole bracket,3,Moderately
+1814,R_7EYGvtUpelTVayC,b52,52,7,1816,inverted T,1,Not at all
+1815,R_7EYGvtUpelTVayC,b52,52,8,1817,Flagpole signpost,5,Completely
+1816,R_7EYGvtUpelTVayC,b52,52,9,1818,flagpole sign,5,Completely
+1817,R_7EYGvtUpelTVayC,b52,52,10,1819,Uppercase F,5,Completely
+1818,R_7EYGvtUpelTVayC,b53,53,1,1820,hammer,1,Not at all
+1819,R_7EYGvtUpelTVayC,b53,53,2,1821,hanging lamp,4,A lot
+1820,R_7EYGvtUpelTVayC,b53,53,3,1822,golf hole,5,Completely
+1821,R_7EYGvtUpelTVayC,b53,53,4,1823,mushroom,1,Not at all
+1822,R_7EYGvtUpelTVayC,b53,53,5,1824,snow globe,1,Not at all
+1823,R_7EYGvtUpelTVayC,b53,53,6,1825,anchor,3,Moderately
+1824,R_7EYGvtUpelTVayC,b53,53,7,1826,teapot,1,Not at all
+1825,R_7EYGvtUpelTVayC,b53,53,8,1827,pistol,1,Not at all
+1826,R_7EYGvtUpelTVayC,b53,53,9,1828,Fish hook,3,Moderately
+1827,R_7EYGvtUpelTVayC,b54,54,1,1829,planted sword,1,Not at all
+1828,R_7EYGvtUpelTVayC,b54,54,2,1830,hockey stick,2,A little
+1829,R_7EYGvtUpelTVayC,b54,54,3,1831,skeleton key,5,Completely
+1830,R_7EYGvtUpelTVayC,b54,54,4,1832,treble clef,1,Not at all
+1831,R_7EYGvtUpelTVayC,b54,54,5,1833,magnifying glass,1,Not at all
+1832,R_7EYGvtUpelTVayC,b54,54,6,1834,flag key,3,Moderately
+1833,R_7EYGvtUpelTVayC,b54,54,7,1835,pound sign,1,Not at all
+1834,R_7EYGvtUpelTVayC,b54,54,8,1836,Flag stand,2,A little
+1835,R_7EYGvtUpelTVayC,b54,54,9,1837,lowercase f,1,Not at all
+1836,R_7EYGvtUpelTVayC,b54,54,10,1838,fishing hook,3,Moderately
+1837,R_7EYGvtUpelTVayC,b54,54,11,1839,Combination wrench,1,Not at all
+1838,R_7EYGvtUpelTVayC,b54,54,12,1840,g clef,1,Not at all
+1839,R_7EYGvtUpelTVayC,b55,55,1,1841,location marker,4,A lot
+1840,R_7EYGvtUpelTVayC,b55,55,2,1842,letter T,1,Not at all
+1841,R_7EYGvtUpelTVayC,b55,55,3,1843,pushpin,5,Completely
+1842,R_7EYGvtUpelTVayC,b55,55,4,1844,Downward arrow,2,A little
+1843,R_7EYGvtUpelTVayC,b55,55,5,1845,anchor spear,1,Not at all
+1844,R_7EYGvtUpelTVayC,b55,55,6,1846,christmas tree,1,Not at all
+1845,R_7EYGvtUpelTVayC,b55,55,7,1847,road sign,5,Completely
+1846,R_7EYGvtUpelTVayC,b55,55,8,1848,spade symbol,1,Not at all
+1847,R_7EYGvtUpelTVayC,b55,55,9,1849,Down arrow,2,A little
+1848,R_7EYGvtUpelTVayC,b55,55,10,1850,table lamp,4,A lot
+1849,R_7EYGvtUpelTVayC,b55,55,11,1851,Direction toward a T junction,1,Not at all
+1850,R_7EYGvtUpelTVayC,b56,56,1,1852,lowercase r,1,Not at all
+1851,R_7EYGvtUpelTVayC,b56,56,2,1853,letter k,1,Not at all
+1852,R_7EYGvtUpelTVayC,b56,56,3,1854,golf club,1,Not at all
+1853,R_7EYGvtUpelTVayC,b56,56,4,1855,tobacco pipe,1,Not at all
+1854,R_7EYGvtUpelTVayC,b56,56,5,1856,flag pole,1,Not at all
+1855,R_7EYGvtUpelTVayC,b56,56,6,1857,registered symbol,1,Not at all
+1856,R_7EYGvtUpelTVayC,b56,56,7,1858,compass needle,3,Moderately
+1857,R_7EYGvtUpelTVayC,b56,56,8,1859,kite emblem,1,Not at all
+1858,R_7EYGvtUpelTVayC,b56,56,9,1860,circled R,1,Not at all
+1859,R_7EYGvtUpelTVayC,b56,56,10,1861,balloon string,1,Not at all
+1860,R_7EYGvtUpelTVayC,b56,56,11,1862,partial clock,1,Not at all
+1861,R_7EYGvtUpelTVayC,b56,56,12,1863,Broken arrow,1,Not at all
+1862,R_7EYGvtUpelTVayC,b56,56,13,1864,Circled K,1,Not at all
+1863,R_7EYGvtUpelTVayC,b56,56,14,1865,half k,1,Not at all
+1864,R_7EYGvtUpelTVayC,b56,56,15,1866,down Arrow button,2,A little
+1865,R_7EYGvtUpelTVayC,b56,56,16,1867,Half 'k' in circle,1,Not at all
+1866,R_7EYGvtUpelTVayC,b56,56,17,1868,circle with a V towards the top,1,Not at all
+1867,R_7EYGvtUpelTVayC,b56,56,18,1869,V in circle,1,Not at all
+1868,R_7EYGvtUpelTVayC,b57,57,1,1870,scissor jack,5,Completely
+1869,R_7EYGvtUpelTVayC,b57,57,2,1871,capital z,1,Not at all
+1870,R_7EYGvtUpelTVayC,b57,57,3,1872,barn door,1,Not at all
+1871,R_7EYGvtUpelTVayC,b57,57,4,1873,windmill blades,4,A lot
+1872,R_7EYGvtUpelTVayC,b57,57,5,1874,letter Z,1,Not at all
+1873,R_7EYGvtUpelTVayC,b57,57,6,1875,window pane,1,Not at all
+1874,R_7EYGvtUpelTVayC,b57,57,7,1876,two triangles,1,Not at all
+1875,R_7EYGvtUpelTVayC,b58,58,1,1877,umbrella hook,3,Moderately
+1876,R_7EYGvtUpelTVayC,b58,58,2,1878,Umbrella handle,3,Moderately
+1877,R_7EYGvtUpelTVayC,b59,59,1,1879,road sign,5,Completely
+1878,R_7EYGvtUpelTVayC,b59,59,2,1880,pine tree,4,A lot
+1879,R_7EYGvtUpelTVayC,b59,59,3,1881,triangular signpost,5,Completely
+1880,R_7EYGvtUpelTVayC,b59,59,4,1882,trophy cup,1,Not at all
+1881,R_7EYGvtUpelTVayC,b59,59,5,1883,Sword,1,Not at all
+1882,R_7EYGvtUpelTVayC,b59,59,6,1884,Greek temple,2,A little
+1883,R_7EYGvtUpelTVayC,b59,59,7,1885,up arrow,4,A lot
+1884,R_7EYGvtUpelTVayC,b59,59,8,1886,upward arrow,4,A lot
+1885,R_7EYGvtUpelTVayC,b59,59,9,1887,Campfire tripod,4,A lot
+1886,R_7EYGvtUpelTVayC,b59,59,10,1888,Arrowhead ladder,1,Not at all
+1887,R_7EYGvtUpelTVayC,b59,59,11,1889,Bridge arch,1,Not at all
+1888,R_7EYGvtUpelTVayC,b59,59,12,1890,Christmas tree,4,A lot
+1889,R_7EYGvtUpelTVayC,b59,59,13,1891,planted tree,5,Completely
+1890,R_7EYGvtUpelTVayC,b60,60,1,1892,wireframe cube,1,Not at all
