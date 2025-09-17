@@ -1,37 +1,37 @@
 ,Model,overall_score,normal_score,expert_score,n_graded,n_ungraded,n_total,mean_score_per_item
 0,Anthropic: Claude Opus 4.1 - Multiple Context - Extended Thinking 9000t (2025-09-11),181.0,,181.0,60,0,60,3.0166666666666666
-1,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),133.0,,133.0,59,1,60,2.216666666666667
+1,Anthropic: Claude Sonnet 4 - Multiple Context - Extended Thinking 4000t (2025-09-11),133.0,,133.0,60,0,60,2.216666666666667
 2,Anthropic: Claude Sonnet 4 - Single Context - Extended Thinking 4000t (2025-09-11),146.0,,146.0,60,0,60,2.433333333333333
 3,DeepMind: Gemini 2.0 Flash - Multiple Context (2025-07-21),118.0,,118.0,59,1,60,1.9666666666666666
 4,DeepMind: Gemini 2.0 Flash - Single Context (2025-07-21),129.0,,129.0,60,0,60,2.15
 5,DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25),96.0,,96.0,38,22,60,1.6
-6,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),147.0,,147.0,59,1,60,2.45
+6,DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21),149.0,,149.0,60,0,60,2.4833333333333334
 7,DeepMind: Gemini 2.5 Pro - Single Context - Dynamic Thinking (2025-07-21),154.0,,154.0,60,0,60,2.566666666666667
 8,OpenAI: ChatGPT-4o - Multiple Context (2025-07-25),149.0,,149.0,60,0,60,2.4833333333333334
 9,OpenAI: ChatGPT-4o - Single Context (2025-07-25),135.0,,135.0,60,0,60,2.25
-10,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),140.0,,140.0,59,1,60,2.3333333333333335
+10,OpenAI: GPT 4.1 - Multiple Context (2025-07-21),140.0,,140.0,60,0,60,2.3333333333333335
 11,OpenAI: GPT 4.1 - Single Context (2025-07-21),145.0,,145.0,60,0,60,2.4166666666666665
 12,OpenAI: GPT 4.1 w/ GPT-image-1 - Multiple Context (2025-07-21),122.0,,122.0,58,2,60,2.033333333333333
 13,OpenAI: GPT 4.1 w/ GPT-Image-1 - Single Context (2025-07-21),129.0,,129.0,60,0,60,2.15
 14,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-11),215.0,,215.0,60,0,60,3.5833333333333335
 15,OpenAI: GPT 5 - Multiple Context - High Reasoning (2025-09-15),221.0,,221.0,60,0,60,3.683333333333333
 16,OpenAI: GPT 5 - Multiple Context - Low Reasoning (2025-09-15),170.0,,170.0,60,0,60,2.8333333333333335
-17,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),195.0,,195.0,56,4,60,3.25
-18,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),130.0,,130.0,59,1,60,2.1666666666666665
-19,OpenAI: o3 - Multiple Context - High Reasoning (2025-07-21),182.0,,182.0,59,1,60,3.033333333333333
+17,OpenAI: GPT 5 - Multiple Context - Medium Reasoning (2025-09-16),202.0,,202.0,60,0,60,3.3666666666666667
+18,OpenAI: GPT 5 - Multiple Context - Minimal Reasoning (2025-09-16),130.0,,130.0,60,0,60,2.1666666666666665
+19,OpenAI: o3 - Multiple Context - High Reasoning (2025-07-21),186.0,,186.0,60,0,60,3.1
 20,OpenAI: o3 - Multiple Context - High Reasoning (2025-09-15),220.0,,220.0,60,0,60,3.6666666666666665
-21,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),185.0,,185.0,58,2,60,3.0833333333333335
-22,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),190.0,,190.0,58,2,60,3.1666666666666665
+21,OpenAI: o3 - Multiple Context - Low Reasoning (2025-09-12),185.0,,185.0,60,0,60,3.0833333333333335
+22,OpenAI: o3 - Multiple Context - Medium Reasoning (2025-09-12),190.0,,190.0,60,0,60,3.1666666666666665
 23,OpenAI: o3 - Single Context - High Reasoning (2025-07-21),209.0,,209.0,60,0,60,3.4833333333333334
 24,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),221.0,,221.0,60,0,60,3.683333333333333
-25,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),219.0,,219.0,59,1,60,3.65
+25,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),219.0,,219.0,60,0,60,3.65
 26,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),187.0,,187.0,60,0,60,3.1166666666666667
 27,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),175.0,,175.0,60,0,60,2.9166666666666665
-28,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),190.0,,190.0,59,1,60,3.1666666666666665
+28,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),190.0,,190.0,60,0,60,3.1666666666666665
 29,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),177.0,,177.0,60,0,60,2.95
 30,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),184.0,,184.0,59,1,60,3.066666666666667
 31,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),219.0,,219.0,60,0,60,3.65
 32,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),185.0,,185.0,60,0,60,3.0833333333333335
 33,OpenAI: o4-mini - Multiple Context - Medium Reasoning (2025-07-14),171.0,,171.0,60,0,60,2.85
-34,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),156.0,,156.0,57,3,60,2.6
-35,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),140.0,,140.0,58,2,60,2.3333333333333335
+34,OpenAI: o4-mini - Single Context - High Reasoning (2025-07-21),157.0,,157.0,59,1,60,2.6166666666666667
+35,OpenAI: o4-mini - Single Context - Medium Reasoning (2025-07-14),140.0,,140.0,60,0,60,2.3333333333333335
