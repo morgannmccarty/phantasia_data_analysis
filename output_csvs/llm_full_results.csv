@@ -1474,425 +1474,425 @@
 1472,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),scissor jack,Scissor jack,57,Hourglass,2.4,5.0,3.7,3.0,1.0,3.0,4.0,1.0,,,5.0
 1473,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
 1474,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21),christmas tree,Christmas tree,59,Pine tree,3.0,4.0,3.5,3.0,3.0,3.0,3.0,3.0,,,4.0
-1475,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),ladder,ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1476,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),ladder,ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
-1477,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),bra,bra,3,Glasses,2.8333333333333335,3.0,2.916666666666667,2.0,3.0,4.0,2.0,3.0,3.0,,3.0
-1478,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),spectacles,spectacles,4,Glasses,1.5,4.0,2.75,1.0,3.0,1.0,2.0,1.0,1.0,,4.0
-1479,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),spectacles,spectacles,5,Glasses,2.6666666666666665,5.0,3.833333333333333,2.0,5.0,2.0,2.0,3.0,2.0,,5.0
-1480,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),bra,bra,6,Glasses,3.3333333333333335,4.0,3.666666666666667,5.0,5.0,3.0,2.0,3.0,2.0,,4.0
-1481,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),pine tree,pine tree,7,Pine Tree,3.0,5.0,4.0,2.0,2.0,4.0,3.0,4.0,,,5.0
-1482,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),butterfly,butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
-1483,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),butterfly,butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
-1484,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),pitchfork,pitchfork,10,Comb - Pitchfork,4.666666666666667,5.0,4.833333333333334,4.0,4.0,5.0,5.0,5.0,5.0,,5.0
-1485,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),pitchfork,pitchfork,11,Comb - Pitchfork,4.5,5.0,4.75,4.0,5.0,4.0,5.0,4.0,5.0,,5.0
-1486,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),wine glass,wine glass,12,Goblet,4.833333333333333,5.0,4.916666666666666,5.0,4.0,5.0,5.0,5.0,5.0,,5.0
-1487,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),goblet,goblet,13,Goblet,4.666666666666667,5.0,4.833333333333334,5.0,3.0,5.0,5.0,5.0,5.0,,5.0
-1488,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),headphones,headphones,14,Computer Mouse,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
-1489,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),house,house,15,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
-1490,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),envelope,envelope,60,House,2.0,3.0,2.5,1.0,2.0,1.0,2.0,4.0,2.0,,3.0
-1491,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),icecream cone,icecream cone,16,Ice cream,4.833333333333333,5.0,4.916666666666666,5.0,5.0,4.0,5.0,5.0,5.0,,5.0
-1492,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),icecream cone,icecream cone,17,Ice cream,4.5,5.0,4.75,5.0,5.0,2.0,5.0,5.0,5.0,,5.0
-1493,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),icecream cone,icecream cone,18,Ice cream,4.5,5.0,4.75,4.0,4.0,5.0,4.0,5.0,5.0,,5.0
-1494,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),teapot,teapot,19,Computer Mouse,1.2,1.0,1.1,2.0,1.0,1.0,1.0,1.0,,,1.0
-1495,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),crystal ball,crystal ball,20,Crystal ball - Person Outline,2.0,5.0,3.5,1.0,2.0,1.0,2.0,2.0,4.0,,5.0
-1496,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),crystal ball,crystal ball,21,Crystal ball - Person Outline,1.3333333333333333,5.0,3.1666666666666665,2.0,1.0,1.0,2.0,1.0,1.0,,5.0
-1497,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),speech bubble,speech bubble,22,Fish,2.1666666666666665,1.0,1.5833333333333333,3.0,2.0,2.0,2.0,3.0,1.0,,1.0
-1498,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),lollipop,lollipop,23,Lollipop,4.5,5.0,4.75,5.0,5.0,4.0,3.0,5.0,5.0,,5.0
-1499,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),anchor,anchor,24,Chair,1.6666666666666667,2.0,1.8333333333333335,1.0,4.0,2.0,1.0,1.0,1.0,,2.0
-1500,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),chair,chair,25,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
-1501,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),flag,flag,26,Flag,4.333333333333333,5.0,4.666666666666666,5.0,1.0,5.0,5.0,5.0,5.0,,5.0
-1502,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),door,door,27,Door,4.666666666666667,5.0,4.833333333333334,4.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1503,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),bra,bra,28,Glasses,3.4,5.0,4.2,2.0,4.0,3.0,4.0,4.0,,,5.0
-1504,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),anchor,anchor,29,Shovel,2.3333333333333335,3.0,2.666666666666667,1.0,1.0,2.0,4.0,5.0,1.0,,3.0
-1505,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),bench,bench,30,Fish bones,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-1506,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),tripod,tripod,31,Balloon,2.1666666666666665,1.0,1.5833333333333333,2.0,1.0,2.0,2.0,5.0,1.0,,1.0
-1507,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),goblet,goblet,32,Goblet,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1508,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),pot lid,pot lid,33,Plunger,1.5,5.0,3.25,1.0,2.0,2.0,2.0,1.0,1.0,,5.0
-1509,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),spade,spade,34,Bow tie - Owl,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1510,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),spade,spade,35,Bow tie - Owl,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1511,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),peace sign,peace sign,36,Broom,2.3333333333333335,1.0,1.6666666666666667,2.0,5.0,2.0,2.0,1.0,2.0,,1.0
-1512,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),angel,angel,37,Clubs symbol,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,1.0,2.0,1.0,2.0,,1.0
-1513,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),club,club,38,Clubs symbol - Ice cream,1.1666666666666667,3.0,2.0833333333333335,1.0,1.0,1.0,1.0,2.0,1.0,,3.0
-1514,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),club,club,39,Clubs symbol - Ice cream,1.2,3.0,2.1,1.0,2.0,1.0,1.0,1.0,,,3.0
-1515,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),coffee mug,coffee mug,40,Mug,4.142857142857143,5.0,4.571428571428571,4.0,5.0,3.0,5.0,2.0,5.0,5.0,5.0
-1516,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),coffee mug,coffee mug,41,Mug,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1517,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),window,window,42,Window - Grid,4.833333333333333,5.0,4.916666666666666,5.0,5.0,4.0,5.0,5.0,5.0,,5.0
-1518,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),question mark,question mark,43,Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1519,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),question mark,question mark,44,Computer Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,1.0
-1520,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),clock,clock,45,Clock,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
-1521,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),pop-up toaster,pop-up toaster,46,Lightbulb - Ice Cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1522,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),teapot,teapot,47,Computer Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1523,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),hammer,hammer,48,Letter T,1.5,2.0,1.75,1.0,1.0,3.0,1.0,2.0,1.0,,2.0
-1524,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),ice-cream cone,ice-cream cone,49,Heart,1.4,3.0,2.2,2.0,1.0,1.0,2.0,1.0,,,3.0
-1525,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),anchor,anchor,50,Stick Figure,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
-1526,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),birdhouse,birdhouse,51,Television,1.6666666666666667,3.0,2.3333333333333335,3.0,3.0,1.0,1.0,1.0,1.0,,3.0
-1527,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),signpost,signpost,52,Letter F,2.3333333333333335,2.0,2.166666666666667,2.0,2.0,4.0,1.0,3.0,2.0,,2.0
-1528,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),sailboat,sailboat,53,Sailboat,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1529,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),key,key,54,Music Note,2.6666666666666665,2.0,2.333333333333333,2.0,3.0,2.0,2.0,3.0,4.0,,2.0
-1530,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),martini glass,martini glass,55,Yield Sign - Martini Glass,4.2,5.0,4.6,5.0,4.0,5.0,5.0,2.0,,,5.0
-1531,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),clock,clock,56,Clock,4.666666666666667,5.0,4.833333333333334,4.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1532,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),hourglass,hourglass,57,Hourglass,3.8333333333333335,5.0,4.416666666666667,5.0,4.0,5.0,4.0,1.0,4.0,,5.0
-1533,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),umbrella,umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1534,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),road sign,road sign,59,Pine tree,3.6,5.0,4.3,5.0,4.0,2.0,5.0,2.0,,,5.0
-1535,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1536,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
-1537,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),eyeglasses,Eyeglasses,3,Glasses,2.0,5.0,3.5,2.0,2.0,3.0,1.0,2.0,,,5.0
-1538,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),glasses,Glasses,4,Glasses,1.8333333333333333,4.0,2.9166666666666665,1.0,3.0,1.0,3.0,2.0,1.0,,4.0
-1539,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),glasses,Glasses,5,Glasses,2.3333333333333335,4.0,3.166666666666667,4.0,1.0,2.0,3.0,1.0,3.0,,4.0
-1540,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),butterfly,Butterfly,6,Glasses,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1541,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),pine tree,Pine tree,7,Pine Tree,3.0,5.0,4.0,2.0,2.0,4.0,3.0,4.0,,,5.0
-1542,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),butterfly,Butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
-1543,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),butterfly,Butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
-1544,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),table,Table,10,Comb - Pitchfork,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1545,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),trident,Trident,11,Comb - Pitchfork,4.5,5.0,4.75,4.0,5.0,5.0,3.0,5.0,5.0,,5.0
-1546,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),wine glass,Wine glass,12,Goblet,4.833333333333333,5.0,4.916666666666666,5.0,4.0,5.0,5.0,5.0,5.0,,5.0
-1547,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),padlock,Padlock,13,Goblet,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1548,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),headphones,Headphones,14,Computer Mouse,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
-1549,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),house,House,15,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
-1550,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),house,House,60,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
-1551,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),shield,Shield,16,Ice cream,1.3333333333333333,3.0,2.1666666666666665,1.0,2.0,1.0,1.0,1.0,2.0,,3.0
-1552,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),shield,Shield,17,Ice cream,1.5,4.0,2.75,1.0,1.0,2.0,1.0,2.0,2.0,,4.0
-1553,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),speech bubble,speech bubble,18,Ice cream,1.5,1.0,1.25,1.0,1.0,3.0,2.0,1.0,1.0,,1.0
-1554,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),coffee cup,coffee cup,19,Computer Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1555,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),magnifying glass,Magnifying glass,20,Crystal ball - Person Outline,1.1666666666666667,2.0,1.5833333333333335,1.0,1.0,1.0,1.0,2.0,1.0,,2.0
-1556,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),snail,snail,21,Crystal ball - Person Outline,2.0,1.0,1.5,2.0,1.0,4.0,1.0,,,,1.0
-1557,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),arrow,Arrow,22,Fish,1.0,3.0,2.0,1.0,1.0,1.0,1.0,,,,3.0
-1558,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),magnifying glass,Magnifying glass,23,Lollipop,2.5714285714285716,3.0,2.7857142857142856,1.0,3.0,2.0,4.0,1.0,3.0,4.0,3.0
-1559,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),chair,Chair,24,Chair,3.5714285714285716,5.0,4.285714285714286,3.0,5.0,4.0,4.0,4.0,3.0,2.0,5.0
-1560,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),chair,Chair,25,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
-1561,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),axe,Axe,26,Flag,2.5,3.0,2.75,2.0,5.0,3.0,2.0,1.0,2.0,,3.0
-1562,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),window,Window,27,Door,1.8,3.0,2.4,1.0,2.0,2.0,2.0,2.0,,,3.0
-1563,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),binoculars,Binoculars,28,Glasses,2.0,4.0,3.0,1.0,2.0,3.0,2.0,2.0,,,4.0
-1564,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),wine glass,Wine glass,29,Shovel,1.4,1.0,1.2,1.0,2.0,1.0,2.0,1.0,,,1.0
-1565,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),hd monogram,HD monogram,30,Fish bones,3.2,1.0,2.1,5.0,2.0,1.0,4.0,4.0,,,1.0
-1566,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),stick figure,Stick figure,31,Balloon,3.4285714285714284,3.0,3.2142857142857144,3.0,1.0,5.0,4.0,3.0,5.0,3.0,3.0
-1567,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),wine glass,wine glass,32,Goblet,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,5.0
-1568,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),golf club,Golf club,33,Plunger,1.0,2.0,1.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0
-1569,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),owl face,Owl face,34,Bow tie - Owl,2.142857142857143,2.0,2.071428571428571,2.0,2.0,4.0,3.0,1.0,2.0,1.0,2.0
-1570,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),owl,owl,35,Bow tie - Owl,1.8,1.0,1.4,2.0,2.0,1.0,1.0,3.0,,,1.0
-1571,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),anchor,Anchor,36,Broom,2.0,3.0,2.5,1.0,1.0,2.0,3.0,2.0,3.0,,3.0
-1572,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),butterfly,Butterfly,37,Clubs symbol,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1573,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),ice cream,Ice cream,38,Clubs symbol - Ice cream,3.0,5.0,4.0,2.0,3.0,3.0,3.0,5.0,2.0,,5.0
-1574,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),owl,Owl,39,Clubs symbol - Ice cream,1.1666666666666667,2.0,1.5833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,2.0
-1575,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),ep,EP,40,Mug,2.0,1.0,1.5,4.0,2.0,1.0,2.0,1.0,,,1.0
-1576,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),coffee mug,coffee mug,41,Mug,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1577,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),grid,Grid,42,Window - Grid,4.0,5.0,4.5,4.0,5.0,5.0,4.0,3.0,3.0,,5.0
-1578,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),question mark,Question mark,43,Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1579,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),dollar sign,Dollar sign,44,Computer Mouse,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,2.0,1.0,1.0,1.0,,1.0
-1580,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),padlock,Padlock,45,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1581,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),number 8,number 8,46,Lightbulb - Ice Cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1582,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),treble clef,Treble clef,47,Computer Mouse,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,1.0,1.0,3.0,1.0,,1.0
-1583,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),letter t,Letter T,48,Letter T,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1584,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),heart,Heart,49,Heart,4.333333333333333,5.0,4.666666666666666,3.0,5.0,5.0,4.0,5.0,4.0,,5.0
-1585,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),anchor,Anchor,50,Stick Figure,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
-1586,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),key,Key,51,Television,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1587,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),letter f,Letter F,52,Letter F,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-1588,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),anchor,Anchor,53,Sailboat,1.0,3.0,2.0,1.0,1.0,1.0,1.0,,,,3.0
-1589,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),skeleton key,Skeleton key,54,Music Note,3.0,5.0,4.0,3.0,4.0,1.0,4.0,,,,5.0
-1590,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),anchor,Anchor,55,Yield Sign - Martini Glass,1.5,2.0,1.75,1.0,3.0,1.0,1.0,2.0,1.0,,2.0
-1591,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),circled k,Circled K,56,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1592,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),hourglass,Hourglass,57,Hourglass,3.8333333333333335,5.0,4.416666666666667,5.0,4.0,5.0,4.0,1.0,4.0,,5.0
-1593,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1594,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),arrow,Arrow,59,Pine tree,2.1666666666666665,4.0,3.083333333333333,2.0,2.0,2.0,2.0,3.0,2.0,,4.0
-1595,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1596,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
-1597,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),eyeglasses,Eyeglasses,3,Glasses,2.0,5.0,3.5,2.0,2.0,3.0,1.0,2.0,,,5.0
-1598,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),binoculars,Binoculars,4,Glasses,2.4,5.0,3.7,2.0,2.0,1.0,4.0,3.0,,,5.0
-1599,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),eyeglasses,Eyeglasses,5,Glasses,2.2,5.0,3.6,3.0,2.0,2.0,1.0,3.0,,,5.0
-1600,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),binoculars,Binoculars,6,Glasses,2.5,3.0,2.75,3.0,3.0,3.0,2.0,2.0,2.0,,3.0
-1601,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),christmas tree,Christmas tree,7,Pine Tree,2.25,4.0,3.125,3.0,1.0,2.0,3.0,,,,4.0
-1602,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),butterfly,Butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
-1603,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),butterfly,Butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
-1604,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),hair comb,Hair comb,10,Comb - Pitchfork,1.8,4.0,2.9,1.0,2.0,3.0,2.0,1.0,,,4.0
-1605,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),comb,Comb,11,Comb - Pitchfork,1.8333333333333333,5.0,3.4166666666666665,2.0,2.0,3.0,1.0,2.0,1.0,,5.0
-1606,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),anchor,Anchor,12,Goblet,1.6,2.0,1.8,1.0,4.0,1.0,1.0,1.0,,,2.0
-1607,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),hammer,Hammer,13,Goblet,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1608,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),headphones,Headphones,14,Computer Mouse,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
-1609,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),house,house,15,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
-1610,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),house,House,60,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
-1611,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),shield,Shield,16,Ice cream,1.3333333333333333,3.0,2.1666666666666665,1.0,2.0,1.0,1.0,1.0,2.0,,3.0
-1612,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),wine glass,wine glass,17,Ice cream,1.3333333333333333,1.0,1.1666666666666665,2.0,1.0,1.0,2.0,1.0,1.0,,1.0
-1613,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),speech bubble,Speech bubble,18,Ice cream,1.5,1.0,1.25,1.0,1.0,3.0,2.0,1.0,1.0,,1.0
-1614,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),euro symbol,Euro symbol,19,Computer Mouse,1.2,2.0,1.6,1.0,2.0,1.0,1.0,1.0,,,2.0
-1615,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),stick figure,Stick figure,20,Crystal ball - Person Outline,1.2,2.0,1.6,1.0,2.0,1.0,1.0,1.0,,,2.0
-1616,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),padlock,Padlock,21,Crystal ball - Person Outline,1.6,3.0,2.3,2.0,2.0,2.0,1.0,1.0,,,3.0
-1617,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),arrow,Arrow,22,Fish,1.0,3.0,2.0,1.0,1.0,1.0,1.0,,,,3.0
-1618,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),lollipop,Lollipop,23,Lollipop,4.5,5.0,4.75,5.0,5.0,4.0,3.0,5.0,5.0,,5.0
-1619,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),chair,Chair,24,Chair,3.5714285714285716,5.0,4.285714285714286,3.0,5.0,4.0,4.0,4.0,3.0,2.0,5.0
-1620,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),chair,Chair,25,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
-1621,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),coat hanger,Coat hanger,26,Flag,1.25,1.0,1.125,1.0,1.0,2.0,1.0,,,,1.0
-1622,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),window frame,Window frame,27,Door,2.2,2.0,2.1,1.0,1.0,4.0,2.0,3.0,,,2.0
-1623,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),bra,Bra,28,Glasses,3.4,5.0,4.2,2.0,4.0,3.0,4.0,4.0,,,5.0
-1624,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),anchor,Anchor,29,Shovel,2.3333333333333335,3.0,2.666666666666667,1.0,1.0,2.0,4.0,5.0,1.0,,3.0
-1625,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),fence,Fence,30,Fish bones,1.2,3.0,2.1,2.0,1.0,1.0,1.0,1.0,,,3.0
-1626,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),umbrella,Umbrella,31,Balloon,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1627,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),mushroom,Mushroom,32,Goblet,1.3333333333333333,3.0,2.1666666666666665,1.0,3.0,1.0,1.0,1.0,1.0,,3.0
-1628,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),spoon,Spoon,33,Plunger,2.4,3.0,2.7,5.0,1.0,2.0,3.0,1.0,,,3.0
-1629,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),glasses,Glasses,34,Bow tie - Owl,1.5,3.0,2.25,1.0,1.0,2.0,1.0,3.0,1.0,,3.0
-1630,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),owl,Owl,35,Bow tie - Owl,1.8,1.0,1.4,2.0,2.0,1.0,1.0,3.0,,,1.0
-1631,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),trident,Trident,36,Broom,3.2,3.0,3.1,4.0,4.0,3.0,3.0,2.0,,,3.0
-1632,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),anchor,Anchor,37,Clubs symbol,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,1.0,2.0,1.0,,1.0
-1633,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),clover,Clover,38,Clubs symbol - Ice cream,1.0,3.0,2.0,1.0,1.0,1.0,1.0,,,,3.0
-1634,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),butterfly,Butterfly,39,Clubs symbol - Ice cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-1635,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),ep,EP,40,Mug,2.0,1.0,1.5,4.0,2.0,1.0,2.0,1.0,,,1.0
-1636,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),parking sign,Parking sign,41,Mug,1.3333333333333333,2.0,1.6666666666666665,1.0,1.0,2.0,2.0,1.0,1.0,,2.0
-1637,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),grid,Grid,42,Window - Grid,4.0,5.0,4.5,4.0,5.0,5.0,4.0,3.0,3.0,,5.0
-1638,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),power button,power button,43,Mouse,2.8333333333333335,1.0,1.9166666666666667,4.0,3.0,2.0,3.0,2.0,3.0,,1.0
-1639,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),dollar sign,Dollar sign,44,Computer Mouse,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,2.0,1.0,1.0,1.0,,1.0
-1640,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),power button,Power button,45,Clock,1.4,2.0,1.7,1.0,1.0,2.0,1.0,2.0,,,2.0
-1641,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),number 8,number 8,46,Lightbulb - Ice Cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1642,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),dollar sign,Dollar sign,47,Computer Mouse,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,2.0,1.0,2.0,1.0,,1.0
-1643,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),corner bracket,Corner bracket,48,Letter T,3.0,2.0,2.5,2.0,3.0,4.0,3.0,3.0,3.0,,2.0
-1644,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),ice cream,Ice cream,49,Heart,2.0,3.0,2.5,2.0,2.0,3.0,1.0,2.0,2.0,,3.0
-1645,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),anchor,Anchor,50,Stick Figure,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
-1646,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),house,House,51,Television,1.2,1.0,1.1,2.0,1.0,1.0,1.0,1.0,,,1.0
-1647,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),letter f,Letter F,52,Letter F,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-1648,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),pistol,Pistol,53,Sailboat,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1649,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),lowercase f,lowercase f,54,Music Note,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,1.0
-1650,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),martini glass,Martini glass,55,Yield Sign - Martini Glass,4.2,5.0,4.6,5.0,4.0,5.0,5.0,2.0,,,5.0
-1651,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),circled k,Circled k,56,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1652,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),letter z,Letter Z,57,Hourglass,1.75,1.0,1.375,1.0,2.0,3.0,1.0,,,,1.0
-1653,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1654,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),up arrow,Up arrow,59,Pine tree,4.0,4.0,4.0,4.0,4.0,5.0,3.0,4.0,,,4.0
-1655,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1656,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
-1657,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),glasses,glasses,3,Glasses,2.8333333333333335,5.0,3.916666666666667,2.0,2.0,4.0,2.0,5.0,2.0,,5.0
-1658,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),glasses,Glasses,4,Glasses,1.8333333333333333,4.0,2.9166666666666665,1.0,3.0,1.0,3.0,2.0,1.0,,4.0
-1659,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),eyeglasses,Eyeglasses,5,Glasses,2.2,5.0,3.6,3.0,2.0,2.0,1.0,3.0,,,5.0
-1660,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),infinity sign,Infinity sign,6,Glasses,1.8333333333333333,1.0,1.4166666666666665,2.0,2.0,4.0,1.0,1.0,1.0,,1.0
-1661,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),christmas tree,Christmas tree,7,Pine Tree,2.25,4.0,3.125,3.0,1.0,2.0,3.0,,,,4.0
-1662,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),butterfly,Butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
-1663,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),butterfly,Butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
-1664,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),fork,Fork,10,Comb - Pitchfork,3.5,4.0,3.75,4.0,2.0,3.0,4.0,4.0,4.0,,4.0
-1665,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),trident,Trident,11,Comb - Pitchfork,4.5,5.0,4.75,4.0,5.0,5.0,3.0,5.0,5.0,,5.0
-1666,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),table lamp,Table lamp,12,Goblet,2.0,5.0,3.5,1.0,3.0,1.0,4.0,1.0,,,5.0
-1667,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),wine glass,Wine glass,13,Goblet,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1668,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),headphones,Headphones,14,Computer Mouse,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
-1669,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),house,House,15,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
-1670,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),house,House,60,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
-1671,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),bookmark,Bookmark,16,Ice cream,1.2,2.0,1.6,1.0,1.0,1.0,1.0,2.0,,,2.0
-1672,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),slingshot,Slingshot,17,Ice cream,1.5,4.0,2.75,1.0,1.0,1.0,1.0,2.0,3.0,,4.0
-1673,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),wine glass,Wine glass,18,Ice cream,1.5,1.0,1.25,2.0,1.0,2.0,1.0,,,,1.0
-1674,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),database,Database,19,Computer Mouse,1.4,1.0,1.2,3.0,1.0,1.0,1.0,1.0,,,1.0
-1675,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),toilet,Toilet,20,Crystal ball - Person Outline,2.0,5.0,3.5,2.0,3.0,2.0,2.0,1.0,,,5.0
-1676,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),padlock,Padlock,21,Crystal ball - Person Outline,1.6,3.0,2.3,2.0,2.0,2.0,1.0,1.0,,,3.0
-1677,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),play button,Play button,22,Fish,2.5,1.0,1.75,4.0,2.0,2.0,4.0,2.0,1.0,,1.0
-1678,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),magnifying glass,Magnifying glass,23,Lollipop,2.5714285714285716,3.0,2.7857142857142856,1.0,3.0,2.0,4.0,1.0,3.0,4.0,3.0
-1679,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),hammer,Hammer,24,Chair,1.3333333333333333,2.0,1.6666666666666665,1.0,1.0,3.0,1.0,1.0,1.0,,2.0
-1680,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),chair,Chair,25,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
-1681,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),flag,Flag,26,Flag,4.333333333333333,5.0,4.666666666666666,5.0,1.0,5.0,5.0,5.0,5.0,,5.0
-1682,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),door frame,Door frame,27,Door,3.8,5.0,4.4,3.0,5.0,2.0,4.0,5.0,,,5.0
-1683,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),eyeglasses,Eyeglasses,28,Glasses,3.5,5.0,4.25,3.0,4.0,2.0,5.0,3.0,4.0,,5.0
-1684,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),anchor,Anchor,29,Shovel,2.3333333333333335,3.0,2.666666666666667,1.0,1.0,2.0,4.0,5.0,1.0,,3.0
-1685,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),hd monogram,HD monogram,30,Fish bones,3.2,1.0,2.1,5.0,2.0,1.0,4.0,4.0,,,1.0
-1686,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),stick figure,Stick figure,31,Balloon,3.4285714285714284,3.0,3.2142857142857144,3.0,1.0,5.0,4.0,3.0,5.0,3.0,3.0
-1687,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),claw hammer,Claw hammer,32,Goblet,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,1.0
-1688,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),golf club,Golf club,33,Plunger,1.0,2.0,1.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0
-1689,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),owl,Owl,34,Bow tie - Owl,1.5,1.0,1.25,1.0,2.0,1.0,2.0,1.0,2.0,,1.0
-1690,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),owl,Owl,35,Bow tie - Owl,1.8,1.0,1.4,2.0,2.0,1.0,1.0,3.0,,,1.0
-1691,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),anchor,Anchor,36,Broom,2.0,3.0,2.5,1.0,1.0,2.0,3.0,2.0,3.0,,3.0
-1692,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),club symbol,Club symbol,37,Clubs symbol,3.1666666666666665,5.0,4.083333333333333,4.0,2.0,5.0,2.0,4.0,2.0,,5.0
-1693,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),shamrock,Shamrock,38,Clubs symbol - Ice cream,1.8333333333333333,2.0,1.9166666666666665,2.0,1.0,1.0,3.0,3.0,1.0,,2.0
-1694,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),butterfly,Butterfly,39,Clubs symbol - Ice cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-1695,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),ep,EP,40,Mug,2.0,1.0,1.5,4.0,2.0,1.0,2.0,1.0,,,1.0
-1696,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),flag,Flag,41,Mug,1.1666666666666667,1.0,1.0833333333333335,2.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1697,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),grid,Grid,42,Window - Grid,4.0,5.0,4.5,4.0,5.0,5.0,4.0,3.0,3.0,,5.0
-1698,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),power symbol,Power symbol,43,Mouse,2.2,1.0,1.6,1.0,2.0,3.0,4.0,1.0,,,1.0
-1699,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),coffee cup,Coffee cup,44,Computer Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1700,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),magnifying glass,Magnifying glass,45,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1701,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),figure eight,Figure eight,46,Lightbulb - Ice Cream,1.2,1.0,1.1,2.0,1.0,1.0,1.0,1.0,,,1.0
-1702,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),glasses,Glasses,47,Computer Mouse,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,1.0,1.0,2.0,,1.0
-1703,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),letter t,Letter T,48,Letter T,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1704,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),ice cream,Ice cream,49,Heart,2.0,3.0,2.5,2.0,2.0,3.0,1.0,2.0,2.0,,3.0
-1705,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),anchor,Anchor,50,Stick Figure,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
-1706,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),key,Key,51,Television,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1707,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),capital f,Capital F,52,Letter F,4.6,5.0,4.8,4.0,5.0,5.0,4.0,5.0,,,5.0
-1708,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),sailboat,Sailboat,53,Sailboat,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1709,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),music note,music note,54,Music Note,4.333333333333333,5.0,4.666666666666666,5.0,5.0,4.0,5.0,3.0,4.0,,5.0
-1710,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),martini glass,Martini glass,55,Yield Sign - Martini Glass,4.2,5.0,4.6,5.0,4.0,5.0,5.0,2.0,,,5.0
-1711,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),half k,Half k,56,Clock,1.6,1.0,1.3,1.0,1.0,2.0,1.0,3.0,,,1.0
-1712,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),letter z,Letter Z,57,Hourglass,1.75,1.0,1.375,1.0,2.0,3.0,1.0,,,,1.0
-1713,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1714,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),up arrow,Up arrow,59,Pine tree,4.0,4.0,4.0,4.0,4.0,5.0,3.0,4.0,,,4.0
-1715,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1716,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
-1717,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),dumbbell,Dumbbell,3,Glasses,1.1666666666666667,1.0,1.0833333333333335,2.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1718,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),binoculars,Binoculars,4,Glasses,2.4,5.0,3.7,2.0,2.0,1.0,4.0,3.0,,,5.0
-1719,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),glasses,Glasses,5,Glasses,2.3333333333333335,4.0,3.166666666666667,4.0,1.0,2.0,3.0,1.0,3.0,,4.0
-1720,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),binoculars,Binoculars,6,Glasses,2.5,3.0,2.75,3.0,3.0,3.0,2.0,2.0,2.0,,3.0
-1721,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),pine tree,Pine tree,7,Pine Tree,3.0,5.0,4.0,2.0,2.0,4.0,3.0,4.0,,,5.0
-1722,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),butterfly,Butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
-1723,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),butterfly,Butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
-1724,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),pitchfork,Pitchfork,10,Comb - Pitchfork,4.666666666666667,5.0,4.833333333333334,4.0,4.0,5.0,5.0,5.0,5.0,,5.0
-1725,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),pitchfork,Pitchfork,11,Comb - Pitchfork,4.5,5.0,4.75,4.0,5.0,4.0,5.0,4.0,5.0,,5.0
-1726,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),wine glass,Wine glass,12,Goblet,4.833333333333333,5.0,4.916666666666666,5.0,4.0,5.0,5.0,5.0,5.0,,5.0
-1727,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),wine glass,Wine glass,13,Goblet,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1728,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),headphones,Headphones,14,Computer Mouse,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
-1729,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),house,House,15,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
-1730,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),house,House,60,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
-1731,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),location pin,Location pin,16,Ice cream,3.0,4.0,3.5,3.0,4.0,2.0,4.0,2.0,,,4.0
-1732,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),wine glass,wine glass,17,Ice cream,1.3333333333333333,1.0,1.1666666666666665,2.0,1.0,1.0,2.0,1.0,1.0,,1.0
-1733,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),ice cream,Ice cream,18,Ice cream,4.0,3.0,3.5,5.0,3.0,5.0,5.0,1.0,5.0,,3.0
-1734,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),currency symbol,Currency symbol,19,Computer Mouse,1.2,2.0,1.6,1.0,2.0,1.0,1.0,1.0,,,2.0
-1735,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),keyhole,Keyhole,20,Crystal ball - Person Outline,2.0,2.0,2.0,2.0,4.0,1.0,1.0,2.0,2.0,,2.0
-1736,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),magnifying glass,Magnifying glass,21,Crystal ball - Person Outline,1.5,1.0,1.25,3.0,1.0,1.0,2.0,1.0,1.0,,1.0
-1737,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),play button,Play button,22,Fish,2.5,1.0,1.75,4.0,2.0,2.0,4.0,2.0,1.0,,1.0
-1738,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),lollipop,Lollipop,23,Lollipop,4.5,5.0,4.75,5.0,5.0,4.0,3.0,5.0,5.0,,5.0
-1739,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),chair,Chair,24,Chair,3.5714285714285716,5.0,4.285714285714286,3.0,5.0,4.0,4.0,4.0,3.0,2.0,5.0
-1740,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),hammer,Hammer,25,Chair,1.0,2.0,1.5,1.0,1.0,1.0,1.0,1.0,1.0,,2.0
-1741,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),flag,Flag,26,Flag,4.333333333333333,5.0,4.666666666666666,5.0,1.0,5.0,5.0,5.0,5.0,,5.0
-1742,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),ladder,Ladder,27,Door,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1743,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),eyeglasses,Eyeglasses,28,Glasses,3.5,5.0,4.25,3.0,4.0,2.0,5.0,3.0,4.0,,5.0
-1744,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),hard drive,Hard drive,29,Shovel,1.2,1.0,1.1,1.0,1.0,1.0,1.0,2.0,,,1.0
-1745,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),hd monogram,HD monogram,30,Fish bones,3.2,1.0,2.1,5.0,2.0,1.0,4.0,4.0,,,1.0
-1746,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),anchor,Anchor,31,Balloon,1.1666666666666667,1.0,1.0833333333333335,2.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1747,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),wine glass,Wine glass,32,Goblet,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,5.0
-1748,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),golf club,Golf club,33,Plunger,1.0,2.0,1.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0
-1749,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),owl,Owl,34,Bow tie - Owl,1.5,1.0,1.25,1.0,2.0,1.0,2.0,1.0,2.0,,1.0
-1750,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),owl face,Owl face,35,Bow tie - Owl,1.8333333333333333,2.0,1.9166666666666665,2.0,1.0,2.0,3.0,2.0,1.0,,2.0
-1751,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),anchor,Anchor,36,Broom,2.0,3.0,2.5,1.0,1.0,2.0,3.0,2.0,3.0,,3.0
-1752,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),stick figure,Stick figure,37,Clubs symbol,1.3333333333333333,2.0,1.6666666666666665,1.0,1.0,1.0,2.0,2.0,1.0,,2.0
-1753,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),clover,Clover,38,Clubs symbol - Ice cream,1.0,3.0,2.0,1.0,1.0,1.0,1.0,,,,3.0
-1754,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),butterfly,Butterfly,39,Clubs symbol - Ice cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
-1755,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),rectangle,Rectangle,40,Mug,2.2,1.0,1.6,2.0,1.0,3.0,2.0,3.0,,,1.0
-1756,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),coffee mug,Coffee mug,41,Mug,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1757,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),tic-tac-toe,Tic-tac-toe,42,Window - Grid,2.3333333333333335,2.0,2.166666666666667,3.0,2.0,4.0,3.0,1.0,1.0,,2.0
-1758,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),power symbol,Power symbol,43,Mouse,2.2,1.0,1.6,1.0,2.0,3.0,4.0,1.0,,,1.0
-1759,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),dollar sign,Dollar sign,44,Computer Mouse,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,2.0,1.0,1.0,1.0,,1.0
-1760,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),clock,clock,45,Clock,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
-1761,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),number 8,number 8,46,Lightbulb - Ice Cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1762,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),anchor,Anchor,47,Computer Mouse,1.5,1.0,1.25,1.0,2.0,1.0,1.0,3.0,1.0,,1.0
-1763,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),capital t,Capital T,48,Letter T,4.75,5.0,4.875,4.0,5.0,5.0,5.0,,,,5.0
-1764,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),owl face,Owl face,49,Heart,1.2,1.0,1.1,1.0,1.0,2.0,1.0,1.0,,,1.0
-1765,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),anchor,Anchor,50,Stick Figure,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
-1766,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),key,Key,51,Television,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1767,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),capital f,Capital F,52,Letter F,4.6,5.0,4.8,4.0,5.0,5.0,4.0,5.0,,,5.0
-1768,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),key,Key,53,Sailboat,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,2.0,1.0,1.0,1.0,,1.0
-1769,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),fishing hook,Fishing hook,54,Music Note,1.2,3.0,2.1,2.0,1.0,1.0,1.0,1.0,,,3.0
-1770,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),table lamp,Table lamp,55,Yield Sign - Martini Glass,3.1666666666666665,4.0,3.583333333333333,2.0,2.0,4.0,3.0,5.0,3.0,,4.0
-1771,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),letter k,letter k,56,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1772,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),letter z,Letter Z,57,Hourglass,1.75,1.0,1.375,1.0,2.0,3.0,1.0,,,,1.0
-1773,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1774,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),house,House,59,Pine tree,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,1.0,1.0,2.0,2.0,,1.0
-1775,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1776,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
-1777,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),eyeglasses,Eyeglasses,3,Glasses,2.0,5.0,3.5,2.0,2.0,3.0,1.0,2.0,,,5.0
-1778,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),glasses,Glasses,4,Glasses,1.8333333333333333,4.0,2.9166666666666665,1.0,3.0,1.0,3.0,2.0,1.0,,4.0
-1779,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),eyeglasses,Eyeglasses,5,Glasses,2.2,5.0,3.6,3.0,2.0,2.0,1.0,3.0,,,5.0
-1780,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),owl,Owl,6,Glasses,1.5,3.0,2.25,3.0,2.0,1.0,1.0,1.0,1.0,,3.0
-1781,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),pine tree,Pine tree,7,Pine Tree,3.0,5.0,4.0,2.0,2.0,4.0,3.0,4.0,,,5.0
-1782,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),butterfly,Butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
-1783,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),butterfly,Butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
-1784,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),hair comb,Hair comb,10,Comb - Pitchfork,1.8,4.0,2.9,1.0,2.0,3.0,2.0,1.0,,,4.0
-1785,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),trident,Trident,11,Comb - Pitchfork,4.5,5.0,4.75,4.0,5.0,5.0,3.0,5.0,5.0,,5.0
-1786,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),wine glass,Wine glass,12,Goblet,4.833333333333333,5.0,4.916666666666666,5.0,4.0,5.0,5.0,5.0,5.0,,5.0
-1787,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),letter t,Letter T,13,Goblet,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1788,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),horseshoe magnet,Horseshoe magnet,14,Computer Mouse,1.3333333333333333,3.0,2.1666666666666665,1.0,1.0,1.0,1.0,1.0,3.0,,3.0
-1789,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),house,house,15,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
-1790,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),house,House,60,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
-1791,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),ice cream,Ice cream,16,Ice cream,4.8,5.0,4.9,5.0,5.0,5.0,4.0,5.0,,,5.0
-1792,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),shield,Shield,17,Ice cream,1.5,4.0,2.75,1.0,1.0,2.0,1.0,2.0,2.0,,4.0
-1793,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),keyhole,keyhole,18,Ice cream,1.5714285714285714,2.0,1.7857142857142856,1.0,1.0,3.0,2.0,2.0,1.0,1.0,2.0
-1794,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),keyhole,Keyhole,20,Crystal ball - Person Outline,2.0,2.0,2.0,2.0,4.0,1.0,1.0,2.0,2.0,,2.0
-1795,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),snowman,Snowman,21,Crystal ball - Person Outline,2.1666666666666665,3.0,2.583333333333333,2.0,4.0,2.0,2.0,1.0,2.0,,3.0
-1796,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),fish,Fish,22,Fish,1.8333333333333333,4.0,2.9166666666666665,2.0,3.0,1.0,2.0,1.0,2.0,,4.0
-1797,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),magnifying glass,Magnifying glass,23,Lollipop,2.5714285714285716,3.0,2.7857142857142856,1.0,3.0,2.0,4.0,1.0,3.0,4.0,3.0
-1798,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),hammer,Hammer,24,Chair,1.3333333333333333,2.0,1.6666666666666665,1.0,1.0,3.0,1.0,1.0,1.0,,2.0
-1799,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),chair,Chair,25,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
-1800,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),arrow,Arrow,26,Flag,1.8333333333333333,3.0,2.4166666666666665,3.0,1.0,1.0,2.0,3.0,1.0,,3.0
-1801,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),door frame,Door frame,27,Door,3.8,5.0,4.4,3.0,5.0,2.0,4.0,5.0,,,5.0
-1802,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),binoculars,Binoculars,28,Glasses,2.0,4.0,3.0,1.0,2.0,3.0,2.0,2.0,,,4.0
-1803,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),anchor,Anchor,29,Shovel,2.3333333333333335,3.0,2.666666666666667,1.0,1.0,2.0,4.0,5.0,1.0,,3.0
-1804,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),hd icon,HD icon,30,Fish bones,3.2,1.0,2.1,2.0,3.0,5.0,2.0,4.0,,,1.0
-1805,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),anchor,Anchor,31,Balloon,1.1666666666666667,1.0,1.0833333333333335,2.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1806,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),wine glass,Wine glass,32,Goblet,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,5.0
-1807,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),power button,Power button,33,Plunger,1.5714285714285714,2.0,1.7857142857142856,3.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0
-1808,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),eyeglasses,Eyeglasses,34,Bow tie - Owl,2.2,2.0,2.1,2.0,2.0,2.0,1.0,4.0,,,2.0
-1809,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),owl face,owl face,35,Bow tie - Owl,1.8333333333333333,2.0,1.9166666666666665,2.0,1.0,2.0,3.0,2.0,1.0,,2.0
-1810,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),tuning fork,tuning fork,36,Broom,2.8333333333333335,4.0,3.416666666666667,4.0,4.0,2.0,3.0,2.0,2.0,,4.0
-1811,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),stick figure,stick figure,37,Clubs symbol,1.3333333333333333,2.0,1.6666666666666665,1.0,1.0,1.0,2.0,2.0,1.0,,2.0
-1812,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),shamrock,Shamrock,38,Clubs symbol - Ice cream,1.8333333333333333,2.0,1.9166666666666665,2.0,1.0,1.0,3.0,3.0,1.0,,2.0
-1813,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),owl face,Owl face,39,Clubs symbol - Ice cream,1.75,2.0,1.875,2.0,1.0,2.0,2.0,,,,2.0
-1814,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),coffee mug,Coffee mug,40,Mug,4.142857142857143,5.0,4.571428571428571,4.0,5.0,3.0,5.0,2.0,5.0,5.0,5.0
-1815,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),door,Door,41,Mug,1.0,2.0,1.5,1.0,1.0,1.0,1.0,1.0,1.0,,2.0
-1816,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),grid,Grid,42,Window - Grid,4.0,5.0,4.5,4.0,5.0,5.0,4.0,3.0,3.0,,5.0
-1817,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),power button,Power button,43,Mouse,2.8333333333333335,1.0,1.9166666666666667,4.0,3.0,2.0,3.0,2.0,3.0,,1.0
-1818,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),dollar sign,Dollar sign,44,Computer Mouse,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,2.0,1.0,1.0,1.0,,1.0
-1819,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),magnifying glass,Magnifying glass,45,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1820,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),number 8,number 8,46,Lightbulb - Ice Cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1821,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),dollar sign,Dollar sign,47,Computer Mouse,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,2.0,1.0,2.0,1.0,,1.0
-1822,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),inverted t,Inverted T,48,Letter T,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,3.0,1.0,1.0,1.0,,1.0
-1823,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),owl,Owl,49,Heart,1.1428571428571428,1.0,1.0714285714285714,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0
-1824,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),stick figure,Stick figure,50,Stick Figure,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,5.0,5.0,4.0,,5.0
-1825,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),wheelbarrow,Wheelbarrow,51,Television,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
-1826,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),letter f,Letter F,52,Letter F,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-1827,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),sailboat,Sailboat,53,Sailboat,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1828,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),treble clef,Treble clef,54,Music Note,2.6,1.0,1.8,3.0,1.0,1.0,4.0,4.0,,,1.0
-1829,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),down arrow,Down arrow,55,Yield Sign - Martini Glass,1.2,2.0,1.6,1.0,1.0,1.0,1.0,2.0,,,2.0
-1830,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),letter k,letter k,56,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1831,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),capital z,Capital Z,57,Hourglass,1.4,1.0,1.2,2.0,1.0,1.0,1.0,2.0,,,1.0
-1832,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1833,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),house,House,59,Pine tree,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,1.0,1.0,2.0,2.0,,1.0
-1834,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1835,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
-1836,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),eyeglasses,Eyeglasses,3,Glasses,2.0,5.0,3.5,2.0,2.0,3.0,1.0,2.0,,,5.0
-1837,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),tie fighter,TIE fighter,4,Glasses,1.3333333333333333,4.0,2.6666666666666665,2.0,1.0,2.0,1.0,1.0,1.0,,4.0
-1838,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),eyeglasses,Eyeglasses,5,Glasses,2.2,5.0,3.6,3.0,2.0,2.0,1.0,3.0,,,5.0
-1839,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),butterfly,Butterfly,6,Glasses,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1840,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),christmas tree,Christmas tree,7,Pine Tree,2.25,4.0,3.125,3.0,1.0,2.0,3.0,,,,4.0
-1841,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),butterfly,Butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
-1842,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),butterfly,Butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
-1843,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),hair comb,Hair comb,10,Comb - Pitchfork,1.8,4.0,2.9,1.0,2.0,3.0,2.0,1.0,,,4.0
-1844,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),pitchfork,Pitchfork,11,Comb - Pitchfork,4.5,5.0,4.75,4.0,5.0,4.0,5.0,4.0,5.0,,5.0
-1845,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),wine glass,wine glass,12,Goblet,4.833333333333333,5.0,4.916666666666666,5.0,4.0,5.0,5.0,5.0,5.0,,5.0
-1846,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),table lamp,Table lamp,13,Goblet,2.6,5.0,3.8,3.0,3.0,2.0,3.0,2.0,,,5.0
-1847,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),headphones,Headphones,14,Computer Mouse,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
-1848,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),equilateral hexagon,Equilateral hexagon,15,House,1.8,2.0,1.9,1.0,1.0,4.0,2.0,1.0,,,2.0
-1849,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),house,House,60,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
-1850,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),teardrop,Teardrop,16,Ice cream,1.25,3.0,2.125,1.0,1.0,2.0,1.0,,,,3.0
-1851,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),icecream cone,icecream cone,17,Ice cream,4.5,5.0,4.75,5.0,5.0,2.0,5.0,5.0,5.0,,5.0
-1852,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),icecream cone,icecream cone,18,Ice cream,4.5,5.0,4.75,4.0,4.0,5.0,4.0,5.0,5.0,,5.0
-1853,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),sled,Sled,19,Computer Mouse,1.2,4.0,2.6,1.0,1.0,1.0,2.0,1.0,,,4.0
-1854,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),hot air balloon,Hot air balloon,20,Crystal ball - Person Outline,1.5,2.0,1.75,1.0,1.0,2.0,1.0,2.0,2.0,,2.0
-1855,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),ice cream,Ice cream,21,Crystal ball - Person Outline,1.0,2.0,1.5,1.0,1.0,1.0,1.0,1.0,,,2.0
-1856,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),play button,Play button,22,Fish,2.5,1.0,1.75,4.0,2.0,2.0,4.0,2.0,1.0,,1.0
-1857,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),hand mirror,Hand mirror,23,Lollipop,3.6,5.0,4.3,2.0,3.0,5.0,3.0,5.0,,,5.0
-1858,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),chair,Chair,24,Chair,3.5714285714285716,5.0,4.285714285714286,3.0,5.0,4.0,4.0,4.0,3.0,2.0,5.0
-1859,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),chair,Chair,25,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
-1860,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),pennant flag,Pennant flag,26,Flag,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,5.0,4.0,5.0,,5.0
-1861,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),broken ladder,Broken ladder,27,Door,1.25,4.0,2.625,1.0,1.0,2.0,1.0,,,,4.0
-1862,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),bra,Bra,28,Glasses,3.4,5.0,4.2,2.0,4.0,3.0,4.0,4.0,,,5.0
-1863,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),anchor,Anchor,29,Shovel,2.3333333333333335,3.0,2.666666666666667,1.0,1.0,2.0,4.0,5.0,1.0,,3.0
-1864,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),wheelchair,Wheelchair,30,Fish bones,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1865,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),stick figure,Stick figure,31,Balloon,3.4285714285714284,3.0,3.2142857142857144,3.0,1.0,5.0,4.0,3.0,5.0,3.0,3.0
-1866,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),wine glass,wine glass,32,Goblet,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,5.0
-1867,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),pot lid,pot lid,33,Plunger,1.5,5.0,3.25,1.0,2.0,2.0,2.0,1.0,1.0,,5.0
-1868,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),owl face,Owl face,34,Bow tie - Owl,2.142857142857143,2.0,2.071428571428571,2.0,2.0,4.0,3.0,1.0,2.0,1.0,2.0
-1869,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),owl,Owl,35,Bow tie - Owl,1.8,1.0,1.4,2.0,2.0,1.0,1.0,3.0,,,1.0
-1870,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),pitchfork,Pitchfork,36,Broom,2.8333333333333335,2.0,2.416666666666667,4.0,3.0,1.0,5.0,2.0,2.0,,2.0
-1871,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),snowman,Snowman,37,Clubs symbol,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1872,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),club symbol,club symbol,38,Clubs symbol - Ice cream,1.6666666666666667,3.0,2.3333333333333335,1.0,2.0,3.0,1.0,1.0,2.0,,3.0
-1873,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),club suit,Club suit,39,Clubs symbol - Ice cream,1.4,3.0,2.2,1.0,1.0,3.0,1.0,1.0,,,3.0
-1874,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),coffee mug,coffee mug,40,Mug,4.142857142857143,5.0,4.571428571428571,4.0,5.0,3.0,5.0,2.0,5.0,5.0,5.0
-1875,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),coffee mug,Coffee mug,41,Mug,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
-1876,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),window pane,Window pane,42,Window - Grid,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,5.0,4.0,5.0,,5.0
-1877,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),treble clef,Treble clef,43,Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
-1878,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),power button,Power button,44,Computer Mouse,1.6,1.0,1.3,4.0,1.0,1.0,1.0,1.0,,,1.0
-1879,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),key,Key,45,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
-1880,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),figure eight,Figure eight,46,Lightbulb - Ice Cream,1.2,1.0,1.1,2.0,1.0,1.0,1.0,1.0,,,1.0
-1881,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),dollar sign,Dollar sign,47,Computer Mouse,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,2.0,1.0,2.0,1.0,,1.0
-1882,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),capital t,Capital T,48,Letter T,4.75,5.0,4.875,4.0,5.0,5.0,5.0,,,,5.0
-1883,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),heart,Heart,49,Heart,4.333333333333333,5.0,4.666666666666666,3.0,5.0,5.0,4.0,5.0,4.0,,5.0
-1884,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),anchor,Anchor,50,Stick Figure,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
-1885,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),house,House,51,Television,1.2,1.0,1.1,2.0,1.0,1.0,1.0,1.0,,,1.0
-1886,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),capital f,Capital F,52,Letter F,4.6,5.0,4.8,4.0,5.0,5.0,4.0,5.0,,,5.0
-1887,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),fish hook,Fish hook,53,Sailboat,1.1666666666666667,3.0,2.0833333333333335,1.0,2.0,1.0,1.0,1.0,1.0,,3.0
-1888,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),skeleton key,Skeleton key,54,Music Note,3.0,5.0,4.0,3.0,4.0,1.0,4.0,,,,5.0
-1889,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),martini glass,Martini glass,55,Yield Sign - Martini Glass,4.2,5.0,4.6,5.0,4.0,5.0,5.0,2.0,,,5.0
-1890,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),clock,Clock,56,Clock,4.666666666666667,5.0,4.833333333333334,4.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1891,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),hourglass,Hourglass,57,Hourglass,3.8333333333333335,5.0,4.416666666666667,5.0,4.0,5.0,4.0,1.0,4.0,,5.0
-1892,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
-1893,OpenAI: o3-Pro - Multiple Context - High Reasoning (2025-09-16),tree,Tree,59,Pine tree,4.0,4.0,4.0,5.0,4.0,4.0,4.0,2.0,5.0,,4.0
+1475,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1476,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
+1477,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),eyeglasses,Eyeglasses,3,Glasses,2.0,5.0,3.5,2.0,2.0,3.0,1.0,2.0,,,5.0
+1478,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),tie fighter,TIE fighter,4,Glasses,1.3333333333333333,4.0,2.6666666666666665,2.0,1.0,2.0,1.0,1.0,1.0,,4.0
+1479,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),eyeglasses,Eyeglasses,5,Glasses,2.2,5.0,3.6,3.0,2.0,2.0,1.0,3.0,,,5.0
+1480,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),butterfly,Butterfly,6,Glasses,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1481,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),christmas tree,Christmas tree,7,Pine Tree,2.25,4.0,3.125,3.0,1.0,2.0,3.0,,,,4.0
+1482,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),butterfly,Butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
+1483,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),butterfly,Butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
+1484,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),hair comb,Hair comb,10,Comb - Pitchfork,1.8,4.0,2.9,1.0,2.0,3.0,2.0,1.0,,,4.0
+1485,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),pitchfork,Pitchfork,11,Comb - Pitchfork,4.5,5.0,4.75,4.0,5.0,4.0,5.0,4.0,5.0,,5.0
+1486,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),wine glass,wine glass,12,Goblet,4.833333333333333,5.0,4.916666666666666,5.0,4.0,5.0,5.0,5.0,5.0,,5.0
+1487,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),table lamp,Table lamp,13,Goblet,2.6,5.0,3.8,3.0,3.0,2.0,3.0,2.0,,,5.0
+1488,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),headphones,Headphones,14,Computer Mouse,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
+1489,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),equilateral hexagon,Equilateral hexagon,15,House,1.8,2.0,1.9,1.0,1.0,4.0,2.0,1.0,,,2.0
+1490,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),house,House,60,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
+1491,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),teardrop,Teardrop,16,Ice cream,1.25,3.0,2.125,1.0,1.0,2.0,1.0,,,,3.0
+1492,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),icecream cone,icecream cone,17,Ice cream,4.5,5.0,4.75,5.0,5.0,2.0,5.0,5.0,5.0,,5.0
+1493,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),icecream cone,icecream cone,18,Ice cream,4.5,5.0,4.75,4.0,4.0,5.0,4.0,5.0,5.0,,5.0
+1494,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),sled,Sled,19,Computer Mouse,1.2,4.0,2.6,1.0,1.0,1.0,2.0,1.0,,,4.0
+1495,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),hot air balloon,Hot air balloon,20,Crystal ball - Person Outline,1.5,2.0,1.75,1.0,1.0,2.0,1.0,2.0,2.0,,2.0
+1496,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),ice cream,Ice cream,21,Crystal ball - Person Outline,1.0,2.0,1.5,1.0,1.0,1.0,1.0,1.0,,,2.0
+1497,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),play button,Play button,22,Fish,2.5,1.0,1.75,4.0,2.0,2.0,4.0,2.0,1.0,,1.0
+1498,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),hand mirror,Hand mirror,23,Lollipop,3.6,5.0,4.3,2.0,3.0,5.0,3.0,5.0,,,5.0
+1499,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),chair,Chair,24,Chair,3.5714285714285716,5.0,4.285714285714286,3.0,5.0,4.0,4.0,4.0,3.0,2.0,5.0
+1500,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),chair,Chair,25,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
+1501,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),pennant flag,Pennant flag,26,Flag,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,5.0,4.0,5.0,,5.0
+1502,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),broken ladder,Broken ladder,27,Door,1.25,4.0,2.625,1.0,1.0,2.0,1.0,,,,4.0
+1503,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),bra,Bra,28,Glasses,3.4,5.0,4.2,2.0,4.0,3.0,4.0,4.0,,,5.0
+1504,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),anchor,Anchor,29,Shovel,2.3333333333333335,3.0,2.666666666666667,1.0,1.0,2.0,4.0,5.0,1.0,,3.0
+1505,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),wheelchair,Wheelchair,30,Fish bones,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1506,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),stick figure,Stick figure,31,Balloon,3.4285714285714284,3.0,3.2142857142857144,3.0,1.0,5.0,4.0,3.0,5.0,3.0,3.0
+1507,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),wine glass,wine glass,32,Goblet,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,5.0
+1508,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),pot lid,pot lid,33,Plunger,1.5,5.0,3.25,1.0,2.0,2.0,2.0,1.0,1.0,,5.0
+1509,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),owl face,Owl face,34,Bow tie - Owl,2.142857142857143,2.0,2.071428571428571,2.0,2.0,4.0,3.0,1.0,2.0,1.0,2.0
+1510,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),owl,Owl,35,Bow tie - Owl,1.8,1.0,1.4,2.0,2.0,1.0,1.0,3.0,,,1.0
+1511,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),pitchfork,Pitchfork,36,Broom,2.8333333333333335,2.0,2.416666666666667,4.0,3.0,1.0,5.0,2.0,2.0,,2.0
+1512,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),snowman,Snowman,37,Clubs symbol,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1513,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),club symbol,club symbol,38,Clubs symbol - Ice cream,1.6666666666666667,3.0,2.3333333333333335,1.0,2.0,3.0,1.0,1.0,2.0,,3.0
+1514,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),club suit,Club suit,39,Clubs symbol - Ice cream,1.4,3.0,2.2,1.0,1.0,3.0,1.0,1.0,,,3.0
+1515,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),coffee mug,coffee mug,40,Mug,4.142857142857143,5.0,4.571428571428571,4.0,5.0,3.0,5.0,2.0,5.0,5.0,5.0
+1516,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),coffee mug,Coffee mug,41,Mug,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1517,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),window pane,Window pane,42,Window - Grid,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,5.0,4.0,5.0,,5.0
+1518,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),treble clef,Treble clef,43,Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1519,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),power button,Power button,44,Computer Mouse,1.6,1.0,1.3,4.0,1.0,1.0,1.0,1.0,,,1.0
+1520,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),key,Key,45,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1521,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),figure eight,Figure eight,46,Lightbulb - Ice Cream,1.2,1.0,1.1,2.0,1.0,1.0,1.0,1.0,,,1.0
+1522,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),dollar sign,Dollar sign,47,Computer Mouse,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,2.0,1.0,2.0,1.0,,1.0
+1523,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),capital t,Capital T,48,Letter T,4.75,5.0,4.875,4.0,5.0,5.0,5.0,,,,5.0
+1524,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),heart,Heart,49,Heart,4.333333333333333,5.0,4.666666666666666,3.0,5.0,5.0,4.0,5.0,4.0,,5.0
+1525,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),anchor,Anchor,50,Stick Figure,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
+1526,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),house,House,51,Television,1.2,1.0,1.1,2.0,1.0,1.0,1.0,1.0,,,1.0
+1527,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),capital f,Capital F,52,Letter F,4.6,5.0,4.8,4.0,5.0,5.0,4.0,5.0,,,5.0
+1528,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),fish hook,Fish hook,53,Sailboat,1.1666666666666667,3.0,2.0833333333333335,1.0,2.0,1.0,1.0,1.0,1.0,,3.0
+1529,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),skeleton key,Skeleton key,54,Music Note,3.0,5.0,4.0,3.0,4.0,1.0,4.0,,,,5.0
+1530,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),martini glass,Martini glass,55,Yield Sign - Martini Glass,4.2,5.0,4.6,5.0,4.0,5.0,5.0,2.0,,,5.0
+1531,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),clock,Clock,56,Clock,4.666666666666667,5.0,4.833333333333334,4.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1532,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),hourglass,Hourglass,57,Hourglass,3.8333333333333335,5.0,4.416666666666667,5.0,4.0,5.0,4.0,1.0,4.0,,5.0
+1533,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1534,OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-09-16),tree,Tree,59,Pine tree,4.0,4.0,4.0,5.0,4.0,4.0,4.0,2.0,5.0,,4.0
+1535,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),ladder,ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1536,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),ladder,ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
+1537,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),bra,bra,3,Glasses,2.8333333333333335,3.0,2.916666666666667,2.0,3.0,4.0,2.0,3.0,3.0,,3.0
+1538,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),spectacles,spectacles,4,Glasses,1.5,4.0,2.75,1.0,3.0,1.0,2.0,1.0,1.0,,4.0
+1539,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),spectacles,spectacles,5,Glasses,2.6666666666666665,5.0,3.833333333333333,2.0,5.0,2.0,2.0,3.0,2.0,,5.0
+1540,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),bra,bra,6,Glasses,3.3333333333333335,4.0,3.666666666666667,5.0,5.0,3.0,2.0,3.0,2.0,,4.0
+1541,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),pine tree,pine tree,7,Pine Tree,3.0,5.0,4.0,2.0,2.0,4.0,3.0,4.0,,,5.0
+1542,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),butterfly,butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
+1543,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),butterfly,butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
+1544,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),pitchfork,pitchfork,10,Comb - Pitchfork,4.666666666666667,5.0,4.833333333333334,4.0,4.0,5.0,5.0,5.0,5.0,,5.0
+1545,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),pitchfork,pitchfork,11,Comb - Pitchfork,4.5,5.0,4.75,4.0,5.0,4.0,5.0,4.0,5.0,,5.0
+1546,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),wine glass,wine glass,12,Goblet,4.833333333333333,5.0,4.916666666666666,5.0,4.0,5.0,5.0,5.0,5.0,,5.0
+1547,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),goblet,goblet,13,Goblet,4.666666666666667,5.0,4.833333333333334,5.0,3.0,5.0,5.0,5.0,5.0,,5.0
+1548,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),headphones,headphones,14,Computer Mouse,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
+1549,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),house,house,15,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
+1550,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),envelope,envelope,60,House,2.0,3.0,2.5,1.0,2.0,1.0,2.0,4.0,2.0,,3.0
+1551,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),icecream cone,icecream cone,16,Ice cream,4.833333333333333,5.0,4.916666666666666,5.0,5.0,4.0,5.0,5.0,5.0,,5.0
+1552,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),icecream cone,icecream cone,17,Ice cream,4.5,5.0,4.75,5.0,5.0,2.0,5.0,5.0,5.0,,5.0
+1553,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),icecream cone,icecream cone,18,Ice cream,4.5,5.0,4.75,4.0,4.0,5.0,4.0,5.0,5.0,,5.0
+1554,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),teapot,teapot,19,Computer Mouse,1.2,1.0,1.1,2.0,1.0,1.0,1.0,1.0,,,1.0
+1555,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),crystal ball,crystal ball,20,Crystal ball - Person Outline,2.0,5.0,3.5,1.0,2.0,1.0,2.0,2.0,4.0,,5.0
+1556,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),crystal ball,crystal ball,21,Crystal ball - Person Outline,1.3333333333333333,5.0,3.1666666666666665,2.0,1.0,1.0,2.0,1.0,1.0,,5.0
+1557,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),speech bubble,speech bubble,22,Fish,2.1666666666666665,1.0,1.5833333333333333,3.0,2.0,2.0,2.0,3.0,1.0,,1.0
+1558,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),lollipop,lollipop,23,Lollipop,4.5,5.0,4.75,5.0,5.0,4.0,3.0,5.0,5.0,,5.0
+1559,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),anchor,anchor,24,Chair,1.6666666666666667,2.0,1.8333333333333335,1.0,4.0,2.0,1.0,1.0,1.0,,2.0
+1560,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),chair,chair,25,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
+1561,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),flag,flag,26,Flag,4.333333333333333,5.0,4.666666666666666,5.0,1.0,5.0,5.0,5.0,5.0,,5.0
+1562,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),door,door,27,Door,4.666666666666667,5.0,4.833333333333334,4.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1563,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),bra,bra,28,Glasses,3.4,5.0,4.2,2.0,4.0,3.0,4.0,4.0,,,5.0
+1564,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),anchor,anchor,29,Shovel,2.3333333333333335,3.0,2.666666666666667,1.0,1.0,2.0,4.0,5.0,1.0,,3.0
+1565,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),bench,bench,30,Fish bones,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1566,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),tripod,tripod,31,Balloon,2.1666666666666665,1.0,1.5833333333333333,2.0,1.0,2.0,2.0,5.0,1.0,,1.0
+1567,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),goblet,goblet,32,Goblet,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1568,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),pot lid,pot lid,33,Plunger,1.5,5.0,3.25,1.0,2.0,2.0,2.0,1.0,1.0,,5.0
+1569,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),spade,spade,34,Bow tie - Owl,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1570,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),spade,spade,35,Bow tie - Owl,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1571,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),peace sign,peace sign,36,Broom,2.3333333333333335,1.0,1.6666666666666667,2.0,5.0,2.0,2.0,1.0,2.0,,1.0
+1572,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),angel,angel,37,Clubs symbol,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,1.0,2.0,1.0,2.0,,1.0
+1573,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),club,club,38,Clubs symbol - Ice cream,1.1666666666666667,3.0,2.0833333333333335,1.0,1.0,1.0,1.0,2.0,1.0,,3.0
+1574,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),club,club,39,Clubs symbol - Ice cream,1.2,3.0,2.1,1.0,2.0,1.0,1.0,1.0,,,3.0
+1575,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),coffee mug,coffee mug,40,Mug,4.142857142857143,5.0,4.571428571428571,4.0,5.0,3.0,5.0,2.0,5.0,5.0,5.0
+1576,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),coffee mug,coffee mug,41,Mug,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1577,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),window,window,42,Window - Grid,4.833333333333333,5.0,4.916666666666666,5.0,5.0,4.0,5.0,5.0,5.0,,5.0
+1578,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),question mark,question mark,43,Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1579,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),question mark,question mark,44,Computer Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,1.0
+1580,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),clock,clock,45,Clock,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
+1581,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),pop-up toaster,pop-up toaster,46,Lightbulb - Ice Cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1582,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),teapot,teapot,47,Computer Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1583,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),hammer,hammer,48,Letter T,1.5,2.0,1.75,1.0,1.0,3.0,1.0,2.0,1.0,,2.0
+1584,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),ice-cream cone,ice-cream cone,49,Heart,1.4,3.0,2.2,2.0,1.0,1.0,2.0,1.0,,,3.0
+1585,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),anchor,anchor,50,Stick Figure,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
+1586,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),birdhouse,birdhouse,51,Television,1.6666666666666667,3.0,2.3333333333333335,3.0,3.0,1.0,1.0,1.0,1.0,,3.0
+1587,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),signpost,signpost,52,Letter F,2.3333333333333335,2.0,2.166666666666667,2.0,2.0,4.0,1.0,3.0,2.0,,2.0
+1588,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),sailboat,sailboat,53,Sailboat,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1589,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),key,key,54,Music Note,2.6666666666666665,2.0,2.333333333333333,2.0,3.0,2.0,2.0,3.0,4.0,,2.0
+1590,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),martini glass,martini glass,55,Yield Sign - Martini Glass,4.2,5.0,4.6,5.0,4.0,5.0,5.0,2.0,,,5.0
+1591,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),clock,clock,56,Clock,4.666666666666667,5.0,4.833333333333334,4.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1592,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),hourglass,hourglass,57,Hourglass,3.8333333333333335,5.0,4.416666666666667,5.0,4.0,5.0,4.0,1.0,4.0,,5.0
+1593,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),umbrella,umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1594,OpenAI: o3 Pro - Single Context - High Reasoning (2025-07-21),road sign,road sign,59,Pine tree,3.6,5.0,4.3,5.0,4.0,2.0,5.0,2.0,,,5.0
+1595,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1596,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
+1597,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),eyeglasses,Eyeglasses,3,Glasses,2.0,5.0,3.5,2.0,2.0,3.0,1.0,2.0,,,5.0
+1598,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),glasses,Glasses,4,Glasses,1.8333333333333333,4.0,2.9166666666666665,1.0,3.0,1.0,3.0,2.0,1.0,,4.0
+1599,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),glasses,Glasses,5,Glasses,2.3333333333333335,4.0,3.166666666666667,4.0,1.0,2.0,3.0,1.0,3.0,,4.0
+1600,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),butterfly,Butterfly,6,Glasses,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1601,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),pine tree,Pine tree,7,Pine Tree,3.0,5.0,4.0,2.0,2.0,4.0,3.0,4.0,,,5.0
+1602,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),butterfly,Butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
+1603,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),butterfly,Butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
+1604,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),table,Table,10,Comb - Pitchfork,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1605,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),trident,Trident,11,Comb - Pitchfork,4.5,5.0,4.75,4.0,5.0,5.0,3.0,5.0,5.0,,5.0
+1606,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),wine glass,Wine glass,12,Goblet,4.833333333333333,5.0,4.916666666666666,5.0,4.0,5.0,5.0,5.0,5.0,,5.0
+1607,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),padlock,Padlock,13,Goblet,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1608,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),headphones,Headphones,14,Computer Mouse,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
+1609,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),house,House,15,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
+1610,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),house,House,60,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
+1611,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),shield,Shield,16,Ice cream,1.3333333333333333,3.0,2.1666666666666665,1.0,2.0,1.0,1.0,1.0,2.0,,3.0
+1612,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),shield,Shield,17,Ice cream,1.5,4.0,2.75,1.0,1.0,2.0,1.0,2.0,2.0,,4.0
+1613,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),speech bubble,speech bubble,18,Ice cream,1.5,1.0,1.25,1.0,1.0,3.0,2.0,1.0,1.0,,1.0
+1614,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),coffee cup,coffee cup,19,Computer Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1615,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),magnifying glass,Magnifying glass,20,Crystal ball - Person Outline,1.1666666666666667,2.0,1.5833333333333335,1.0,1.0,1.0,1.0,2.0,1.0,,2.0
+1616,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),snail,snail,21,Crystal ball - Person Outline,2.0,1.0,1.5,2.0,1.0,4.0,1.0,,,,1.0
+1617,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),arrow,Arrow,22,Fish,1.0,3.0,2.0,1.0,1.0,1.0,1.0,,,,3.0
+1618,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),magnifying glass,Magnifying glass,23,Lollipop,2.5714285714285716,3.0,2.7857142857142856,1.0,3.0,2.0,4.0,1.0,3.0,4.0,3.0
+1619,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),chair,Chair,24,Chair,3.5714285714285716,5.0,4.285714285714286,3.0,5.0,4.0,4.0,4.0,3.0,2.0,5.0
+1620,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),chair,Chair,25,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
+1621,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),axe,Axe,26,Flag,2.5,3.0,2.75,2.0,5.0,3.0,2.0,1.0,2.0,,3.0
+1622,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),window,Window,27,Door,1.8,3.0,2.4,1.0,2.0,2.0,2.0,2.0,,,3.0
+1623,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),binoculars,Binoculars,28,Glasses,2.0,4.0,3.0,1.0,2.0,3.0,2.0,2.0,,,4.0
+1624,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),wine glass,Wine glass,29,Shovel,1.4,1.0,1.2,1.0,2.0,1.0,2.0,1.0,,,1.0
+1625,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),hd monogram,HD monogram,30,Fish bones,3.2,1.0,2.1,5.0,2.0,1.0,4.0,4.0,,,1.0
+1626,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),stick figure,Stick figure,31,Balloon,3.4285714285714284,3.0,3.2142857142857144,3.0,1.0,5.0,4.0,3.0,5.0,3.0,3.0
+1627,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),wine glass,wine glass,32,Goblet,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,5.0
+1628,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),golf club,Golf club,33,Plunger,1.0,2.0,1.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0
+1629,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),owl face,Owl face,34,Bow tie - Owl,2.142857142857143,2.0,2.071428571428571,2.0,2.0,4.0,3.0,1.0,2.0,1.0,2.0
+1630,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),owl,owl,35,Bow tie - Owl,1.8,1.0,1.4,2.0,2.0,1.0,1.0,3.0,,,1.0
+1631,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),anchor,Anchor,36,Broom,2.0,3.0,2.5,1.0,1.0,2.0,3.0,2.0,3.0,,3.0
+1632,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),butterfly,Butterfly,37,Clubs symbol,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1633,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),ice cream,Ice cream,38,Clubs symbol - Ice cream,3.0,5.0,4.0,2.0,3.0,3.0,3.0,5.0,2.0,,5.0
+1634,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),owl,Owl,39,Clubs symbol - Ice cream,1.1666666666666667,2.0,1.5833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,2.0
+1635,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),ep,EP,40,Mug,2.0,1.0,1.5,4.0,2.0,1.0,2.0,1.0,,,1.0
+1636,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),coffee mug,coffee mug,41,Mug,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1637,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),grid,Grid,42,Window - Grid,4.0,5.0,4.5,4.0,5.0,5.0,4.0,3.0,3.0,,5.0
+1638,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),question mark,Question mark,43,Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1639,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),dollar sign,Dollar sign,44,Computer Mouse,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,2.0,1.0,1.0,1.0,,1.0
+1640,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),padlock,Padlock,45,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1641,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),number 8,number 8,46,Lightbulb - Ice Cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1642,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),treble clef,Treble clef,47,Computer Mouse,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,1.0,1.0,3.0,1.0,,1.0
+1643,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),letter t,Letter T,48,Letter T,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1644,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),heart,Heart,49,Heart,4.333333333333333,5.0,4.666666666666666,3.0,5.0,5.0,4.0,5.0,4.0,,5.0
+1645,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),anchor,Anchor,50,Stick Figure,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
+1646,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),key,Key,51,Television,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1647,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),letter f,Letter F,52,Letter F,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+1648,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),anchor,Anchor,53,Sailboat,1.0,3.0,2.0,1.0,1.0,1.0,1.0,,,,3.0
+1649,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),skeleton key,Skeleton key,54,Music Note,3.0,5.0,4.0,3.0,4.0,1.0,4.0,,,,5.0
+1650,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),anchor,Anchor,55,Yield Sign - Martini Glass,1.5,2.0,1.75,1.0,3.0,1.0,1.0,2.0,1.0,,2.0
+1651,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),circled k,Circled K,56,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1652,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),hourglass,Hourglass,57,Hourglass,3.8333333333333335,5.0,4.416666666666667,5.0,4.0,5.0,4.0,1.0,4.0,,5.0
+1653,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1654,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-21),arrow,Arrow,59,Pine tree,2.1666666666666665,4.0,3.083333333333333,2.0,2.0,2.0,2.0,3.0,2.0,,4.0
+1655,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1656,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
+1657,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),eyeglasses,Eyeglasses,3,Glasses,2.0,5.0,3.5,2.0,2.0,3.0,1.0,2.0,,,5.0
+1658,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),binoculars,Binoculars,4,Glasses,2.4,5.0,3.7,2.0,2.0,1.0,4.0,3.0,,,5.0
+1659,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),eyeglasses,Eyeglasses,5,Glasses,2.2,5.0,3.6,3.0,2.0,2.0,1.0,3.0,,,5.0
+1660,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),binoculars,Binoculars,6,Glasses,2.5,3.0,2.75,3.0,3.0,3.0,2.0,2.0,2.0,,3.0
+1661,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),christmas tree,Christmas tree,7,Pine Tree,2.25,4.0,3.125,3.0,1.0,2.0,3.0,,,,4.0
+1662,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),butterfly,Butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
+1663,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),butterfly,Butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
+1664,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),hair comb,Hair comb,10,Comb - Pitchfork,1.8,4.0,2.9,1.0,2.0,3.0,2.0,1.0,,,4.0
+1665,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),comb,Comb,11,Comb - Pitchfork,1.8333333333333333,5.0,3.4166666666666665,2.0,2.0,3.0,1.0,2.0,1.0,,5.0
+1666,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),anchor,Anchor,12,Goblet,1.6,2.0,1.8,1.0,4.0,1.0,1.0,1.0,,,2.0
+1667,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),hammer,Hammer,13,Goblet,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1668,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),headphones,Headphones,14,Computer Mouse,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
+1669,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),house,house,15,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
+1670,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),house,House,60,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
+1671,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),shield,Shield,16,Ice cream,1.3333333333333333,3.0,2.1666666666666665,1.0,2.0,1.0,1.0,1.0,2.0,,3.0
+1672,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),wine glass,wine glass,17,Ice cream,1.3333333333333333,1.0,1.1666666666666665,2.0,1.0,1.0,2.0,1.0,1.0,,1.0
+1673,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),speech bubble,Speech bubble,18,Ice cream,1.5,1.0,1.25,1.0,1.0,3.0,2.0,1.0,1.0,,1.0
+1674,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),euro symbol,Euro symbol,19,Computer Mouse,1.2,2.0,1.6,1.0,2.0,1.0,1.0,1.0,,,2.0
+1675,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),stick figure,Stick figure,20,Crystal ball - Person Outline,1.2,2.0,1.6,1.0,2.0,1.0,1.0,1.0,,,2.0
+1676,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),padlock,Padlock,21,Crystal ball - Person Outline,1.6,3.0,2.3,2.0,2.0,2.0,1.0,1.0,,,3.0
+1677,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),arrow,Arrow,22,Fish,1.0,3.0,2.0,1.0,1.0,1.0,1.0,,,,3.0
+1678,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),lollipop,Lollipop,23,Lollipop,4.5,5.0,4.75,5.0,5.0,4.0,3.0,5.0,5.0,,5.0
+1679,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),chair,Chair,24,Chair,3.5714285714285716,5.0,4.285714285714286,3.0,5.0,4.0,4.0,4.0,3.0,2.0,5.0
+1680,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),chair,Chair,25,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
+1681,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),coat hanger,Coat hanger,26,Flag,1.25,1.0,1.125,1.0,1.0,2.0,1.0,,,,1.0
+1682,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),window frame,Window frame,27,Door,2.2,2.0,2.1,1.0,1.0,4.0,2.0,3.0,,,2.0
+1683,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),bra,Bra,28,Glasses,3.4,5.0,4.2,2.0,4.0,3.0,4.0,4.0,,,5.0
+1684,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),anchor,Anchor,29,Shovel,2.3333333333333335,3.0,2.666666666666667,1.0,1.0,2.0,4.0,5.0,1.0,,3.0
+1685,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),fence,Fence,30,Fish bones,1.2,3.0,2.1,2.0,1.0,1.0,1.0,1.0,,,3.0
+1686,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),umbrella,Umbrella,31,Balloon,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1687,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),mushroom,Mushroom,32,Goblet,1.3333333333333333,3.0,2.1666666666666665,1.0,3.0,1.0,1.0,1.0,1.0,,3.0
+1688,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),spoon,Spoon,33,Plunger,2.4,3.0,2.7,5.0,1.0,2.0,3.0,1.0,,,3.0
+1689,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),glasses,Glasses,34,Bow tie - Owl,1.5,3.0,2.25,1.0,1.0,2.0,1.0,3.0,1.0,,3.0
+1690,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),owl,Owl,35,Bow tie - Owl,1.8,1.0,1.4,2.0,2.0,1.0,1.0,3.0,,,1.0
+1691,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),trident,Trident,36,Broom,3.2,3.0,3.1,4.0,4.0,3.0,3.0,2.0,,,3.0
+1692,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),anchor,Anchor,37,Clubs symbol,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,1.0,2.0,1.0,,1.0
+1693,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),clover,Clover,38,Clubs symbol - Ice cream,1.0,3.0,2.0,1.0,1.0,1.0,1.0,,,,3.0
+1694,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),butterfly,Butterfly,39,Clubs symbol - Ice cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1695,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),ep,EP,40,Mug,2.0,1.0,1.5,4.0,2.0,1.0,2.0,1.0,,,1.0
+1696,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),parking sign,Parking sign,41,Mug,1.3333333333333333,2.0,1.6666666666666665,1.0,1.0,2.0,2.0,1.0,1.0,,2.0
+1697,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),grid,Grid,42,Window - Grid,4.0,5.0,4.5,4.0,5.0,5.0,4.0,3.0,3.0,,5.0
+1698,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),power button,power button,43,Mouse,2.8333333333333335,1.0,1.9166666666666667,4.0,3.0,2.0,3.0,2.0,3.0,,1.0
+1699,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),dollar sign,Dollar sign,44,Computer Mouse,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,2.0,1.0,1.0,1.0,,1.0
+1700,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),power button,Power button,45,Clock,1.4,2.0,1.7,1.0,1.0,2.0,1.0,2.0,,,2.0
+1701,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),number 8,number 8,46,Lightbulb - Ice Cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1702,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),dollar sign,Dollar sign,47,Computer Mouse,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,2.0,1.0,2.0,1.0,,1.0
+1703,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),corner bracket,Corner bracket,48,Letter T,3.0,2.0,2.5,2.0,3.0,4.0,3.0,3.0,3.0,,2.0
+1704,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),ice cream,Ice cream,49,Heart,2.0,3.0,2.5,2.0,2.0,3.0,1.0,2.0,2.0,,3.0
+1705,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),anchor,Anchor,50,Stick Figure,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
+1706,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),house,House,51,Television,1.2,1.0,1.1,2.0,1.0,1.0,1.0,1.0,,,1.0
+1707,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),letter f,Letter F,52,Letter F,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+1708,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),pistol,Pistol,53,Sailboat,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1709,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),lowercase f,lowercase f,54,Music Note,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,1.0
+1710,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),martini glass,Martini glass,55,Yield Sign - Martini Glass,4.2,5.0,4.6,5.0,4.0,5.0,5.0,2.0,,,5.0
+1711,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),circled k,Circled k,56,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1712,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),letter z,Letter Z,57,Hourglass,1.75,1.0,1.375,1.0,2.0,3.0,1.0,,,,1.0
+1713,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1714,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-22),up arrow,Up arrow,59,Pine tree,4.0,4.0,4.0,4.0,4.0,5.0,3.0,4.0,,,4.0
+1715,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1716,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
+1717,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),glasses,glasses,3,Glasses,2.8333333333333335,5.0,3.916666666666667,2.0,2.0,4.0,2.0,5.0,2.0,,5.0
+1718,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),glasses,Glasses,4,Glasses,1.8333333333333333,4.0,2.9166666666666665,1.0,3.0,1.0,3.0,2.0,1.0,,4.0
+1719,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),eyeglasses,Eyeglasses,5,Glasses,2.2,5.0,3.6,3.0,2.0,2.0,1.0,3.0,,,5.0
+1720,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),infinity sign,Infinity sign,6,Glasses,1.8333333333333333,1.0,1.4166666666666665,2.0,2.0,4.0,1.0,1.0,1.0,,1.0
+1721,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),christmas tree,Christmas tree,7,Pine Tree,2.25,4.0,3.125,3.0,1.0,2.0,3.0,,,,4.0
+1722,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),butterfly,Butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
+1723,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),butterfly,Butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
+1724,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),fork,Fork,10,Comb - Pitchfork,3.5,4.0,3.75,4.0,2.0,3.0,4.0,4.0,4.0,,4.0
+1725,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),trident,Trident,11,Comb - Pitchfork,4.5,5.0,4.75,4.0,5.0,5.0,3.0,5.0,5.0,,5.0
+1726,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),table lamp,Table lamp,12,Goblet,2.0,5.0,3.5,1.0,3.0,1.0,4.0,1.0,,,5.0
+1727,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),wine glass,Wine glass,13,Goblet,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1728,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),headphones,Headphones,14,Computer Mouse,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
+1729,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),house,House,15,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
+1730,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),house,House,60,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
+1731,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),bookmark,Bookmark,16,Ice cream,1.2,2.0,1.6,1.0,1.0,1.0,1.0,2.0,,,2.0
+1732,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),slingshot,Slingshot,17,Ice cream,1.5,4.0,2.75,1.0,1.0,1.0,1.0,2.0,3.0,,4.0
+1733,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),wine glass,Wine glass,18,Ice cream,1.5,1.0,1.25,2.0,1.0,2.0,1.0,,,,1.0
+1734,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),database,Database,19,Computer Mouse,1.4,1.0,1.2,3.0,1.0,1.0,1.0,1.0,,,1.0
+1735,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),toilet,Toilet,20,Crystal ball - Person Outline,2.0,5.0,3.5,2.0,3.0,2.0,2.0,1.0,,,5.0
+1736,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),padlock,Padlock,21,Crystal ball - Person Outline,1.6,3.0,2.3,2.0,2.0,2.0,1.0,1.0,,,3.0
+1737,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),play button,Play button,22,Fish,2.5,1.0,1.75,4.0,2.0,2.0,4.0,2.0,1.0,,1.0
+1738,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),magnifying glass,Magnifying glass,23,Lollipop,2.5714285714285716,3.0,2.7857142857142856,1.0,3.0,2.0,4.0,1.0,3.0,4.0,3.0
+1739,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),hammer,Hammer,24,Chair,1.3333333333333333,2.0,1.6666666666666665,1.0,1.0,3.0,1.0,1.0,1.0,,2.0
+1740,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),chair,Chair,25,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
+1741,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),flag,Flag,26,Flag,4.333333333333333,5.0,4.666666666666666,5.0,1.0,5.0,5.0,5.0,5.0,,5.0
+1742,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),door frame,Door frame,27,Door,3.8,5.0,4.4,3.0,5.0,2.0,4.0,5.0,,,5.0
+1743,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),eyeglasses,Eyeglasses,28,Glasses,3.5,5.0,4.25,3.0,4.0,2.0,5.0,3.0,4.0,,5.0
+1744,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),anchor,Anchor,29,Shovel,2.3333333333333335,3.0,2.666666666666667,1.0,1.0,2.0,4.0,5.0,1.0,,3.0
+1745,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),hd monogram,HD monogram,30,Fish bones,3.2,1.0,2.1,5.0,2.0,1.0,4.0,4.0,,,1.0
+1746,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),stick figure,Stick figure,31,Balloon,3.4285714285714284,3.0,3.2142857142857144,3.0,1.0,5.0,4.0,3.0,5.0,3.0,3.0
+1747,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),claw hammer,Claw hammer,32,Goblet,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,1.0
+1748,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),golf club,Golf club,33,Plunger,1.0,2.0,1.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0
+1749,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),owl,Owl,34,Bow tie - Owl,1.5,1.0,1.25,1.0,2.0,1.0,2.0,1.0,2.0,,1.0
+1750,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),owl,Owl,35,Bow tie - Owl,1.8,1.0,1.4,2.0,2.0,1.0,1.0,3.0,,,1.0
+1751,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),anchor,Anchor,36,Broom,2.0,3.0,2.5,1.0,1.0,2.0,3.0,2.0,3.0,,3.0
+1752,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),club symbol,Club symbol,37,Clubs symbol,3.1666666666666665,5.0,4.083333333333333,4.0,2.0,5.0,2.0,4.0,2.0,,5.0
+1753,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),shamrock,Shamrock,38,Clubs symbol - Ice cream,1.8333333333333333,2.0,1.9166666666666665,2.0,1.0,1.0,3.0,3.0,1.0,,2.0
+1754,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),butterfly,Butterfly,39,Clubs symbol - Ice cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1755,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),ep,EP,40,Mug,2.0,1.0,1.5,4.0,2.0,1.0,2.0,1.0,,,1.0
+1756,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),flag,Flag,41,Mug,1.1666666666666667,1.0,1.0833333333333335,2.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1757,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),grid,Grid,42,Window - Grid,4.0,5.0,4.5,4.0,5.0,5.0,4.0,3.0,3.0,,5.0
+1758,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),power symbol,Power symbol,43,Mouse,2.2,1.0,1.6,1.0,2.0,3.0,4.0,1.0,,,1.0
+1759,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),coffee cup,Coffee cup,44,Computer Mouse,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1760,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),magnifying glass,Magnifying glass,45,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1761,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),figure eight,Figure eight,46,Lightbulb - Ice Cream,1.2,1.0,1.1,2.0,1.0,1.0,1.0,1.0,,,1.0
+1762,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),glasses,Glasses,47,Computer Mouse,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,1.0,1.0,2.0,,1.0
+1763,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),letter t,Letter T,48,Letter T,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1764,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),ice cream,Ice cream,49,Heart,2.0,3.0,2.5,2.0,2.0,3.0,1.0,2.0,2.0,,3.0
+1765,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),anchor,Anchor,50,Stick Figure,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
+1766,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),key,Key,51,Television,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1767,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),capital f,Capital F,52,Letter F,4.6,5.0,4.8,4.0,5.0,5.0,4.0,5.0,,,5.0
+1768,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),sailboat,Sailboat,53,Sailboat,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1769,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),music note,music note,54,Music Note,4.333333333333333,5.0,4.666666666666666,5.0,5.0,4.0,5.0,3.0,4.0,,5.0
+1770,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),martini glass,Martini glass,55,Yield Sign - Martini Glass,4.2,5.0,4.6,5.0,4.0,5.0,5.0,2.0,,,5.0
+1771,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),half k,Half k,56,Clock,1.6,1.0,1.3,1.0,1.0,2.0,1.0,3.0,,,1.0
+1772,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),letter z,Letter Z,57,Hourglass,1.75,1.0,1.375,1.0,2.0,3.0,1.0,,,,1.0
+1773,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1774,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-23),up arrow,Up arrow,59,Pine tree,4.0,4.0,4.0,4.0,4.0,5.0,3.0,4.0,,,4.0
+1775,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1776,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
+1777,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),dumbbell,Dumbbell,3,Glasses,1.1666666666666667,1.0,1.0833333333333335,2.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1778,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),binoculars,Binoculars,4,Glasses,2.4,5.0,3.7,2.0,2.0,1.0,4.0,3.0,,,5.0
+1779,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),glasses,Glasses,5,Glasses,2.3333333333333335,4.0,3.166666666666667,4.0,1.0,2.0,3.0,1.0,3.0,,4.0
+1780,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),binoculars,Binoculars,6,Glasses,2.5,3.0,2.75,3.0,3.0,3.0,2.0,2.0,2.0,,3.0
+1781,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),pine tree,Pine tree,7,Pine Tree,3.0,5.0,4.0,2.0,2.0,4.0,3.0,4.0,,,5.0
+1782,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),butterfly,Butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
+1783,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),butterfly,Butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
+1784,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),pitchfork,Pitchfork,10,Comb - Pitchfork,4.666666666666667,5.0,4.833333333333334,4.0,4.0,5.0,5.0,5.0,5.0,,5.0
+1785,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),pitchfork,Pitchfork,11,Comb - Pitchfork,4.5,5.0,4.75,4.0,5.0,4.0,5.0,4.0,5.0,,5.0
+1786,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),wine glass,Wine glass,12,Goblet,4.833333333333333,5.0,4.916666666666666,5.0,4.0,5.0,5.0,5.0,5.0,,5.0
+1787,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),wine glass,Wine glass,13,Goblet,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1788,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),headphones,Headphones,14,Computer Mouse,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
+1789,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),house,House,15,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
+1790,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),house,House,60,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
+1791,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),location pin,Location pin,16,Ice cream,3.0,4.0,3.5,3.0,4.0,2.0,4.0,2.0,,,4.0
+1792,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),wine glass,wine glass,17,Ice cream,1.3333333333333333,1.0,1.1666666666666665,2.0,1.0,1.0,2.0,1.0,1.0,,1.0
+1793,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),ice cream,Ice cream,18,Ice cream,4.0,3.0,3.5,5.0,3.0,5.0,5.0,1.0,5.0,,3.0
+1794,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),currency symbol,Currency symbol,19,Computer Mouse,1.2,2.0,1.6,1.0,2.0,1.0,1.0,1.0,,,2.0
+1795,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),keyhole,Keyhole,20,Crystal ball - Person Outline,2.0,2.0,2.0,2.0,4.0,1.0,1.0,2.0,2.0,,2.0
+1796,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),magnifying glass,Magnifying glass,21,Crystal ball - Person Outline,1.5,1.0,1.25,3.0,1.0,1.0,2.0,1.0,1.0,,1.0
+1797,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),play button,Play button,22,Fish,2.5,1.0,1.75,4.0,2.0,2.0,4.0,2.0,1.0,,1.0
+1798,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),lollipop,Lollipop,23,Lollipop,4.5,5.0,4.75,5.0,5.0,4.0,3.0,5.0,5.0,,5.0
+1799,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),chair,Chair,24,Chair,3.5714285714285716,5.0,4.285714285714286,3.0,5.0,4.0,4.0,4.0,3.0,2.0,5.0
+1800,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),hammer,Hammer,25,Chair,1.0,2.0,1.5,1.0,1.0,1.0,1.0,1.0,1.0,,2.0
+1801,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),flag,Flag,26,Flag,4.333333333333333,5.0,4.666666666666666,5.0,1.0,5.0,5.0,5.0,5.0,,5.0
+1802,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),ladder,Ladder,27,Door,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1803,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),eyeglasses,Eyeglasses,28,Glasses,3.5,5.0,4.25,3.0,4.0,2.0,5.0,3.0,4.0,,5.0
+1804,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),hard drive,Hard drive,29,Shovel,1.2,1.0,1.1,1.0,1.0,1.0,1.0,2.0,,,1.0
+1805,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),hd monogram,HD monogram,30,Fish bones,3.2,1.0,2.1,5.0,2.0,1.0,4.0,4.0,,,1.0
+1806,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),anchor,Anchor,31,Balloon,1.1666666666666667,1.0,1.0833333333333335,2.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1807,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),wine glass,Wine glass,32,Goblet,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,5.0
+1808,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),golf club,Golf club,33,Plunger,1.0,2.0,1.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0
+1809,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),owl,Owl,34,Bow tie - Owl,1.5,1.0,1.25,1.0,2.0,1.0,2.0,1.0,2.0,,1.0
+1810,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),owl face,Owl face,35,Bow tie - Owl,1.8333333333333333,2.0,1.9166666666666665,2.0,1.0,2.0,3.0,2.0,1.0,,2.0
+1811,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),anchor,Anchor,36,Broom,2.0,3.0,2.5,1.0,1.0,2.0,3.0,2.0,3.0,,3.0
+1812,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),stick figure,Stick figure,37,Clubs symbol,1.3333333333333333,2.0,1.6666666666666665,1.0,1.0,1.0,2.0,2.0,1.0,,2.0
+1813,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),clover,Clover,38,Clubs symbol - Ice cream,1.0,3.0,2.0,1.0,1.0,1.0,1.0,,,,3.0
+1814,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),butterfly,Butterfly,39,Clubs symbol - Ice cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1815,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),rectangle,Rectangle,40,Mug,2.2,1.0,1.6,2.0,1.0,3.0,2.0,3.0,,,1.0
+1816,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),coffee mug,Coffee mug,41,Mug,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1817,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),tic-tac-toe,Tic-tac-toe,42,Window - Grid,2.3333333333333335,2.0,2.166666666666667,3.0,2.0,4.0,3.0,1.0,1.0,,2.0
+1818,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),power symbol,Power symbol,43,Mouse,2.2,1.0,1.6,1.0,2.0,3.0,4.0,1.0,,,1.0
+1819,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),dollar sign,Dollar sign,44,Computer Mouse,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,2.0,1.0,1.0,1.0,,1.0
+1820,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),clock,clock,45,Clock,4.666666666666667,5.0,4.833333333333334,5.0,4.0,5.0,4.0,5.0,5.0,,5.0
+1821,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),number 8,number 8,46,Lightbulb - Ice Cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1822,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),anchor,Anchor,47,Computer Mouse,1.5,1.0,1.25,1.0,2.0,1.0,1.0,3.0,1.0,,1.0
+1823,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),capital t,Capital T,48,Letter T,4.75,5.0,4.875,4.0,5.0,5.0,5.0,,,,5.0
+1824,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),owl face,Owl face,49,Heart,1.2,1.0,1.1,1.0,1.0,2.0,1.0,1.0,,,1.0
+1825,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),anchor,Anchor,50,Stick Figure,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
+1826,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),key,Key,51,Television,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1827,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),capital f,Capital F,52,Letter F,4.6,5.0,4.8,4.0,5.0,5.0,4.0,5.0,,,5.0
+1828,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),key,Key,53,Sailboat,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,2.0,1.0,1.0,1.0,,1.0
+1829,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),fishing hook,Fishing hook,54,Music Note,1.2,3.0,2.1,2.0,1.0,1.0,1.0,1.0,,,3.0
+1830,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),table lamp,Table lamp,55,Yield Sign - Martini Glass,3.1666666666666665,4.0,3.583333333333333,2.0,2.0,4.0,3.0,5.0,3.0,,4.0
+1831,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),letter k,letter k,56,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1832,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),letter z,Letter Z,57,Hourglass,1.75,1.0,1.375,1.0,2.0,3.0,1.0,,,,1.0
+1833,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1834,OpenAI: o3 w/ GPT-image-1 - Multiple Context - High Reasoning (2025-07-24),house,House,59,Pine tree,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,1.0,1.0,2.0,2.0,,1.0
+1835,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
+1836,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
+1837,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),eyeglasses,Eyeglasses,3,Glasses,2.0,5.0,3.5,2.0,2.0,3.0,1.0,2.0,,,5.0
+1838,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),glasses,Glasses,4,Glasses,1.8333333333333333,4.0,2.9166666666666665,1.0,3.0,1.0,3.0,2.0,1.0,,4.0
+1839,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),eyeglasses,Eyeglasses,5,Glasses,2.2,5.0,3.6,3.0,2.0,2.0,1.0,3.0,,,5.0
+1840,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),owl,Owl,6,Glasses,1.5,3.0,2.25,3.0,2.0,1.0,1.0,1.0,1.0,,3.0
+1841,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),pine tree,Pine tree,7,Pine Tree,3.0,5.0,4.0,2.0,2.0,4.0,3.0,4.0,,,5.0
+1842,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),butterfly,Butterfly,8,Butterfly,3.3333333333333335,5.0,4.166666666666667,3.0,3.0,5.0,3.0,4.0,2.0,,5.0
+1843,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),butterfly,Butterfly,9,Butterfly,3.2,5.0,4.1,2.0,4.0,1.0,5.0,4.0,,,5.0
+1844,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),hair comb,Hair comb,10,Comb - Pitchfork,1.8,4.0,2.9,1.0,2.0,3.0,2.0,1.0,,,4.0
+1845,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),trident,Trident,11,Comb - Pitchfork,4.5,5.0,4.75,4.0,5.0,5.0,3.0,5.0,5.0,,5.0
+1846,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),wine glass,Wine glass,12,Goblet,4.833333333333333,5.0,4.916666666666666,5.0,4.0,5.0,5.0,5.0,5.0,,5.0
+1847,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),letter t,Letter T,13,Goblet,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1848,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),horseshoe magnet,Horseshoe magnet,14,Computer Mouse,1.3333333333333333,3.0,2.1666666666666665,1.0,1.0,1.0,1.0,1.0,3.0,,3.0
+1849,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),house,house,15,House,3.6666666666666665,4.0,3.833333333333333,3.0,5.0,4.0,3.0,3.0,4.0,,4.0
+1850,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),house,House,60,House,3.5,5.0,4.25,4.0,4.0,4.0,2.0,4.0,3.0,,5.0
+1851,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),ice cream,Ice cream,16,Ice cream,4.8,5.0,4.9,5.0,5.0,5.0,4.0,5.0,,,5.0
+1852,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),shield,Shield,17,Ice cream,1.5,4.0,2.75,1.0,1.0,2.0,1.0,2.0,2.0,,4.0
+1853,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),keyhole,keyhole,18,Ice cream,1.5714285714285714,2.0,1.7857142857142856,1.0,1.0,3.0,2.0,2.0,1.0,1.0,2.0
+1854,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),keyhole,Keyhole,20,Crystal ball - Person Outline,2.0,2.0,2.0,2.0,4.0,1.0,1.0,2.0,2.0,,2.0
+1855,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),snowman,Snowman,21,Crystal ball - Person Outline,2.1666666666666665,3.0,2.583333333333333,2.0,4.0,2.0,2.0,1.0,2.0,,3.0
+1856,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),fish,Fish,22,Fish,1.8333333333333333,4.0,2.9166666666666665,2.0,3.0,1.0,2.0,1.0,2.0,,4.0
+1857,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),magnifying glass,Magnifying glass,23,Lollipop,2.5714285714285716,3.0,2.7857142857142856,1.0,3.0,2.0,4.0,1.0,3.0,4.0,3.0
+1858,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),hammer,Hammer,24,Chair,1.3333333333333333,2.0,1.6666666666666665,1.0,1.0,3.0,1.0,1.0,1.0,,2.0
+1859,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),chair,Chair,25,Chair,3.2857142857142856,5.0,4.142857142857142,2.0,4.0,4.0,2.0,4.0,4.0,3.0,5.0
+1860,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),arrow,Arrow,26,Flag,1.8333333333333333,3.0,2.4166666666666665,3.0,1.0,1.0,2.0,3.0,1.0,,3.0
+1861,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),door frame,Door frame,27,Door,3.8,5.0,4.4,3.0,5.0,2.0,4.0,5.0,,,5.0
+1862,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),binoculars,Binoculars,28,Glasses,2.0,4.0,3.0,1.0,2.0,3.0,2.0,2.0,,,4.0
+1863,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),anchor,Anchor,29,Shovel,2.3333333333333335,3.0,2.666666666666667,1.0,1.0,2.0,4.0,5.0,1.0,,3.0
+1864,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),hd icon,HD icon,30,Fish bones,3.2,1.0,2.1,2.0,3.0,5.0,2.0,4.0,,,1.0
+1865,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),anchor,Anchor,31,Balloon,1.1666666666666667,1.0,1.0833333333333335,2.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1866,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),wine glass,Wine glass,32,Goblet,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,5.0
+1867,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),power button,Power button,33,Plunger,1.5714285714285714,2.0,1.7857142857142856,3.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0
+1868,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),eyeglasses,Eyeglasses,34,Bow tie - Owl,2.2,2.0,2.1,2.0,2.0,2.0,1.0,4.0,,,2.0
+1869,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),owl face,owl face,35,Bow tie - Owl,1.8333333333333333,2.0,1.9166666666666665,2.0,1.0,2.0,3.0,2.0,1.0,,2.0
+1870,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),tuning fork,tuning fork,36,Broom,2.8333333333333335,4.0,3.416666666666667,4.0,4.0,2.0,3.0,2.0,2.0,,4.0
+1871,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),stick figure,stick figure,37,Clubs symbol,1.3333333333333333,2.0,1.6666666666666665,1.0,1.0,1.0,2.0,2.0,1.0,,2.0
+1872,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),shamrock,Shamrock,38,Clubs symbol - Ice cream,1.8333333333333333,2.0,1.9166666666666665,2.0,1.0,1.0,3.0,3.0,1.0,,2.0
+1873,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),owl face,Owl face,39,Clubs symbol - Ice cream,1.75,2.0,1.875,2.0,1.0,2.0,2.0,,,,2.0
+1874,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),coffee mug,Coffee mug,40,Mug,4.142857142857143,5.0,4.571428571428571,4.0,5.0,3.0,5.0,2.0,5.0,5.0,5.0
+1875,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),door,Door,41,Mug,1.0,2.0,1.5,1.0,1.0,1.0,1.0,1.0,1.0,,2.0
+1876,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),grid,Grid,42,Window - Grid,4.0,5.0,4.5,4.0,5.0,5.0,4.0,3.0,3.0,,5.0
+1877,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),power button,Power button,43,Mouse,2.8333333333333335,1.0,1.9166666666666667,4.0,3.0,2.0,3.0,2.0,3.0,,1.0
+1878,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),dollar sign,Dollar sign,44,Computer Mouse,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,2.0,1.0,1.0,1.0,,1.0
+1879,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),magnifying glass,Magnifying glass,45,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1880,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),number 8,number 8,46,Lightbulb - Ice Cream,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0
+1881,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),dollar sign,Dollar sign,47,Computer Mouse,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,2.0,1.0,2.0,1.0,,1.0
+1882,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),inverted t,Inverted T,48,Letter T,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,3.0,1.0,1.0,1.0,,1.0
+1883,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),owl,Owl,49,Heart,1.1428571428571428,1.0,1.0714285714285714,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0
+1884,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),stick figure,Stick figure,50,Stick Figure,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,5.0,5.0,4.0,,5.0
+1885,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),wheelbarrow,Wheelbarrow,51,Television,1.1666666666666667,1.0,1.0833333333333335,1.0,1.0,1.0,2.0,1.0,1.0,,1.0
+1886,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),letter f,Letter F,52,Letter F,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+1887,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),sailboat,Sailboat,53,Sailboat,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1888,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),treble clef,Treble clef,54,Music Note,2.6,1.0,1.8,3.0,1.0,1.0,4.0,4.0,,,1.0
+1889,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),down arrow,Down arrow,55,Yield Sign - Martini Glass,1.2,2.0,1.6,1.0,1.0,1.0,1.0,2.0,,,2.0
+1890,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),letter k,letter k,56,Clock,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0
+1891,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),capital z,Capital Z,57,Hourglass,1.4,1.0,1.2,2.0,1.0,1.0,1.0,2.0,,,1.0
+1892,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),umbrella,Umbrella,58,Umbrella,4.833333333333333,5.0,4.916666666666666,5.0,5.0,5.0,4.0,5.0,5.0,,5.0
+1893,OpenAI: o3 w/ GPT-image-1 - Multiple Context - Med Reasoning (2025-07-14),house,House,59,Pine tree,1.3333333333333333,1.0,1.1666666666666665,1.0,1.0,1.0,1.0,2.0,2.0,,1.0
 1894,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),ladder,Ladder,1,Ladder,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,5.0
 1895,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),ladder,Ladder,2,Ladder,4.5,5.0,4.75,5.0,4.0,4.0,5.0,4.0,5.0,,5.0
 1896,OpenAI: o4-mini - Multiple Context - High Reasoning (2025-07-21),glasses,Glasses,3,Glasses,2.8333333333333335,5.0,3.916666666666667,2.0,2.0,4.0,2.0,5.0,2.0,,5.0
