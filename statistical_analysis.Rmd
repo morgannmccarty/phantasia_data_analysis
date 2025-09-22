@@ -392,7 +392,7 @@ finke_data <- data.frame(
   model = c("Humans", "o3", "o3-GPT-Image",
             "o3-Pro", "GPT-4.1", "GPT-4.1-GPT-Image",
             "ChatGPT-4o", "o4-mini", "Gemini-2.5",
-            "Gemini-2.0-Flash", "Gemini-2.0-Flash-GPT-Image",
+            "Gemini-2.0-Flash", "Gemini-2.0-Flash-Images",
             "Sonnet-4", "Opus-4.1", "GPT-5"),
   score = c(humans_finke_score, o3_finke_score, o3_images_finke_score,
             o3_pro_finke_score, gpt4_1_finke_score, gpt4_1_images_finke_score,
@@ -403,7 +403,11 @@ finke_data <- data.frame(
                 o3_pro_finke_max_score, gpt4_1_finke_max_score, gpt4_1_images_finke_max_score,
                 chatgpt_4o_finke_max_score, o4_mini_finke_max_score, gemini2_5_finke_max_score,
                 gemini2_0_flash_finke_max_score, gemini2_0_flash_images_finke_max_score,
-                sonnet4_finke_max_score, opus4_1_finke_max_score, gpt5_finke_max_score)
+                sonnet4_finke_max_score, opus4_1_finke_max_score, gpt5_finke_max_score),
+  color = c("red", "blue", "blue",
+            "blue", "blue", "blue",
+            "blue", "blue", "green",
+            "green", "green", "purple", "purple", "blue")
 )
 
 # Calculate proportions from correct/total
@@ -414,7 +418,7 @@ novel_data <- data.frame(
   model = c("Humans", "o3", "o3-GPT-Image",
             "o3-Pro", "GPT-4.1", "GPT-4.1-GPT-Image",
             "ChatGPT-4o", "o4-mini", "Gemini-2.5",
-            "Gemini-2.0-Flash", "Gemini-2.0-Flash-GPT-Image",
+            "Gemini-2.0-Flash", "Gemini-2.0-Flash-Images",
             "Sonnet-4", "Opus-4.1", "GPT-5"),
   score = c(humans_novel_score, o3_novel_score, o3_images_novel_score,
             o3_pro_novel_score, gpt4_1_novel_score, gpt4_1_images_novel_score,
@@ -425,7 +429,11 @@ novel_data <- data.frame(
                 o3_pro_novel_max_score, gpt4_1_novel_max_score, gpt4_1_images_novel_max_score,
                 chatgpt_4o_novel_max_score, o4_mini_novel_max_score, gemini2_5_novel_max_score,
                 gemini2_0_flash_novel_max_score, gemini2_0_flash_images_novel_max_score,
-                sonnet4_novel_max_score, opus4_1_novel_max_score, gpt5_novel_max_score)
+                sonnet4_novel_max_score, opus4_1_novel_max_score, gpt5_novel_max_score),
+  color = c("red", "blue", "blue",
+            "blue", "blue", "blue",
+            "blue", "blue", "green",
+            "green", "green", "purple", "purple", "blue")
 
 )
 
@@ -440,7 +448,7 @@ collapsed_data <- data.frame(
   model = c("Humans", "o3", "o3-GPT-Image",
             "o3-Pro", "GPT-4.1", "GPT-4.1-GPT-Image",
             "ChatGPT-4o", "o4-mini", "Gemini-2.5",
-            "Gemini-2.0-Flash", "Gemini-2.0-Flash-GPT-Image",
+            "Gemini-2.0-Flash", "Gemini-2.0-Flash-Images",
             "Sonnet-4", "Opus-4.1", "GPT-5"),
   score = c(humans_total_score, o3_total_score, o3_images_total_score,
             o3_pro_total_score, gpt4_1_total_score, gpt4_1_images_total_score,
@@ -451,7 +459,11 @@ collapsed_data <- data.frame(
                 o3_pro_total_max_score, gpt4_1_total_max_score, gpt4_1_images_total_max_score,
                 chatgpt_4o_total_max_score, o4_mini_total_max_score, gemini2_5_total_max_score,
                 gemini2_0_flash_total_max_score, gemini2_0_flash_images_total_max_score,
-                sonnet4_total_max_score, opus4_1_total_max_score, gpt5_total_max_score)
+                sonnet4_total_max_score, opus4_1_total_max_score, gpt5_total_max_score),
+  color = c("red", "blue", "blue",
+            "blue", "blue", "blue",
+            "blue", "blue", "green",
+            "green", "green", "purple", "purple", "blue")
 )
 
 # Calculate proportions from correct/total
@@ -464,20 +476,24 @@ collapsed_data$proportion <- collapsed_data$score / collapsed_data$max_score
 # Prepare data for reasoning variations analysis
 finke_reasoning_data <- data.frame(
   model = c("Humans", "o3-High", "o3-Medium",
-            "o3-Low", 'GPT-5-High',
+            "o3-Low", 'GPT-5-High', 'o3-Pro',
             "GPT-5-Medium", "GPT-5-Low", "GPT-5-Minimal",
             "o4-mini-High", "o4-mini-Medium", "o3-GPT-Image-High",
             "o3-GPT-Image-Medium"),
   score = c(humans_finke_score, o3_finke_score, medium_o3_finke_score,
-            low_o3_finke_score,
-            gpt5_finke_score, medium_gpt5_finke_score, low_gpt5_finke_score,
-            minimal_gpt5_finke_score, o4_mini_finke_score, medium_o4_mini_finke_score,
-            o3_images_finke_score, medium_o3_images_finke_score),
+            low_o3_finke_score, gpt5_finke_score, o3_pro_finke_score,
+            medium_gpt5_finke_score, low_gpt5_finke_score, minimal_gpt5_finke_score,
+            o4_mini_finke_score, medium_o4_mini_finke_score, o3_images_finke_score,
+            medium_o3_images_finke_score),
   max_score = c(humans_finke_max_score, o3_finke_max_score, medium_o3_finke_max_score,
-                low_o3_finke_max_score,
-                gpt5_finke_max_score, medium_gpt5_finke_max_score, low_gpt5_finke_max_score,
-                minimal_gpt5_finke_max_score, o4_mini_finke_max_score, medium_o4_mini_finke_max_score,
-                o3_images_finke_max_score, medium_o3_images_finke_max_score)
+                low_o3_finke_max_score, gpt5_finke_max_score, o3_pro_finke_max_score,
+                medium_gpt5_finke_max_score, low_gpt5_finke_max_score,
+                minimal_gpt5_finke_max_score, o4_mini_finke_max_score, medium_o4_mini_finke_max_score, o3_images_finke_max_score,
+                medium_o3_images_finke_max_score),
+  color = c("red", "darkorchid", "deepskyblue",
+            "goldenrod", "darkorchid", "darkorchid",
+            "deepskyblue", "goldenrod",
+            "darkseagreen", "darkorchid", "deepskyblue", "darkorchid", "deepskyblue")
 )
 
 # Calculate proportions from score/max_score
@@ -487,20 +503,24 @@ finke_reasoning_data$proportion <- finke_reasoning_data$score / finke_reasoning_
 ```{r novel_reasoning_dataframe}
 novel_reasoning_data <- data.frame(
   model = c("Humans", "o3-High", "o3-Medium",
-            "o3-Low", 'GPT-5-High',
+            "o3-Low", 'GPT-5-High', 'o3-Pro',
             "GPT-5-Medium", "GPT-5-Low", "GPT-5-Minimal",
             "o4-mini-High", "o4-mini-Medium", "o3-GPT-Image-High",
             "o3-GPT-Image-Medium"),
   score = c(humans_novel_score, o3_novel_score, medium_o3_novel_score,
             low_o3_novel_score,
-            gpt5_novel_score, medium_gpt5_novel_score, low_gpt5_novel_score,
+            gpt5_novel_score, medium_gpt5_novel_score, o3_pro_novel_score, low_gpt5_novel_score,
             minimal_gpt5_novel_score, o4_mini_novel_score, medium_o4_mini_novel_score,
             o3_images_novel_score, medium_o3_images_novel_score),
   max_score = c(humans_novel_max_score, o3_novel_max_score, medium_o3_novel_max_score,
                 low_o3_novel_max_score,
-                gpt5_novel_max_score, medium_gpt5_novel_max_score, low_gpt5_novel_max_score,
+                gpt5_novel_max_score, medium_gpt5_novel_max_score, o3_pro_novel_max_score, low_gpt5_novel_max_score,
                 minimal_gpt5_novel_max_score, o4_mini_novel_max_score, medium_o4_mini_novel_max_score,
-                o3_images_novel_max_score, medium_o3_images_novel_max_score)
+                o3_images_novel_max_score, medium_o3_images_novel_max_score),
+  color = c("red", "darkorchid", "deepskyblue",
+            "goldenrod", "darkorchid", "darkorchid",
+            "deepskyblue", "goldenrod",
+            "darkseagreen", "darkorchid", "deepskyblue", "darkorchid", "deepskyblue")
 )
 # Calculate proportions from score/max_score
 novel_reasoning_data$proportion <- novel_reasoning_data$score / novel_reasoning_data$max_score
@@ -509,20 +529,24 @@ novel_reasoning_data$proportion <- novel_reasoning_data$score / novel_reasoning_
 ```{r collapsed_reasoning_dataframe}
 collapsed_reasoning_data <- data.frame(
   model = c("Humans", "o3-High", "o3-Medium",
-            "o3-Low", 'GPT-5-High',
+            "o3-Low", 'GPT-5-High', 'o3-Pro',
             "GPT-5-Medium", "GPT-5-Low", "GPT-5-Minimal",
             "o4-mini-High", "o4-mini-Medium", "o3-GPT-Image-High",
             "o3-GPT-Image-Medium"),
   score = c(humans_total_score, o3_total_score, medium_o3_total_score,
             low_o3_total_score,
-            gpt5_total_score, medium_gpt5_total_score, low_gpt5_total_score,
+            gpt5_total_score, o3_pro_total_score, medium_gpt5_total_score, low_gpt5_total_score,
             minimal_gpt5_total_score, o4_mini_total_score, medium_o4_mini_total_score,
             o3_images_total_score, medium_o3_images_total_score),
   max_score = c(humans_total_max_score, o3_total_max_score, medium_o3_total_max_score,
                 low_o3_total_max_score,
-                gpt5_total_max_score, medium_gpt5_total_max_score, low_gpt5_total_max_score,
+                gpt5_total_max_score, o3_pro_total_max_score, medium_gpt5_total_max_score, low_gpt5_total_max_score,
                 minimal_gpt5_total_max_score, o4_mini_total_max_score, medium_o4_mini_total_max_score,
-                o3_images_total_max_score, medium_o3_images_total_max_score)
+                o3_images_total_max_score, medium_o3_images_total_max_score),
+  color = c("red", "darkorchid", "deepskyblue",
+            "goldenrod", "darkorchid", "darkorchid",
+            "deepskyblue", "goldenrod",
+            "darkseagreen", "darkorchid", "deepskyblue", "darkorchid", "deepskyblue")
 )
 # Calculate proportions from score/max_score
 collapsed_reasoning_data$proportion <- collapsed_reasoning_data$score / collapsed_reasoning_data$max_score
@@ -1072,7 +1096,7 @@ finke_plot <- ggplot(finke_data, aes(x = reorder(model, proportion), y = proport
   theme_minimal() +
   labs(title = "Finke et al. Tasks - Proportions with 95% CI",
        x = "Model",
-       y = "Proportion Correct") +
+       y = "Proportion of Max Score") +
   theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"))
 
 # Plot 2: Proportions with confidence intervals for 48 Novel tasks
@@ -1085,7 +1109,7 @@ novel_48_plot <- ggplot(novel_data, aes(x = reorder(model, proportion), y = prop
   theme_minimal() +
   labs(title = "48 Novel Tasks - Proportions with 95% CI",
        x = "Model",
-       y = "Proportion Correct") +
+       y = "Proportion of Max Score") +
   theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"))
 
 # Combine plots
@@ -1282,18 +1306,28 @@ if (nrow(collapsed_sig) > 0) {
 ```{r collapsed_visualization, fig.width=10, fig.height=6}
 # Plot proportions with confidence intervals for collapsed data
 collapsed_plot <- ggplot(collapsed_data, aes(x = reorder(model, proportion), y = proportion)) +
-  geom_point(size = 4, color = "darkred") +
+  geom_point(aes(color = color), size = 4) +
   geom_errorbar(aes(ymin = proportion - 1.96 * sqrt(proportion * (1 - proportion) / max_score),
-                    ymax = proportion + 1.96 * sqrt(proportion * (1 - proportion) / max_score)),
-                width = 0.2, size = 1, color = "darkred") +
+                    ymax = proportion + 1.96 * sqrt(proportion * (1 - proportion) / max_score),
+                    color = color),
+                width = 0.2, size = 1) +
   coord_flip() +
   theme_minimal() +
   labs(title = "Collapsed Data (Finke + 48 Novel) - Proportions with 95% CI",
        x = "Model",
-       y = "Proportion Correct") +
-  theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"))
+       y = "Proportion of Max Score") +
+  theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold")) +
+  scale_color_manual(
+    values = c("blue", "green", "purple", "red"),
+    name   = element_blank(),
+    breaks = c("blue", "green", "purple", "red"),
+    labels = c("OpenAI", "Gemini", "Claude", "Human Baseline")
+  )
 
 print(collapsed_plot)
+
+```
+```{r comparison_plot, fig.width=10, fig.height=6}
 
 # Create a comparison plot showing all three datasets
 
@@ -1308,7 +1342,7 @@ comparison_plot <- ggplot(comparison_data, aes(x = model, y = proportion, fill =
   theme_minimal() +
   labs(title = "Comparison Across All Datasets",
        x = "Model",
-       y = "Proportion Correct",
+       y = "Proportion of Max Score",
        fill = "Dataset") +
   theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
         axis.text.x = element_text(angle = 45, hjust = 1))
@@ -1413,7 +1447,7 @@ finke_reasoning_plot <- ggplot(finke_reasoning_data, aes(x = reorder(model, prop
   theme_minimal() +
   labs(title = "Finke Reasoning Variations - Proportions with 95% CI",
        x = "Model",
-       y = "Proportion Correct") +
+       y = "Proportion of Max Score") +
   theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"))
 print(finke_reasoning_plot)
 ```
@@ -1528,7 +1562,7 @@ novel_48_reasoning_plot <- ggplot(novel_reasoning_data, aes(x = reorder(model, p
   theme_minimal() +
   labs(title = "48 Novel Reasoning Variations - Proportions with 95% CI",
        x = "Model",
-       y = "Proportion Correct") +
+       y = "Proportion of Max Score") +
   theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"))
 print(novel_48_reasoning_plot)
 ```
@@ -1649,16 +1683,24 @@ if (nrow(combined_reasoning_sig) > 0) {
 ```{r reasoning_variation_combined_visualization, fig.width=10, fig.height=6}
 # Plot proportions with confidence intervals for combined reasoning variations
 combined_reasoning_plot <- ggplot(collapsed_reasoning_data, aes(x = reorder(model, proportion), y = proportion)) +
-  geom_point(size = 4, color = "darkgreen") +
+  geom_point(size = 4, aes(color = color)) +
   geom_errorbar(aes(ymin = proportion - 1.96 * sqrt(proportion * (1 - proportion) / max_score),
-                    ymax = proportion + 1.96 * sqrt(proportion * (1 - proportion) / max_score)),
-                width = 0.2, size = 1, color = "darkgreen") +
+                    ymax = proportion + 1.96 * sqrt(proportion * (1 - proportion) / max_score),
+                    color = color),
+                width = 0.2, size = 1) +
   coord_flip() +
   theme_minimal() +
-  labs(title = "Combined Reasoning Variations - Proportions with 95% CI",
+  labs(title = "Collapsed Data (Finke + 48) - Reasoning Variations - Proportions with 95% CI",
        x = "Model",
-       y = "Proportion Correct") +
-  theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"))
+       y = "Proportion of Max Score") +
+  theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold")) +
+  scale_color_manual(
+    values = c("darkorchid", "deepskyblue", "goldenrod", "darkseagreen", "red"),
+    name   = "Reasoning Level",
+    breaks = c("darkorchid", "deepskyblue", "goldenrod", "darkseagreen", "red"),
+    labels = c("High", "Medium", "Low", "Minimal", "Human Baseline")
+  )
+
 print(combined_reasoning_plot)
 ```
 
