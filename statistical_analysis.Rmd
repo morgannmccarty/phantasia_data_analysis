@@ -2,7 +2,7 @@
 title: "Artificial Phantasia: Evidence for Propositional Reasoning-Based Mental Imagery Within Large Language Models"
 author: "Anonymous Authors"
 date: "September 23, 2025"
-output: html_document
+output: pdf_document
 ---
 
 ## Summary

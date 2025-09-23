@@ -9,9 +9,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Author" />
+<meta name="author" content="Anonymous Authors" />
 
-<meta name="date" content="2025-08-28" />
+<meta name="date" content="2025-09-23" />
 
 <title>Artificial Phantasia: Evidence for Propositional Reasoning-Based Mental Imagery Within Large Language Models</title>
 
@@ -353,8 +353,8 @@ display: none;
 <h1 class="title toc-ignore">Artificial Phantasia: Evidence for
 Propositional Reasoning-Based Mental Imagery Within Large Language
 Models</h1>
-<h4 class="author">Author</h4>
-<h4 class="date">August 28, 2025</h4>
+<h4 class="author">Anonymous Authors</h4>
+<h4 class="date">September 23, 2025</h4>
 
 </div>
 
@@ -365,6 +365,8 @@ Models</h1>
 Names Removed for Anonymized Peer Review]. <em>Artificial Phantasia:
 Evidence for Propositional Reasoning-Based Mental Imagery Within Large
 Language Models</em>.</p>
+<p>Please use the provided Conda environment .yml file to set up an
+appropriate R environment to run this R markdown file.</p>
 <pre class="r"><code>llm_data_finke &lt;- read.csv(&quot;output_csvs/llm_graded_results_finke.csv&quot;)
 llm_data_novel &lt;- read.csv(&quot;output_csvs/llm_graded_results_novel.csv&quot;)
 
@@ -1222,7 +1224,7 @@ test_all_combinations &lt;- function(data, task_name) {
 </div>
 <div id="aphant-vs-humans-and-models---all-pairwise-comparisons" class="section level2">
 <h2>Aphant vs Humans and Models - All Pairwise Comparisons</h2>
-<pre class="r"><code># Test all combinations for Aphant vs Humans and Models
+<pre class="r"><code># Test all combinations for Aphant vs Humans and Models (results not included in paper)
 aphant_results &lt;- test_all_combinations(aphant_collapsed_data, &quot;Aphant vs Humans and Models&quot;)
 # Display results
 cat(&quot;All Pairwise Comparisons for Aphant vs Humans and Models:\n&quot;)</code></pre>
@@ -10931,7 +10933,9 @@ if (nrow(combined_reasoning_sig) &gt; 0) {
 <div id="export-results-to-csv" class="section level2">
 <h2>Export Results to CSV</h2>
 <pre class="r"><code># Combine all results
-all_results &lt;- rbind(finke_results, novel_48_results)
+all_results &lt;- rbind(finke_results, novel_48_results, collapsed_results,
+                     finke_reasoning_results, novel_48_reasoning_results,
+                     combined_reasoning_results)
 
 # Export to CSV
 write.csv(all_results, &quot;statistical_results/proportion_test_results.csv&quot;, row.names = FALSE)
