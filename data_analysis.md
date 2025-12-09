@@ -1253,9 +1253,177 @@ llm_data
       <td>Umbrella</td>
       <td>Sailboat</td>
     </tr>
+    <tr>
+      <th>36</th>
+      <td>DeepSeek: R1 0528 - Multiple Context (2025-11-20)</td>
+      <td>ladder</td>
+      <td>ladder</td>
+      <td>Scale Hourglass</td>
+      <td>eyeglasses</td>
+      <td>Fused circle</td>
+      <td>Spectacles frame</td>
+      <td>Bow tie</td>
+      <td>Binder clip</td>
+      <td>Stone archway</td>
+      <td>...</td>
+      <td>Balloon man</td>
+      <td>Key</td>
+      <td>capital F</td>
+      <td>sailboat</td>
+      <td>golf club</td>
+      <td>Martini Glass</td>
+      <td>Drawer pull</td>
+      <td>hourglass</td>
+      <td>key</td>
+      <td>rocket</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>DeepMind: Gemini 3 Pro - High Reasoning - 0.1 ...</td>
+      <td>ladder</td>
+      <td>Ladder</td>
+      <td>Cherries</td>
+      <td>Glasses</td>
+      <td>Glasses</td>
+      <td>Glasses</td>
+      <td>Pine tree</td>
+      <td>Butterfly</td>
+      <td>Rabbit</td>
+      <td>...</td>
+      <td>Stick figure</td>
+      <td>TV</td>
+      <td>Letter F</td>
+      <td>Sailboat</td>
+      <td>Skeleton key</td>
+      <td>Martini glass</td>
+      <td>Clock</td>
+      <td>Hourglass</td>
+      <td>umbrella</td>
+      <td>Pine tree</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>DeepMind: Gemini 3 Pro - High Reasoning - 0.55...</td>
+      <td>ladder</td>
+      <td>Ladder</td>
+      <td>bed</td>
+      <td>Butterfly</td>
+      <td>Glasses</td>
+      <td>Glasses</td>
+      <td>Pine tree</td>
+      <td>Butterfly</td>
+      <td>Butterfly</td>
+      <td>...</td>
+      <td>Stick figure</td>
+      <td>TV</td>
+      <td>Letter F</td>
+      <td>Sailboat</td>
+      <td>Sixteenth note</td>
+      <td>Martini glass</td>
+      <td>Power button</td>
+      <td>Hourglass</td>
+      <td>umbrella</td>
+      <td>Pine tree</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>DeepMind: Gemini 3 Pro - High Reasoning - 1.0 ...</td>
+      <td>ladder</td>
+      <td>Ladder</td>
+      <td>bed</td>
+      <td>Glasses</td>
+      <td>Glasses</td>
+      <td>Round glasses</td>
+      <td>Pine tree</td>
+      <td>Scarab beetle</td>
+      <td>rabbit</td>
+      <td>...</td>
+      <td>Stick figure</td>
+      <td>Television</td>
+      <td>Letter F</td>
+      <td>Sailboat</td>
+      <td>Skeleton key</td>
+      <td>Martini glass</td>
+      <td>Clock</td>
+      <td>Hourglass</td>
+      <td>umbrella</td>
+      <td>Sailboat</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>Alibaba: Qwen 3 235b a22b Thinking 2507 - Mult...</td>
+      <td>Iron bars</td>
+      <td>ladder rungs</td>
+      <td>eyeglasses bridge</td>
+      <td>Hourglass</td>
+      <td>Greek beta</td>
+      <td>Horse blinders</td>
+      <td>Arrowhead</td>
+      <td>chain link</td>
+      <td>Hourglass seal</td>
+      <td>...</td>
+      <td>Drain cover</td>
+      <td>Circle cradle</td>
+      <td>Parking meter</td>
+      <td>Cradle snapped</td>
+      <td>Skeleton key</td>
+      <td>Radiation symbol</td>
+      <td>Roof gable</td>
+      <td>ski jump</td>
+      <td>Grapnel anchor</td>
+      <td>Ground rod</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>Alibaba: Qwen 3 VL 235b a22b Thinking - Multip...</td>
+      <td>Ladder section</td>
+      <td>ladder</td>
+      <td>glasses</td>
+      <td>Parentheses</td>
+      <td>dumbbell</td>
+      <td>Sunglasses</td>
+      <td>H</td>
+      <td>Crown hourglass</td>
+      <td>Crown symbol</td>
+      <td>...</td>
+      <td>Sprouting seed</td>
+      <td>Compass dial</td>
+      <td>plus sign</td>
+      <td>Cave entrance</td>
+      <td>fishing hook</td>
+      <td>Down arrow</td>
+      <td>Circular Pointer</td>
+      <td>capped diamond</td>
+      <td>hanger</td>
+      <td>Tent pole</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>OpenAI: gpt-oss-120b - High Reasoning - Multip...</td>
+      <td>Scaffolding tower</td>
+      <td>Roman numeral</td>
+      <td>Butterfly</td>
+      <td>Bow tie</td>
+      <td>handshake</td>
+      <td>Infinity antenna</td>
+      <td>Double‑headed arrow</td>
+      <td>spectacle frame</td>
+      <td>Butterfly</td>
+      <td>...</td>
+      <td>Lamp post</td>
+      <td>Logo emblem</td>
+      <td>Electric plug</td>
+      <td>Flag pole</td>
+      <td>Anchor symbol</td>
+      <td>Perpendicular arrow</td>
+      <td>Keyhole</td>
+      <td>Rotated X</td>
+      <td>anchor</td>
+      <td>Shelf bracket</td>
+    </tr>
   </tbody>
 </table>
-<p>36 rows × 61 columns</p>
+<p>43 rows × 61 columns</p>
 </div>
 
 
@@ -1417,7 +1585,9 @@ def tidy_block_scores(df: pd.DataFrame) -> pd.DataFrame:
 ```python
 crowdsourced_data_primary = pd.read_csv('input_csvs/human_response_ranking_data_primary.csv')
 crowdsourced_data_secondary = pd.read_csv('input_csvs/human_response_ranking_data_secondary.csv')
-crowdsourced_data = pd.concat([crowdsourced_data_primary, crowdsourced_data_secondary], join='outer', ignore_index=True)
+crowdsourced_data_rebuttal = pd.read_csv('input_csvs/human_response_ranking_data_rebuttal.csv')
+crowdsourced_data = pd.concat([crowdsourced_data_primary, crowdsourced_data_secondary, crowdsourced_data_rebuttal],
+                              join='outer', ignore_index=True)
 crowdsourced_data
 ```
 
@@ -1453,16 +1623,16 @@ crowdsourced_data
       <th>b1_q5_train track</th>
       <th>b1_q6_two squares</th>
       <th>...</th>
-      <th>b28_q1904_face with eyes</th>
-      <th>b29_q1905_mushroom</th>
-      <th>b32_q1906_table lamp</th>
-      <th>b37_q1907_3 leaf clover</th>
-      <th>b43_q1908_key</th>
-      <th>b44_q1909_question mark</th>
-      <th>b46_q1910_arch bridge</th>
-      <th>b55_q1911_Capital T</th>
-      <th>b57_q1912_Rotated grid</th>
-      <th>b55_q1913_Planted sword</th>
+      <th>b58_q199_key</th>
+      <th>b58_q200_grapnel anchor</th>
+      <th>b58_q201_hanger</th>
+      <th>b59_q202_ground rod</th>
+      <th>b59_q203_tent pole</th>
+      <th>b59_q204_shelf bracket</th>
+      <th>b60_q205_arrowhead</th>
+      <th>b60_q206_square pyramid</th>
+      <th>b60_q207_tiny house</th>
+      <th>b60_q208_house roof</th>
     </tr>
   </thead>
   <tbody>
@@ -1611,11 +1781,11 @@ crowdsourced_data
       <td>...</td>
     </tr>
     <tr>
-      <th>362</th>
-      <td>2025-09-18 14:22:07</td>
-      <td>R_1H76q55CMEtLRGy</td>
-      <td>anonymous</td>
+      <th>397</th>
       <td>NaN</td>
+      <td>R_5l0PQ7R2Gc02YVX</td>
+      <td>NaN</td>
+      <td>6600a119385d8631c41cd795</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
@@ -1629,17 +1799,41 @@ crowdsourced_data
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Moderately</td>
+    </tr>
+    <tr>
+      <th>398</th>
+      <td>NaN</td>
+      <td>R_5IaXHi87lMDEcVR</td>
+      <td>NaN</td>
+      <td>5f5ce7f940a2614f6cb6e747</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>...</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Not at all</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>363</th>
-      <td>2025-09-18 14:29:01</td>
-      <td>R_3CN209Tuuyv68ty</td>
-      <td>anonymous</td>
+      <th>399</th>
       <td>NaN</td>
+      <td>R_1KXrUiMaZHXW7jr</td>
+      <td>NaN</td>
+      <td>67edf0b51b5bd671db6a9372</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
@@ -1648,46 +1842,22 @@ crowdsourced_data
       <td>NaN</td>
       <td>...</td>
       <td>NaN</td>
+      <td>A little</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>A little</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>364</th>
-      <td>2025-09-18 14:47:16</td>
-      <td>R_7pgvy0k0EPrRvlT</td>
-      <td>anonymous</td>
+      <th>400</th>
       <td>NaN</td>
+      <td>R_7Y3ecJoLRja2Oxa</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>...</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>365</th>
-      <td>2025-09-18 14:51:10</td>
-      <td>R_3TaBks0sj7wDAm5</td>
-      <td>anonymous</td>
-      <td>NaN</td>
+      <td>5dd0b075c944d1174e6e3c5a</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
@@ -1695,32 +1865,7 @@ crowdsourced_data
       <td>NaN</td>
       <td>NaN</td>
       <td>...</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>Completely</td>
-    </tr>
-    <tr>
-      <th>366</th>
-      <td>2025-09-18 15:04:01</td>
-      <td>R_11AVUD0vk8t74Cu</td>
-      <td>anonymous</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>...</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>Not at all</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
@@ -1729,10 +1874,35 @@ crowdsourced_data
       <td>NaN</td>
       <td>A little</td>
       <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>401</th>
+      <td>NaN</td>
+      <td>R_68YvIJRbuJJlh6k</td>
+      <td>NaN</td>
+      <td>6770573e562e37a89d525a87</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>...</td>
+      <td>Not at all</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>A lot</td>
     </tr>
   </tbody>
 </table>
-<p>367 rows × 1923 columns</p>
+<p>402 rows × 2132 columns</p>
 </div>
 
 
@@ -1741,8 +1911,10 @@ crowdsourced_data
 ```python
 expert_crowdsourced_data_primary = pd.read_csv("input_csvs/expert_response_ranking_data_primary.csv")
 expert_crowdsourced_data_secondary = pd.read_csv("input_csvs/expert_response_ranking_data_secondary.csv")
-expert_crowdsourced_data = pd.concat([expert_crowdsourced_data_primary, expert_crowdsourced_data_secondary],
-                                     join='outer', ignore_index=True)
+expert_crowdsourced_data_rebuttal = pd.read_csv("input_csvs/expert_response_ranking_data_rebuttal.csv")
+expert_crowdsourced_data = pd.concat(
+    [expert_crowdsourced_data_primary, expert_crowdsourced_data_secondary, expert_crowdsourced_data_rebuttal],
+    join='outer', ignore_index=True)
 expert_crowdsourced_data
 ```
 
@@ -1778,16 +1950,16 @@ expert_crowdsourced_data
       <th>Metainfo_Resolution</th>
       <th>b1_q1_door knob</th>
       <th>...</th>
-      <th>b27_q1903_X</th>
-      <th>b28_q1904_face with eyes</th>
-      <th>b29_q1905_mushroom</th>
-      <th>b32_q1906_table lamp</th>
-      <th>b37_q1907_3 leaf clover</th>
-      <th>b43_q1908_key</th>
-      <th>b44_q1909_question mark</th>
-      <th>b46_q1910_arch bridge</th>
-      <th>b55_q1911_Capital T</th>
-      <th>b57_q1912_Rotated grid</th>
+      <th>b58_q199_key</th>
+      <th>b58_q200_grapnel anchor</th>
+      <th>b58_q201_hanger</th>
+      <th>b59_q202_ground rod</th>
+      <th>b59_q203_tent pole</th>
+      <th>b59_q204_shelf bracket</th>
+      <th>b60_q205_arrowhead</th>
+      <th>b60_q206_square pyramid</th>
+      <th>b60_q207_tiny house</th>
+      <th>b60_q208_house roof</th>
     </tr>
   </thead>
   <tbody>
@@ -1876,16 +2048,16 @@ expert_crowdsourced_data
       <td>NaN</td>
       <td>NaN</td>
       <td>...</td>
-      <td>Not at all</td>
-      <td>Moderately</td>
-      <td>Not at all</td>
-      <td>Completely</td>
-      <td>Completely</td>
-      <td>Not at all</td>
-      <td>Not at all</td>
-      <td>Not at all</td>
-      <td>Not at all</td>
-      <td>Not at all</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>4</th>
@@ -1924,20 +2096,68 @@ expert_crowdsourced_data
       <td>NaN</td>
       <td>NaN</td>
       <td>...</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>NaN</td>
+      <td>R_67eSmIK0G9W8iyg</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>E1_Expert_Reviewer</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>...</td>
+      <td>A little</td>
       <td>Not at all</td>
-      <td>A lot</td>
+      <td>Not at all</td>
+      <td>Not at all</td>
+      <td>Not at all</td>
+      <td>Not at all</td>
+      <td>A little</td>
       <td>Not at all</td>
       <td>Completely</td>
       <td>Completely</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>NaN</td>
+      <td>R_3VnHcEQ2fRGSQYF</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>E2_expert_rebuttal</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>...</td>
       <td>Not at all</td>
       <td>Not at all</td>
+      <td>A little</td>
+      <td>Not at all</td>
+      <td>A little</td>
+      <td>A little</td>
       <td>Not at all</td>
       <td>Not at all</td>
-      <td>Not at all</td>
+      <td>Completely</td>
+      <td>Moderately</td>
     </tr>
   </tbody>
 </table>
-<p>6 rows × 1927 columns</p>
+<p>8 rows × 2135 columns</p>
 </div>
 
 
@@ -2047,63 +2267,63 @@ tidy_crowdsourced_data
       <td>...</td>
     </tr>
     <tr>
-      <th>11005</th>
-      <td>R_7yOFgP0c0Kfd8aZ</td>
-      <td>b47</td>
-      <td>47</td>
-      <td>2</td>
-      <td>1118</td>
-      <td>musical clef</td>
+      <th>12055</th>
+      <td>R_7yipXFEi07M0alP</td>
+      <td>b48</td>
+      <td>48</td>
       <td>1</td>
-      <td>Not at all</td>
-    </tr>
-    <tr>
-      <th>11006</th>
-      <td>R_7yOFgP0c0Kfd8aZ</td>
-      <td>b53</td>
-      <td>53</td>
-      <td>1</td>
-      <td>1243</td>
-      <td>Boat</td>
+      <td>172</td>
+      <td>t shape</td>
       <td>5</td>
       <td>Completely</td>
     </tr>
     <tr>
-      <th>11007</th>
-      <td>R_7yOFgP0c0Kfd8aZ</td>
+      <th>12056</th>
+      <td>R_7yipXFEi07M0alP</td>
+      <td>b50</td>
+      <td>50</td>
+      <td>1</td>
+      <td>177</td>
+      <td>balloon man</td>
+      <td>2</td>
+      <td>A little</td>
+    </tr>
+    <tr>
+      <th>12057</th>
+      <td>R_7yipXFEi07M0alP</td>
       <td>b53</td>
       <td>53</td>
-      <td>2</td>
-      <td>1251</td>
-      <td>musical note</td>
+      <td>1</td>
+      <td>186</td>
+      <td>cave entrance</td>
       <td>1</td>
       <td>Not at all</td>
     </tr>
     <tr>
-      <th>11008</th>
-      <td>R_7yOFgP0c0Kfd8aZ</td>
+      <th>12058</th>
+      <td>R_7yipXFEi07M0alP</td>
+      <td>b54</td>
+      <td>54</td>
+      <td>1</td>
+      <td>189</td>
+      <td>anchor symbol</td>
+      <td>1</td>
+      <td>Not at all</td>
+    </tr>
+    <tr>
+      <th>12059</th>
+      <td>R_7yipXFEi07M0alP</td>
       <td>b56</td>
       <td>56</td>
       <td>1</td>
-      <td>1316</td>
-      <td>verified icon</td>
-      <td>1</td>
-      <td>Not at all</td>
-    </tr>
-    <tr>
-      <th>11009</th>
-      <td>R_7yOFgP0c0Kfd8aZ</td>
-      <td>b58</td>
-      <td>58</td>
-      <td>1</td>
-      <td>1341</td>
-      <td>fishing hook</td>
+      <td>192</td>
+      <td>drawer pull</td>
       <td>1</td>
       <td>Not at all</td>
     </tr>
   </tbody>
 </table>
-<p>11010 rows × 8 columns</p>
+<p>12060 rows × 8 columns</p>
 </div>
 
 
@@ -2213,7 +2433,7 @@ tidy_expert_data
       <td>...</td>
     </tr>
     <tr>
-      <th>3819</th>
+      <th>4235</th>
       <td>R_7EYGvtUpelTVayC</td>
       <td>b59</td>
       <td>59</td>
@@ -2224,7 +2444,7 @@ tidy_expert_data
       <td>Not at all</td>
     </tr>
     <tr>
-      <th>3820</th>
+      <th>4236</th>
       <td>R_7EYGvtUpelTVayC</td>
       <td>b59</td>
       <td>59</td>
@@ -2235,7 +2455,7 @@ tidy_expert_data
       <td>Not at all</td>
     </tr>
     <tr>
-      <th>3821</th>
+      <th>4237</th>
       <td>R_7EYGvtUpelTVayC</td>
       <td>b59</td>
       <td>59</td>
@@ -2246,7 +2466,7 @@ tidy_expert_data
       <td>A lot</td>
     </tr>
     <tr>
-      <th>3822</th>
+      <th>4238</th>
       <td>R_7EYGvtUpelTVayC</td>
       <td>b59</td>
       <td>59</td>
@@ -2257,7 +2477,7 @@ tidy_expert_data
       <td>Completely</td>
     </tr>
     <tr>
-      <th>3823</th>
+      <th>4239</th>
       <td>R_7EYGvtUpelTVayC</td>
       <td>b60</td>
       <td>60</td>
@@ -2269,7 +2489,7 @@ tidy_expert_data
     </tr>
   </tbody>
 </table>
-<p>3824 rows × 8 columns</p>
+<p>4240 rows × 8 columns</p>
 </div>
 
 
@@ -2668,7 +2888,7 @@ means_with_canon
       <td>...</td>
     </tr>
     <tr>
-      <th>1907</th>
+      <th>2115</th>
       <td>19</td>
       <td>387</td>
       <td>Computer Mouse</td>
@@ -2689,7 +2909,7 @@ means_with_canon
       <td>1.083333</td>
     </tr>
     <tr>
-      <th>1908</th>
+      <th>2116</th>
       <td>43</td>
       <td>1005</td>
       <td>Mouse</td>
@@ -2710,7 +2930,7 @@ means_with_canon
       <td>2.916667</td>
     </tr>
     <tr>
-      <th>1909</th>
+      <th>2117</th>
       <td>2</td>
       <td>17</td>
       <td>Ladder</td>
@@ -2731,7 +2951,7 @@ means_with_canon
       <td>3.000000</td>
     </tr>
     <tr>
-      <th>1910</th>
+      <th>2118</th>
       <td>57</td>
       <td>1337</td>
       <td>Hourglass</td>
@@ -2752,7 +2972,7 @@ means_with_canon
       <td>1.083333</td>
     </tr>
     <tr>
-      <th>1911</th>
+      <th>2119</th>
       <td>43</td>
       <td>1006</td>
       <td>Mouse</td>
@@ -2774,7 +2994,7 @@ means_with_canon
     </tr>
   </tbody>
 </table>
-<p>1912 rows × 18 columns</p>
+<p>2120 rows × 18 columns</p>
 </div>
 
 
@@ -6716,7 +6936,9 @@ def grade(responses_df, means_df, key_col, block_list=ALL_BLOCKS) -> tuple:
             result_list.append({key_col: key_val, "overall_score": average_total, "normal_score": normal_total,
                                 "expert_score": expert_total, "diff_normed_score": diff_normed_total,
                                 "n_graded": n_graded, "n_ungraded": n_ungraded,
-                                "n_total": n_total, "mean_score_per_item": average_total / n_total, "mean_diff_normed_score_per_item": diff_normed_total / n_total, "accumulated_difficulty": accumulated_difficulty})
+                                "n_total": n_total, "mean_score_per_item": average_total / n_total,
+                                "mean_diff_normed_score_per_item": diff_normed_total / n_total,
+                                "accumulated_difficulty": accumulated_difficulty})
     return pd.DataFrame(result_list), pd.DataFrame(full_results), pd.DataFrame(ungraded_results)
 ```
 
@@ -8430,6 +8652,104 @@ llm_graded_results_finke
       <td>0.971501</td>
       <td>7.095637</td>
     </tr>
+    <tr>
+      <th>36</th>
+      <td>DeepSeek: R1 0528 - Multiple Context (2025-11-20)</td>
+      <td>34.416667</td>
+      <td>32.833333</td>
+      <td>36.0</td>
+      <td>13.604522</td>
+      <td>12</td>
+      <td>0</td>
+      <td>12</td>
+      <td>2.868056</td>
+      <td>1.133710</td>
+      <td>7.095637</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>DeepMind: Gemini 3 Pro - High Reasoning - 0.1 ...</td>
+      <td>55.000000</td>
+      <td>52.000000</td>
+      <td>58.0</td>
+      <td>22.388009</td>
+      <td>12</td>
+      <td>0</td>
+      <td>12</td>
+      <td>4.583333</td>
+      <td>1.865667</td>
+      <td>7.095637</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>DeepMind: Gemini 3 Pro - High Reasoning - 0.55...</td>
+      <td>48.916667</td>
+      <td>44.833333</td>
+      <td>53.0</td>
+      <td>19.983447</td>
+      <td>12</td>
+      <td>0</td>
+      <td>12</td>
+      <td>4.076389</td>
+      <td>1.665287</td>
+      <td>7.095637</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>DeepMind: Gemini 3 Pro - High Reasoning - 1.0 ...</td>
+      <td>53.100000</td>
+      <td>50.700000</td>
+      <td>55.5</td>
+      <td>21.556337</td>
+      <td>12</td>
+      <td>0</td>
+      <td>12</td>
+      <td>4.425000</td>
+      <td>1.796361</td>
+      <td>7.095637</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>Alibaba: Qwen 3 235b a22b Thinking 2507 - Mult...</td>
+      <td>16.633333</td>
+      <td>17.766667</td>
+      <td>15.5</td>
+      <td>6.936936</td>
+      <td>12</td>
+      <td>0</td>
+      <td>12</td>
+      <td>1.386111</td>
+      <td>0.578078</td>
+      <td>7.095637</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>Alibaba: Qwen 3 VL 235b a22b Thinking - Multip...</td>
+      <td>20.350000</td>
+      <td>21.200000</td>
+      <td>19.5</td>
+      <td>8.365951</td>
+      <td>12</td>
+      <td>0</td>
+      <td>12</td>
+      <td>1.695833</td>
+      <td>0.697163</td>
+      <td>7.095637</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>OpenAI: gpt-oss-120b - High Reasoning - Multip...</td>
+      <td>19.800000</td>
+      <td>19.600000</td>
+      <td>20.0</td>
+      <td>8.093935</td>
+      <td>11</td>
+      <td>1</td>
+      <td>12</td>
+      <td>1.650000</td>
+      <td>0.674495</td>
+      <td>7.095637</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -8455,7 +8775,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-    LLM Finke task set mean score per item: 2.675485008818342
+    LLM Finke task set mean score per item: 2.720980989294943
 
 
 
@@ -9008,6 +9328,104 @@ llm_graded_results_novel
       <td>0.858147</td>
       <td>30.728026</td>
     </tr>
+    <tr>
+      <th>36</th>
+      <td>DeepSeek: R1 0528 - Multiple Context (2025-11-20)</td>
+      <td>82.483333</td>
+      <td>80.466667</td>
+      <td>84.5</td>
+      <td>30.721853</td>
+      <td>47</td>
+      <td>1</td>
+      <td>48</td>
+      <td>1.718403</td>
+      <td>0.640039</td>
+      <td>30.728026</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>DeepMind: Gemini 3 Pro - High Reasoning - 0.1 ...</td>
+      <td>165.005952</td>
+      <td>150.511905</td>
+      <td>179.5</td>
+      <td>61.720297</td>
+      <td>48</td>
+      <td>0</td>
+      <td>48</td>
+      <td>3.437624</td>
+      <td>1.285840</td>
+      <td>30.728026</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>DeepMind: Gemini 3 Pro - High Reasoning - 0.55...</td>
+      <td>163.319048</td>
+      <td>148.638095</td>
+      <td>178.0</td>
+      <td>60.659219</td>
+      <td>48</td>
+      <td>0</td>
+      <td>48</td>
+      <td>3.402480</td>
+      <td>1.263734</td>
+      <td>30.728026</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>DeepMind: Gemini 3 Pro - High Reasoning - 1.0 ...</td>
+      <td>171.247619</td>
+      <td>157.495238</td>
+      <td>185.0</td>
+      <td>63.978542</td>
+      <td>48</td>
+      <td>0</td>
+      <td>48</td>
+      <td>3.567659</td>
+      <td>1.332886</td>
+      <td>30.728026</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>Alibaba: Qwen 3 235b a22b Thinking 2507 - Mult...</td>
+      <td>77.725000</td>
+      <td>77.950000</td>
+      <td>77.5</td>
+      <td>28.691755</td>
+      <td>47</td>
+      <td>1</td>
+      <td>48</td>
+      <td>1.619271</td>
+      <td>0.597745</td>
+      <td>30.728026</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>Alibaba: Qwen 3 VL 235b a22b Thinking - Multip...</td>
+      <td>98.091667</td>
+      <td>96.683333</td>
+      <td>99.5</td>
+      <td>36.313120</td>
+      <td>47</td>
+      <td>1</td>
+      <td>48</td>
+      <td>2.043576</td>
+      <td>0.756523</td>
+      <td>30.728026</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>OpenAI: gpt-oss-120b - High Reasoning - Multip...</td>
+      <td>90.683333</td>
+      <td>81.866667</td>
+      <td>99.5</td>
+      <td>33.332114</td>
+      <td>46</td>
+      <td>2</td>
+      <td>48</td>
+      <td>1.889236</td>
+      <td>0.694419</td>
+      <td>30.728026</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -9033,7 +9451,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-    LLM novel task set mean score per item: 2.5348283179012348
+    LLM novel task set mean score per item: 2.5333039174972316
 
 
 
@@ -9586,6 +10004,104 @@ llm_graded_results
       <td>0.880818</td>
       <td>37.823662</td>
     </tr>
+    <tr>
+      <th>36</th>
+      <td>DeepSeek: R1 0528 - Multiple Context (2025-11-20)</td>
+      <td>116.900000</td>
+      <td>113.300000</td>
+      <td>120.5</td>
+      <td>44.326376</td>
+      <td>59</td>
+      <td>1</td>
+      <td>60</td>
+      <td>1.948333</td>
+      <td>0.738773</td>
+      <td>37.823662</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>DeepMind: Gemini 3 Pro - High Reasoning - 0.1 ...</td>
+      <td>220.005952</td>
+      <td>202.511905</td>
+      <td>237.5</td>
+      <td>84.108305</td>
+      <td>60</td>
+      <td>0</td>
+      <td>60</td>
+      <td>3.666766</td>
+      <td>1.401805</td>
+      <td>37.823662</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>DeepMind: Gemini 3 Pro - High Reasoning - 0.55...</td>
+      <td>212.235714</td>
+      <td>193.471429</td>
+      <td>231.0</td>
+      <td>80.642666</td>
+      <td>60</td>
+      <td>0</td>
+      <td>60</td>
+      <td>3.537262</td>
+      <td>1.344044</td>
+      <td>37.823662</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>DeepMind: Gemini 3 Pro - High Reasoning - 1.0 ...</td>
+      <td>224.347619</td>
+      <td>208.195238</td>
+      <td>240.5</td>
+      <td>85.534879</td>
+      <td>60</td>
+      <td>0</td>
+      <td>60</td>
+      <td>3.739127</td>
+      <td>1.425581</td>
+      <td>37.823662</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>Alibaba: Qwen 3 235b a22b Thinking 2507 - Mult...</td>
+      <td>94.358333</td>
+      <td>95.716667</td>
+      <td>93.0</td>
+      <td>35.628691</td>
+      <td>59</td>
+      <td>1</td>
+      <td>60</td>
+      <td>1.572639</td>
+      <td>0.593812</td>
+      <td>37.823662</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>Alibaba: Qwen 3 VL 235b a22b Thinking - Multip...</td>
+      <td>118.441667</td>
+      <td>117.883333</td>
+      <td>119.0</td>
+      <td>44.679071</td>
+      <td>59</td>
+      <td>1</td>
+      <td>60</td>
+      <td>1.974028</td>
+      <td>0.744651</td>
+      <td>37.823662</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>OpenAI: gpt-oss-120b - High Reasoning - Multip...</td>
+      <td>110.483333</td>
+      <td>101.466667</td>
+      <td>119.5</td>
+      <td>41.426049</td>
+      <td>57</td>
+      <td>3</td>
+      <td>60</td>
+      <td>1.841389</td>
+      <td>0.690434</td>
+      <td>37.823662</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -9623,6 +10139,22 @@ deepmind_model_map = {
     "gemini_2.0_flash_images": ["DeepMind: Gemini 2.0 Flash w/ Images - Multiple Context (2025-07-25)"],
     "gemini_2.5_pro": ["DeepMind: Gemini 2.5 Pro - Multiple Context (2025-07-21)",
                        "DeepMind: Gemini 2.5 Pro - Single Context - Dynamic Thinking (2025-07-21)"],
+    "gemini_3.0_pro": [
+        "DeepMind: Gemini 3 Pro - High Reasoning - 0.1 Temperature - Multiple Context (2025-11-19)",
+        "DeepMind: Gemini 3 Pro - High Reasoning - 0.55 Temperature - Multiple Context (2025-11-19)",
+        "DeepMind: Gemini 3 Pro - High Reasoning - 1.0 Temperature - Multiple Context (2025-11-19)",
+    ],
+}
+open_model_map = {
+    "deepseek_r1": ["DeepSeek: R1 0528 - Multiple Context (2025-11-20)"],
+    "qwen_3": ["Alibaba: Qwen 3 235b a22b Thinking 2507 - Multiple Context (2025-11-20)"],
+    "qwen_3_vl": ["Alibaba: Qwen 3 VL 235b a22b Thinking - Multiple Context (2025-11-20)"],
+    "gpt_oss_120b": ["OpenAI: gpt-oss-120b - High Reasoning - Multiple Context (2025-11-20)"],
+}
+gemini_3_pro_temperature_comparison_model_map  = {
+    "temp_1.0": ["DeepMind: Gemini 3 Pro - High Reasoning - 1.0 Temperature - Multiple Context (2025-11-19)"],
+    "temp_0.55": ["DeepMind: Gemini 3 Pro - High Reasoning - 0.55 Temperature - Multiple Context (2025-11-19)"],
+    "temp_0.1": ["DeepMind: Gemini 3 Pro - High Reasoning - 0.1 Temperature - Multiple Context (2025-11-19)"]
 }
 openai_reasoning_comparison_model_map = {
     "o3_pro": ["OpenAI: o3 Pro - Multiple Context - High Reasoning (2025-07-21)",
@@ -9740,7 +10272,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-    LLM overall mean score per item: 2.562959656084656
+    LLM overall mean score per item: 2.570839331856774
 
 
 
@@ -9930,118 +10462,118 @@ llm_full_results
       <td>...</td>
     </tr>
     <tr>
-      <th>2128</th>
-      <td>OpenAI: o4-mini - Single Context - Medium Reas...</td>
-      <td>shovel</td>
-      <td>Shovel</td>
+      <th>2542</th>
+      <td>OpenAI: gpt-oss-120b - High Reasoning - Multip...</td>
+      <td>perpendicular arrow</td>
+      <td>Perpendicular arrow</td>
       <td>55</td>
       <td>Yield Sign - Martini Glass</td>
       <td>0.581366</td>
-      <td>1.800000</td>
-      <td>4.0</td>
-      <td>2.900000</td>
-      <td>1.214038</td>
+      <td>1.200000</td>
+      <td>1.0</td>
+      <td>1.100000</td>
+      <td>0.460497</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>1.0</td>
-      <td>4.0</td>
       <td>2.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>4.0</td>
-      <td>4.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
     </tr>
     <tr>
-      <th>2129</th>
-      <td>OpenAI: o4-mini - Single Context - Medium Reas...</td>
-      <td>tobacco pipe</td>
-      <td>Tobacco pipe</td>
+      <th>2543</th>
+      <td>OpenAI: gpt-oss-120b - High Reasoning - Multip...</td>
+      <td>keyhole</td>
+      <td>Keyhole</td>
       <td>56</td>
       <td>Clock</td>
       <td>0.587433</td>
-      <td>1.400000</td>
-      <td>1.0</td>
       <td>1.200000</td>
-      <td>0.495081</td>
+      <td>1.5</td>
+      <td>1.350000</td>
+      <td>0.556966</td>
+      <td>2.0</td>
       <td>1.0</td>
-      <td>3.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>1.0</td>
+      <td>2.0</td>
       <td>1.0</td>
     </tr>
     <tr>
-      <th>2130</th>
-      <td>OpenAI: o4-mini - Single Context - Medium Reas...</td>
-      <td>truss bridge</td>
-      <td>Truss bridge</td>
+      <th>2544</th>
+      <td>OpenAI: gpt-oss-120b - High Reasoning - Multip...</td>
+      <td>rotated x</td>
+      <td>Rotated X</td>
       <td>57</td>
       <td>Hourglass</td>
       <td>0.489897</td>
-      <td>1.666667</td>
-      <td>2.5</td>
-      <td>2.083333</td>
-      <td>1.062714</td>
-      <td>4.0</td>
+      <td>2.000000</td>
       <td>1.0</td>
+      <td>1.500000</td>
+      <td>0.765154</td>
       <td>2.0</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
       <td>3.0</td>
       <td>2.0</td>
+      <td>1.0</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
     </tr>
     <tr>
-      <th>2131</th>
-      <td>OpenAI: o4-mini - Single Context - Medium Reas...</td>
-      <td>umbrella</td>
-      <td>Umbrella</td>
+      <th>2545</th>
+      <td>OpenAI: gpt-oss-120b - High Reasoning - Multip...</td>
+      <td>anchor</td>
+      <td>anchor</td>
       <td>58</td>
       <td>Umbrella</td>
       <td>0.429290</td>
-      <td>4.833333</td>
-      <td>5.0</td>
-      <td>4.916667</td>
-      <td>2.805990</td>
-      <td>5.0</td>
-      <td>5.0</td>
-      <td>5.0</td>
-      <td>4.0</td>
-      <td>5.0</td>
-      <td>5.0</td>
+      <td>1.833333</td>
+      <td>2.0</td>
+      <td>1.916667</td>
+      <td>1.093861</td>
+      <td>2.0</td>
+      <td>2.0</td>
+      <td>2.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>3.0</td>
       <td>NaN</td>
-      <td>5.0</td>
-      <td>5.0</td>
+      <td>1.0</td>
+      <td>3.0</td>
     </tr>
     <tr>
-      <th>2132</th>
-      <td>OpenAI: o4-mini - Single Context - Medium Reas...</td>
-      <td>sailboat</td>
-      <td>Sailboat</td>
+      <th>2546</th>
+      <td>OpenAI: gpt-oss-120b - High Reasoning - Multip...</td>
+      <td>shelf bracket</td>
+      <td>Shelf bracket</td>
       <td>59</td>
       <td>Pine tree</td>
       <td>0.575267</td>
-      <td>1.666667</td>
+      <td>1.400000</td>
       <td>1.5</td>
-      <td>1.583333</td>
-      <td>0.672494</td>
-      <td>2.0</td>
-      <td>3.0</td>
+      <td>1.450000</td>
+      <td>0.615863</td>
       <td>1.0</td>
       <td>2.0</td>
       <td>1.0</td>
       <td>1.0</td>
+      <td>2.0</td>
+      <td>NaN</td>
       <td>NaN</td>
       <td>2.0</td>
       <td>1.0</td>
     </tr>
   </tbody>
 </table>
-<p>2133 rows × 19 columns</p>
+<p>2547 rows × 19 columns</p>
 </div>
 
 
@@ -10267,6 +10799,48 @@ llm_ungraded_results
       <td>i see a vertical stem on the left with a smoot...</td>
       <td>I see a vertical stem on the left with a smoot...</td>
       <td>20</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>DeepSeek: R1 0528 - Multiple Context (2025-11-20)</td>
+      <td>fused circle</td>
+      <td>Fused circle</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>Alibaba: Qwen 3 235b a22b Thinking 2507 - Mult...</td>
+      <td>chinese character</td>
+      <td>Chinese character</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>Alibaba: Qwen 3 VL 235b a22b Thinking - Multip...</td>
+      <td>d with t</td>
+      <td>D with T</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>OpenAI: gpt-oss-120b - High Reasoning - Multip...</td>
+      <td>monogram badge</td>
+      <td>Monogram badge</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>OpenAI: gpt-oss-120b - High Reasoning - Multip...</td>
+      <td>logo emblem</td>
+      <td>Logo emblem</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>OpenAI: gpt-oss-120b - High Reasoning - Multip...</td>
+      <td>logo emblem</td>
+      <td>Logo emblem</td>
+      <td>51</td>
     </tr>
   </tbody>
 </table>
@@ -10678,6 +11252,7 @@ deepmind_graded_results, deepmind_sub_dfs = convert_model_map_to_aggregate_resul
                                                                                    deepmind_model_map)
 other_openai_graded_results, other_openai_sub_dfs = convert_model_map_to_aggregate_results(llm_graded_results,
                                                                                            other_openai_model_map)
+open_model_graded_results, open_model_sub_dfs = convert_model_map_to_aggregate_results(llm_graded_results, open_model_map)
 ```
 
 
@@ -10890,6 +11465,16 @@ deepmind_graded_results
       <td>60</td>
       <td>2.336349</td>
     </tr>
+    <tr>
+      <th>gemini_3.0_pro</th>
+      <td>656.589286</td>
+      <td>604.178571</td>
+      <td>709.0</td>
+      <td>180</td>
+      <td>0</td>
+      <td>180</td>
+      <td>3.647718</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -10991,6 +11576,98 @@ other_openai_graded_results
       <td>0</td>
       <td>120</td>
       <td>2.447550</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+open_model_graded_results
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>overall_score</th>
+      <th>normal_score</th>
+      <th>expert_score</th>
+      <th>n_graded</th>
+      <th>n_ungraded</th>
+      <th>n_total</th>
+      <th>mean_score_per_item</th>
+    </tr>
+    <tr>
+      <th>Model</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>deepseek_r1</th>
+      <td>116.900000</td>
+      <td>113.300000</td>
+      <td>120.5</td>
+      <td>59</td>
+      <td>1</td>
+      <td>60</td>
+      <td>1.948333</td>
+    </tr>
+    <tr>
+      <th>qwen_3</th>
+      <td>94.358333</td>
+      <td>95.716667</td>
+      <td>93.0</td>
+      <td>59</td>
+      <td>1</td>
+      <td>60</td>
+      <td>1.572639</td>
+    </tr>
+    <tr>
+      <th>qwen_3_vl</th>
+      <td>118.441667</td>
+      <td>117.883333</td>
+      <td>119.0</td>
+      <td>59</td>
+      <td>1</td>
+      <td>60</td>
+      <td>1.974028</td>
+    </tr>
+    <tr>
+      <th>gpt_oss_120b</th>
+      <td>110.483333</td>
+      <td>101.466667</td>
+      <td>119.5</td>
+      <td>57</td>
+      <td>3</td>
+      <td>60</td>
+      <td>1.841389</td>
     </tr>
   </tbody>
 </table>
@@ -11165,6 +11842,93 @@ openai_reasoning_comparison_results
       <td>0</td>
       <td>120</td>
       <td>2.447550</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+gemini_3_pro_temperature_comparison_results, gemini_3_pro_temperature_comparison_sub_dfs = convert_model_map_to_aggregate_results(llm_graded_results, gemini_3_pro_temperature_comparison_model_map)
+```
+
+
+```python
+gemini_3_pro_temperature_comparison_results
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>overall_score</th>
+      <th>normal_score</th>
+      <th>expert_score</th>
+      <th>n_graded</th>
+      <th>n_ungraded</th>
+      <th>n_total</th>
+      <th>mean_score_per_item</th>
+    </tr>
+    <tr>
+      <th>Model</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>temp_1.0</th>
+      <td>224.347619</td>
+      <td>208.195238</td>
+      <td>240.5</td>
+      <td>60</td>
+      <td>0</td>
+      <td>60</td>
+      <td>3.739127</td>
+    </tr>
+    <tr>
+      <th>temp_0.55</th>
+      <td>212.235714</td>
+      <td>193.471429</td>
+      <td>231.0</td>
+      <td>60</td>
+      <td>0</td>
+      <td>60</td>
+      <td>3.537262</td>
+    </tr>
+    <tr>
+      <th>temp_0.1</th>
+      <td>220.005952</td>
+      <td>202.511905</td>
+      <td>237.5</td>
+      <td>60</td>
+      <td>0</td>
+      <td>60</td>
+      <td>3.666766</td>
     </tr>
   </tbody>
 </table>
@@ -11430,7 +12194,7 @@ single_vs_multiple_context_graded_results
 ```python
 llm_aggregate_results = pd.concat(
     [o3_graded_results, gpt5_graded_results, anthropic_graded_results, deepmind_graded_results,
-     other_openai_graded_results], axis=0)
+     other_openai_graded_results, open_model_graded_results], axis=0)
 llm_aggregate_results
 ```
 
@@ -11566,6 +12330,16 @@ llm_aggregate_results
       <td>2.336349</td>
     </tr>
     <tr>
+      <th>gemini_3.0_pro</th>
+      <td>656.589286</td>
+      <td>604.178571</td>
+      <td>709.0</td>
+      <td>180</td>
+      <td>0</td>
+      <td>180</td>
+      <td>3.647718</td>
+    </tr>
+    <tr>
       <th>chatgpt-4o</th>
       <td>251.748810</td>
       <td>235.997619</td>
@@ -11615,6 +12389,46 @@ llm_aggregate_results
       <td>120</td>
       <td>2.447550</td>
     </tr>
+    <tr>
+      <th>deepseek_r1</th>
+      <td>116.900000</td>
+      <td>113.300000</td>
+      <td>120.5</td>
+      <td>59</td>
+      <td>1</td>
+      <td>60</td>
+      <td>1.948333</td>
+    </tr>
+    <tr>
+      <th>qwen_3</th>
+      <td>94.358333</td>
+      <td>95.716667</td>
+      <td>93.0</td>
+      <td>59</td>
+      <td>1</td>
+      <td>60</td>
+      <td>1.572639</td>
+    </tr>
+    <tr>
+      <th>qwen_3_vl</th>
+      <td>118.441667</td>
+      <td>117.883333</td>
+      <td>119.0</td>
+      <td>59</td>
+      <td>1</td>
+      <td>60</td>
+      <td>1.974028</td>
+    </tr>
+    <tr>
+      <th>gpt_oss_120b</th>
+      <td>110.483333</td>
+      <td>101.466667</td>
+      <td>119.5</td>
+      <td>57</td>
+      <td>3</td>
+      <td>60</td>
+      <td>1.841389</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -11625,6 +12439,7 @@ llm_aggregate_results
 ```python
 llm_aggregate_results.to_csv("output_csvs/llm_aggregate_results.csv")
 openai_reasoning_comparison_results.to_csv("output_csvs/openai_reasoning_comparison_results.csv")
+gemini_3_pro_temperature_comparison_results.to_csv("output_csvs/gemini_3_pro_temperature_comparison_results.csv")
 single_vs_multiple_context_graded_results.to_csv("output_csvs/single_vs_multiple_context_results.csv")
 ```
 
@@ -11634,7 +12449,7 @@ llm_aggregate_mean = llm_aggregate_results['overall_score'].sum() / llm_aggregat
 print("LLM aggregate mean:", llm_aggregate_mean)
 ```
 
-    LLM aggregate mean: 2.55818144499179
+    LLM aggregate mean: 2.56852237654321
 
 
 ## 7) Concatenate vviq data to graded results to look at correlation
