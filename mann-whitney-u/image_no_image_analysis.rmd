@@ -1,6 +1,6 @@
 ---
 title: "Models With Images vs Without Images"
-author: "Your Name"
+author: "Anonymous"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -291,11 +291,3 @@ sig_table %>%
   theme_minimal()
 
 ```
-
----
-
-This Rmd will give you, for each model:
-
-* Whether **image-conditioned** runs differ significantly from **non-image** runs
-* The **direction** (does adding images help or hurt scores?)
-* The **magnitude** (effect size) and **objective gap** (mean/median differences)

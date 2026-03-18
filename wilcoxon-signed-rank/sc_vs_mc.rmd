@@ -1,6 +1,6 @@
 ---
 title: "Single vs Multi-Context Comparison (sc vs mc)"
-author: "Your Name"
+author: "Anonymous"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -299,22 +299,3 @@ sig_table %>%
   ) +
   theme_minimal()
 ```
-
----
-
-### Interpretation Notes
-
-* **If Bonferroni-adjusted p < 0.05** for a model:
-  → sc and mc are **not interchangeable** for that model (context matters).
-
-* **mean_diff (mc - sc)**:
-
-  * > 0 → multi-context tends to **score higher** than single-context
-  * < 0 → single-context tends to **score higher** than multi-context
-
-* **effsize (rank-biserial)**:
-
-  * 0.1 ~ small, 0.3 ~ medium, 0.5+ ~ large difference
-  * Sign indicates whether mc > sc or sc > mc on average.
-
-This gives you exactly what you asked for: a test of whether **single-context can be treated as independent / equivalent to multi-context**, per model.

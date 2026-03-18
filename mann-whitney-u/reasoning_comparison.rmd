@@ -1,6 +1,6 @@
 ---
 title: "Human vs LLM Score Distributions"
-author: "Your Name"
+author: "Anonymous"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -23,12 +23,6 @@ library(ggrepel)
 ```
 
 ## 1. Data Import
-
-> **Edit these paths** if your filenames differ locally.
-> From your upload, they look like:
->
-> * `79e63d96-1614-4fb4-b511-496e3114deb6.csv` (humans)
-> * `080554a0-6ca7-4b0c-ba5a-4dacf6aede22.csv` (LLMs)
 
 ```{r load-data}
 human_file <- "../output_csvs/h_grade_distribution.csv"   # EDIT IF NEEDED
@@ -224,7 +218,7 @@ sig_table <- summary_table %>%
     )
   )
 # save as csv
-write_csv(sig_table, "human_vs_reasoning_model_significance_summary.csv")
+write_csv(sig_table, "../statistical_results/human_vs_reasoning_model_significance_summary.csv")
 sig_table
 ```
 

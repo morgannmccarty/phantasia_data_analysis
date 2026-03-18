@@ -1,4 +1,4 @@
-name: Artificial_Phantasia_Python_Env
+name: artificial_phantasia
 channels:
   - conda-forge
   - defaults

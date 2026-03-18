@@ -1,6 +1,6 @@
 ---
 title: "Independent Model Comparison (Mann–Whitney U)"
-author: "Your Name"
+author: "Anonymous"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -147,44 +147,4 @@ results <- mw_tidy %>%
   )
 
 results
-```
-
-## 8. Interpretation
-
-* **p-value**: whether the distributions differ significantly
-* **effect size**: magnitude + direction of separation
-* **diff_mean** / **percent_of_A**: objective performance difference
-
-> Positive effect size & mean difference → Model B outperforms Model A
-> Negative → Model A outperforms Model B
-
-```
-
----
-
-### ✔ You now have:
-
-| Component | Included |
-|---|:---:|
-| Independent distribution comparison | ✅ |
-| Correct test (Mann–Whitney U) | ✅ |
-| Effect size | ✅ |
-| Objective score difference (mean & % of human baseline) | ✅ |
-| Publication-quality plots | ✅ |
-
----
-
-### Want an interpretation added to the Rmd?
-I can automatically generate:
-
-- Human-readable interpretation
-- APA format test summary
-- Confidence intervals (bootstrap)
-- “% Besting Humans” metric
-
-If you'd like, just tell me:
-
-📌 What are the two model names? (the headers in your CSV)
-
-I can fill them into the report for readability (instead of generic Model_1, Model_2).
 ```

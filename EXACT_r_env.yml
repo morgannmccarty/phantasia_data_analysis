@@ -1,4 +1,4 @@
-name: R-ImagineLLMs
+name: r-artificial_phantasia
 channels:
   - conda-forge
   - defaults
