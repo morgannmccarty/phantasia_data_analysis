@@ -434,4 +434,3 @@ dependencies:
   - zipp=3.23.0=pyhcf101f3_1
   - zstandard=0.25.0=py314h0f05182_1
   - zstd=1.5.7=hb78ec9c_6
-prefix: /home/morgan/miniconda3/envs/r-artificial_phantasia
