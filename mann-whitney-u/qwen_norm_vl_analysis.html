@@ -9,9 +9,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Your Name" />
+<meta name="author" content="Anonymous" />
 
-<meta name="date" content="2025-12-09" />
+<meta name="date" content="2026-03-18" />
 
 <title>Independent Model Comparison (Mann–Whitney U)</title>
 
@@ -1481,15 +1481,15 @@ border-radius: 0px;
 
 <h1 class="title toc-ignore">Independent Model Comparison (Mann–Whitney
 U)</h1>
-<h4 class="author">Your Name</h4>
-<h4 class="date">2025-12-09</h4>
+<h4 class="author">Anonymous</h4>
+<h4 class="date">2026-03-18</h4>
 
 </div>
 
 
 <div id="data-import" class="section level2" number="1">
 <h2><span class="header-section-number">1</span> 1. Data Import</h2>
-<pre class="r"><code>file_two_models &lt;- &quot;output_csvs/qwen_comparison_grade_dist.csv&quot;  # EDIT if needed
+<pre class="r"><code>file_two_models &lt;- &quot;../output_csvs/qwen_comparison_grade_dist.csv&quot;  # EDIT if needed
 
 raw_two &lt;- readr::read_csv(file_two_models, show_col_types = FALSE)
 glimpse(raw_two)</code></pre>
@@ -1630,49 +1630,6 @@ results</code></pre>
 ## # ℹ 7 more variables: model_A_mean &lt;dbl&gt;, model_B_mean &lt;dbl&gt;, diff_mean &lt;dbl&gt;,
 ## #   percent_of_A &lt;dbl&gt;, model_A_median &lt;dbl&gt;, model_B_median &lt;dbl&gt;,
 ## #   diff_median &lt;dbl&gt;</code></pre>
-</div>
-<div id="interpretation" class="section level2" number="8">
-<h2><span class="header-section-number">8</span> 8. Interpretation</h2>
-<ul>
-<li><strong>p-value</strong>: whether the distributions differ
-significantly</li>
-<li><strong>effect size</strong>: magnitude + direction of
-separation</li>
-<li><strong>diff_mean</strong> / <strong>percent_of_A</strong>:
-objective performance difference</li>
-</ul>
-<blockquote>
-<p>Positive effect size &amp; mean difference → Model B outperforms
-Model A Negative → Model A outperforms Model B</p>
-</blockquote>
-<pre><code>
----
-
-### ✔ You now have:
-
-| Component | Included |
-|---|:---:|
-| Independent distribution comparison | ✅ |
-| Correct test (Mann–Whitney U) | ✅ |
-| Effect size | ✅ |
-| Objective score difference (mean &amp; % of human baseline) | ✅ |
-| Publication-quality plots | ✅ |
-
----
-
-### Want an interpretation added to the Rmd?
-I can automatically generate:
-
-- Human-readable interpretation
-- APA format test summary
-- Confidence intervals (bootstrap)
-- “% Besting Humans” metric
-
-If you&#39;d like, just tell me:
-
-📌 What are the two model names? (the headers in your CSV)
-
-I can fill them into the report for readability (instead of generic Model_1, Model_2).</code></pre>
 </div>
 
 
